@@ -59,7 +59,7 @@ disableLanguages        = [""]
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
   [params.intro]
-    header                = "Hugo Future Imperfect Slim"
+    header                = "The Bicycle Water Cooler"
     paragraph             = "Biking around the world, and talking about it one water cooler conversation at a time."
     rssIntro              = true
     socialIntro           = true
@@ -72,7 +72,7 @@ disableLanguages        = [""]
     # This appears at the top of the sidebar above params.intro.header.
     # A width of less than 100px is recommended from a design perspective.
     [params.intro.pic]
-      src                 = "/img/main/logo.jpg"
+      src                 = "/img/main/bwc.jpg"
       # Masks image in a certain shape. Supported are circle, triangle, diamond, and hexagon.
       shape               = "circle"
       width               = ""
@@ -312,7 +312,7 @@ disableLanguages        = [""]
 # and socialAppearAtBottom.
 [social]
   # Coding Communities
-  github                = "pacollins/hugo-future-imperfect-slim"
+  github                = "tmswfrk/bicycle-water-cooler"
   gitlab                = ""
   stackoverflow         = "" # User Number
   bitbucket             = ""
@@ -320,22 +320,22 @@ disableLanguages        = [""]
   codepen               = ""
   # Visual Art Communities
   deviantart            = ""
-  flickr                = "example"
+  flickr                = ""
   behance               = ""
   dribbble              = ""
   # Publishing Communities
   wordpress             = ""
   medium                = ""
   # Professional/Business Oriented Communities
-  linkedin              = "example"
-  linkedin_company      = "examplebusiness"
+  linkedin              = "jmclarke10"
+  linkedin_company      = ""
   foursquare            = ""
   xing                  = ""
   slideshare            = ""
   # Social Networks
   facebook              = "tmswfrk"
   googleplus            = ""
-  reddit                = "example"
+  reddit                = "tmswfrk"
   quora                 = ""
   youtube               = "channel/UCwqt0Tgyv4MaAeccyH4I7Pg"
   vimeo                 = ""
@@ -345,16 +345,16 @@ disableLanguages        = [""]
     qq                  = "" # User ID Number
   instagram             = "tmswfrk"
   tumblr                = ""
-  twitter               = "example"
+  twitter               = ""
   skype                 = ""
   snapchat              = ""
-  pinterest             = "example"
-  telegram              = "example"
+  pinterest             = ""
+  telegram              = ""
   vine                  = ""
   googlescholar         = ""
   orcid                 = ""
-  researchgate          = "example"
-  keybase               = "example"
-  mastodon              = "example.com/@example"
+  researchgate          = ""
+  keybase               = ""
+  mastodon              = ""
   # Email
   email                 = "tmswfrk@gmail.com"
