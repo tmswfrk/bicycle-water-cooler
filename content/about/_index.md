@@ -9,6 +9,6 @@ I'm quite into riding my bike for fun and exercise, and particularly love to gee
 
 Ah, to take in the sites of the Alps. Or to be walking the old Gothic Quarter of Barcelona.
 
-![vaujany](/img/about/vaujany.jpg)
+![vaujany](/img/about/vaujany.jpg "Me Cycling through the Alps in France")
 
 Professionally, I'm a Site Reliability Engineer, so I'm a sucker for graphs, details, and data. I'm always trying to read or learn something from any of these areas, and it's weirdly fun to relate things that others would deem as lifeless and soul-less in a way that brings them to life.
