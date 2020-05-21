@@ -311,50 +311,18 @@ disableLanguages        = [""]
 # username unless otherwise noted. These are the icons affected by socialAppearAtTop
 # and socialAppearAtBottom.
 [social]
-  # Coding Communities
-  github                = "tmswfrk/bicycle-water-cooler"
-  gitlab                = ""
-  stackoverflow         = "" # User Number
-  bitbucket             = ""
-  jsfiddle              = ""
-  codepen               = ""
-  # Visual Art Communities
-  deviantart            = ""
-  flickr                = ""
-  behance               = ""
-  dribbble              = ""
-  # Publishing Communities
-  wordpress             = ""
-  medium                = ""
-  # Professional/Business Oriented Communities
+  # Networks (removed several that were not needed)
+  strava                = "2228883"
+  instagram             = "tmswfrk"
   linkedin              = "jmclarke10"
   linkedin_company      = ""
-  foursquare            = ""
-  xing                  = ""
-  slideshare            = ""
-  # Social Networks
   facebook              = "tmswfrk"
   googleplus            = ""
   reddit                = "tmswfrk"
   quora                 = ""
   youtube               = "channel/UCwqt0Tgyv4MaAeccyH4I7Pg"
-  vimeo                 = ""
-  whatsapp              = "" # WhatsApp Number
-    # WeChat and QQ need testing.
-    wechat              = ""
-    qq                  = "" # User ID Number
-  instagram             = "tmswfrk"
-  tumblr                = ""
-  twitter               = ""
-  skype                 = ""
-  snapchat              = ""
-  pinterest             = ""
-  telegram              = ""
-  vine                  = ""
-  googlescholar         = ""
-  orcid                 = ""
-  researchgate          = ""
-  keybase               = ""
-  mastodon              = ""
+  github                = "tmswfrk/bicycle-water-cooler"
+  gitlab                = ""
+  stackoverflow         = "" # User Number
   # Email
   email                 = "tmswfrk@gmail.com"

@@ -7,7 +7,7 @@ The Bicycle Water Cooler, as I have chosen to call it, is a virtual location for
 
 I'm quite into riding my bike for fun and exercise, and particularly love to geek out when it comes to using new gear, be it clothing, technology, sensors, and analyzing of all the data. I've also grown quite fond of traveling with my bike, especially to Europe, where I can get the chance to relive what it's like, even if only for a few days, to be a professional rider. 
 
-Ah, to take in the sites of the Alps. Or to be walking the old Gothic Quarter of Barcelona.
+Ah, to take in the sights of the Alps. Or to be walking the old Gothic Quarter of Barcelona.
 
 ![vaujany](/img/about/vaujany.jpg "Me Cycling through the Alps in France")
 
