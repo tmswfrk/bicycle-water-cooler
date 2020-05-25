@@ -1,4 +1,5 @@
-baseurl                 = "https://www.bicyclewatercooler.com/"
+baseurl                 = ""
+relativeurls            = true
 DefaultContentLanguage  = "en"
 title                   = "Bicycle Water Cooler"
 theme                   = "hugo-future-imperfect-slim"
