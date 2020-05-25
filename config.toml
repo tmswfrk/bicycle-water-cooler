@@ -1,4 +1,4 @@
-baseurl                 = "https://localhost:1313/"
+baseurl                 = "https://www.bicyclewatercooler.com/"
 DefaultContentLanguage  = "en"
 title                   = "Bicycle Water Cooler"
 theme                   = "hugo-future-imperfect-slim"
