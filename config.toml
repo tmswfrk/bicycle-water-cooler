@@ -11,6 +11,10 @@ disableLanguages        = [""]
 enableRobotsTXT         = true
 canonifyURLs            = true
 
+[permalinks]
+  blog = "/:section/:year/:month/:title/"
+  reviews = "/:section/:year/:month/:title/"
+
 [params]
   # Add additional section names to mainSections to include posts from
   # those sections on the homepage.
@@ -21,7 +25,7 @@ canonifyURLs            = true
   # by adding the value, "default". Default includes the add-on.css and and-on.js.
   # Example: ["default", "/path/to/file"]
   cssFiles              = ["default"]
-  jsFiles               = ["default"]
+  #jsFiles               = ["default"]
   # Sets options for highlight.js
   highlightjs           = true
   highlightjsTheme      = "github"

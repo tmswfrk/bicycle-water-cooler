@@ -1,1 +1,0 @@
-<script type="text/javascript" src="http://classic.avantlink.com/affiliate_app_confirm.php?mode=js&authResponse=48a874534f89d92d4327a54b529e5468db685c96"></script>
