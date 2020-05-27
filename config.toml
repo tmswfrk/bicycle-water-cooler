@@ -26,7 +26,7 @@ canonifyURLs            = true
   # by adding the value, "default". Default includes the add-on.css and and-on.js.
   # Example: ["default", "/path/to/file"]
   cssFiles              = ["default"]
-  #jsFiles               = ["default"]
+  jsFiles               = ["default"]
   # Sets options for highlight.js
   highlightjs           = true
   highlightjsTheme      = "github"
@@ -176,7 +176,7 @@ canonifyURLs            = true
 [social]
   # Networks (removed several that were not needed)
   strava                = "2228883"
-  instagram             = "tmswfrk"
+  instagram             = "bicyclewatercooler"
   linkedin              = "jmclarke10"
   linkedin_company      = ""
   facebook              = "tmswfrk"
@@ -188,4 +188,4 @@ canonifyURLs            = true
   gitlab                = ""
   stackoverflow         = "" # User Number
   # Email
-  email                 = "tmswfrk@gmail.com"
+  email                 = "bicyclewatercooler@gmail.com"
