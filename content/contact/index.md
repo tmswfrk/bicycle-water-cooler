@@ -2,6 +2,7 @@
 title: "Contact"
 date: 2020-05-15T16:15:26-07:00
 draft: true
+layout: "contact"
 type: "contact"
 netlify: false
 emailservice: "formspree.io/example@email.com"

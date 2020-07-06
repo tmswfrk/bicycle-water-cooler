@@ -12,6 +12,9 @@ disableLanguages        = [""]
 enableRobotsTXT         = true
 canonifyURLs            = true
 
+[outputs]
+    home = ["html", "json"]
+
 [permalinks]
   blog = "/:section/:year/:month/:title/"
   reviews = "/:section/:year/:month/:title/"

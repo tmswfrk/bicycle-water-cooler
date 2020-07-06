@@ -2,6 +2,7 @@
 title: "About"
 date: 2020-05-13T22:16:07-07:00
 draft: false
+layout: "about"
 ---
 The Bicycle Water Cooler, as I have chosen to call it, is a virtual location for me to put my thoughts about all things I care to talk about in the world of technology, riding bikes, food, and whatever else that tends to cross paths. The overall intention is to provide my feedback in the form of reviews on various bike products.
 
