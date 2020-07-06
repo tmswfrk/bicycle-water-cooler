@@ -1,4 +1,4 @@
-baseurl                 = ""
+baseurl                 = "https://www.bicyclewatercooler.com"
 relativeurls            = true
 DefaultContentLanguage  = "en"
 title                   = "Bicycle Water Cooler"
