@@ -42,9 +42,11 @@ canonifyURLs            = true
   # Options are twitter, facebook, reddit, linkedin, pinterest, email
   socialShare           = ["facebook", "reddit", "linkedin", "email"]
 
+  description = "A virtual water cooler conversation about all things cycling: the tech, travel, and the ride you did last weekend."
+
   [params.meta]
     # Sets the meta tag description
-    description         = "A website to discuss all things Bicycle related."
+    description         = "A virtual water cooler conversation about all things cycling: the tech, travel, and the ride you did last weekend."
     # Sets the meta tag author
     author              = "James Clarke"
     # If you would like to add more comprehensive favicon support passed root
@@ -52,7 +54,7 @@ canonifyURLs            = true
     # https://realfavicongenerator.net to generate your icons as that is the basis
     # for the theme's naming.
     favicon             = false
-    svg                 = true
+    svg                 = false
     faviconVersion      = "1"
     msColor             = "#ffffff" # Copy from the https://realfavicongenerator.net
     iOSColor            = "#ffffff" # Copy from the https://realfavicongenerator.net
