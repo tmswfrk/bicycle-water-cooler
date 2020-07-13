@@ -3,8 +3,9 @@ title: "My first cycling event: The LA River Ride"
 date: 2020-05-24T16:16:50-07:00
 description: "A fun first timer's ride."
 images: [/img/reviews/LARiverRide/lariverride01.jpg]
-categories: []
-tags: ["event review", "LA River Ride", "Griffith Park", "Average Rating"]
+categories: ["Event Review", "New Experiences", "Origins"]
+tags: ["LA River Ride", "Griffith Park", "Average Rating"]
+keywords: ["LA River Ride Review", "good newbie cycling event", "riding in Los Angeles"]
 draft: false
 ---
 # Review of the LA River Ride back in 2013
@@ -20,7 +21,7 @@ What does this have to do with cycling, you may ask? Well, I saw just how excite
 
 Cut to several months later, after I had moved to Costa Mesa, I found myself getting into this whole thing a bit more. I started eating a bit better and even signed up for a half marathon for some reason! When the big event happened, I was there with some friends I had known for some time and I had another great experience.
 
-![2013OCHalfMarathon](/img/reviews/LARiverRide/2013_OC_Half.jpg#center "2:15 minute finish time")
+![Me having just run the 2013 Orange County Half Marathon](/img/reviews/LARiverRide/2013_OC_Half.jpg#center "2:15 minute finish time")
 
 ### I still liked cycling more
 
@@ -28,7 +29,7 @@ I still wasn't a big fan of running itself though. Just too slow sometimes. A gr
 
 My competitive nature (and buddy) got to the best of me. We found ourselves exploring Newport Beach. _A lot_. And it was wonderful. I was buying upgrades to my bike already and was even riding at night when scheduling wouldn't permit me to ride during the day.
 
-![FirstOakleySunglasses](/img/reviews/LARiverRide/first_oakleys.jpg "Never mind the mess!")
+![First pair of Oakley sunglasses on desk in front of keyboard](/img/reviews/LARiverRide/first_oakleys.jpg "Never mind the mess!")
 
 **Could I perhaps recapture that same feeling from earlier, but from my bicycle?**
 
@@ -44,11 +45,11 @@ But I'm so glad I did it.
 
 I honestly don't have much in the way of documenting this event except for the official race picture I purchased online after the event.
 
-![OfficialPic](/img/reviews/LARiverRide/2013_LA_River_Ride.JPG#center "I thought I was so cool") 
+![Cyclist on bicycle after having ridden the 2013 Los Angeles River Ride](/img/reviews/LARiverRide/2013_LA_River_Ride.JPG#center "I thought I was so cool") 
 
 Despite not having much else from the day, I remember being excited to see Long Beach when we got there. And the Queen Mary, for some reason. I think partly because we had previously biked *to* Long Beach from Newport and it was fun for me (as the mapping nerd I am) to see the two experiences collide.
 
-![QueenMary](/img/reviews/LARiverRide/lariverride02.jpg "I was really into panoramic shots back then")
+![Panoramic photo of Long Beach harbor with the Queen Mary in the background](/img/reviews/LARiverRide/lariverride02.jpg "I was really into panoramic shots back then")
 
 Oh! And they had these wonderful, warm quesadillas at the turnaround spot. So tasty after 35 miles.
 
@@ -83,7 +84,7 @@ Long Beach is consistently rated as one of the best cities to bike in, though, s
 
 If you're making it into a weekend, do a second ride up through Griffith Park, perhaps even up to the Observatory if you're up for it, or possibly take that trail up to the top of the Hollywood sign and pretend to be a tourist for the day. Not a bad idea either!
 
-![GriffithPark](/img/reviews/LARiverRide/griffithpark.jpg "Griffith Park has a hell of a view!")
+![View out over Los Angeles at night from the Griffith Park Observatory](/img/reviews/LARiverRide/griffithpark.jpg "Griffith Park has a hell of a view!")
 
 ## Overall Rating
 
