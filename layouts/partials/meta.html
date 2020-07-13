@@ -1,3 +1,9 @@
+<!-- General Keywords listing -->
+<meta name="keywords" content="{{ delimit .Keywords ", " }}">
+<meta itemprop="keywords" content="{{ delimit .Keywords ", " }}">
+<meta property="og:keywords" content="{{ delimit .Keywords ", " }}">
+<meta property="twitter:keywords" content="{{ delimit .Keywords ", " }}">
+
 <!-- Title Tags -->
 <title itemprop="name">{{ .Title }} | {{ .Site.Title }}</title>
 <meta property="og:title" content="{{ .Title }} | {{ .Site.Title }}" />
@@ -95,7 +101,8 @@
           "@type": "imageObject",
           "url": "https://www.bicyclewatercooler.com/favicon.png"
         }
-      }
+      },
+      "keywords": [{{ if isset .Params "keywords" }}{{ range .Params.keywords }}"{{ . }}",{{ end }}{{ end }}"Blog"]
     }
   </script>
 {{ end }}
@@ -110,7 +117,6 @@
 <meta property="og:url" content="{{ .Permalink }}" />
 
 <!-- Other Tags -->
-<meta name="keywords" content="" />
 <meta name="imagemode" content="force" />
 <meta name="coverage" content="Worldwide" /> 
 <meta name="distribution" content="Global" />
