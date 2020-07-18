@@ -1,0 +1,6 @@
+<!-- Title Tags -->
+<title>{{ .Title }}{{ if ne .Title .Site.Title }} - {{ .Site.Title }}{{ end }}</title>
+<meta property="og:title" content="{{ .Title }}{{ if ne .Title .Site.Title }} - {{ .Site.Title }}{{ end }}" />
+<meta name="twitter:title" content="{{ .Title }}{{ if ne .Title .Site.Title }} - {{ .Site.Title }}{{ end }}" />
+<meta itemprop="name" content="{{ .Title }}{{ if ne .Title .Site.Title }} - {{ .Site.Title }}{{ end }}" />
+<meta property="og:site_name" content="{{ .Title }}" />

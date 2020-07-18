@@ -1,0 +1,53 @@
+{{ if eq .Section "blog" }}
+<script defer type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Article",
+      "headline": {{ .Title }},
+      "author": {
+        "@type": "Person",
+        "name": "{{ .Site.Params.meta.author }}"
+      },
+      "datePublished": {{ .Date.Format "2006-01-02" }},
+      "description": {{ .Description }},
+      "wordCount": {{ .WordCount }},
+      "mainEntityOfPage": "True",
+      "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
+      "publisher": {
+        "@type": "Organization",
+        "name": "{{ .Site.Title }}",
+        "logo": {
+          "@type": "imageObject",
+          "url": "https://www.bicyclewatercooler.com/favicon.png"
+        }
+      },
+      "keywords": [{{ if isset .Params "keywords" }}{{ range .Params.keywords }}"{{ . }}",{{ end }}{{ end }}"Blog","Cycling"]
+    }
+</script>
+{{ else }}
+<script defer type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Website",
+      "name": "Bicycle Water Cooler",
+      "url": "https://www.bicyclewatercooler.com",
+      "logo": "https://www.bicyclewatercooler.com/img/main/bwc.jpg",
+      "headline": {{ .Title }},
+      "author": {
+        "@type": "Person",
+        "name": "{{ .Site.Params.meta.author }}"
+      },
+      "description": {{ .Site.Params.meta.description }},
+      "mainEntityOfPage": "True",
+      "publisher": {
+        "@type": "Organization",
+        "name": "{{ .Site.Title }}",
+        "logo": {
+          "@type": "imageObject",
+          "url": "https://www.bicyclewatercooler.com/favicon.png"
+        }
+      },
+      "keywords": [{{ if isset .Params "keywords" }}{{ range .Params.keywords }}"{{ . }}",{{ end }}{{ end }}"Blog","Cycling"]
+    }
+</script>
+{{ end }}

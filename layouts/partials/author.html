@@ -1,0 +1,5 @@
+{{ if eq .Section "blog" }}
+<meta property="og:article:author" content="{{ .Site.Params.meta.author }}" />
+<meta property="article:author" content="{{ .Site.Params.meta.author }}" />
+{{ end }}
+<meta name="author" content="{{ .Site.Params.meta.author }}" />
