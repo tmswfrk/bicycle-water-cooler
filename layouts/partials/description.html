@@ -1,0 +1,14 @@
+<!-- Description Tags -->
+<!-- Note that this (currently) is no longer used, but I want to keep this here for Hugo-related reference -->
+{{ if eq .Section "blog" }}
+    {{ $desc := .Params.description }}
+    {{ if isset .Params "metadescription" }}
+        {{ $desc = .Params.metadescription }}
+    {{ end }}
+    {{ with $desc }}
+        <meta name="description" content="{{ . }}" />
+        <meta itemprop="description" content="{{ . }}" />
+        <meta property="og:description" content="{{ . }}" />
+        <meta property="twitter:description" content="{{ . }}" />
+    {{ end }}
+{{ end }}

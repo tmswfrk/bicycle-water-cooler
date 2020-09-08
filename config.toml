@@ -46,7 +46,9 @@ canonifyURLs            = true
 
   [params.meta]
     # Sets the meta tag description
-    description         = "A virtual water cooler conversation about all things cycling: the tech, travel, and the ride you did last weekend."
+    # V1 - no longer used
+    #description         = "A virtual water cooler conversation about all things cycling: the tech, travel, and the ride you did last weekend."
+    description         = "Welcome to the Bicycle Water Cooler, your online blog resource for reviews, technology, discussions, and travel ideas for you and your bicycle."
     # Sets the meta tag author
     author              = "James Clarke"
     # If you would like to add more comprehensive favicon support passed root
