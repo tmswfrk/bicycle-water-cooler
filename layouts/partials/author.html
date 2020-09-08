@@ -1,4 +1,4 @@
-{{ if eq .Section "blog" }}
+{{ if or (eq .Section "blog") (eq .Section "review") }}
 <meta property="og:article:author" content="{{ .Site.Params.meta.author }}" />
 <meta property="article:author" content="{{ .Site.Params.meta.author }}" />
 {{ end }}

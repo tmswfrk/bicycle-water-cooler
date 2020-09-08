@@ -1,8 +1,10 @@
 ---
 title: "My first cycling event: The LA River Ride"
 date: 2020-05-24T16:16:50-07:00
-description: "A fun first timer's ride."
-images: [/img/reviews/LARiverRide/lariverride01.jpg]
+subtitle: "A fun first timer's ride."
+description: "Los Angeles River Ride review: a great beginner's ride through some unique and historic parts of Los Angeles county."
+featured: "reviews/LARiverRide/lariverride01.jpg"
+featuredalt: "Panoramic view of Long Beach harbor with cyclists and event booths during the 2013 Los Angeles River Ride"
 categories: ["Event Review", "New Experiences", "Origins"]
 tags: ["LA River Ride", "Griffith Park", "Average Rating"]
 keywords: ["LA River Ride Review", "good newbie cycling event", "riding in Los Angeles"]

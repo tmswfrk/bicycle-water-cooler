@@ -1,4 +1,4 @@
-{{ if eq .Section "blog" }}
+{{ if or (eq .Section "blog") (eq .Section "review") }}
 <script defer type="application/ld+json">
     {
       "@context": "http://schema.org",
