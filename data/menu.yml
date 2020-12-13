@@ -1,0 +1,25 @@
+- item: About Me
+  url: about/
+# - item: "---"
+#   separator: "true"
+- item: Product Reviews
+  url: "categories/product-reviews/"
+- item: Event Reviews
+  url: "categories/event-reviews"
+- item: Travel
+  url: "categories/travel/"
+- item: Epic Rides
+  url: "categories/epic-rides/"
+- item: "---"
+  separator: "true"
+# - item: Favorite Links
+#   url: "favorites"
+- item: Strava Profile
+  url: "https://www.strava.com/athletes/2228883"
+  external: "true"
+- item: My LinkedIn
+  url: "https://www.linkedin.com/in/jmclarke10/"
+  external: "true"
+- item: Github
+  url: "https://github.com/tmswfrk"
+  external: "true"

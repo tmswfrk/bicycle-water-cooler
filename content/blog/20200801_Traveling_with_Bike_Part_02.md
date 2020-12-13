@@ -3,10 +3,10 @@ title: "Traveling With Your Bike, Part 2: By Plane"
 date: 2020-08-01T17:04:58-07:00
 subtitle: "The next horizon when it comes to traveling with your bike"
 description: "How do you travel internationally with a bicycle? With some careful planning and some basic knowledge, bringing your bike with you on an airplane is easy."
-featured: "2020/08/bikeboxalan_packedup.jpg"
-featuredalt: "Bike packed into a BikeBoxAlan bike box ready for intercontinental travel to Europe. Image contains: BikeBoxAlan bike box, packed bicycle, stickers, American flag, Mavic logo"
-categories: ["Travel", "Mechanical Knowledge"]
-tags: ["Plane Travel", "Multiple Bikes", "BikeBoxAlan"]
+image: "/img/2020/08/bikeboxalan_packedup.jpg"
+imagealt: "Bike packed into a BikeBoxAlan bike box ready for intercontinental travel to Europe. Image contains: BikeBoxAlan bike box, packed bicycle, stickers, American flag, Mavic logo"
+categories: ["Travel"]
+tags: ["Plane Travel", "BikeBoxAlan"]
 keywords: ["Traveling with you bicycle on a plane", "airline liability and bike boxes", "tips and tricks when packing a bicycle into a case", "recommended bike boxes"]
 draft: false
 ---
@@ -83,7 +83,7 @@ A few key points I want to emphasize here based on my personal experience:
 ### Recommendation: take off the rear derailleur
 It's not hard to put it back on, especially if you have a DI2 set up like I do (make sure to bring a [di2 tool](https://amzn.to/2PdCDTP)). Take a photo of what angle it's at if you're concerned about getting it right yourself, too. It's worth doing so that this doesn't happen to you:
 
-![Hanging rear derailleur because derailleur hangar broke off](/img/2020/08/broken_hangar.jpg#center "I'm just glad this waited to happen until AFTER Rococorba!")
+{{< figresize src="/img/2020/08/broken_hangar.jpg" alt="Hanging rear derailleur because derailleur hangar broke off" width=50% title="I'm just glad this waited to happen until AFTER Rococorba!" >}}
 
 The rear derailleur on your bike connects to your frame via a small _derailleur hangar_, which is basically designed to break off if there is stress in the chain or your frame. This way, your frame isn't destroyed simply because of this small connection between it and your rear mech. Instead, the inexpensive derailleur hangar breaks and you replace it instead. 
 
@@ -103,6 +103,6 @@ I brought a bunch of tools with me on the last trip I did out to France in July 
 ### Perform a trial (packing) run
 Do this at least a day or two before you leave for your trip. In case you forget anything, you still want some time to run out and grab something from your local bike shop. It's basically the same thing most people who travel frequently do anyway, but just...with a bike.
 
-![Furiously Packing at the last minute for a bike trip abroad](/img/2020/08/packing.gif#center "Gotta pack for that bike trip!")
+{{< figresize src="/img/2020/08/packing.gif" alt="Furiously Packing at the last minute for a bike trip abroad" width=50% title="Gotta pack for that bike trip!" >}}
 
 Now just sit back, put your tray tables in their upright position, and enjoy your flight. You have cycling to enjoy!

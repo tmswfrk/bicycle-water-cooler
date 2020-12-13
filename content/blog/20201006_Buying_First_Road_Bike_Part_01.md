@@ -3,17 +3,17 @@ title: "Buying your first Road Bike, Part 1: Frames"
 date: 2020-10-06T19:49:10-07:00
 subtitle: "Let's take this one step at a time, starting with the frame."
 description: "Ever wanted to get into road biking for fitness and exploration? Here's a how-to guide in getting started."
-featured: "2020/10/huddart_park.jpg"
-featuredalt: "Two bicycle riders near Huddart Park in Woodside, California. Image contains: Factor O2 VAM, Specialized Roubaix, trees, filtered light, road, bicycle riders, bicycle helmet."
-categories: ["Guides"]
-tags: ["New Rider Tips", "Introduction to bikes"]
+image: "/img/2020/10/huddart_park.jpg"
+imagealt: "Two bicycle riders near Huddart Park in Woodside, California. Image contains: Factor O2 VAM, Specialized Roubaix, trees, filtered light, road, bicycle riders, bicycle helmet."
+categories: ["Cycling Guides"]
+tags: ["New Rider Tips", "Purchasing a Bike"]
 keywords: ["How to buy your first road bike", "what bike should I buy", "what kind of bikes are there"]
 draft: false
 ---
 # Just like riding a bike
 There really is something freeing about riding a bike. That feeling as a kid, waking up the morning of your birthday, or perhaps getting up before your parents on Christmas morning, finding that new bike waiting for you. As a child, this represented freedom. Your ability to take off and go somewhere, to do whatever you wanted.
 
-![Comic of a man riding a bicycle, channeling his inner child](/img/2020/10/innerchild.jpg#center "I love this comic, credit to www.yehudamoon.com")
+{{< figresize src="/img/2020/10/innerchild.jpg" alt="Comic from www.yehudamoon.com of a man riding a bicycle, channeling his inner child" width=50% title="I love this comic, credit to www.yehudamoon.com">}}
 
 I know I felt this way, except that unfortunately for me, I grew up on a steep hill. So my feeling of freedom was more found during my teenage years when I got my first car. But I did have a few bikes as child, regardless, so that feeling is still there for me. It just lay dormant for some time until I discovered it again in my later twenties.
 
@@ -50,7 +50,7 @@ These are the thoroughbreds of the sport. When compared to other road bike frame
 * Skinnier tires (although that is changing), less clearance, more focus on aerodynamics in some cases
 * Typically the most expensive in the line up
 
-![Wilier Zero7 Race Bicycle Frames](/img/2020/10/wilier_frames.jpg#center "A few Wilier race frames hanging up in a local shop in Orange County from a few years ago")
+{{< figresize src="/img/2020/10/wilier_frames.jpg" alt="Wilier Zero7 Race Bicycle Frames" width=50% title="A few Wilier race frames hanging up in a local shop in Orange County from a few years ago" >}}
 
 I'm a sucker for this stuff, to be open and honest about it. I love the feeling of speed, the wind whooshing through my deep profile, carbon wheels, the literal lurch forward of my entire body when really pressing down hard on the pedals and letting those bars pull against me. These bikes even get subdivided further, believe it or not, into frames that are marketed more towards more climbing or aerodynamics focused.
 
@@ -90,7 +90,7 @@ This one is kind of difficult to categorize, as it's kind of subdivision of the 
 * Not necessarily made for light weight
 * Some are made to tow trailers and have space for pannier bags with multiple tie-down spots on the frame (for bikepacking)
 
-I currently have a [Niner RLT9]({{< ref "/blog/20200517.md" >}} "Niner RLT9"), while made of steel, is very much an "adventure" bike.
+I currently have a [Niner RLT9]({{< ref "/blog/20200517_N_Plus_One_Rule.md" >}} "Niner RLT9"), while made of steel, is very much an "adventure" bike.
 
 ## Time Trial Bikes
 These bikes are basically so different here that it's kind of hard to truly classify them even as a "road bike". They're the one you'll typically see triathletes buying (and subsequently selling), as they are extremely purpose driven. You can tell one of these frames by an extremely aggressive seating position (really far reach to those bars, seating on the very front of the saddle, etc), very chunky frames when viewed from the side while retaining a small front cross section, and typically a set of "tri" bars that allow a rider to grip two parallel-with-the-road bars to get into the most aerodynamic position possible.

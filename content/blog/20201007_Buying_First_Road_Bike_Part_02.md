@@ -3,10 +3,10 @@ title: "Buying your first Road Bike, Part 2: Components"
 date: 2020-10-07T21:21:39-07:00
 subtitle: "Next, let's consider your components."
 description: "Beyond just picking a frame for a new bicycle purchase, it's important to consider what kind of components you will want to have."
-featured: "2020/10/drivetrain.jpg"
-featuredalt: "Factor O2 VAM bicycle in a bike stand with Shimano Dura Ace component groupset with BBInfinite red jockey wheels and a Pioneer Power Meter. Image contains: Factor O2 VAM, BBInfinite red jockey rear derailleur wheels, Pioneer Power Meter, Shimano Dura Ace grouposet, Arundel bottle cages, Feedback Sports bike stand."
-categories: ["Guides", "Mechanical Knowledge", "Gear"]
-tags: ["New Rider Tips", "Introduction to Bikes", "Altamira", "Components"]
+image: "/img/2020/10/drivetrain.jpg"
+imagealt: "Factor O2 VAM bicycle in a bike stand with Shimano Dura Ace component groupset with BBInfinite red jockey wheels and a Pioneer Power Meter. Image contains: Factor O2 VAM, BBInfinite red jockey rear derailleur wheels, Pioneer Power Meter, Shimano Dura Ace grouposet, Arundel bottle cages, Feedback Sports bike stand."
+categories: ["Cycling Guides"]
+tags: ["New Rider Tips", "Purchasing a Bike"]
 keywords: ["How to buy your first road bike", "What components do I need on a bike", "Shimano or SRAM", "What kind of gearing do I need"]
 draft: false
 ---
@@ -39,7 +39,7 @@ If you're looking for your first road bike, all of these will simply be included
 ## The major brands
 In the road biking world, there are three major brands when it comes to components: [Shimano](https://bike.shimano.com/en-US/home.html), [SRAM](https://www.sram.com/en/sram), and [Campagnolo](https://www.campagnolo.com/US/en). Each have their own levels as far as perceived quality, named with each of their own product lines.
 
-![Rainman scene from the Hangover movie](/img/2020/10/numbers.gif#center "Maybe this all feels like this now, but keep reading, this is fun!")
+{{< figresize src="/img/2020/10/numbers.gif" alt="Man seeing numbers in head as if Rainman during movie The Hangover" width="50%" title="Maybe this all feels like this now, but keep reading, this is fun!" >}}
 
 I say "perceived" because as a novice rider, you'll likely not notice very much difference between one product line or even brand to another. However, once you become more familiar with a particular brand or product line, you'll begin to start noticing the differences in more pronounced ways.
 
@@ -68,12 +68,12 @@ It was weird at first for me when I rode a bike with this arrangement, but I act
 
 SRAM's recent large claim to fame was being the first road set up to not only introduce completely wireless shifting with their eTap system (not even cables are run in the frame), but also the first 12 gear (cassette) arrangement, called AXS (pronounced "axis"). This also was unique because the ratios used (i.e., number of teeth on both the front crankset and the rear cogs) departed from what has been considered pretty normal for the last several years.
 
-![SRAM Red eTap AXS Crankset and Groupset](/img/2020/10/sram_axs.jpg#center "From DCRainmaker's site, you can tell it's AXS by the silver and black on the crank and the flat topped chain")
+{{< figresize src="/img/2020/10/sram_axs.jpg" alt="SRAM Red eTap AXS Crankset and Groupset" width=50% title="From DCRainmaker's site, you can tell it's AXS by the silver and black on the crank and the flat topped chain" >}}
 
 ### Campagnolo
 Campagnolo is a very traditional, Italian brand. What makes them unique beyond simply their incredible heritage, is the different way that you shift in a "Campy" system. It has a thumb shifter that may be foreign to people (like myself) who are more familiar with Shimano or SRAM.
 
-![Campagnolo Thumb Shifters](/img/2020/10/campy.jpg#center "I'm a huge fan of the design and function of Campagnolo, but they aren't nearly as common in the US")
+{{< figresize src="/img/2020/10/campy.jpg" alt="Campagnolo Thumb Shifters" width=50% title="I'm a huge fan of the design and function of Campagnolo, but they aren't nearly as common in the US" >}}
 
 It's very interesting stuff, and people who are fans of Campy will often swear by them and be very die-hard fans. They especially like the idea that shifting has a very satisfying "clunk" to it and you can dump up to about 3 gears in a single action. I personally struggled with it a bit, as my hands are a bit on the smaller side, so reaching up to that thumb shifter from the drops can be a bit of a stretch.
 
@@ -96,7 +96,7 @@ This is due to bike parts manufacturers applying a "trickle down" principle to n
 ## Number of gears
 This gets people caught up a bit, too, as this was how things used to be classified when it came to buying a new bike. These days, while important, the number of gears is less important to the gear ratios you have between your gears.
 
-![Numbers tagged around the number of teeth on an 11-28 bicycle rear cassette](/img/2020/10/cassette.png#center "This is labeled as an 11-28t cassette, meaning the smallest cog has 11 teeth while the largest one has 28. The 11 will be for speed, the 28 will be for climbing.")
+{{< figresize src="/img/2020/10/cassette.png" alt="Numbers tagged around the number of teeth on an 11-28 bicycle rear cassette" width=50% title="This is labeled as an 11-28t cassette, meaning the smallest cog has 11 teeth while the largest one has 28. The 11 will be for speed, the 28 will be for climbing." >}}
 
 Basically, the more teeth you see available on a cassette, the more chain length you have to use per rotation of your wheel, which roughly translates into "more spinning, less speed, easier to climb". So, how many teeth are available on both the rear cassette gears and the front crankset (in total) will influence how you ride a lot more than the number of gears you have.
 

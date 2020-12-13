@@ -3,10 +3,10 @@ title: "Some thoughts on Zwift"
 date: 2020-05-30T17:04:39-07:00
 subtitle: "I have a lot of thoughts on this one."
 description: "Technology can be used to effectively train for general fitness or a specific goal. Zwift is fitness, gamified, and everyone can do it."
-featured: "2020/05/zwift_gorby.jpeg"
-featuredalt: "A virtual avatar of a cyclist cycling through Watopia in Zwift online. Image contains: virtual rider, virtual riding, Zwift, Watopia world, power data"
-categories: ["Zwift", "Training", "Musings", "Nerd Stuff"]
-tags: ["Zwift", "Virtual Riding", "Training", "Giant TCR"]
+image: "/img/2020/05/zwift_gorby.jpeg"
+imagealt: "A virtual avatar of a cyclist cycling through Watopia in Zwift online. Image contains: virtual rider, virtual riding, Zwift, Watopia world, power data"
+categories: ["Virtual Training and Riding"]
+tags: ["Zwift", "Virtual Riding"]
 keywords: ["Zwift", "riding a bike indoors", "riding a bike on a smart trainer", "indoor training on a bike"]
 draft: false
 ---
@@ -16,7 +16,7 @@ So for those of you NOT familiar with Zwift, imagine the idea of ["gamification"
 ## It's NOT Peloton
 After their famous [Superbowl ad](https://www.youtube.com/watch?v=ijof8uw4OHs), Peloton suddenly went from pretentious, single image marketing campaigns to a common household point of interest. A lot of the news around the ad claimed sexist vibes, but it certainly has helped increased their market share. In short, [Peloton](https://www.onepeloton.com/) is a "spin style" bike that most everyone is familiar with from the gym, but with nice sensors to measure your cadence (rpms), "speed" (let's put that into quotes), power (watts), and the main selling point, a _big ol' screen_. It's with this screen that you virtually attend classes that are put on by those blessed by the genetic lottery, sometimes live and sometimes recorded.
 
-![Stock image of a Peloton bicycle unit](/img/2020/05/peloton_bike.jpg#center "It looks pretty similar to a regular spin bike, really")
+{{< figresize src="/img/2020/05/peloton_bike.jpg" alt="Stock image of a Peloton bicycle unit" width=50% title="It looks pretty similar to a regular spin bike, really" >}}
 
 The name comes from the French term used in professional cycling, loosely meaning "platoon", referring to the mass of riders drafting each other during a race.
 
@@ -45,7 +45,7 @@ So to get started with Zwift, you first need some hardware.
 
 I tend to leave one of my bikes in the trainer nearly 100% of the time, only to take it out when I need to move something in the room or maybe swap it out so my girlfriend can use my equipment for indoor riding.
 
-![A Giant TCR bicycle mounted into a direct drive smart trainer indoors overlooking a window with a small desk in front](/img/2020/05/my_zwift_setup.jpg#center "Definitely don't feel like those wheels are being used properly")
+{{< figresize src="/img/2020/05/my_zwift_setup.jpg" alt="A Giant TCR bicycle mounted into a direct drive smart trainer indoors overlooking a window with a small desk in front" width=50% title="Definitely don't feel like those wheels are being used properly" >}}
 
 #### What's a "trainer"?
 Basically it's the thing you put your own bike into that gives back some level of resistance. There are a few types of these things, and it's important to know the differences before you attempt to go purchasing one of them.
@@ -53,25 +53,25 @@ Basically it's the thing you put your own bike into that gives back some level o
 ##### Direct Drive
 What I own, specifically the Cyclops Hammer. This uses a separate cassette gears in the back that you directly place your chain into as if you were putting your bike wheel back on.
 
-![The CycleOps Hammer smart trainer with a Giant TCR bicycle mounted on to it](/img/2020/05/directdrive.jpg#center "The gearing arrangement should match the one your wheel")
+{{< figresize src="/img/2020/05/directdrive.jpg" alt="The CycleOps Hammer smart trainer with a Giant TCR bicycle mounted on to it" width=50% title="The gearing arrangement should match the one your wheel" >}}
 
 You'll want to get a separate cassette for this (no reason to take it on and off from your wheel), so you'll want to make sure to get the same gearing / ratios as what you use on your bike wheel, otherwise you're gonna have a bad time.
 
-![South Park GIF of ski instructor having a bad time](/img/2020/05/badtime.gif#center "A bad time, indeed.")
+{{< figresize src="/img/2020/05/badtime.gif" alt="South Park GIF of ski instructor having a bad time" width=50% title="A bad time, indeed." >}}
 
 The main drawbacks to these are that they are very expensive. Some of these cost as much as people spend on their bikes! But good news, they're not as expensive as a Peloton!
 
 ##### Mag / Fluid Drive
 It's basically a rotating mass that your back tire presses against and uses sheer friction to drive. This means that you're going to be chewing through tires like it's nobody's business. There are special, often red in color, trainer tires that you can use. I'm a fan of [Vittoria](https://www.amazon.com/Vittoria-Zaffiro-Home-Trainer-Fold/dp/B007IEHWDO) tires in general.
 
-![Stock image of a bicycle trainer that uses fluid to provide resistance for physical training](/img/2020/05/fluidtrainer.jpg#center "Get a special, hard, red tire for this one put on to your wheel")
+{{< figresize src="/img/2020/05/fluidtrainer.jpg" alt="Stock image of a bicycle trainer that uses fluid to provide resistance for physical training" width=50% title="Get a special, hard, red tire for this one put on to your wheel" >}}
 
 While I don't own one of these, i've used them every so often when getting my bike fitted or fixed somewhere. Due to the sheer friction and weight along a big to small wheel transition. the pedal rotation as you experience it from the pedals is going to feel very weird at first. It's going to feel kind of "bumpy" in a way, at least until you get up to speed.
 
 ##### Rollers
 You either love these or hate them. I used to have a set, but they scare me to this day! Basically you rest your bike on small rotating tubes that line up with your wheels and you get on the bike and spin on them, allowing the bike to freely move, in place, side to side. It's a fantastic way to develop core muscles, balance, with the side benefit of spectacularly falling in your own living room.
 
-![Stock image of a cyclist on a bicycle that is on a set of bike rollers for use with coordination training](/img/2020/05/terror.jpg#center "Still strikes terror in my heart")
+{{< figresize src="/img/2020/05/terror.jpg" alt="Stock image of a cyclist on a bicycle that is on a set of bike rollers for use with coordination training" width=50% title="Still strikes terror in my heart" >}}
 
 ##### "Smart" Trainers, Generally
 An important distinction to make here, too, is that nearly all trainers these days are "smart" trainers, in that they connect via Bluetooth. There are others who do not, but to truly use Zwift as it was intended, you're going to want the added sensors (particularly power in watts) and wireless connectivity that a smart trainer will do for you.
@@ -94,7 +94,7 @@ Even GCN (The Global Cycling Network) on [YouTube](https://www.youtube.com/user/
 #### Full disclosure
 While I absolutely am on board with these integrations and fully encourage others to do the same, they are not something to which I currently subscribe to. I like to ride hard when I feel up to it, but am often a bit torn between the simple enjoyment of riding your bike and using it as a tool to increase my physical fitness and performance.
 
-![GIF of a dog riding a bicycle down a street](/img/2020/05/dog.gif#center "Who's a good bike rider? You're a good bike rider!")
+{{< figresize src="/img/2020/05/dog.gif" alt="GIF of a dog riding a bicycle down a street" width=50% title="Who's a good bike rider? You're a good bike rider!" >}}
 
 ### Racing and Events
 Several months back, Zwift actually introduced a new feature - _racing_. How does one race in a virtual setting, you may ask? Well, much like Puff Daddy said in the 90's, "it's all about the watts per kilo".
@@ -102,7 +102,7 @@ Several months back, Zwift actually introduced a new feature - _racing_. How doe
 #### Watts, Watts, Watts
 A _watt_ is a measure of power. It can be applied to nearly anything, generally, and is something a lot of us learn about in high school Physics and then quickly forget about. It's basically a measure of force over a period of time. And since YOU are the engine when riding a bike, _power_ is a measure of how strong of a rider you are.
 
-![Drawing of a T-Rex on the back of a bicycle](/img/2020/05/trex.png#center "Rawr")
+{{< figresize src="/img/2020/05/trex.png" alt="Drawing of a T-Rex on the back of a bicycle" width=50% title="Rawr" >}}
 
 However, it's not all about the power number alone. Real world conditions definitely make for a fuzzy final picture. So what generally works well for people in this sport is a measurement referred to as "watts per kilogram", or w/kg for short.
 
@@ -111,14 +111,14 @@ Imagine you're on your bike. You weigh maybe 180 or even 200 pounds (which for t
 
 Imagine you're a considerably smaller rider, now, going up that same hill. There's a lot less weight that you have to carry up that hill, so you basically don't have to push _as hard_, at least in absolute, numerical wattage.
 
-![Two happy looking cyclists riding their bikes up a hill](/img/2020/05/wkgdiff.jpg#center "At the same w/kg, each rider will go up the hill at a different speed")
+{{< figresize src="/img/2020/05/wkgdiff.jpg" alt="Two happy looking cyclists riding their bikes up a hill" width=50% title="At the same w/kg, each rider will go up the hill at a different speed" >}}
 
 What we then use to essentially equalize both of these situations is your body weight. Besides, a bigger person is carrying a larger amount of weight with them at all times, anyway, so it's a bit of a normalizing function. Thus, _watts per kilo_. 
 
 #### Bringing it back
 Zwift uses this w/kg measurement to more properly normalize riders against each other in events. It helps level the playing field a bit in the virtual world. **So don't cheat**. 
 
-![Zwift Companion App leaderboard showing different kinds of riders, including one who appears to be cheating](/img/2020/05/yeahright.jpg#center "Suuuuuuuuuure you do, number 10")
+{{< figresize src="/img/2020/05/yeahright.jpg" alt="Zwift Companion App leaderboard showing different kinds of riders, including one who appears to be cheating" width=50% title="Suuuuuuuuuure you do, number 10" >}}
 
 The person in spot number 10 on this screen shot is clearly 1) not accurately representing their weight in the Zwift app, and 2) in the wrong race (topic for another discussion). If you look at their numbers, their weight listed in Zwift is 36kg (just under 80 pounds)! Not only is 7.0 w/kg a level that only professional cyclists can realistically attain, but it's also not very realistic for someone to be cycling at that level at 80 pounds!
 

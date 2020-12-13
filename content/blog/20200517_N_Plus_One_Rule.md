@@ -3,10 +3,10 @@ title: "The N+1 Rule"
 date: 2020-05-17T17:40:30-07:00
 subtitle: "What do I ride, you ask? Well, let me introduce to you my N+1 stable."
 description: "Do you follow the Cyclist's N+1 rule? Let's talk about what bikes you should own and why N+1 is the correct number of bicycles to own."
-featured: "2020/05/stable.jpg"
-featuredalt: "Stable of bikes satisfying the N+1 rule of cycling in a spare bedroom. Image contains: couch, Giant TCR, bicycle trainer, hats, tube map, cycling route, bikes on wall"
-categories: ["Gear", "Nerd stuff", "Mechanical Knowledge"]
-tags: ["Bikes", "N+1", "Stable", "Giant TCR", "Factor O2 VAM"]
+image: "/img/2020/05/stable.jpg"
+imagealt: "Stable of bikes satisfying the N+1 rule of cycling in a spare bedroom. Image contains: couch, Giant TCR, bicycle trainer, hats, tube map, cycling route, bikes on wall"
+categories: ["Cycling Gear"]
+tags: ["N+1", "Giant TCR", "Factor O2 VAM"]
 keywords: ["the N+1 rule", "what bikes I have", "what bike gear I use"]
 draft: false
 ---

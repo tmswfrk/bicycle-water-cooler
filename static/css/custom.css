@@ -1,13 +1,3 @@
-img[src$='#center']
-{
-    display: block;
-    width: 50%;
-    margin: 0.7rem auto; /* you can replace the vertical '0.7rem' by
-                            whatever floats your boat, but keep the
-                            horizontal 'auto' for this to work */
-    /* whatever else styles you fancy here */
-}
-
 img[src$='#floatleft']
 {
     float:left;

@@ -2,11 +2,11 @@
 title: "My Favorite Day of Riding...Ever"
 date: 2020-06-29T21:11:09-07:00
 subtitle: "Reminiscing is always fun"
-description: "A bicycle enthusiast's pilgrimage ride near Lake, Como, Italy looping through Bellagio, visiting the Museo del Ciclismo, and tackling the Muro di Sormano."
-featured: "2020/06/Como.jpg"
-featuredalt: "Factor O2 VAM bicycle against a fence overlooking Lake, Como, Italy on July 29th, 2019. Image contains: bike, Lake Como, Italian mountains, fence, disc brakes, Rapha water bottles."
-categories: ["Travel", "Europe", "Epic Rides", "Climbs"]
-tags: ["European Travel", "Italy", "Epic Riding", "Climbing", "Factor O2 VAM"]
+summary: "A bicycle enthusiast's pilgrimage ride near Lake, Como, Italy looping through Bellagio, visiting the Museo del Ciclismo, and tackling the Muro di Sormano."
+image: "/img/2020/06/Como.jpg"
+imagealt: "Factor O2 VAM bicycle against a fence overlooking Lake, Como, Italy on July 29th, 2019. Image contains: bike, Lake Como, Italian mountains, fence, disc brakes, Rapha water bottles."
+categories: ["Epic Rides"]
+tags: ["Italy", "Epic Riding", "Climbing", "Factor O2 VAM"]
 keywords: ["Riding a bike in Como, Italy", "Madonna del Ghisallo climb", "Muro di Sormano climb", Riding a bike in Bellagio, Italy"]
 draft: false
 ---
@@ -29,7 +29,7 @@ On a spur of the moment decision while sitting in my wonderful hotel room in Mon
 The ride that I had my eye on previously, that I had been _hoping_ to do while I was out in Europe last year, is a famous one that a lot of cyclists do when visiting the _stupidly beautiful_ region of Lake Como. It follows the lake around from the city of Como, through some tunnels and winding streets, past amazing villas, up to the Madonna del Ghisallo, then back around to Como.
 
 ## Yes, there IS a patron saint of cycling
-I know what you were thinking, could the Italian people BE any more serious about their cycling heritage? The answer is no, and I found out first hand when doing this loop. The highlight of this loop is the Madonna del Ghisallo, a small church dedicated to the patron saint of Cycling (it's an official designation), and houses a variety of cycling related paraphenalia from riders who have, in most cases, met an early demise during their racing careers. A bit humbling, actually.
+I know what you were thinking, could the Italian people BE any more serious about their cycling heritage? The answer is no, and I found out first hand when doing this loop. The highlight of this loop is the Madonna del Ghisallo, a small church dedicated to the patron saint of Cycling (it's an official designation), and houses a variety of cycling related paraphernalia from riders who have, in most cases, met an early demise during their racing careers. A bit humbling, actually.
 
 ![Inside the Madonna del Ghisallo church, a shrine to fallen professional cyclists](/img/2020/06/Ghisallo_inside.jpg "With some other tourists paying homage, I'm sure")
 
@@ -72,7 +72,7 @@ You basically wind up and around in through a few small towns, and even cross pa
 
 Eventually you find yourself looking at the Madonna del Ghisallo, towering over the top of a hill, with a pristine view overlooking the lake, looking north, back down towards where you came from. It's here where you likely will want a photo with its sign.
 
-![Road sign with bike parked in front marking the location for the Madonna del Ghisallo church near Bellagio, Italy](/img/2020/06/Ghisallo.jpg#center "As we all do when traveling abroad")
+{{< figresize src="/img/2020/06/Ghisallo.jpg" alt="Road sign with bike parked in front marking the location for the Madonna del Ghisallo church near Bellagio, Italy" width=50% title="As we all do when traveling abroad" >}}
 
 ## Spend some time there
 I wish I had known more about the former professional and titanic riders who are featured in the Madonna church. Still, I felt like it was both somber and inviting. The sport has had its share of problems, but remains embracing, as cycling is a huge part of both fitness and transportation for so many people. 
@@ -102,7 +102,7 @@ My turn off didn't take me all the way down the hill, however. It took me back u
 ## Muro di Sormano
 This was entertaining to me, as I kept seeing signs for this like it was some kind of Disneyland attraction in X number of miles. There's actually a decent amount of climbing to be had just to get to the beginning of this climb, too!
 
-![Cut out sign on a stone wall for the famous Muro di Sormano climb for cyclists](/img/2020/06/MuroSign01.jpg#center "Muro di Sormano!")
+{{< figresize src="/img/2020/06/MuroSign01.jpg" alt="Cut out sign on a stone wall for the famous Muro di Sormano climb for cyclists" width=50% title="Muro di Sormano!" >}}
 
 ...and another one.
 
@@ -158,7 +158,7 @@ I love descending and enjoying the rush of wind in your face, the leaning of the
 ## Okay, so a few more things
 What's a ride without post ride snacks?
 
-![Refreshing La Nostra Aranciata orange soda drink at Sartoria Ciclistica after bike ride](/img/2020/06/Aranciata.jpg#center "This stuff is heavenly, I wish I could get it here without paying for exorbitant shipping!")
+{{< figresize src="/img/2020/06/Aranciata.jpg" alt="Refreshing La Nostra Aranciata orange soda drink at Sartoria Ciclistica after bike ride" width=50% title="This stuff is heavenly, I wish I could get it here without paying for exorbitant shipping!" >}}
 
 And gelato of course!
 

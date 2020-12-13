@@ -3,10 +3,10 @@ title: "Traveling With Your Bike, Part 1: By Car"
 date: 2020-07-12T12:16:50-07:00
 subtitle: "The most common way I travel to do epic rides on my bike"
 description: "Driving somewhere new to ride your bike can be incredibly rewarding. And packing your bike into a car with all your supplies doesn't have to be a chore."
-featured: "2020/07/stuffincar.jpg"
-featuredalt: "Packed up Ford Escape with two bikes and other luggage before a cycling adventure to San Diego, California. Image contains: bicycles, Ford Escape, SUV, bags, backpacks, souvenirs"
-categories: ["Travel", "Mechanical Knowledge"]
-tags: ["Car Travel", "California Travel", "Multiple Bikes"]
+image: "/img/2020/07/stuffincar.jpg"
+imagealt: "Packed up Ford Escape with two bikes and other luggage before a cycling adventure to San Diego, California. Image contains: bicycles, Ford Escape, SUV, bags, backpacks, souvenirs"
+categories: ["Travel"]
+tags: ["Car Travel"]
 keywords: ["traveling with your bike", "put bike in car", "skewers versus thru axles", "different kinds of bike racks for your car"]
 draft: false
 ---
@@ -29,7 +29,7 @@ This option unfortunately is very much dictated by the type of car you may alrea
 #### Sedans work for (usually) one bike only
 If you _do_ have a sedan, and want to put a bike (or possibly two) inside the vehicle, check to see if the rear seats fold down as a pass through option. I used to own a BMW and I found that the passthrough option would let me carry my one bike with my stuff pretty well, all things considered.
 
-![Bike fits when placed in trunk of sedan with seats folded down](/img/2020/07/4series.jpg#center "With the front wheel off and the seats folded, it fits nicely")
+{{< figresize src="/img/2020/07/4series.jpg" alt="Bike fits when placed in trunk of sedan with seats folded down" width=50% title="With the front wheel off and the seats folded, it fits nicely" >}}
 
 I actually once managed to squeeze in two bikes into a 5-series BMW, but I wouldn't say it's easy and I certainly wouldn't recommend it for long distance transportation! It required me to remove both wheels on the second bike and place some padding between the two bikes, as there were several parts that were laying on top of each other.
 
@@ -51,7 +51,7 @@ While I do not have own one of these bike racks, I did look into them at one poi
 * Can accidentally forget that they're there and driving in to a garage can be **problem**
 * However, they look nice and keep things tidy and out of the way inside the car for normal things
 
-![New bike placed in bike rack on top of old car](/img/2020/07/nicebike.jpg#center "It's usually a junky car with a nice bike as opposed to the opposite")
+{{< figresize src="/img/2020/07/nicebike.jpg" alt="New bike placed in bike rack on top of old car" width=50% title="It's usually a junky car with a nice bike as opposed to the opposite" >}}
 
 ### On a tow hitch mounted rack
 I used to own one of these, actually, mounted on my Acura TL that I had at the time. It was quite handy, and is my second-preferred option behind storing my bike inside my car.
@@ -98,7 +98,7 @@ I actually like to bring a small bag that I got from REI that carries my mechani
 #### Bring a pad spacer
 These little guys are cheap, and sometimes you can get them for free if you ask a bike shop mechanic at a big box store who gets a bunch of bikes at once. 
 
-![Disc brake pad spacer for use when no rotor present](/img/2020/07/padspacer.jpg#center "Cheap, but handy")
+{{< figresize src="/img/2020/07/padspacer.jpg" alt="Disc brake pad spacer for use when no rotor present" width=50% title="Cheap, but handy" >}}
 
 It basically mimics having a disc brake rotor inside the caliper when there isn't one physically in there. This is especially important if you have hydraulic disc brakes, because if you grab the brake levers while there is no rotor inside the caliper, you will have to manually press back the calipers and could potentially introduce bubbles into your hydraulic line (which requires you to bleed the system and refill it).
 

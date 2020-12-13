@@ -2,24 +2,37 @@ baseurl                 = "https://www.bicyclewatercooler.com/"
 relativeurls            = true
 DefaultContentLanguage  = "en"
 title                   = "Bicycle Water Cooler"
-theme                   = "hugo-future-imperfect-slim"
+#theme                   = "hugo-future-imperfect-slim"
+theme                   = "newsroom"
 preserveTaxonomyNames   = true
-paginate                = 3
+paginate                = 5 # odd number works best here
 disqusShortname         = ""
 googleAnalytics         = ""
 pluralizeListTitles     = false
 disableLanguages        = [""]
 enableRobotsTXT         = true
 canonifyURLs            = true
+disableDarkMode         = true
+
+[author]
+  name = "James Clarke"
 
 [outputs]
-    home = ["html", "json"]
+    home = ["html", "json", "RSS"]
 
 [permalinks]
   blog = "/:section/:year/:month/:title/"
   reviews = "/:section/:year/:month/:title/"
 
 [params]
+  logo     = "/img/main/bwc_350x116_light.png"
+  # logo_dark      = "/img/main/bwc_350x116_dark.png"
+  logoAlt      = "Logo for the Bicycle Water Cooler website, a virtual water cooler conversation about bikes, travel, and all things related to cycling."
+  ga_analytics = "UA-172930899-1"
+  mainSections = ["blog"]
+  copyright    = "James Clarke"
+  customCss = ["css/custom.css"] # come back to this? implement grid for bikebox pics
+
   # Add additional section names to mainSections to include posts from
   # those sections on the homepage.
   enableCDN             = false
@@ -73,7 +86,8 @@ canonifyURLs            = true
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
   [params.intro]
-    header                = "The Bicycle Water Cooler"
+    #header                = "The Bicycle Water Cooler"
+    header                = ""
     paragraph             = "Biking around the world, and talking about it one water cooler conversation at a time."
     rssIntro              = true
     socialIntro           = true
@@ -86,11 +100,12 @@ canonifyURLs            = true
     # This appears at the top of the sidebar above params.intro.header.
     # A width of less than 100px is recommended from a design perspective.
     [params.intro.pic]
-      src                 = "/img/main/bwc.jpg"
+      #src                 = "/img/main/bwc.jpg"
+      src                 = "/img/main/BicycleWatercoolerLogo_618x400.png"
       # Masks image in a certain shape. Supported are circle, triangle, diamond, and hexagon.
-      shape               = "circle"
-      width               = ""
-      alt                 = "Hugo Future Imperfect Slim"
+      shape               = ""
+      width               = "418"
+      alt                 = "The Bicycle Water Cooler, a virtual conversation around the water cooler. Image contains: carbon fiber bicycle, water bottle, bidon."
 
   [params.sidebar]
     about               = "A techie from southern CA, living in San Francisco, obsessed with all things tech and bike related."
@@ -156,12 +171,12 @@ canonifyURLs            = true
     pre               = "<i class='fas fa-bicycle'></i>"
     weight            = 4
 
-  # [[menu.main]]
-  #   name              = "Tags"
-  #   identifier        = "tags"
-  #   url               = "/tags/"
-  #   pre               = "<i class='fas fa-sitemap'></i>"
-  #   weight            = 5
+  [[menu.main]]
+    name              = "Tags"
+    identifier        = "tags"
+    url               = "/tags/"
+    pre               = "<i class='fas fa-sitemap'></i>"
+    weight            = 5
 
   [[menu.main]]
     name              = "Contact"

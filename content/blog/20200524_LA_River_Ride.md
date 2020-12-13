@@ -3,10 +3,10 @@ title: "My first cycling event: The LA River Ride"
 date: 2020-05-24T16:16:50-07:00
 subtitle: "A fun first timer's ride."
 description: "Los Angeles River Ride review: a great beginner's ride through some unique and historic parts of Los Angeles county."
-featured: "reviews/LARiverRide/lariverride01.jpg"
-featuredalt: "Panoramic view of Long Beach harbor with cyclists and event booths during the 2013 Los Angeles River Ride"
-categories: ["Event Review", "New Experiences", "Origins"]
-tags: ["LA River Ride", "Griffith Park", "Average Rating"]
+image: "/img/reviews/LARiverRide/lariverride01.jpg"
+imagealt: "Panoramic view of Long Beach harbor with cyclists and event booths during the 2013 Los Angeles River Ride"
+categories: ["Event Reviews"]
+tags: ["Griffith Park", "Los Angeles"]
 keywords: ["LA River Ride Review", "good newbie cycling event", "riding in Los Angeles"]
 draft: false
 ---
@@ -23,7 +23,7 @@ What does this have to do with cycling, you may ask? Well, I saw just how excite
 
 Cut to several months later, after I had moved to Costa Mesa, I found myself getting into this whole thing a bit more. I started eating a bit better and even signed up for a half marathon for some reason! When the big event happened, I was there with some friends I had known for some time and I had another great experience.
 
-![Me having just run the 2013 Orange County Half Marathon](/img/reviews/LARiverRide/2013_OC_Half.jpg#center "2:15 minute finish time")
+{{< figresize src="/img/reviews/LARiverRide/2013_OC_Half.jpg" alt="Me having just run the 2013 Orange County Half Marathon" width=50% title="2:15 minute finish time" >}}
 
 ### I still liked cycling more
 
@@ -47,7 +47,7 @@ But I'm so glad I did it.
 
 I honestly don't have much in the way of documenting this event except for the official race picture I purchased online after the event.
 
-![Cyclist on bicycle after having ridden the 2013 Los Angeles River Ride](/img/reviews/LARiverRide/2013_LA_River_Ride.JPG#center "I thought I was so cool") 
+{{< figresize src="/img/reviews/LARiverRide/2013_LA_River_Ride.JPG" alt="Cyclist on bicycle after having ridden the 2013 Los Angeles River Ride" width=50% title="I thought I was so cool" >}}
 
 Despite not having much else from the day, I remember being excited to see Long Beach when we got there. And the Queen Mary, for some reason. I think partly because we had previously biked *to* Long Beach from Newport and it was fun for me (as the mapping nerd I am) to see the two experiences collide.
 

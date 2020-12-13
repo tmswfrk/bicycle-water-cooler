@@ -3,15 +3,17 @@ title: "Buying your first Road Bike, Part 3: Marketing"
 date: 2020-10-08T21:23:17-07:00
 subtitle: "Marketing and demo days. The fun stuff."
 description: "Besides the frame and the components, deciding on a bike manufacturer may take some research. Understanding the marketing around bikes is important, and so is supporting your local bike shop."
-featured: "2020/10/2017_Sea_Otter_Classic.jpg"
-featuredalt: "A bike event expo at the Sea Otter Classic in 2017 at the Laguna Seca Raceway near Monterey, CA. Image contains: banners for bike manufacturers, people walking, bicycles, tents showcasing new cycling related products, DT Swiss, Magura, Lake, and others."
-categories: ["Guides", "Bike Brand Information"]
-tags: ["New Rider Tips", "Introduction to Bikes", "Bike marketing", "Supporting your local bike shop"]
+image: "/img/2020/10/2017_Sea_Otter_Classic.jpg"
+imagealt: "A bike event expo at the Sea Otter Classic in 2017 at the Laguna Seca Raceway near Monterey, CA. Image contains: banners for bike manufacturers, people walking, bicycles, tents showcasing new cycling related products, DT Swiss, Magura, Lake, and others."
+categories: ["Cycling Guides"]
+tags: ["New Rider Tips", "Purchasing a Bike"]
 keywords: ["How to buy your first road bike", "How do I know which bike to buy", "What quality of carbon do I need", "Supporting your local bike shop"]
 draft: false
 ---
 # How brands will sell you these bikes
 There are a lot of bike manufacturers out there, most of which actually all make their frames in shops owned by either Trek or Giant out in Taiwan or China. As such, you'll find that a lot of the lines across bike manufacturers seem to ring familiar, as there are a lot of similarities from "race frame" to "race frame" and from "endurance frame" to "endurance frame".
+
+{{< picture "/img/main/bwc_350x116_light.png" "dark.jpg" "alt text" >}}
 
 ## There are "levels" of each of these frames
 From my past experience in purchasing a Giant bike, you'll typically see similar categorization like you would car models. Beyond the actual bike frame model (i.e., "TCR" or "Emonda"), you'll notice that:
@@ -25,13 +27,13 @@ Even smaller manufacturers will likely follow some kind of similar pattern, as t
 ## Carbon, carbon, carbon
 It's the name of the game when it comes to road bike frames these days. When I first got sold on a road bike, I was under the impression that there were "aluminum", "semi-carbon" (basically an aluminum frame with a carbon fork), and "full carbon". My friends and even made jokes about how ridiculous I was being at the time, as everything I was considering purchasing was "full carbon".
 
-![Comic of two men at a gym asking about carbon](/img/2020/10/gym.jpg#center "Basically what we were always asking ourselves at the bike shop.")
+{{< figresize src="/img/2020/10/gym.jpg" alt="Comic of two men at a gym asking about carbon" width="50%" title="Basically what we were always asking ourselves at the bike shop.">}}
 
 Basically carbon is so popular because it has natural flex built into it that helps translate into dampening the road's vibrations while still retaining stiffness in key areas. This means you can be more comfortable on a road bike (remember, they don't have shocks like mountain bikes do) while also being able to translate a greater percentage of your pedaling efforts into forward motion.
 
 And, of course, technology has gotten better over the years, so "carbon" is not the same as "carbon" in some cases. It's technically a composite material of carbon and resin that's weaved like a paper-mache, so different patterned weaves, thicknesses, and even directions can actually change the ride dynamics quite dramatically.
 
-![Carbon layup diagram showing differences in weave patterns](/img/2020/10/carbon_layup.jpg "From a random carbon supplier online")
+{{< figresize src="/img/2020/10/carbon_layup.jpg" alt="Carbon layup diagram showing differences in weave patterns" width="50%" title="From a random carbon supplier online">}}
 
 This means higher end frames will have a "better grade" carbon compared to their other carbon frames, with peppered in phrases like "12k weave" that each refer to these specifics. Manufacturers need to balance stiffness and strength in a frame with overall weight, but everyone wants the lightest bike possible.
 
@@ -40,12 +42,12 @@ Local bike shops are a wonderful, local resource that you should have access to.
 
 When I got my Giant TCR, I was recommended [Fullerton Bicycles](https://www.yelp.com/biz/fullerton-bicycles-company-fullerton-2). While it was a bit of a drive away for me at the time, I had a fantastic experience with them, and even got to know the owner very well. It's a phenomenal shop [that I personally highly recommend](https://www.yelp.com/biz/fullerton-bicycles-company-fullerton-2?hrid=cZX8BOVfxDr2Da89h0qgOQ&utm_campaign=www_review_share_popup&utm_medium=copy_link&utm_source=(direct)) if you're in the Southern California area.
 
-![Man in front of action figures saying awesome gif](/img/2020/10/awesome.gif#center "Awesome!")
+{{< figresize src="/img/2020/10/awesome.gif" alt="Man in front of action figures saying awesome gif" width="50%" title="Awesome!" >}}
 
 ## Brands and Shops
 Some shops specialize in particular kinds of bikes (usually road cycling or mountain biking), and some specialize in a particular brand, as they are typically distributors for said brand. In my experience, you're likely to find a Trek shop, a Specialized shop, or a Giant shop, if you find a shop that is more directly focused in on one brand. Other shops that do not necessarily have these brands will often carry a wider variety of bikes, some being more of the boutique variety such as Factor, Cannondale, or Italian brands like Bianchi and Colnago. Unfortunately they don't always have as much variety within the brand you may be most interested in, but I'm sure would be happy to help you place an order with the bike of your dreams.
 
-![Man dreaming of bicycles with a bike in his bed with him](/img/2020/10/dreams.jpeg#center "I think I do this often.")
+{{< figresize src="/img/2020/10/dreams.jpeg" alt="Man dreaming of bicycles with a bike in his bed with him" width="50%" title="I think I do this often." >}}
 
 Bike shops can have a reputation for being a bit snooty, but I've found that if you're honest, show that you want to learn about their products, and are genuine, they'll be helpful back. Just like most other retail establishments, be a good customer, don't occupy too much of their time if they're busy, and you shouldn't have any problems.
 
@@ -94,4 +96,5 @@ And shopping at a local shop will often be an easy way to find a good, local bik
 # Now don't overthink it, just go ride!
 Once you have the bike and some basic accessories, go get to it! There will be time for you to get more parts and accessories (like good bib shorts, for example), and you'll learn over time what you like and don't like. Ride safely, familiarize yourself with the rules of the road, and enjoy reliving that childlike wonder of freedom from on top of two wheels!
 
-![Awkward Yeti comic with Bike Parts used at a Y in the road](/img/2020/10/awkward_yeti_comic.jpg#center "Hooray, let's go ride our new stuff!")
+{{< figresize src="/img/2020/10/awkward_yeti_comic.jpg" alt="Awkward Yeti comic with Bike Parts used at a Y in the road" width="50%" title="Hooray, let's go ride our new stuff!">}}
+<!-- ![Awkward Yeti comic with Bike Parts used at a Y in the road](/img/2020/10/awkward_yeti_comic.jpg#center "Hooray, let's go ride our new stuff!") -->

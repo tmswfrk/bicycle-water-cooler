@@ -3,9 +3,9 @@ title: "Product Review: Paul Smith Custom Kask Utopia"
 date: 2020-10-31T11:56:01-07:00
 subtitle: "I feel so Gucci wearing this."
 description: "Non-sponsored product review of a custom colored Kask Utopia bicycle helmet, created by clothing brand and bicycle enthusiast Paul Smith"
-featured: "reviews/PaulSmithKaskUtopia/OLH.jpg"
-featuredalt: "Paul Smith custom Kask Utopia bicycle helmet sitting on a set of bicycle handlebars. Image contains: Factor O2 VAM bicycle, multicolored rainbow Paul Smith Kask Utopia helmet, redwood trees, Skyline Blvd, Old La Honda Road."
-categories: ["Product Reviews", "New Experiences", "New Gear"]
+image: "/img/reviews/PaulSmithKaskUtopia/OLH.jpg"
+imagealt: "Paul Smith custom Kask Utopia bicycle helmet sitting on a set of bicycle handlebars. Image contains: Factor O2 VAM bicycle, multicolored rainbow Paul Smith Kask Utopia helmet, redwood trees, Skyline Blvd, Old La Honda Road."
+categories: ["Product Reviews"]
 tags: ["Kask", "Helmet", "Product Review"]
 keywords: ["Paul Smith Custom Kask Utopia Helmet", "Custom gear for your ride", "Unique products for your bike"]
 draft: false
@@ -46,7 +46,7 @@ The first run of these apparently immediately sold out. Because _of course_ it d
 
 He even said they may have had some over in their Los Angeles store, and since that was on my way home for a July 4th trip I was already planning, I even offered to go there to get one. That didn't really pan out, though, as inventory during 2020 basically is no longer something most stores can manage.
 
-![A stock image gif of a dumpster on fire representing the 2020 calendar year](/img/reviews/PaulSmithKaskUtopia/fire.gif#center "Accurate portrayal of 2020")
+{{< figresize src="/img/reviews/PaulSmithKaskUtopia/fire.gif" alt="A stock image gif of a dumpster on fire representing the 2020 calendar year" width=50% title="Accurate portrayal of 2020" >}}
 
 I actually never really heard back from them directly, but did put in a notification alert on the availability of this item on their website. This ended up working out a bit easier. As soon as I got the email, I immediately ordered this thing.
 
@@ -87,7 +87,7 @@ While I don't obviously have data on this particular helmet as to its long term 
 ### Price
 This one is a bit on a high side. You can get the Kask Utopia on sale every so often, depending on where they are with supplies and the product cycle, but this one likely isn't going on sale any time soon. It's an exclusive product. And you feel very exclusive wearing it.
 
-![Bike blinged out in stereotypical fashion](/img/reviews/PaulSmithKaskUtopia/bling.jpg#center "What we're all basically going for in our own way")
+{{< figresize src="/img/reviews/PaulSmithKaskUtopia/bling.jpg" alt="Bike blinged out in stereotypical fashion" width=50% title="What we're all basically going for in our own way" >}}
 
 At least I do. And so it's easy for me to justify!
 
