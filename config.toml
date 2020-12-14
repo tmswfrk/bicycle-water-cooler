@@ -12,7 +12,6 @@ pluralizeListTitles     = false
 disableLanguages        = [""]
 enableRobotsTXT         = true
 canonifyURLs            = true
-disableDarkMode         = true
 
 [author]
   name = "James Clarke"
@@ -25,13 +24,15 @@ disableDarkMode         = true
   reviews = "/:section/:year/:month/:title/"
 
 [params]
-  logo     = "/img/main/bwc_350x116_light.png"
-  # logo_dark      = "/img/main/bwc_350x116_dark.png"
-  logoAlt      = "Logo for the Bicycle Water Cooler website, a virtual water cooler conversation about bikes, travel, and all things related to cycling."
-  ga_analytics = "UA-172930899-1"
-  mainSections = ["blog"]
-  copyright    = "James Clarke"
-  customCss = ["css/custom.css"] # come back to this? implement grid for bikebox pics
+  logo            = "/img/main/bwc_350x116_light.png"
+  logo_dark       = "/img/main/bwc_350x116_dark.png"
+  oglogo          = "/img/main/bwc_oglogo.jpg"
+  # disableDarkMode = true
+  logoAlt         = "Logo for the Bicycle Water Cooler website, a virtual water cooler conversation about bikes, travel, and all things related to cycling."
+  ga_analytics    = "UA-172930899-1"
+  mainSections    = ["blog"]
+  copyright       = "James Clarke"
+  customCss       = ["css/custom.css"] # come back to this? implement grid for bikebox pics
 
   # Add additional section names to mainSections to include posts from
   # those sections on the homepage.

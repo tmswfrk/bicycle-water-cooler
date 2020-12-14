@@ -13,8 +13,6 @@ draft: false
 # How brands will sell you these bikes
 There are a lot of bike manufacturers out there, most of which actually all make their frames in shops owned by either Trek or Giant out in Taiwan or China. As such, you'll find that a lot of the lines across bike manufacturers seem to ring familiar, as there are a lot of similarities from "race frame" to "race frame" and from "endurance frame" to "endurance frame".
 
-{{< picture "/img/main/bwc_350x116_light.png" "dark.jpg" "alt text" >}}
-
 ## There are "levels" of each of these frames
 From my past experience in purchasing a Giant bike, you'll typically see similar categorization like you would car models. Beyond the actual bike frame model (i.e., "TCR" or "Emonda"), you'll notice that:
 
