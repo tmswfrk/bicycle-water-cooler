@@ -1,1 +1,20 @@
-<p style='text-align:center'><iframe width="750" height="421" title="{{.Get 0}}" src="{{.Get 1}}" alt="{{.Get 2}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p style='text-align:center'>
+    <iframe height="421" width="100%" title="{{.Get 0}}" src="{{.Get 1}}" alt="{{.Get 2}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen id="YouTubeIFrame"></iframe>
+    <script>
+        // Selecting the iframe element
+        var frame = document.getElementById("YouTubeIFrame");
+
+        // Adjusting the iframe height onload event
+        frame.onload = function() {
+          // set the height of the iframe as
+          // the height of the iframe content
+          frame.style.height =
+          frame.contentWindow.document.body.scrollHeight + 'px';
+
+          // set the width of the iframe as the
+          // width of the iframe content
+          frame.style.width =
+          frame.contentWindow.document.body.scrollWidth+'px';
+        }
+    </script>
+</p>
