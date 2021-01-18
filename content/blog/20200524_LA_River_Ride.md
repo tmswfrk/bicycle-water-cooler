@@ -27,7 +27,7 @@ Cut to several months later, after I had moved to Costa Mesa, I found myself get
 
 ### I still liked cycling more
 
-I still wasn't a big fan of running itself though. Just too slow sometimes. A great workout, but it was always a bit on the, how do I put it, _stressful_ side for me. It's hard on my body. Either way, history happened, I [got into cycling](/blog/20200520), and I started really enjoying what I was doing. 
+I still wasn't a big fan of running itself though. Just too slow sometimes. A great workout, but it was always a bit on the, how do I put it, _stressful_ side for me. It's hard on my body. Either way, history happened, I [got into cycling](/blog/2020/05/my-story-how-i-got-into-cycling/), and I started really enjoying what I was doing. 
 
 My competitive nature (and buddy) got to the best of me. We found ourselves exploring Newport Beach. _A lot_. And it was wonderful. I was buying upgrades to my bike already and was even riding at night when scheduling wouldn't permit me to ride during the day.
 
