@@ -1,7 +1,7 @@
 ---
 title: "Buying your first Road Bike, Part 3: Marketing"
 date: 2020-10-08T21:23:17-07:00
-subtitle: "Marketing and demo days. The fun stuff."
+summary: "Marketing and demo days. The fun stuff."
 description: "Besides the frame and the components, deciding on a bike manufacturer may take some research. Understanding the marketing around bikes is important, and so is supporting your local bike shop."
 image: "/img/2020/10/2017_Sea_Otter_Classic.jpg"
 imagealt: "A bike event expo at the Sea Otter Classic in 2017 at the Laguna Seca Raceway near Monterey, CA. Image contains: banners for bike manufacturers, people walking, bicycles, tents showcasing new cycling related products, DT Swiss, Magura, Lake, and others."

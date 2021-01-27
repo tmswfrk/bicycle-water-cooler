@@ -1,7 +1,7 @@
 ---
 title: "Favorite Rides: Old La Honda"
 date: 2020-12-14T18:05:29-08:00
-subtitle: "A great 3 mile climb that's considered a benchmark of the Bay Area"
+summary: "A great 3 mile climb that's considered a benchmark of the Bay Area"
 description: "One of my favorite rides in the Bay Area, Old La Honda road is a relatively well maintained and quiet road that nearly every cyclist in the area has done more than once."
 image: "/img/2020/12/factor_mailboxes.jpg"
 imagealt: "A bicycle leaning against a set of mailboxes at the top of Old La Honda road near Woodside, California. Image contains: bicycle, mailboxes, road, forest, trees."

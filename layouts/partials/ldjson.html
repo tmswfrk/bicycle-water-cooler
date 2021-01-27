@@ -5,8 +5,8 @@
     "@type": "WebSite",
     "name": "{{ .Site.Title }}",
     "url": "{{ .Site.BaseURL }}",
-    "description": "{{ .Site.Params.description }}",
-    "thumbnailUrl": "{{ .Site.Params.Logo | absURL }}",
+    "description": "{{ .Site.Params.Meta.Description }}",
+    "thumbnailUrl": "{{ "/img/about/vaujany.jpg" | absURL }}"
     "license": "{{ .Site.Params.Copyright }}"
 }
 </script>
@@ -56,7 +56,7 @@
             "height":"32"
         }
     },
-    "image": {{ if .Params.images }}[{{ range $i, $e := .Params.images }}{{ if $i }}, {{ end }}{{ $e | absURL }}{{ end }}]{{ else}}{{.Site.Params.logo | absURL }}{{ end }},
+    "image": {{if .Params.image}}"{{ .Params.image | absURL }}"{{else}}{{ "img/about/vaujany.jpg" | absURL}}{{end}},
     "url" : "{{ .Permalink }}",
     "wordCount" : "{{ .WordCount }}",
     "genre" : [ {{ range $index, $tag := .Params.tags }}{{ if $index }}, {{ end }}"{{ $tag }}" {{ end }}],

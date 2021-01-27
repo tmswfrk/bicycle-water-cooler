@@ -1,7 +1,7 @@
 ---
 title: "Getting around with a Bike Box"
 date: 2020-08-02T16:25:09-07:00
-subtitle: "Because why not bring your wonderful bike to a new and exciting destination?"
+summary: "Because why not bring your wonderful bike to a new and exciting destination?"
 description: "Getting around with a bike carrier can be tricky in some international destinations like Europe. But with some planning, it doesn't have to be difficult."
 image: "/img/2020/08/girona_hotel_room.jpg"
 imagealt: "Giant TCR with BikeBoxAlan bike case in a hotel room in Girona, Spain. Image contains: Giant TCR bicycle, BikeBoxAlan bike box case, hotel bedroom, tool bag, charging cables"

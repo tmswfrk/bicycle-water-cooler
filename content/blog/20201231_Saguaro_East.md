@@ -1,13 +1,13 @@
 ---
-title: "One more must do in Tucson: Saguaro East National Park"
+title: "One more must do ride in Tucson: Saguaro East National Park"
 date: 2020-12-31T16:53:51-08:00
-subtitle: "If you're in Tucson and like to ride, this is an easy and amazing ride."
+summary: "If you're in Tucson and like to ride, this is an easy and amazing ride."
 description: "The east side of Saguaro National Park is easily reachable, both in distance and in skill level of cyclist. A well worthwhile ride if you're in the area."
 image: "/img/2020/12/saguaro_east.jpg"
 imagealt: "Cycling caution sign showing block character falling on head in Saguaro National Park East near Tucson, Arizona. Image contains: road sign, cactus, desert landscape."
 categories: ["Epic Rides"]
 tags: ["Saguaro East National Park", "Colossal Cave", "Airplane Boneyards", "Tucson, Arizona"]
-keywords: ["Tucson, Arizona road cycling", "Cycling Saguaro National Park"]
+keywords: ["Tucson Arizona road cycling", "Cycling Saguaro National Park", "Colossal Cave ride", "Airplane graveyard", "Pima Air and Space Museum"]
 draft: false
 ---
 # One final route in Tucson

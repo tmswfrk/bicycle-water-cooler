@@ -1,7 +1,7 @@
 ---
 title: "Some thoughts on Zwift"
 date: 2020-05-30T17:04:39-07:00
-subtitle: "I have a lot of thoughts on this one."
+summary: "I have a lot of thoughts on this one."
 description: "Technology can be used to effectively train for general fitness or a specific goal. Zwift is fitness, gamified, and everyone can do it."
 image: "/img/2020/05/zwift_gorby.jpeg"
 imagealt: "A virtual avatar of a cyclist cycling through Watopia in Zwift online. Image contains: virtual rider, virtual riding, Zwift, Watopia world, power data"

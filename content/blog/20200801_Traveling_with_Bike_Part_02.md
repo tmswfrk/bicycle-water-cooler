@@ -1,7 +1,7 @@
 ---
 title: "Traveling With Your Bike, Part 2: By Plane"
 date: 2020-08-01T17:04:58-07:00
-subtitle: "The next horizon when it comes to traveling with your bike"
+summary: "The next horizon when it comes to traveling with your bike"
 description: "How do you travel internationally with a bicycle? With some careful planning and some basic knowledge, bringing your bike with you on an airplane is easy."
 image: "/img/2020/08/bikeboxalan_packedup.jpg"
 imagealt: "Bike packed into a BikeBoxAlan bike box ready for intercontinental travel to Europe. Image contains: BikeBoxAlan bike box, packed bicycle, stickers, American flag, Mavic logo"

@@ -1,13 +1,13 @@
 ---
 title: "Another Gem From Tucson: Gate's Pass"
 date: 2020-12-30T20:42:52-08:00
-subtitle: "You definitely don't want to miss this one."
+summary: "You definitely don't want to miss this one."
 description: "Gate's Pass is a relatively reasonable climb near Tucson that literally sparks joy in cyclists who ride it. With wonderful road quality and incredible views, it leaves its impression."
 image: "/img/2020/12/gates_pass.jpg"
 imagealt: "Outlook over Gate's Pass near Tucson, Arizona. Image contains: Saguaro cactuses, hiking trail, mountains, desert view."
 categories: ["Epic Rides"]
 tags: ["Saguaro National Park West", "Gate's Pass", "Tucson, Arizona"]
-keywords: ["Tucson, Arizona road cycling", "Best bicycle rides in Tucson, Arizona"]
+keywords: ["Tucson Arizona road cycling", "Best bicycle rides in Tucson, Arizona", "Gate's Pass riding", "Old Tucson"]
 draft: false
 ---
 # Another fantastic ride in Tucson

@@ -1,7 +1,7 @@
 ---
 title: "My first cycling event: The LA River Ride"
 date: 2020-05-24T16:16:50-07:00
-subtitle: "A fun first timer's ride."
+summary: "A fun first timer's ride."
 description: "Los Angeles River Ride review: a great beginner's ride through some unique and historic parts of Los Angeles county."
 image: "/img/reviews/LARiverRide/lariverride01.jpg"
 imagealt: "Panoramic view of Long Beach harbor with cyclists and event booths during the 2013 Los Angeles River Ride"
