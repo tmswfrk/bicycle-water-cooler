@@ -2,9 +2,9 @@
 title: "Some thoughts on Zwift"
 date: 2020-05-30T17:04:39-07:00
 summary: "I have a lot of thoughts on this one."
-description: "Technology can be used to effectively train for general fitness or a specific goal. Zwift is fitness, gamified, and everyone can do it."
+description: "My thoughts on Zwift, the indoor fitness training phenomenon that's actually fun."
 image: "/img/2020/05/zwift_gorby.jpeg"
-imagealt: "A virtual avatar of a cyclist cycling through Watopia in Zwift online. Image contains: virtual rider, virtual riding, Zwift, Watopia world, power data"
+imagealt: "My thoughts on Zwift, the indoor fitness training phenomenon that's actually fun. Image contains: virtual rider, virtual riding, Zwift, Watopia."
 categories: ["Virtual Training and Riding"]
 tags: ["Zwift", "Virtual Riding"]
 keywords: ["Zwift", "riding a bike indoors", "riding a bike on a smart trainer", "indoor training on a bike"]

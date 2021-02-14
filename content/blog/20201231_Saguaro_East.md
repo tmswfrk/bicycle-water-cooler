@@ -2,9 +2,9 @@
 title: "One more must do ride in Tucson: Saguaro East National Park"
 date: 2020-12-31T16:53:51-08:00
 summary: "If you're in Tucson and like to ride, this is an easy and amazing ride."
-description: "The east side of Saguaro National Park is easily reachable, both in distance and in skill level of cyclist. A well worthwhile ride if you're in the area."
+description: "The east side of Saguaro National Park is easily reachable, both in distance and in skill level of cyclist."
 image: "/img/2020/12/saguaro_east.jpg"
-imagealt: "Cycling caution sign showing block character falling on head in Saguaro National Park East near Tucson, Arizona. Image contains: road sign, cactus, desert landscape."
+imagealt: "The east side of Saguaro National Park is easily reachable, both in distance and in skill level of cyclist. Image contains: road sign, cactus, desert landscape."
 categories: ["Epic Rides"]
 tags: ["Saguaro East National Park", "Colossal Cave", "Airplane Boneyards", "Tucson, Arizona"]
 keywords: ["Tucson Arizona road cycling", "Cycling Saguaro National Park", "Colossal Cave ride", "Airplane graveyard", "Pima Air and Space Museum"]
@@ -75,7 +75,7 @@ Another interesting tidbit about Tucson is that there are a ton of what they cal
 Since it's basically part of the outskirts of the city, and most of the roads around near there had bike lanes, we figured, why not incorporate this into our road back to the car?
 
 ### More of "The Loop"
-To get there, we actually took a few extra roads around through Vail, a fairly empty looking suburb way outside of Tucson (with apparently great schools), and picked up another section of The Loop to head back a bit closer towards the city. Specifically, this section was called the Julian Wash trail, and it was wonderful, too, for all the same reasons as I've written about in a [previous post](/blog/2020/12/another-gem-from-tucson-gates-pass/), but the trail itself felt a bit more remote by comparison.
+To get there, we actually took a few extra roads around through Vail, a fairly empty looking suburb way outside of Tucson (with apparently great schools), and picked up another section of The Loop to head back a bit closer towards the city. Specifically, this section was called the Julian Wash trail, and it was wonderful, too, for all the same reasons as I've written about in a [previous post]({{< ref "/blog/20201230_Gates_Pass.md" >}}), but the trail itself felt a bit more remote by comparison.
 
 {{< figresize src="/img/2020/12/joininghands.jpeg" alt="Cyclist looking out over the Joining Hands monument along the Julian Wash portion of the Loop trail in Tucson, Arizona" width=100% title="Pretty sweet. This is just one of many installations along the Loop!" >}}
 
@@ -107,6 +107,6 @@ I guess that was really the phrase of the day, huh?
 Don't forget to grab a pic of the sign at the entrance if you haven't already!
 
 ## Overall Thoughts?
-Yup, Tucson is pretty great for cycling. I'm shocked at how much was out there, from [Mount Lemmon](/blog/2020/12/the-arizona-alpe-that-is-mount-lemmon/), to the [west side](blog/2020/12/another-gem-from-tucson-gates-pass/), to what we saw on this day over on the east side. Despite not usually feeling comfortable being so isolated from civilization, I was shocked that I never felt like that at any point during this ride, so you shouldn't either.
+Yup, Tucson is pretty great for cycling. I'm shocked at how much was out there, from [Mount Lemmon]({{< ref "/blog/20201228_Mt_Lemmon.md" >}}), to the [west side](blog/2020/12/another-gem-from-tucson-gates-pass/), to what we saw on this day over on the east side. Despite not usually feeling comfortable being so isolated from civilization, I was shocked that I never felt like that at any point during this ride, so you shouldn't either.
 
 If you have any desire to go riding out near Tucson, I definitely recommend it. At this point, I can absolutely see why so many professional riders make their way out to Tucson each year for their winter training!

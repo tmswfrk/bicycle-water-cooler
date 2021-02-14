@@ -1,10 +1,10 @@
 ---
-title: "Buying your first Road Bike, Part 2: Components"
+title: "Road Bike Buyer's Guide: Components"
 date: 2020-10-07T21:21:39-07:00
 summary: "Next, let's consider your components."
 description: "Beyond just picking a frame for a new bicycle purchase, it's important to consider what kind of components you will want to have."
 image: "/img/2020/10/drivetrain.jpg"
-imagealt: "Factor O2 VAM bicycle in a bike stand with Shimano Dura Ace component groupset with BBInfinite red jockey wheels and a Pioneer Power Meter. Image contains: Factor O2 VAM, BBInfinite red jockey rear derailleur wheels, Pioneer Power Meter, Shimano Dura Ace grouposet, Arundel bottle cages, Feedback Sports bike stand."
+imagealt: "Beyond just picking a frame for a new bicycle purchase, it's important to consider what kind of components you will want to have. Image contains: Factor O2 VAM, BBInfinite red jockey rear derailleur wheels, Pioneer Power Meter, Shimano Dura Ace grouposet, Arundel bottle cages, Feedback Sports bike stand."
 categories: ["Cycling Guides"]
 tags: ["New Rider Tips", "Purchasing a Bike"]
 keywords: ["How to buy your first road bike", "What components do I need on a bike", "Shimano or SRAM", "What kind of gearing do I need"]

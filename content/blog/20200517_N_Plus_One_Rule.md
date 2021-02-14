@@ -1,10 +1,10 @@
 ---
-title: "The N+1 Rule"
+title: "The \"N Plus One\" Rule"
 date: 2020-05-17T17:40:30-07:00
 summary: "What do I ride, you ask? Well, let me introduce to you my N+1 stable."
-description: "Do you follow the Cyclist's N+1 rule? Let's talk about what bikes you should own and why N+1 is the correct number of bicycles to own."
+description: "The proper number of bikes to own is N+1, where N is equal to the current number of bikes you currently have."
 image: "/img/2020/05/stable.jpg"
-imagealt: "Stable of bikes satisfying the N+1 rule of cycling in a spare bedroom. Image contains: couch, Giant TCR, bicycle trainer, hats, tube map, cycling route, bikes on wall"
+imagealt: "The proper number of bikes to own is N+1, where N is equal to the current number of bikes you currently have. Image contains: Giant TCR bike, Cycleops Hammer trainer, subway-inspired tube map, bike hats."
 categories: ["Cycling Gear"]
 tags: ["N+1", "Giant TCR", "Factor O2 VAM"]
 keywords: ["the N+1 rule", "what bikes I have", "what bike gear I use", "how many bikes do I need"]

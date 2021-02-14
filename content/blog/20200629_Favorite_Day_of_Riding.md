@@ -1,10 +1,10 @@
 ---
 title: "My Favorite Day of Riding...Ever"
 date: 2020-06-29T21:11:09-07:00
-summary: "Reminiscing is always fun"
-description: "A bicycle enthusiast's pilgrimage ride near Lake, Como, Italy looping through Bellagio, visiting the Museo del Ciclismo, and tackling the Muro di Sormano."
+summary: "Lake Como, Bellagio, Museo del Ciclismo, the Muro di Sormano, and gelato."
+description: "It was a truly magnificent cycling adventure around Lake Como in Italy, looping through Bellagio, visiting the Museo del Ciclismo, and tackling the Muro di Sormano."
 image: "/img/2020/06/Como.jpg"
-imagealt: "Factor O2 VAM bicycle against a fence overlooking Lake, Como, Italy on July 29th, 2019. Image contains: bike, Lake Como, Italian mountains, fence, disc brakes, Rapha water bottles."
+imagealt: "It was a truly magnificent cycling adventure around Lake Como in Italy. Image contains: bike, Lake Como, Italian mountains, fence, disc brakes, Rapha water bottles."
 categories: ["Epic Rides"]
 tags: ["Italy", "Epic Riding", "Climbing", "Factor O2 VAM"]
 keywords: ["Riding a bike in Italy", "Madonna del Ghisallo climb", "Muro di Sormano climb", "Lake Como Cycling", "Bellagio Italy Cycling"]

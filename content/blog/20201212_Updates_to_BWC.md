@@ -4,7 +4,7 @@ date: 2020-12-12T18:36:40-08:00
 summary: "It's been a while."
 description: "Quick update on the status of the www.bicyclewatercooler.com website, with an updated theme."
 image: "/img/2020/12/GGB.jpg"
-imagealt: "Cannondale Synapse and Factor O2 VAM bikes parked at the Golden Gate visitor's center parking lot with a view of the Golden Gate Bridge in San Francisco, California"
+imagealt: "Quick update on the status of the www.bicyclewatercooler.com website, with an updated theme. Image contains: Cannondale Synapse, Factor O2 VAM, Golden Gate Bridge, San Francisco."
 categories: ["Website Related"]
 tags: ["Welcome"]
 keywords: ["Golang Hugo Static WebSite Generator", "Bicycle Water Cooler", "Blog"]

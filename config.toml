@@ -30,7 +30,7 @@ canonifyURLs            = true
   logo_dark       = "/img/main/bwc_350x116_dark.png"
   oglogo          = "/img/main/bwc_oglogo.jpg"
   # disableDarkMode = true
-  logoAlt         = "Bicycle Water Cooler, a virtual water cooler conversation about bikes, travel, and all things related to cycling."
+  logoAlt         = "Join the virtual water cooler conversation about bikes, travel, and tech."
   ga_analytics    = "UA-172930899-1"
   mainSections    = ["blog"]
   copyright       = "James Clarke"
@@ -64,7 +64,8 @@ canonifyURLs            = true
     # Sets the meta tag description
     # V1 - no longer used
     #description         = "A virtual water cooler conversation about all things cycling: the tech, travel, and the ride you did last weekend."
-    description         = "Welcome to the Bicycle Water Cooler, your online cycling resource for reviews, technology, discussions, and travel ideas for you and your bicycle."
+    # description         = "Welcome to the Bicycle Water Cooler, your online cycling resource for reviews, technology, discussions, and travel ideas for you and your bicycle."
+    description         = "Bicycle Water Cooler | Biking, Travel, Tech, and Talk"
     # Sets the meta tag author
     author              = "James Clarke"
     keywords            = ["Bicycle Water Cooler", "Cycling Blog", "Bike Traveling", "Bike how to", "Golang Hugo", "Product Reviews", "Bike Event Reviews"]

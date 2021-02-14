@@ -1,10 +1,10 @@
 ---
-title: "Buying your first Road Bike, Part 1: Frames"
+title: "Road Bike Buyer's Guide: Frames"
 date: 2020-10-06T19:49:10-07:00
 summary: "Let's take this one step at a time, starting with the frame."
-description: "Ever wanted to get into road biking for fitness and exploration? Here's a how-to guide in getting started."
+description: "A beginner's guide to understanding how to buy the main component of your road bike."
 image: "/img/2020/10/huddart_park.jpg"
-imagealt: "Two bicycle riders near Huddart Park in Woodside, California. Image contains: Factor O2 VAM, Specialized Roubaix, trees, filtered light, road, bicycle riders, bicycle helmet."
+imagealt: "A beginner's guide to understanding how to buy the main component of your road bike. Image contains: Factor O2 VAM, Specialized Roubaix, trees, filtered light, road, bicycle riders, bicycle helmet."
 categories: ["Cycling Guides"]
 tags: ["New Rider Tips", "Purchasing a Bike"]
 keywords: ["How to buy your first road bike", "what bike should I buy", "what kind of bikes are there"]
