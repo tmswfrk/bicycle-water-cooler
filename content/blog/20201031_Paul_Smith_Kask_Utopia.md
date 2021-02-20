@@ -18,7 +18,7 @@ At this point, I've had several bike helmets from [Kask](https://www.kask.com/).
 
 Basically the strap connector around your chin actually clips around the side of your face, as opposed to directly underneath your chin. I remember always hating that feeling as a kid whenever I rode a bike with a helmet, so this certainly appealed to me.
 
-I've owned a [Kask Vertigo](https://amzn.to/3jIEWL9) and a [Kask Protone](https://amzn.to/31XWmxC), both fantastic helmets. Upgrading from each of them was done largely as an aesthetic choice. However, it's also a good idea to replace a well used helmet after about 2 or 3 years of usage anyway, even if not involved in any kind of spill or crash.
+I've owned a [Kask Vertigo](https://www.kask.com/media/download/img_1305.pdf) and a [Kask Protone](https://amzn.to/3sib3WZ), both fantastic helmets. Upgrading from each of them was done largely as an aesthetic choice. However, it's also a good idea to replace a well used helmet after about 2 or 3 years of usage anyway, even if not involved in any kind of spill or crash.
 
 ![Bicycle rider wearing a Kask Protone bicycle helmet on Canada road](/img/reviews/PaulSmithKaskUtopia/protone.jpg#center "I actually took this photo because I wanted to check if I had a bug lodged in one of those big ol' vents!")
 

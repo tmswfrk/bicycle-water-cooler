@@ -20,15 +20,15 @@ Bikes are actually quite simple, generally speaking. Even though the newer techn
 * Wheels
 * Tires (yes, they're a different part than the wheels)
 * Pedals
-* [Crankset / Chainrings](https://amzn.to/3nGVI0t) (the front gears, usually two), which include the crank "arms" (where the pedals connect)
-* [Front Derailleur](https://amzn.to/34S0teZ), sitting just above the chainrings (a french term for the device that moves the chain over from one gear to the other)
-* [Chain](https://amzn.to/34MiwTY)
-* [Rear cassette / cogs](https://amzn.to/30ZQ8MV) (the gears in the back)
-* [Rear Derailleur](https://amzn.to/3dmOxG1), sitting just below the cassette (similar to the front)
+* [Crankset / Chainrings](https://amzn.to/3kfjFec) (the front gears, usually two), which include the crank "arms" (where the pedals connect)
+* [Front Derailleur](https://amzn.to/2NFFgQG), sitting just above the chainrings (a french term for the device that moves the chain over from one gear to the other)
+* [Chain](https://amzn.to/37vRt1e)
+* [Rear cassette / cogs](https://amzn.to/3dylamq) (the gears in the back)
+* [Rear Derailleur](https://amzn.to/3sbEFFl), sitting just below the cassette (similar to the front)
 * Brakes, both the calipers (the arms that grip the braking surface) and the pads (which are the part that actually contacts the braking surface)
-* [Disc brake rotors](https://amzn.to/33ORYCi), if using disc brakes
+* [Disc brake rotors](https://amzn.to/3qH2LY9), if using disc brakes
 * Cabling in some capacity, either mechanically actuated with cable tension or electrical cables that send signals to the components to move
-* [Shifter hoods](https://amzn.to/3iUW5km), which are what you grab on the handlebars to shift and brake
+* [Shifter hoods](https://amzn.to/37xQ6PD), which are what you grab on the handlebars to shift and brake
 
 Please note that the links above may or may not all line up with your custom build if you're going this route, so please feel free to [contact me]({{< ref "/contact.md" >}}) if you'd like more information!
 
