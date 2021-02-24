@@ -1,13 +1,15 @@
 - item: About Me
-  url: about/
+  url: "about/"
 # - item: "---"
 #   separator: "true"
+- item: Beginner's Guides
+  url: "categories/cycling-guides/"
 - item: Product Reviews
   url: "categories/product-reviews/"
 - item: Event Reviews
-  url: "categories/event-reviews"
+  url: "categories/event-reviews/"
 - item: My Favorite Rides
-  url: "categories/my-favorite-rides"
+  url: "categories/my-favorite-rides/"
 - item: Travel
   url: "categories/travel/"
 - item: Epic Rides
