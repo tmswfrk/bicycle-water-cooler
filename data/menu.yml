@@ -21,6 +21,9 @@
 - item: Strava Profile
   url: "https://www.strava.com/athletes/2228883"
   external: "true"
+- item: Instagram
+  url: "https://www.instagram.com/bicyclewatercooler"
+  external: "true"
 - item: My LinkedIn
   url: "https://www.linkedin.com/in/jmclarke10/"
   external: "true"
