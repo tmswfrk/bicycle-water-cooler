@@ -1,5 +1,5 @@
 ---
-title: "Paul Smith Custom Kask Utopia Review"
+title: "Paul Smith Custom Kask Utopia Helmet Review"
 date: 2020-10-31T11:56:01-07:00
 summary: "I feel so Gucci wearing this."
 description: "Non-sponsored product review of a custom colored Kask Utopia bicycle helmet, created by clothing brand and bicycle enthusiast Paul Smith"
