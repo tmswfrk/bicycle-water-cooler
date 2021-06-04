@@ -30,7 +30,8 @@ canonifyURLs            = true
   logo_dark       = "/img/main/bwc_350x116_dark.png"
   oglogo          = "/img/main/bwc_oglogo.jpg"
   # disableDarkMode = true
-  logoAlt         = "Bicycle Water Cooler | Join the virtual water cooler conversation about bikes, travel, and tech."
+  #logoAlt         = "Bicycle Water Cooler | Join the virtual water cooler conversation about bikes, travel, and tech."
+  logoAlt         = "Your online blog resource for bikes, travel, and tech. Come join the conversation."
   ga_analytics    = "UA-172930899-1"
   mainSections    = ["blog"]
   copyright       = "James Clarke"
@@ -58,14 +59,15 @@ canonifyURLs            = true
   # Options are twitter, facebook, reddit, linkedin, pinterest, email
   socialShare           = ["facebook", "reddit", "linkedin", "email"]
 
-  description = "Bicycle Water Cooler, a virtual water cooler conversation about all things cycling: the tech, travel, and the ride you did last weekend."
+  description = "Welcome to the Bicycle Water Cooler, your online water cooler conversation about all things cycling. Come join the conversation!"
 
   [params.meta]
     # Sets the meta tag description
     # V1 - no longer used
     #description         = "A virtual water cooler conversation about all things cycling: the tech, travel, and the ride you did last weekend."
     # description         = "Welcome to the Bicycle Water Cooler, your online cycling resource for reviews, technology, discussions, and travel ideas for you and your bicycle."
-    description         = "Bicycle Water Cooler | Biking, Travel, Tech, Reviews | Your online blogging resource for all things cycling"
+    #description         = "Bicycle Water Cooler | Biking, Travel, Tech, Reviews | Your online blogging resource for all things cycling"
+    description         = "Bicycle Water Cooler Blog | Biking, Travel, Tech, Reviews"
     # Sets the meta tag author
     author              = "James Clarke"
     keywords            = [

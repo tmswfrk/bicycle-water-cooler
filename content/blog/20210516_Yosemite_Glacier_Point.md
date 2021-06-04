@@ -5,13 +5,25 @@ summary: "An absolutely epic, must-do ride for your bucket list."
 description: "An early season ride up to one of the most fantastic viewpoints one can get to along a paved road, Glacier Point in Yosemite, overlooking Half Dome, the Yosemite backcountry, and many incredible waterfalls."
 # image: "/img/2021/05/Yosemite_Valley_Tunnel_View_Morning.jpg"
 image: "/img/2021/05/Yosemite_Valley_Tunnel_View_Afternoon.jpg"
-imagealt: "An early season bucket list ride to Glacier Point in Yosemite, California. Image contains: Tunnel View, bikes leaning against stone wall, Half Dome, El Capitan, Bridalveil Falls, Yosemite Valley."
+#imagealt: "An early season bucket list ride to Glacier Point in Yosemite, California. Image contains: Tunnel View, bikes leaning against stone wall, Half Dome, El Capitan, Bridalveil Falls, Yosemite Valley."
+imagealt: "An early season bucket list ride to Glacier Point in Yosemite, California. Let me tell you how it went!"
 categories: ["Epic Rides"]
 tags: ["Glacier Point", "Yosemite"]
-keywords: ["Glacier Point Bike Ride", "Bucket List ride", "Elevation training", "best time to visit Yosemite"]
+keywords: [
+    "The seriously epic ride that is Glacier Point, CA",
+    "Best time to visit Yosemite, CA",
+    "Glacier Point Bike Route",
+    "Where to stay in Yosemite, CA",
+    "Glacier Point Bike Ride",
+    "Biking through Yosemite Valley, CA",
+    "Tunnel View in Yosemite, CA",
+    "Bucket List ride",
+    "Elevation training",
+    "Biking to Glacier Point is Worth It",
+]
 draft: false
 ---
-# One Seriously Epic Ride
+# The Seriously Epic Ride that is Glacier Point
 Growing up in Southern California, especially with a father who absolutely adores Yosemite, I found myself up in Yosemite several times. Once or twice for camping, another couple times for some backcountry multi-day backpacking.
 
 The idea of riding up there, however, was a new concept for me. I've only been riding since 2013 or so, and given that it's been many years since I've been to Yosemite, this was a peculiar opportunity.
