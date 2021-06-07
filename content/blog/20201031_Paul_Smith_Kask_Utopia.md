@@ -79,7 +79,7 @@ Like with the other Kask helmets I've owned, I've basically "fit" into them with
 ### Aerodynamics
 It's the big name in cycling right now! This helmet claims to be faster than a lot of other helmets due to the way the wind slips over it. It also claims to be quieter, too, as the wind is less turbulent around your ears. After one ride that included some high speed descending, I think I noticed some of this, but it may have also been due to less wind than normal. Not sure. But it felt great, and while it may be a placebo effect still, I felt quiet stable in that high speed descending.
 
-{{< st "New Helmet Day!" "https://www.strava.com/activities/4263792118/embed/a24382bf120527c082c6d19ff2258945cab9a6c4" "Strava profile for New Helmet Day">}}
+{{< veloviewer id="4263792118" name="New Helmet Day!" >}}
 
 ### Long term
 While I don't obviously have data on this particular helmet as to its long term durability, I can say that my Protone is still holding up very well. I've had it for three years, ridden maybe 15k miles with it, and even with minimal cleaning (I always wear a cap under my helmets), it still looks pretty new. Only one side of the rear adjustable clamp has lost its (minimal) padding, which I honestly didn't even realize until a recent review I watched pointed out that this is common for this brand. Eh, oh well.

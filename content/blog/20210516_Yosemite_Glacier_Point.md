@@ -38,7 +38,7 @@ For 2021, after May 21st, Yosemite requires you to have a separate reservation p
 
 ## The Route
 There are a couple ways to do this, but this is what we settled on:
-{{< st "Yosemite Valley and Glacier Point!" "https://www.strava.com/activities/5259258957/embed/dcc10e9c9e622b54ba12c121e58ede1b05b8621e" "Strava cycling profile for James Clarke" >}}
+{{< veloviewer id="5259258957" name="Yosemite Valley and Glacier Point!" >}}
 
 To sum up, the most common ways people do this ride:
 

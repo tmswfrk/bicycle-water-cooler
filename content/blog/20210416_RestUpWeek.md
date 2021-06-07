@@ -34,7 +34,7 @@ My first day was perhaps the primary inspiration for me in choosing Cambria as m
 
 I've been wanting to do a ride along the coast up towards Big Sur for a long while now, but have balked at it many times because the road through there is basically terrible when it comes to safety as a cyclist. However, the road is occasionally closed when the road washes out at various points along the coastline. And while I don't want to take joy in destruction of public roads, [this one](https://voicesofmontereybay.org/2021/03/05/reconstruction-at-rat-creek/) gave me the opportunity to go riding along that section of road with very few annoying cars.
 
-{{< st "RestUp Week Solo Ride Part 1: Cambria to Gorda bike rider's strava profile" "https://www.strava.com/activities/5081837155/embed/36fe4084ef5d8af04f544b779718dfcd4c9bf87c" "Strava cycling profile for RestUp Week Solo Ride Part 1: Cambria to Gorda">}}
+{{< veloviewer id="5081837155" name="Part 1: Cambria to Gorda" >}}
 
 I rode 35 miles up, fighting headwind, and 35 miles back, enjoying a crazy tailwind, which made the return to my hotel a literal breeze. Follow the ride details in the RWGPS link above (or follow mine) and make sure to take note of [Hearst Castle](https://www.google.com/maps/place/Hearst+Castle/@35.6852119,-121.1704191,17z/data=!3m1!4b1!4m5!3m4!1s0x8092cc9dce68ea8b:0xc07bc62555ca2e20!8m2!3d35.6852076!4d-121.1682251) (a cool place to take a tour of!), [Piedra Blancas lighthouse](https://www.google.com/maps/place/Piedras+Blancas+Light+Station/@35.6701693,-121.2806539,17z/data=!3m1!4b1!4m5!3m4!1s0x8092cabedd92b94b:0xafd2902e88267122!8m2!3d35.670165!4d-121.2784599), and some of the trails listed off the side of the road such as [Salmon Creek](https://www.google.com/maps/place/Salmon+Creek+Trailhead/@35.8157099,-121.3609591,17z/data=!3m1!4b1!4m5!3m4!1s0x8092bbd94008f3a7:0x46563d53bd4d18aa!8m2!3d35.8157056!4d-121.3587651) and [Soda Springs](https://www.google.com/maps/place/Soda+Springs+Trailhead/@35.8217758,-121.376591,17z/data=!3m1!4b1!4m5!3m4!1s0x8092bbeb7e5754ab:0xdb4dc65f9b66729f!8m2!3d35.8217715!4d-121.374397) trails. Oh, and don't forget to stop in and say hello to the [elephant seals](https://www.google.com/maps/place/Elephant+Seal+Vista+Point/@35.6629694,-121.2599184,17z/data=!3m1!4b1!4m5!3m4!1s0x8092ca9b580dc385:0x56b9da1aa6ed2816!8m2!3d35.6629651!4d-121.2577244) on your way back, too!
 
@@ -72,7 +72,7 @@ And say hello to the kind man at the [Ragged Point Restaurant](https://www.ragge
 # Ride Two: Cambria to Cayucos Loop
 A few months back, I saw this ride mentioned in a few places within a fairly short amount of time. A buddy of mine did it and then I noticed that [Phil Gaimon](https://www.youtube.com/watch?v=kAwMZBmDGj0) and [Tyler Pierce (The Vegan Cyclist)](https://www.youtube.com/watch?v=CtKWKa9YhUc) did it (together) as well. I was near Cambria, and since I had just previously ridden along the coast, seeing something inland was definitely next on my list. This particular ride was also mentioned on nearly every one of my reference websites.
 
-{{< st "RestUp Week Solo Ride Part 2: Santa Rosa Creek to Cayucos and Morro Bay bike rider's strava profile" "https://www.strava.com/activities/5087744340/embed/568b070fcbbf9950aafc16862d267fcfa78e5ae8" "Strava cycling profile for RestUp Week Solo Ride Part 2: Santa Rosa Creek to Cayucos and Morro Bay">}}
+{{< veloviewer id="5087744340" name="Part 2: Santa Rosa Creek to Cayucos and Morro Bay" >}}
 
 ## Watch out for "The Wall"
 Stop in at [Cambria Coffee Roasting Company](https://www.cambriacoffeesales.com/) then head out past [Stolo Winery](https://www.stolofamilyvineyards.com/) (come back for a tasting!) and [Linne's Farm Store](https://visitcambriaca.com/itinerary-element/linns-farm-store/), then enjoy some beautiful, quiet, rollers following the Santa Rosa Creek. It's fantastic out there, and you'll very likely see more turkeys than people!
@@ -109,7 +109,7 @@ The last hill before the Cambria city limit sign is a bit tough at the end of it
 # Ride Three: Paso Robles
 After a hearty meal at [Robin's Restaurant](https://www.robinsrestaurant.com/) (try the salmon bisque!), I took the next morning to recover a bit before heading out to Paso Robles, about an hour's drive away. My ride plans for the following day included a route surprisingly close to my previous ride's, but also touched on a few other highlights that I had heard from others. I also managed to go along some roads I drove through a few months prior on a different trip! 
 
-{{< st "RestUp Week Solo Ride Part 3: Touring the Paso Robles Wine Country bike rider's strava profile" "https://www.strava.com/activities/5098647256/embed/a6c9129c795c8c6962c3978034aa1d43a7b61306" "Strava cycling profile for RestUp Week Solo Ride Part 3: Touring the Paso Robles Wine Country">}}
+{{< veloviewer id="5098647256" name="Part 3: Touring the Paso Robles Wine Country" >}}
 
 After a great breakfast sandwich at [AMSTRDM](https://www.amstrdmpaso.com/), it was time to head out!
 
@@ -156,7 +156,7 @@ The roads were glassy smooth, the wind was in my favor, and I got to experience 
 # Ride Four: Recovery Day in Carmel
 My girlfriend and I have been wanting to do 17 Mile Drive in Carmel for a long while now. For whatever reason, it's just never worked out for us both. Well, we made it work this time! I took off from Paso Robles the following morning and she met me in Carmel. After we got situated with the hotel, we were able to take advantage of the later light of the day and finally did the ride we've been wanting to do.
 
-{{< st "RestUp Week Solo Ride Part 4: Recovery with Aarika on 17 Mile Drive bike rider's strava profile" "https://www.strava.com/activities/5105367818/embed/23e6f2bb08ce708cf2ccaeb010a0bff5b9dfea52" "Strava cycling profile for RestUp Week Solo Ride Part 4: Recovery with Aarika on 17 Mile Drive">}}
+{{< veloviewer id="5105367818" name="Part 4: Recovery with Aarika on 17 Mile Drive" >}}
 
 This was a perfect way to cap off my week. I noticed some serious fatigue starting to set in, so taking my time around Pebble Beach to look at incredible views and houses was fantastic. We got to see the so-called Ghost Tree at [Pescadero Point](https://www.google.com/maps/place/Pescadero+Point/@36.5618404,-121.9564881,17z/data=!3m1!4b1!4m5!3m4!1s0x808de7a9474fe061:0xba446930449682bd!8m2!3d36.5618363!4d-121.9543761):
 

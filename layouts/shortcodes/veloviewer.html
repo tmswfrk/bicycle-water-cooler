@@ -1,0 +1,8 @@
+{{ $id := .Get "id" }}
+{{ $name := .Get "name" }}
+<div id="veloviewer">
+    <p id="pveloviewer" style='text-align:center'>
+        <iframe id="vviframe" style="width:100%;height:600px;" loading="lazy" src="https://veloviewer.com/athletes/2228883/activities/{{ $id }}/embed2?name={{ $name }}&default3d=y&units=i" frameborder="0" scrolling="no">
+        </iframe>
+    </p>
+</div>

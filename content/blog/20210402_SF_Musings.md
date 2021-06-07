@@ -24,7 +24,7 @@ With how contemplative I usually am, it always shocks me to think that this is s
 # A bike ride helped me to reset
 Shocker, right? I took last Friday to myself. It was a normal work day, but with everyone being out all next week, it basically was another day where no one was really expected to accomplish much. So I decided to strike out on my own, going a different direction along a route that I do quite regularly, then spice it up with some sightseeing around the San Francisco city.
 
-{{< st "No Meeting Day bike rider's strava profile" "https://www.strava.com/activities/5058326357/embed/3228498232a75c1985313af9bccad948a16a66b1" "Strava cycling profile for No Meeting Day">}}
+{{< veloviewer id="5058326357" name="No Meeting Day" >}}
 
 The wind going up the peninsula during this time of day is basically head-on, a 0 degree yaw, and really makes for a lot more difficult riding than normal, especially by the airport where the tailwind really helps you fly.
 

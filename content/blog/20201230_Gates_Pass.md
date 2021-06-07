@@ -13,7 +13,7 @@ draft: false
 # Another fantastic ride in Tucson
 Continuing on the theme from my previous post, this ride was another one that was recommended to me by a friend of mine who had recently done some riding in the Tucson area. Not to mention that it's also recommended by basically every other website out there that is talking about cycling in Tucson.
 
-{{< st "Gate’s Pass, Saguaro Park West, Picture Rocks" "https://www.strava.com/activities/4541421572/embed/b322f08d3285e39e509c26774287c36c4ac1614f" "Strava cycling profile for Gate’s Pass, Saguaro Park West, Picture Rocks" >}}
+{{< veloviewer id="4541421572" name="Gate’s Pass, Saguaro Park West, Picture Rocks" >}}
 
 This ride was awesome, and it absolutely deserves its own post. Let me tell you why.
 
