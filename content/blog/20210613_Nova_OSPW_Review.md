@@ -6,8 +6,8 @@ description: "Non-sponsored product review for the oversized pulley wheel system
 image: "/img/2021/06/ospw.jpg"
 imagealt: "Installed oversized pulley wheel system (OSPW) from Nova Ride on a Factor O2 VAM bicycle"
 categories: ["Product Reviews"]
-tags: ["Nova2Ride", "OSPW"]
-keywords: [""]
+tags: ["Nova Ride", "OSPW", "Derailleur"]
+keywords: ["Nova Ride oversized pulley wheel system review", "Nova Ride OSPW review", "OSPW system worth it", "should I upgrade OSPW", "road bike upgrades"]
 draft: false
 ---
 # What is OSPW?
