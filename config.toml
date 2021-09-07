@@ -14,11 +14,16 @@ disableLanguages        = [""]
 enableRobotsTXT         = true
 canonifyURLs            = true
 
+[outputFormats]
+    [outputFormats.SearchIndex]
+    mediaType   = "application/json"
+    baseName    = "index"
+
 [author]
   name = "James Clarke"
 
 [outputs]
-    home = ["html", "json", "RSS"]
+    home = ["html", "json", "RSS", "SearchIndex"]
 
 [permalinks]
   blog = "/:section/:year/:month/:title/"

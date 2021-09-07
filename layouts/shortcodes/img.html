@@ -1,0 +1,141 @@
+{{- /* for automatical columns, apply like this <image img1 img2 img3> .You can add an infinite amount of images */ -}}
+    {{- /* If you want to determine columns yourself, add an integer between 1 6 somewhere in the shortcode, e.g. for two columns <image 2 img1 img2 img3 img4> */ -}}
+    {{- /* Originally found on: https://poppygo.io/guides/image_processing_in_hugo/ then modified */ -}}
+
+    {{- $page := .Page -}}
+    {{- $image_names := slice -}}
+    {{- $class := "" -}}
+    {{- $numberOfCols := 1 -}}
+    {{- $cols := slice "oneCol" "twoCols" "threeCols" "fourCols" "fourCols" "sixCols" "sixCols" -}}
+    
+    {{- range $index, $value := .Params -}}
+          {{- if eq (printf "%T" $value) "string" -}}
+              {{- $image_names = $image_names | append $value -}}
+          {{- end -}}
+          {{- if eq (printf "%T" $value) "int" -}}
+              {{- $numberOfCols = $value -}}
+              {{- $class = index $cols (sub $numberOfCols 1) -}}
+          {{- end -}}
+    {{- end -}}
+    
+    {{- if eq $class "" -}}
+      {{- if le (len $image_names) 3 -}}
+        {{- $numberOfCols = len $image_names -}}
+        {{- $class = index $cols (sub $numberOfCols 1) -}}
+      {{- else -}}
+        {{- $numberOfCols = 3 -}}
+        {{- $class = "threeCols" -}}
+      {{- end -}}
+    {{- end -}}
+    
+    <style>
+        .grid {
+          width: 100%;
+          display: grid;
+          grid-auto-flow: row;
+          justify-items: stretch;
+          justify-content: stretch;
+          grid-gap: 10px;
+          grid-template-columns: repeat(12, 1fr);
+        }
+        .oneCol, .twoCols, .threeCols {
+          grid-column: span 12;
+        }
+        .fourCols, .sixCols {
+          grid-column: span 6;
+        }
+          @media (min-width: 768px) {
+            .twoCols, .threeCols {
+              grid-column: span 6;
+            }
+            .fourCols, .sixCols {
+              grid-column: span 3;
+            }
+          }
+          @media (min-width: 992px) {
+            .twoCols {
+              grid-column: span 6;
+            }
+            .threeCols {
+              grid-column: span 4;
+            }
+            .sixCols {
+              grid-column: span 2;
+            }
+          }
+        .pogoimage {
+          width: 100%;
+        }
+    </style>
+    
+    {{- /* Tee off here to process image differently if only one is provided */ -}}
+    {{- /* An additional .Params.Get "width" value is supported here */ -}}
+    {{- if eq (len $image_names) 1 -}}
+      {{- $resource_page := $page.Page -}}
+      {{- $image := ($resource_page.Resources.ByType "image").GetMatch (index $image_names 0) -}}
+      {{- /* Build up Latitude and Longitude URLs for Google Maps */ -}}
+        {{- $image_lat := "" -}}
+        {{- $image_long := "" -}}
+        {{- with $image.Exif -}}
+          {{- $image_lat = .Lat -}}
+          {{- $image_long = .Long -}}
+        {{- end -}}
+      {{- $altText := printf "%s %s %s" $page.Title $page.Type $page.Summary -}}
+      {{- $width := printf "%d" 100 -}}
+      {{- with $image.Params -}}
+        {{- with $image.Params.Get "alt" }}{{ $altText = $image.Params.Get "alt" }}{{ end -}}
+        {{- with $image.Params.Get "width" }}{{ $width = $image.Params.Get "width" }}{{ end -}}
+      {{- end -}}
+      {{- if and (ne $image_lat "") (ne $image_long "") }}<a href="{{ printf "https://www.google.com/maps/search/?api=1&query=%f,%f" $image_lat $image_long }}">{{ end -}}
+      <img src='{{ $image.Permalink }}' class="lazyload image" 
+        style="display:block;max-width:{{ $width }}%;" 
+        alt="{{ $altText }}" 
+        title="{{ $image.Title }}"
+      />
+      {{- if and (ne $image_lat "") (ne $image_long "") }}</a>{{ end -}}
+      
+      {{- else -}}
+    <div class="grid">
+    {{- /* Note that $image_names here refers to the image list coming in to this shortcode */ -}}
+    {{- /* To make this work with Resources properly, we need to override the default name/title values */ -}}
+    {{- /* that come in from what is basically a `ls images/` to something more meaningful in the page's */ -}}
+    {{- /* front matter and then use that Name defined there to pass in here */ -}}
+    {{- range $image_names -}}
+        {{- $image_resource_name := . -}}
+        {{- $sizes := (slice  "360" "480" "800" "1200" ) -}}
+        {{- $resource_page := $page.Page -}}
+        {{- $image := ($resource_page.Resources.ByType "image").GetMatch $image_resource_name -}}
+        
+        <div class= "{{$class}}">
+          {{ with $image -}}
+
+            {{- /* Build up Latitude and Longitude URLs for Google Maps */ -}}
+            {{- $image_lat := "" -}}
+            {{- $image_long := "" -}}
+            {{- with $image.Exif -}}
+              {{- $image_lat = .Lat -}}
+              {{- $image_long = .Long -}}
+            {{- end -}}
+            
+              {{- /* Only show Google Maps URL if we have both latitude and longitude values */ -}}
+              {{- if and (ne $image_lat "") (ne $image_long "") }}<a href="{{ printf "https://www.google.com/maps/search/?api=1&query=%f,%f" $image_lat $image_long }}">{{ end }}
+                <img class="pogoimage" style="margin-top:0;margin-bottom:0;" sizes="{{ printf "%svw" (string (div 60 $numberOfCols) ) }}"
+                  srcset='
+                  {{- range $sizes }}
+                    {{- ($image.Resize (printf "%sx" .)).RelPermalink }} {{ (printf "%sw" .) }},
+                  {{ end -}}'
+                  src="{{ ($image.Resize "640x").Permalink }}"
+                  class="lazyload image"
+                  {{- $altText := printf "%s %s %s" $page.Title $page.Type $page.Summary -}}
+                  {{- with $image.Params -}}
+                  {{ $altText = $image.Params.Get "alt" }}
+                  {{ end -}}
+                  alt="{{- $altText }}"
+                  title="{{- $image.Title }}"
+                >
+              {{ if and (ne $image_lat "") (ne $image_long "") }}</a>{{ end -}}
+          {{ end -}}
+        </div>
+    {{- end -}}
+    </div>
+    {{- end -}}
