@@ -3,8 +3,7 @@ title: "The Cycling Routes of Girona"
 date: 2021-08-27T17:44:20-07:00
 summary: "Because it's one of the best places on Earth for cycling. Seriously."
 description: "Need some cycling guidance, inspiration, and GPX routes? Here are my recommended cycling routes for the paradise that is Girona, Spain"
-image: "/img/2021/08/girona_cathedral.jpeg"
-imagealt: "A list of some popular and recommended road cycling routes in Girona, Spain. Image contains: Riu Onyar river, Girona Cathedral, colorful houses."
+image: "girona_cathedral"
 categories: ["Epic Rides"]
 tags: ["Girona, Spain"]
 keywords: [
@@ -25,6 +24,11 @@ keywords: [
 ]
 draft: false
 resources:
+- src: '*/girona_cathedral.jpeg'
+  name: "girona_cathedral"
+  title: "The icon of Girona, the Cathedral!"
+  params:
+    alt: "A list of some popular and recommended road cycling routes in Girona, Spain. Image contains: Riu Onyar river, Girona Cathedral, colorful houses."
 - src: '*/sant_medir_sign.jpeg'
   name: "sant_medir_sign"
   title: "A good first day if you ask me!"
