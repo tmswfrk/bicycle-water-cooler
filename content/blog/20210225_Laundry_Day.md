@@ -36,7 +36,7 @@ That's okay, too, but you'll need some of these if you use any cycling bib short
 
 {{< figresize src="/img/2021/02/laundry_bags.jpg" alt="Laundry bags used to put cycling clothes into and then into the washer" width=100% title="I definitely have gotten my money's worth with these." >}}
 
-Luckily, they're pretty cheap, and you can reuse them a ton of times. I [got these on Amazon](https://amzn.to/3q4u6Tf) a while back when I moved into my new place.
+Luckily, they're pretty cheap, and you can reuse them a ton of times. I {{< amzn asin="B00PE1JJJI" text="got these on Amazon" >}} a while back when I moved into my new place.
 
 You put your dirty cycling bib shorts, inside out, inside these, zip them closed, and then toss the whole thing in the wash. Simple as that! A lot of people do this with delicates as a general rule of thumb, so this may already be a no-brainer.
 
@@ -47,14 +47,14 @@ These laundry bags are important because the bib portion of the bib shorts can g
 ## Use a Gentle Laundry Soap
 You can find expensive laundry soaps, specifically made by cycling clothing companies. They can get expensive, mainly because they cost about the same as a regular laundry container, but give you something like, a quarter of the important stuff inside.
 
-In all honesty, I only use [Woolite Darks](https://amzn.to/3bGpLAf) laundry detergent. It's optimized for cold water, it comes in a big bottle, it's relatively cheap, and it works very well in my experience. Sometimes you can find this at Costco, actually, in some monstrous container, too!
+In all honesty, I only use {{< amzn asin="B0812C579K" text="Woolite Darks" >}} laundry detergent. It's optimized for cold water, it comes in a big bottle, it's relatively cheap, and it works very well in my experience. Sometimes you can find this at Costco, actually, in some monstrous container, too!
 
 {{< figresize src="/img/2021/02/woolite.jpg" alt="Woolite Darks laundry detergent container in laundry basket with cycling clothes" width=100% title="Is this actually a product review for Woolite?" >}}
 
 ### Travel, you say?
-What's also awesome about Woolite is that they offer a [special travel pack](https://amzn.to/2NZw4qC) of several, individual packets of regular Woolite (still good). I've used these while traveling and they're wonderful! They're currently listed as not available on Amazon (no idea why), but there does seem to be [nearly identical kit](https://amzn.to/3bDxpeN) from another brand that you could try if they're not available. The kit also provides a rubber stopper specifically for a sink, which is super handy.
+What's also awesome about Woolite is that they offer a {{< amzn asin="B001E8R488" text="special travel pack" >}} of several, individual packets of regular Woolite (still good). I've used these while traveling and they're wonderful! They're currently listed as not available on Amazon (no idea why), but there does seem to be {{< amzn asin="B00D1X2QJG" text="nearly identical kit" >}} from another brand that you could try if they're not available. The kit also provides a rubber stopper specifically for a sink, which is super handy.
 
-Maybe also pick up a laundry bag that's designed for travel, too. While it was expensive, I did get a [Scrubba Portable Wash Bag](https://amzn.to/3uzaFFy) before my last big trip. I actually used it more as a regular bag to store my clothes in, but it also did work very well to keep water in to wash clothes directly inside it instead of standing over the sink for a long time (something else I've done and don't enjoy).
+Maybe also pick up a laundry bag that's designed for travel, too. While it was expensive, I did get a {{< amzn asin="B01N68XF0O" text="Scrubba Portable Wash Bag" >}} before my last big trip. I actually used it more as a regular bag to store my clothes in, but it also did work very well to keep water in to wash clothes directly inside it instead of standing over the sink for a long time (something else I've done and don't enjoy).
 
 ## Use a Cold and Delicate Cycle
 This is typically how all the tags and labels will recommend you to wash your cycling clothes, so it's best to stick to it to be safe. I actually have an option on my machine for a "pre soak" that I like to use as well. If you somehow ruin your clothes while adhering to the recommendations on the tags, you're more likely to get support from the company. Often they will work with you to keep you happy and provide you either a replacement or a discount on a new item. Don't be afraid to ask!

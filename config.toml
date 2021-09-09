@@ -30,17 +30,18 @@ canonifyURLs            = true
   reviews = "/:section/:year/:month/:title/"
 
 [params]
-  siteName        = "Bicycle Water Cooler"
-  logo            = "/img/main/bwc_350x116_light.png"
-  logo_dark       = "/img/main/bwc_350x116_dark.png"
-  oglogo          = "/img/main/bwc_oglogo.jpg"
+  siteName          = "Bicycle Water Cooler"
+  logo              = "/img/main/bwc_350x116_light.png"
+  logo_dark         = "/img/main/bwc_350x116_dark.png"
+  oglogo            = "/img/main/bwc_oglogo.jpg"
   # disableDarkMode = true
-  #logoAlt         = "Bicycle Water Cooler | Join the virtual water cooler conversation about bikes, travel, and tech."
-  logoAlt         = "Your online blog resource for bikes, travel, and tech. Come join the conversation."
-  ga_analytics    = "UA-172930899-1"
-  mainSections    = ["blog"]
-  copyright       = "James Clarke"
-  customCss       = ["css/custom.css"] # come back to this? implement grid for bikebox pics
+  #logoAlt          = "Bicycle Water Cooler | Join the virtual water cooler conversation about bikes, travel, and tech."
+  logoAlt           = "Your online blog resource for bikes, travel, and tech. Come join the conversation."
+  ga_analytics      = "UA-172930899-1"
+  amzn_associate_id = "bicyclewate08-20"
+  mainSections      = ["blog"]
+  copyright         = "James Clarke"
+  customCss         = ["css/custom.css"] # come back to this? implement grid for bikebox pics
 
   # Add additional section names to mainSections to include posts from
   # those sections on the homepage.

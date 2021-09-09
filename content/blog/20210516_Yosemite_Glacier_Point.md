@@ -87,7 +87,7 @@ At the roundabout, you head up another 16 miles or so to the very end. Given the
 
 {{< figresize src="/img/2021/05/Glacier_Point_Sign.jpg" alt="Cyclist by the Glacier Point turnoff road sign in Yosemite National Park." width=100% title="Here we go!" >}}
 
-Overall, it wasn't too bad. What helped settle my mind a lot though was having a [Garmin Varia Radar](https://amzn.to/3wbc5WF), which was the best impulse buy I've ever made in my cycling career.
+Overall, it wasn't too bad. What helped settle my mind a lot though was having a {{< amzn asin="B086TVFX1D" text="Garmin Varia Radar" >}}, which was the best impulse buy I've ever made in my cycling career.
 
 ## Washburn Point
 Make sure to stop [here](https://www.google.com/maps/place/Washburn+Point/@37.7204958,-119.5752349,17z/data=!3m1!4b1!4m5!3m4!1s0x8096f25bebd29cd3:0x7780d83cde88a9a8!8m2!3d37.7204916!4d-119.5730462)! It is perhaps the most incredible view you're going to see up this way.

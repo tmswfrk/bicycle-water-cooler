@@ -41,22 +41,22 @@ To be honest, I've never really shopped on Amazon specifically for cycling short
 
 [Pearl Izumi](https://www.pearlizumi.com/US/en/) is originally a Japanese company that is now part of the greater Shimano umbrella. They tend to have a wide range of products, and, in my experience, their shorts don't fit quite as tightly as the Italian-inspired brands (more on that later).
 
-* [Pearl Izumi Escape Quest Mens Short](https://amzn.to/2Nx8Tnp)
-* [Pearl Izumi Escape Quest Womens Short](https://amzn.to/3aGed0B)
+* {{< amzn asin="B01H7BQXNC" text="Pearl Izumi Escape Quest Mens Short" >}}
+* {{< amzn asin="B074JQ31HW" text="Pearl Izumi Escape Quest Womens Short" >}}
 
 {{< figresize src="/img/2021/02/louis_garneau.jpg" alt="Louis Garneau company logo" width=35% title="From their site" >}}
 
 [Louis Garneau](https://garneau.com/us_en/garneau-group/about-us) is a company out of Quebec, Canada, focusing on providing good products at reasonable prices. They definitely have something for everyone, including tighter fitting stuff for racer types, but their more reasonably priced stuff tends to be a lot more forgiving in their sizing. Chances are you've seen some of their clothing before.
 
-* [Louis Garneau Optimum Mens Short](https://amzn.to/2P5zWH1)
-* [Louis Garneau Optimum Womens Short](https://amzn.to/3bu49XU)
+* {{< amzn asin="B00NMK9DTO" text="Louis Garneau Optimum Mens Short" >}}
+* {{< amzn asin="B00NMK9QS2" text="Louis Garneau Optimum Womens Short" >}}
 
 {{< figresize src="https://www.castelli-cycling.com/mediaObject/castelli/US/support-imagery/castelli-header/original/castelli-header.png" alt="Castelli company logo" width=35% title="From their site" >}}
 
 [Castelli](https://www.castelli-cycling.com/us) is out of Italy, and was my first foray into what is known as the "Italian" fit, i.e., crazy small compared to what people in the US are typically used to. I've always liked their logo! However, they are also quite a large company these days, too, so you can also find a lot of variation in how each of their products fit. For reference, these tended to cost a bit more than some of the other brands I remember oogling over at Performance Bicycle.
 
-* [Castelli Endurance Mens Short](https://amzn.to/3dCC4jH)
-* [Castelli Veloccisima Womens Short](https://amzn.to/2ZJls1D)
+* {{< amzn asin="B08Q77FRCT" text="Castelli Endurance Mens Short" >}}
+* {{< amzn asin="B081QMNMXY" text="Castelli Veloccisima Womens Short" >}}
 
 ### The Goldilocks Approach
 A common mistake that new riders make here is very similar to choosing a saddle / seat is this: just because it's soft and squishy doesn't mean it will be comfortable over the long run. It runs a bit counter to intuition, but something that is _too_ soft will actually compress over time (both over multiple uses as well as over the span of a single ride) and put you into a slightly different riding position than when you first started, meaning that you're going to have pressure in places you didn't expect it. Sometimes a denser or firmer pad is actually better for you in the long run.
@@ -97,7 +97,7 @@ What makes them so much better? Well, they:
 Again, if you're new to the hobby, don't worry too much about these yet. Try them on if you're curious, but they look pretty funny on their own, so you'll definitely need to wear a jersey with them.
 
 #### Recommendations if you're interested
-If you want to try a pair, anything from Castelli is a pretty safe choice. Try out their [Competizione](https://amzn.to/37JB6i1) or the [Entrata](https://amzn.to/37JoOpw), as they are fairly reasonably priced. [Rapha](https://www.rapha.cc/) actually has a wonderful "[Core](https://www.rapha.cc/us/en_US/collections/core)" line that is remarkably well priced, too, while still giving you a very premium-brand feel.
+If you want to try a pair, anything from Castelli is a pretty safe choice. Try out their {{< amzn asin="B081QMG7MD" text="Competizione" >}} or the {{< amzn asin="B081QMWLPT" text="Entrata" >}}, as they are fairly reasonably priced. [Rapha](https://www.rapha.cc/) actually has a wonderful "[Core](https://www.rapha.cc/us/en_US/collections/core)" line that is remarkably well priced, too, while still giving you a very premium-brand feel.
 
 There are definitely other factors to consider here beyond simply the pad, namely:
 

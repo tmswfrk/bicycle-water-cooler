@@ -20,15 +20,15 @@ Bikes are actually quite simple, generally speaking. Even though the newer techn
 * Wheels
 * Tires (yes, they're a different part than the wheels)
 * Pedals
-* [Crankset / Chainrings](https://amzn.to/3kfjFec) (the front gears, usually two), which include the crank "arms" (where the pedals connect)
-* [Front Derailleur](https://amzn.to/2NFFgQG), sitting just above the chainrings (a french term for the device that moves the chain over from one gear to the other)
-* [Chain](https://amzn.to/37vRt1e)
-* [Rear cassette / cogs](https://amzn.to/3dylamq) (the gears in the back)
-* [Rear Derailleur](https://amzn.to/3sbEFFl), sitting just below the cassette (similar to the front)
+* {{< amzn asin="B072K4LJDQ" text="Crankset / Chainrings" >}} (the front gears, usually two), which include the crank "arms" (where the pedals connect)
+* {{< amzn asin="B071JY35SP" text="Front Derailleur" >}}, sitting just above the chainrings (a french term for the device that moves the chain over from one gear to the other)
+* {{< amzn asin="B003XDL5QO" text="Chain" >}}
+* {{< amzn asin="B072MLYG5T" text="Rear cassette / cogs" >}} (the gears in the back)
+* {{< amzn asin="B072MPXWL5" text="Rear Derailleur" >}}, sitting just below the cassette (similar to the front)
 * Brakes, both the calipers (the arms that grip the braking surface) and the pads (which are the part that actually contacts the braking surface)
-* [Disc brake rotors](https://amzn.to/3qH2LY9), if using disc brakes
+* {{< amzn asin="B07215KHS2" text="Disc brake rotors" >}}, if using disc brakes
 * Cabling in some capacity, either mechanically actuated with cable tension or electrical cables that send signals to the components to move
-* [Shifter hoods](https://amzn.to/37xQ6PD), which are what you grab on the handlebars to shift and brake
+* {{< amzn asin="B072QKV9RW" text="Shifter hoods" >}}, which are what you grab on the handlebars to shift and brake
 
 Please note that the links above may or may not all line up with your custom build if you're going this route, so please feel free to [contact me]({{< ref "/contact.md" >}}) if you'd like more information!
 

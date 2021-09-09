@@ -73,15 +73,15 @@ Like [this one](https://www.youtube.com/watch?v=V6uHHi6s5xY) from BikeBoxAlan it
 
 A few key points I want to emphasize here based on my personal experience:
 
-* If you have a nice carbon bike, it'll be worth it to get a small, adjustable torque wrench like [this one](https://amzn.to/3ubDGXs). This will help you put things back to proper spec after taking it apart to fit into the box once you get to your destination.
+* If you have a nice carbon bike, it'll be worth it to get a small, adjustable torque wrench like {{< amzn asin="B00811WQT8" text="this one" >}}. This will help you put things back to proper spec after taking it apart to fit into the box once you get to your destination.
 * Following up on this first one, know some (or know where to find them) of your bike frame's manufacturer's torque specs in case you have issues with internet at your destination.
 * Get some kitchen towels or thick shop rags that you can use to wrap things up. This protects the finish in places you think may rub over time.
 * Get a small bag to put any tools you need to bring with you - the torque wrench, other allen keys, and any small parts that may need to use depending on what things you have to remove.
 * If you're using a BikeBoxAlan, try to get a tool bag that has a loop on one part, and put one of the velcro straps through it underneath the big foam pad in the box so that it stays put. You don't want your heavy tools floating around your bike frame in transit!
-* Don't forget things like charging cables! This is especially the case if you have power meter pedals like the [Favero Assiomas](https://amzn.to/2M8uz8O).
+* Don't forget things like charging cables! This is especially the case if you have power meter pedals like the {{< amzn asin="B071JRXDKT" text="Favero Assiomas" >}}.
 
 ### Recommendation: take off the rear derailleur
-It's not hard to put it back on, especially if you have a DI2 set up like I do (make sure to bring a [di2 tool](https://amzn.to/3bnx53z)). Take a photo of what angle it's at if you're concerned about getting it right yourself, too. It's worth doing so that this doesn't happen to you:
+It's not hard to put it back on, especially if you have a DI2 set up like I do (make sure to bring a {{< amzn asin="B00884323M" text="di2 tool" >}}). Take a photo of what angle it's at if you're concerned about getting it right yourself, too. It's worth doing so that this doesn't happen to you:
 
 {{< figresize src="/img/2020/08/broken_hangar.jpg" alt="Hanging rear derailleur because derailleur hangar broke off" width=50% title="I'm just glad this waited to happen until AFTER Rococorba!" >}}
 
@@ -93,7 +93,7 @@ I've known people to bring an extra one because of this. If you ride a specialty
 Luckily, the above happened _after_ I had gone on a hard ascent up [Rocacorba](https://www.youtube.com/watch?v=QzAPecjEmWg), and I attribute it to not taking off the derailleur while traveling, as the hangar itself was likely stressed with the extra weight of the derailleur mid-flight. I actually had to wander around Girona for an afternoon, visiting a few bike shops without knowing any Catalan, showing mechanics my hangar and hoping that they had one I could purchase from them. I finally found one, but this was after one of the Trek Travel guides had to take me (and my bike) all the way back to the hotel that day. No more riding after the climb, I guess!
 
 ### Be prepared for something unique to your bike
-On a later trip, coincidentally the first one with my Factor O2 VAM, I initially felt pretty confident packing it up as I had done this previously with my Giant TCR. I didn't anticipate, however, the larger 28mm tubeless tires that my Factor has! I didn't want to deflate them completely for fear that the tire beads would come off the rim, leaving me a mess with no way to remount them. I actually had to deflate them a bit (not all the way), and had to take off the disc rotor from the wheel. This required me to bring a few extra tools (particularly a [lock ring](https://amzn.to/3qE24it)) so that I could put them back on when I got to my destination.
+On a later trip, coincidentally the first one with my Factor O2 VAM, I initially felt pretty confident packing it up as I had done this previously with my Giant TCR. I didn't anticipate, however, the larger 28mm tubeless tires that my Factor has! I didn't want to deflate them completely for fear that the tire beads would come off the rim, leaving me a mess with no way to remount them. I actually had to deflate them a bit (not all the way), and had to take off the disc rotor from the wheel. This required me to bring a few extra tools (particularly a {{< amzn asin="B06ZYFVDJQ" text="lock ring" >}}) so that I could put them back on when I got to my destination.
 
 * Pro tip: not that I'm actually a pro of course, but when packing up your bike, make sure that _any tool you use_ to get it into the box is a tool that you bring with you on your trip. It's safer to assume you won't be able to get access to a local shop to do things for you.
 

@@ -1,1 +1,1 @@
-<a target="_blank"  href="{{.Get "url"}}"><img border="0" src="{{.Get "imgsrc"}}" /></a>
+<a href="https://www.amazon.com/gp/product/{{ .Get "asin" }}?tag={{ .Site.Params.amzn_associate_id }}">{{ .Get "text" -}}</a>
