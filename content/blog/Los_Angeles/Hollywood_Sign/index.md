@@ -1,12 +1,21 @@
 ---
 title: "Biking up to the Hollywood Sign"
 date: 2021-09-18T19:13:52-07:00
-summary: ""
-description: ""
+summary: "A fun touristy ride to do if you're in the area."
+description: "Biking up to the Hollywood Sign in Los Angeles is a physical challenge and a great way to see the city."
 image: "hollywood_sign"
-categories: []
-tags: []
-keywords: []
+categories: ["Epic Rides"]
+tags: ["Los Angeles", "Hollywood Sign"]
+keywords: [
+  "Biking up to the Hollywood Sign",
+  "Ride your bike to the Hollywood Sign",
+  "How do I get to the Hollywood Sign",
+  "Is it hard to get to the Hollywood Sign",
+  "Riding a bike in Los Angeles",
+  "Is it safe to ride your bike in Los Angeles",
+  "Hollywood Sign cycling route",
+  "Los Angeles, California"
+]
 draft: false
 resources:
 - src: '*/hollywood_sign.jpeg'
