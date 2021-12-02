@@ -10,6 +10,11 @@ tags: ["Kask", "Helmet", "Product Review"]
 keywords: ["Paul Smith Custom Kask Utopia Helmet Review", "Custom gear for your ride", "Unique products for your bike"]
 draft: false
 ---
+# An Update as of December 1st, 2021
+If you're interested in reading about my thoughts on this after having used it consistently for a year now, [check out my thoughts on it here](#an-update-after-a-year-of-ownership).
+
+With that, on to the original review!
+
 # Just had to say something about this one
 First of all, this is completely of my own doing. No sponsorship needed here. It's not like anyone has paid me to say any of the following things, although I wish they would! The [direct link to this helmet on their website is here](https://www.paulsmith.com/us/paul-smith-kask-rainbow-stripe-utopia-us-cycling-helmet), no tracking cookies included!
 
@@ -95,3 +100,37 @@ At least I do. And so it's easy for me to justify!
 If you're into this kind of thing, [just get this helmet](https://www.paulsmith.com/us/paul-smith-kask-rainbow-stripe-utopia-us-cycling-helmet). If you can, of course. I have no idea how long this will be available. They may still have a custom Kask Protone for sale right now that also looks fantastic.
 
 If the custom color isn't your thing, the Utopia is available in a lot of places, with even some new colors for 2020/21 on Kask's website (I haven't seem them on US based sites just yet), and I can say that I recommend it. It's fun to have an aero helmet - I think it's aesthetically pleasing (although perhaps a bit weird at first), and it ends up being quite functional.
+
+## An Update After a Year of Ownership
+It's hard to believe that I've had this helmet for over a year now! It's just "my helmet" at this point, and I still get a lot of looks when riding with it. Although I will admit they have been less than when I first got it. Perhaps that's just me not noticing it at this point, though!
+
+Vain, much? But then again, we cyclists do tend to be a bit of a vain lot.
+
+A few things to point out:
+* The colors have maintained themselves, especially the outside. I can't tell really any difference.
+* The straps still hold up.
+* I've definitely gotten used to the aero effect of this, or at least the perceived aero effect, so it's hard to tell at this point if the helmet is indeed "quieter" as I mentioned in the original review above.
+* I've never had issues with overheating with this helmet, but I also handle heat better than most and live in a cooler region.
+
+Current pic of my helmet (with minimal cleaning, I'll add):
+
+{{< figresize src="/img/reviews/PaulSmithKaskUtopia/update.jpeg" alt="Updated picture of Paul Smith Kask Utopia helmet after a year of use" width=100% title="Holding this up with my left hand while wearing a sweater, in case you're curious what those other colors are" >}}
+
+If you look closely, you can see a few things:
+* The colors on the inside padding are a bit faded compared to what they were before, which absolutely should be expected of a helmet.
+* There is some salt staining on the rear portions of the straps, which should be easily cleanable, I guess I'm just lazy.
+* If you're really meticulous, you'll see the thin padding strips in the back are coming undone.
+
+A bit closer on that last part:
+
+{{< figresize src="/img/reviews/PaulSmithKaskUtopia/padding.jpeg" alt="Zoomed in close up shot of peeling padding on back of Kask Utopia helmet after a year of use" width=100% title="It's more pronounced on the right side" >}}
+
+This is a bit of a gripe with some of the Kask retention system based helmets. You'll notice that the padding _should_ be fitting into that thinner channel that the rear strap loops through. 
+
+I'll admit that I only discovered this when researching this helmet, which is funny to me because I had the issue happen on my prior helmet, the Protone, but never noticed. With this helmet, I've been paying more attention to this, trying to keep it in place before loosely putting it on over my cap before securing it all down with the ratcheting adjustment knob.
+
+So overall, I still absolutely recommend this helmet. I think it's fun, mainly for the color, but also for the perceived quieter noise. Aero effects I think are noticeable, too, but that gets into a whole other realm of measurement and, if I am quite honest, subjectivity.
+
+Anyways, stop reading this and go buy one! I don't think the Utopia is still available for purchase from Paul Smith directly, but they [do have a really nice looking white / black fade](https://www.paulsmith.com/us/paul-smith-kask-monochrome-fade-protone-us-cycling-helmet) available.
+
+Decisions, decisions! Perhaps I need that one next!

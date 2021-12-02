@@ -10,6 +10,11 @@ tags: ["Nova Ride", "OSPW", "Derailleur"]
 keywords: ["Nova Ride oversized pulley wheel system review", "Nova Ride OSPW review", "OSPW system worth it", "should I upgrade OSPW", "road bike upgrades"]
 draft: false
 ---
+# An Update as of December 1st, 2021
+I've now been running this setup for about 6 months, so if you want to jump straight to my thoughts on it at this point, [go see for yourself](#update-as-of-december-1st-2021).
+
+With that, on to the original article!
+
 # What is OSPW?
 So "OSPW" stands for "oversized pulley wheel system." On a bike's derailleur where the rear gears are changed, there are two pulley wheels that the chain winds around through. These pulley wheels are as much a part of your bike's drivetrain as the cogs themselves or the chainrings. But in my experience so far, they tend to be overlooked a bit.
 
@@ -140,3 +145,20 @@ Is some of this in my head? Maybe. I mean, who am I kidding, it _probably_ is. A
 Now with that, anyone else up for [frozen yogurt](https://www.yelp.com/biz/yumi-yogurt-san-mateo)?
 
 {{< figresize src="/img/2021/06/yumi_nova.jpg" alt="Nova Ride oversized pulley wheel system (OSPW) with a cup of Yumi Yogurt in Belmont, CA" width=100% title="Mmm, this place is so tasty!" >}}
+
+## Update as of December 1st, 2021
+Now that I've been running this device for the past 6 months, I can honestly say that I still like it.
+
+My highlights on the system:
+* It still rides very smoothly.
+* The black color on the pulley wheels do not need nearly the level of maintenance my red ones did.
+* It's kind of a "sleeper" in the sense that it's not immediately eye catching, but bike connoisseurs will take note (getting one of the other colors will definitely change this point).
+* Still looks good despite it being dirty. Case in point:
+
+{{< figresize src="/img/2021/06/updated.jpeg" alt="Close up of Nova Ride Oversized Pulley System (OSPW) after 6 months of use" width=70% title="Yes, I know it's dirty, but it still rides very smoothly" >}}
+
+If there's only one drawback that I've found so far is that there are a few gears that are a bit stubborn to get in and out of. It's not terribly consistent, and I can usually shift an extra gear down and up (or vice versa) and I can call it a day.
+
+The main mechanic at my local shop who looked at it more closely after I installed it voiced a concern around this point, noting that "most of these systems aren't stiff enough" to compare with the Shimano stock cage. But again, I want to emphasize that it hasn't bothered me at all in the past six months. I think there's a slight bit of play left to right of center at certain points, but if I am to be honest, I haven't really tried reindexing my gears yet to take care of it.
+
+So yeah, I (still) definitely recommend one if you're looking for an extra bit of bling for your bike!
