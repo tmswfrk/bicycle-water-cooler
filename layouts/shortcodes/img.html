@@ -72,7 +72,12 @@
     {{- /* An additional .Params.Get "width" value is supported here */ -}}
     {{- if eq (len $image_names) 1 -}}
       {{- $resource_page := $page.Page -}}
-      {{- $image := ($resource_page.Resources.ByType "image").GetMatch (index $image_names 0) -}}
+      {{ $image := "" }}
+      {{- if ($resource_page.Resources.ByType "imageGif").GetMatch (index $image_names 0) -}}
+        {{- $image = ($resource_page.Resources.ByType "imageGif").GetMatch (index $image_names 0) -}}
+      {{ else }}
+        {{- $image = ($resource_page.Resources.ByType "image").GetMatch (index $image_names 0) -}}
+      {{ end }}
       {{- /* Build up Latitude and Longitude URLs for Google Maps */ -}}
         {{- $image_lat := "" -}}
         {{- $image_long := "" -}}
@@ -86,7 +91,10 @@
         {{- with $image.Params.Get "alt" }}{{ $altText = $image.Params.Get "alt" }}{{ end -}}
         {{- with $image.Params.Get "width" }}{{ $width = $image.Params.Get "width" }}{{ end -}}
       {{- end -}}
+      {{- $exclude_gps := $image.Params.Get "exclude_gps" }}
+      {{- if not $exclude_gps }}
       {{- if and (ne $image_lat "") (ne $image_long "") }}<a href="{{ printf "https://www.google.com/maps/search/?api=1&query=%f,%f" $image_lat $image_long }}">{{ end -}}
+      {{ end }}
       <img src='{{ $image.Permalink }}' class="lazyload image" 
         style="display:block;max-width:{{ $width }}%;" 
         alt="{{ $altText }}" 
@@ -118,7 +126,10 @@
             {{- end -}}
             
               {{- /* Only show Google Maps URL if we have both latitude and longitude values */ -}}
+              {{- $exclude_gps := $image.Params.Get "exclude_gps" }}
+              {{- if not $exclude_gps }}
               {{- if and (ne $image_lat "") (ne $image_long "") }}<a href="{{ printf "https://www.google.com/maps/search/?api=1&query=%f,%f" $image_lat $image_long }}">{{ end }}
+              {{ end }}
                 <img class="pogoimage" style="margin-top:0;margin-bottom:0;" sizes="{{ printf "%svw" (string (div 60 $numberOfCols) ) }}"
                   srcset='
                   {{- range $sizes }}
