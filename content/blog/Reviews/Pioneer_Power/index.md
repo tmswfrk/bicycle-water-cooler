@@ -1,7 +1,7 @@
 ---
 title: "My Pioneer Power Meter Review"
 date: 2022-03-20T16:45:47-07:00
-summary: "This one has been a long time in the making, actually."
+summary: "A no-longer-supported power meter still has some customers."
 description: "Non-sponsored product review of the Pioneer Power meter used for detailed metrics for cyclists and coaches."
 image: "power_meter_box"
 categories: ["Product Reviews"]
