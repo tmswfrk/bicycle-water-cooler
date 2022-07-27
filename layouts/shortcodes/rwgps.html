@@ -1,0 +1,33 @@
+{{ $id := .Get "id" }}
+{{ $nograph := .Get "nograph" }}
+{{ $name := .Get "name" }}
+<!-- Append to SRC for later use within iFrame -->
+{{ $src := printf "%s%s" "https://ridewithgps.com/embeds?type=trip&id=" $id }}
+{{ if eq $nograph "" }}{{ $src = printf "%s%s" $src "&sampleGraph=true" }}{{ end }}
+{{ if ne $name "" }}{{ $src = printf "%s%s%s" $src "&title=" $name }}{{ end }}
+
+<style>
+.iframe-embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    height: 100%;
+    width: 100%;
+    border: 0;
+}
+.iframe-embed-wrapper {
+    position: relative;
+    display: block;
+    min-height: 400px;
+    padding: 0;
+    overflow: hidden;
+}
+.iframe-embed-responsive-4by3 {
+    padding-bottom: 75%;
+}
+</style>
+
+<div class="iframe-embed-wrapper iframe-embed-responsive-4by3">
+    <iframe class="iframe-embed" src="{{ $src }}"></iframe>
+</div>

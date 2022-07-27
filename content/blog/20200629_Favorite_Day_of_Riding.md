@@ -41,7 +41,7 @@ I found a hotel next to the main train station, the Milano Centrale station, bui
 Once there, I rode down into town (there's a nice walkway past a crazy hand statue) and found a sweet little coffee shop that had a ton of great bike merch in it. Definitely recommend it if you're in the area: [Sartoria Ciclistica](https://sartoriaciclistica.cc/).
 
 ## On to the loop!
-{{< veloviewer id="2573627528" name="Bucket List Ride: Como, Bellagio, Ghisallo, and Sormano" >}}
+{{< rwgps id="97788325" >}}
 
 The first part of the ride out of town is the only really "sketchy" part, as there isn't much of a bike lane, there's a slight uphill section, and there are a couple somewhat-short tunnels that don't have a ton of lighting. The nice thing, however, is that people out there aren't driving too quickly, and they seem fairly accustomed to cyclists being out on the roads.
 

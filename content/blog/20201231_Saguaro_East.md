@@ -13,7 +13,7 @@ draft: false
 # One final route in Tucson
 After two days of epic riding in Tucson, there was one route left that we had not yet done. So, of course, I got to planning the best, er, most _interesting_ way to do it. I looked around for random things on maps, scoured through Strava's terrible segment explorer, and came up with an interesting route. A route that I did not expect to enjoy as much as I did!
 
-{{< veloviewer id="4546540289" name="Saguaro Park East loop, Colossal Cave, and lots and lots of airplanes!" >}}
+{{< rwgps id="97787398" >}}
 
 ## Saguaro National Park
 The city of Tucson splits the Saguaro National Park in two halves, meaning that there is a west and east park on either side of the city. The ride we did this day was on the east side of town, a bit south of the Tanque Verde area if you're familiar with the area (it's apparently where the younger families live these days from what we hear).

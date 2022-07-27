@@ -123,7 +123,7 @@ So I mapped out a route that I knew many local San Francisco riders were not fam
 
 I particularly like showing locals new routes that are more _my_ routes, as I know there's a tendency within us all to ride and re-ride the same routes that we are already familiar with. I've been here a few years now and have done a lot of riding, so I feel like I have a lot to contribute back to the community.
 
-{{< veloviewer id="6221925548" name="RCC: Upper Mid Peninsula Climbing Extravaganza" >}}
+{{< rwgps id="78178033" >}}
 
 After getting home from the ride, I posted some thoughts on [my Instagram account](https://www.instagram.com/p/CV9nRFTreUU/) that I wanted to mention here as well.
 

@@ -335,7 +335,7 @@ We got on one of the biggest ferries I've ever been on, along with many, many ca
 ## Day Two: West Hvar
 After a big breakfast, we all piled into the van again and drove over to a starting point near [Stari Grad](https://goo.gl/maps/NqPjacGU34vxXBJn6), where we had landed via the ferry the night before. It was here that we all got situated with our bikes, got a bit more acquainted with the area, and then started off following Marijo.
 
-{{< veloviewer id="7280827377" name="Hvar Island, Day One, Stari Grad around back to Hvar town" >}}
+{{< rwgps id="97784109" >}}
 
 The first time riding in another country or another location you're excited about is always a special feeling. It's almost like all of the newness and maybe even discomfort of being in a foreign location goes away - because you're back on your bike, and it starts to feel familiar again. This is exactly how I felt the first few minutes of this ride.
 
@@ -360,7 +360,7 @@ Once back in town, we dropped off our bikes and walked back to the hotel. We opt
 ## Day Three: East Hvar
 The following day, we were almost rushed out to the van to get our day started! The idea for this particular adventure was to drive us about halfway the distance of the island to start riding, then to ride eastward until we couldn't anymore. There was a ferry we had to catch in [Sućuraj](https://goo.gl/maps/TVGTZbrcnjXREbiv8).
 
-{{< veloviewer id="7284591898" name="Hvar Day Two: to the Ferry in Sućuraj" >}}
+{{< rwgps id="97785538" >}}
 
 This day was a both long in duration and crazy beautiful. I think it may have been one of my more favorite days of the tour! The views along the ridge of the island on its eastern side was unlike anything I've ever seen. We had views out to other islands southward of us, views out to the mainland eastward, and towards another island named [Brač](https://goo.gl/maps/iytA4dkzghBuQ3Rs9) (known for its white stone that's used in the United States' White House) on the north.
 
@@ -385,7 +385,7 @@ What a long day of travel! Not that it wasn't enjoyable of course, each area thr
 ## Day Four: Mljet
 This day was actually optional for the group, but the majority of us went. The fast ferry that goes directly there from Korčula is a bit expensive, and there is an additional charge to get into the park itself, but it was absolutely worth it.
 
-{{< veloviewer id="7291407064" name="All day meandering around the lakes on Mljet" >}}
+{{< rwgps id="97785535" >}}
 
 We started the day of with [riding from our hotel](https://www.strava.com/activities/7288946485) in Lumbarda back out to the ferry dock in Korčula city for some morning coffee, eventually to board the ferry to [Mljet](https://goo.gl/maps/WMAqYC1sjmLBCxAF7) (pronouced "mee-yet"). Turns out this island has been continuously inhabited by humans for a few thousand years, and those who still live there can only do so because they have special permission.
 
@@ -406,7 +406,7 @@ Grk is another local item you should try if you're in Croatia! I found it to hav
 ## Day Five: Korčula
 This day was perhaps our favorite day as far as biking goes! It was actually split into two separate bike rides, both on the same island of Korčula.
 
-{{< veloviewer id="7296565199" name="Korčula Island Part One: Vela Luka to Brna" >}}
+{{< rwgps id="97785539" >}}
 
 First, we got into the van and headed out towards the west side of the island, to an old fishing town called [Vela Luka](https://goo.gl/maps/ViaUDuWy7n9764o88), which is apparently also known for some historical sights dating back 20,000 years. From here, we started riding some dirt paths that wandered through beautiful vineyards on the way towards a town called [Blato](https://goo.gl/maps/96EJequ8wP2Jbu5a9). It's a small, tree-lined town that had a bunch of red clay roofs everywhere. Very Croatian!
 
@@ -420,7 +420,7 @@ We really liked Brna! It was quiet and the water was still and incredibly blue. 
 
 After some time in Brna, we loaded up the van again, which took us up towards another high point of the island, a place called [Pupnat](https://goo.gl/maps/KHdB6rqJUBJXgfsH6) (pronounced "poop-nut", for real, I'm not making that up!).
 
-{{< veloviewer id="7297907840" name="Korčula Island Part Two: Pupnat along the coast back to the hotel" >}}
+{{< rwgps id="97785541" >}}
 
 Starting from the top meant that we got to enjoy more amazing sights and some fantastic downhill roads, which eventually took us back into the town of Korčula and our hotel. And it was fantastic.
 
@@ -433,7 +433,7 @@ Later that night we even got to experience another Croatian favorite meal called
 ## Day Six: Last Day on the Croatian Peninsula
 Despite having ridden nearly 6 consecutive days, I remember us still being quite excited for this day. I know we were both ready to enjoy the rest of our trip (our plans were to visit France next), but this day promised some more incredible and (somehow) unique views.
 
-{{< veloviewer id="7300908605" name="Last Day Cycling with Exodus Travels: Beautiful Coastal Route on the Croatian Peninsula" >}}
+{{< rwgps id="97785540" >}}
 
 It also started out as a transfer day, so we got loaded up with the bikes and dressed in our cycling kit, then took the bus to the ferry back over to Orebič. From there, the van drove us a bit further up again to a spot near a place called [Kuna Pelješka](https://goo.gl/maps/swbDafa87ZzV5Y7X7). After being entranced and then later accosted by a wandering donkey looking for an easy meal, we took off through some more vineyards out towards an incredible coastline.
 

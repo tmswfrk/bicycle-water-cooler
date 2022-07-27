@@ -117,7 +117,7 @@ So let's sort this one out! There are a lot of routes online, but I managed to c
 # The Route
 So this is the route that I came up with, starting from the "Valley", which is anything north of the Santa Monica mountains / Hollywood Hills.
 
-{{< veloviewer id=4556433284 name="When in LA..." >}}
+{{< rwgps id="97786512" >}}
 
 If you're looking to save some money like we were, find a nice hotel to stay in over in the Valley just north, as there's a lot still to do over there and the traffic (well, the _drive_) over to places like downtown, West Hollywood, Griffith Park, Santa Monica, etc, aren't really too bad. And the cost of the hotel will likely be a bit less, as more of that area is residential by comparison.
 

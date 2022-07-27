@@ -249,7 +249,7 @@ Note that all of these rides started and ended at the [Hotel Ciutat](https://www
 ## Canet d’Adri Loop
 This was our first day, and so it was a bit of a warm up social ride. We were all getting to know each other a bit, our riding styles, where we all came from, that sort of thing. By traveling with an American company like Trek, you tend to find others in your group from similar walks of life as your own, and they all seem to be travel-conscious and health-conscious Americans. We later exchanged names and contact information, later setting up a Google Photos album that I still refer back to this day.
 
-{{< veloviewer id=1932381565 name="Girona Day 1: Wet Ride to Canet d’Adri with Dogs and Cork Trees!" >}}
+{{< rwgps id="97786574" >}}
 
 The loop was only about 17-18 miles, but it's a good starting loop to get familiar with the area a bit, get a sense for how the roads are once you get outside of town, and is easy enough to follow that you don't even really need a tour guide with you to feel comfortable.
 
@@ -264,7 +264,7 @@ It's amazing at how quickly you can get out of town and suddenly be surrounded b
 ## Costa Brava Loop
 Second day out for us was a big one! About 80 miles, or about 130km, as we headed out towards the coast and back around through Calogne and the back side of Els Àngels. I remember feeling pretty energized, while still being worried about the cold. For some reason, there was a massive cold snap the week we were there, so in addition to it being wet out, it was also cold! Luckily not cold enough to be worried about snow or ice, but something that me, being a California kid, definitely had to bundle up for!
 
-{{< veloviewer id=1934124941 name="Cold Costa Brava tour, returning through Calonge and up and over Els Àngels" >}}
+{{< rwgps id="97786650" >}}
 
 Note that this ride can be shortened if you opt to cut back through [Santa Cristina d'Aro](https://www.google.com/maps/place/17246+Santa+Cristina+d'Aro,+Girona,+Spain/@41.8149077,2.9935732,16z/data=!3m1!4b1!4m13!1m7!3m6!1s0x12bb039f2750c38d:0x400fae021a46fa0!2sSanta+Cristina+d'Aro,+Girona,+Spain!3b1!8m2!3d41.8312825!4d2.9875565!3m4!1s0x12bb03917d82133f:0xdb783b21921f5abb!8m2!3d41.8138025!4d2.9972935), [Romanyà de la Selva](https://www.google.com/maps/place/17240+Romany%C3%A0+de+la+Selva,+Girona,+Spain/@41.850776,2.97996,16z/data=!3m1!4b1!4m13!1m7!3m6!1s0x12bb039f2750c38d:0x400fae021a46fa0!2sSanta+Cristina+d'Aro,+Girona,+Spain!3b1!8m2!3d41.8312825!4d2.9875565!3m4!1s0x12bb025af4d43f1f:0x9c5b764c5f8f4556!8m2!3d41.8540315!4d2.9846871), and [Cassà de la Selva](https://www.google.com/maps/place/17244+Cass%C3%A0+de+la+Selva,+Girona,+Spain/@41.8883542,2.8709302,16z/data=!3m1!4b1!4m13!1m7!3m6!1s0x12bb039f2750c38d:0x400fae021a46fa0!2sSanta+Cristina+d'Aro,+Girona,+Spain!3b1!8m2!3d41.8312825!4d2.9875565!3m4!1s0x12bae20b78de853d:0x3e74f43bc918babf!8m2!3d41.8862405!4d2.8751564), which trims the distance down from 80 miles to about 61 miles.
 
@@ -287,7 +287,7 @@ Once you head down the other side, you'll be back in Girona in no time!
 ## Rocacorba
 This is _the_ premier climb to do here in Girona! It has basically everything as far as training climbs go. It's a beautiful ascent, with views out to the Pyrenees that will literally take your breath away on the way down. The views from the top are fantastic, too, just don't go past the radio tower gates as they're government property. Make sure to take a picture of two from the gliderport at the top, too, as you'll see it run out to quite the drop off a few meters down from you.
 
-{{< veloviewer id=1935578133 name="Rocacorba Climb!" >}}
+{{< rwgps id="97786649" >}}
 
 To get out there, head north out of town and make your way out towards Lake Banyoles, where the rowing event of the 1992 Olympics (held in Barcelona) was held. I remember most of the riding to get out there followed through a few quiet roads surrounded by what looked like corn fields. There is a small cafe just across from the southern portion of the lake with some tennis courts where I got a cortado (they're the best out there in Spain) for some ridiculous price like €1.10. Definitely check it out before heading up to Rocacorba.
 
@@ -316,7 +316,7 @@ After Rocacorba, we had a rest day, so I ended up wandering around the city of G
 
 Our next ride was perhaps one of my favorites. It heads out towards Sant Hilari de Sacalm, a small town known for having a lot of fountains, and then later through a region known for growing Christmas fir trees.
 
-{{< veloviewer id=1939705084 name="Sant Hilari de Sacalm and Back" >}}
+{{< rwgps id="97786651" >}}
 
 To get there, you follow the river up through a beautiful gorge that looks like something out of a Disney movie. I remember trying to keep pace with the lead group, one of whom was a former cat-1 racer, losing them at some point, picking up one other, and then trying to chase them back down as we rolled up into town. It was enthralling, heart bursting fun.
 
@@ -339,7 +339,7 @@ The whole loop ends up making for a _big_ day on the bike, but this area just we
 ## Els Àngels and the Hincapie Climb
 This was our last day for our Trek Travel Cycling Camp in Girona, and it was another fun one. We headed east out of town to first do the Els Àngels climb from the Girona side, went out towards the coast again, and went up the [Santa Pellaia](https://www.strava.com/segments/643626?filter=overall) climb. That last climb is more formally known as the "Hincapie" climb, as it's one that [George Hincapie](https://en.wikipedia.org/wiki/George_Hincapie) was very regularly using for training during his years as a professional cyclist.
 
-{{< veloviewer id=1941469851 name="Els Àngels from Girona and the infamous Hincapie climb">}}
+{{< rwgps id="97786652" >}}
 
 For whatever reason that day, I felt really good just before the Hincapie climb, so my buddy Kendrick actually gave me a lead out and I did my best to rip up that climb as fast as I could. It felt great. Nothing very steep at all really, which is what made the climb quite interesting to me. It basically means you can go as hard as you'd like, especially since there was (surprise, surprise) basically zero traffic and smooth tarmac.
 
