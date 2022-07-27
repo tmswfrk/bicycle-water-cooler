@@ -1,5 +1,8 @@
+# robots.txt for https://www.bicyclewatercooler.com
+
 User-agent: *
-Disallow: {{ absURL "/tags/" }}
+Disallow: */tags/
+Disallow: */categories/
 Disallow: 404.html
 
 Sitemap: {{ "sitemap.xml" | absLangURL }}
