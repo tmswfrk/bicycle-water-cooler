@@ -374,7 +374,7 @@ The overall mileage for the week for me was around 340 miles or 750 kilometers, 
 Yikes.
 
 ## Some item recommendations
-Since I flew out to Europe for this trip, first doing some solo riding in Nice, I definitely want to recommend a previous blog post where I've written about my [tips on flying with your bike]({{< ref "/blog/20200801_Traveling_with_Bike_by_Plane.md" >}}).
+Since I flew out to Europe for this trip, first doing some solo riding in Nice, I definitely want to recommend a previous blog post where I've written about my [tips on flying with your bike]({{< ref "/blog/Guides/Traveling_by_Plane/index.md" >}}).
 
 A few "new" items that I want to specifically point out that I used a lot on this trip (note that some of these are Amazon Affiliate links, which help encourage me to write more on this site):
 
@@ -393,7 +393,7 @@ I don't want to write up too much duplicate information here, but the trip was "
 ## The Italian Alps
 Prior to this trip, I honestly thought most of northern Italy was all considered "the Dolomites." Turns out that this isn't the case, as the Dolomites are technically more east within this region, while the western part is actually part of the Alps. Yeah, the same ones you hear about in France and Switzerland.
 
-Our trip started with a bus ride from Milan to the town of [Bormio](https://goo.gl/maps/q9rvUcHv2jar6YT39). It was wonderful driving back past [Lake Como](https://goo.gl/maps/LogCGbq2ijkXwWHKA), which made me giddy to relive a little bit of my [ride there back in 2019]({{< ref "/blog/20200629_Favorite_Day_of_Riding.md" >}}).
+Our trip started with a bus ride from Milan to the town of [Bormio](https://goo.gl/maps/q9rvUcHv2jar6YT39). It was wonderful driving back past [Lake Como](https://goo.gl/maps/LogCGbq2ijkXwWHKA), which made me giddy to relive a little bit of my [ride there back in 2019]({{< ref "/blog/Italy/Como_2019/index.md" >}}).
 
 ### Day 1: Mortiolo and Gavia
 We started off the first day of riding by splitting our start times into two groups. I went with the "faster" group, which, looking back on it, was a bit ambitious of me! We left the hotel we were staying at in Bormio and headed out. Extremely quickly, I'll add, as the roads south of Bormio generally descend through a magnificent valley.
@@ -481,7 +481,7 @@ I remember taking my time up this one, but definitely felt like it wasn't as dif
 Descending this one into Alleghe was _fast_. There's a long, straight section of smooth tarmac that you could easily go well beyond 120 km/h on! But following the ski lifts through the valley on the other side was definitely a fun experience.
 
 ## The Dolomites
-If you've ever seen pictures of riding in the epic mountains of northern Italy, you've likely seen the [Dolomites](https://en.wikipedia.org/wiki/Dolomites). They're known for their giant limestone-rock walled mountains, some of which look surprisingly similar to the granite walls of [Yosemite]({{< ref "/blog/20210516_Yosemite_Glacier_Point.md" >}}).
+If you've ever seen pictures of riding in the epic mountains of northern Italy, you've likely seen the [Dolomites](https://en.wikipedia.org/wiki/Dolomites). They're known for their giant limestone-rock walled mountains, some of which look surprisingly similar to the granite walls of [Yosemite]({{< ref "/blog/California/Yosemite_Glacier_Point/index.md" >}}).
 
 For a good portion of the year, most of these passes are snowed in and the area is known for skiing. During the other times of the year, it's quite popular for road and bike touring. As of 2009, the entire area has been officially designated as a UNESCO World Heritage Site.
 

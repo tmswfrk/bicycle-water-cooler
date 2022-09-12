@@ -104,7 +104,7 @@ This is what I came here to write about. When the unit works, it works fantastic
 * I'm not so sure they're going to keep making these, or if they technically still (actively) support them
 
 ## Why should you listen to me and keep reading?
-Well, I've owned two of these things, one of the first generation when I got my [Giant TCR]({{< ref "/blog/20200517_N_Plus_One_Rule.md" >}}) in 2015, and another in 2019 when I got my [Factor O2 VAM]({{< ref "/blog/20200517_N_Plus_One_Rule.md" >}}).
+Well, I've owned two of these things, one of the first generation when I got my [Giant TCR]({{< ref "/blog/Introspective/N_Plus_One_Rule/index.md" >}}) in 2015, and another in 2019 when I got my [Factor O2 VAM]({{< ref "/blog/Introspective/N_Plus_One_Rule/index.md" >}}).
 
 {{< img clean_crankset >}}
 

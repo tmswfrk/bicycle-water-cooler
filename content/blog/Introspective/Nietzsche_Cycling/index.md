@@ -23,7 +23,7 @@ Frankly, it's one of the reasons I love the sport of cycling. Let me explain.
 ## Cycling is 90% Mental
 I had an early experience into my cycling career that I will never forget. I was actually living in Orange County at the time, but was doing a contract job up in Burbank for a few months. Somehow I had managed to walk into a gig where I was renting two separate places for a few months on the cheap. So I would actually truck myself and all my things up to LA for the week, sleep on an air mattress, then head home on Friday afternoon to go spend the weekend riding my bike with my friends.
 
-One day, I eventually got the nerve to bring all my bike stuff up to LA with me. I mean, why not? I had already done part of the bike trail around near Griffith Park as part of the [LA River Ride]({{< ref "/blog/20200524_LA_River_Ride.md" >}}) a few months earlier, and besides, I knew what I was doing!
+One day, I eventually got the nerve to bring all my bike stuff up to LA with me. I mean, why not? I had already done part of the bike trail around near Griffith Park as part of the [LA River Ride]({{< ref "/blog/California/Los_Angeles/LA_River_Ride/index.md" >}}) a few months earlier, and besides, I knew what I was doing!
 
 I planned out the ride, I got up early (no easy feat for me, I'll add), and even drove my things over closer towards the parking lot that I previously had started from in the past. I remember being groggy, tired, and seriously asked myself many times on the way over "why am I doing this?", while also simultaneously responding with "well, you have all your stuff, and you said you would, so you should." I mean, normal stuff, I suppose.
 

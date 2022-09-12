@@ -97,7 +97,7 @@ When one thinks about Los Angeles, the first thing most think of is the iconic H
 
 There's even a lot of odd [history](https://bikesandhikesla.com/all-about-the-hollywood-sign/) around it, too. Did you know it used to say "Hollywoodland" and was even lit up at night?
 
-[I used to live in Orange County]({{< ref "/blog/20200520_My_Story.md" >}}) and for a short time, Los Angeles itself. Even growing up in San Diego, a bit further south, I still managed to go a good portion of my life without really seeing this thing.
+[I used to live in Orange County]({{< ref "/blog/Introspective/My_Story/index.md" >}}) and for a short time, Los Angeles itself. Even growing up in San Diego, a bit further south, I still managed to go a good portion of my life without really seeing this thing.
 
 Let alone bike up to it.
 
@@ -126,7 +126,7 @@ We stayed at the [Hotel Mariposa](https://www.hotelmariposala.com), which was su
 ## Overview
 If you follow the route above, the first several miles, while interesting, are absolutely _Los Angeles bike riding_. That means large roads, fast cars, and, if I am to be honest, is a bit nerve wracking. Los Angeles, in my experience, is NOT that friendly on the whole as far as infrastructure goes for bicycling. The people who do it have nerves of steel and definitely in an element of their own.
 
-That being said, I've done quite a bit of riding in LA, and there are definitely some sections that are okay at some times, while those same sections are definitely not okay at other times. It was actually in LA where I had my first real memorable moment of anxiety on the bike, which gave me a healthy respect for the [mental aspect of riding and just how important it is]({{< ref "/blog/20210131_Nietzsche_Cycling.md" >}}).
+That being said, I've done quite a bit of riding in LA, and there are definitely some sections that are okay at some times, while those same sections are definitely not okay at other times. It was actually in LA where I had my first real memorable moment of anxiety on the bike, which gave me a healthy respect for the [mental aspect of riding and just how important it is]({{< ref "/blog/Introspective/Nietzsche_Cycling/index.md" >}}).
 
 ### Cahuenga Blvd
 For this particular route, and specifically the first few miles, I'd only recommend in the early morning hours on a weekend or a holiday. Going anywhere near Cahuenga Blvd on a bike is not really a great idea if there's a lot of traffic. People do it, but there isn't much shoulder for you, and cars definitely tend to rip through there as a hopeful shortcut to get around the 101's traffic over the mountain.

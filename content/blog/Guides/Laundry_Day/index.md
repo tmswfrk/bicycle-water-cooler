@@ -12,7 +12,7 @@ draft: false
 ---
 Earlier this evening, I [went out for a ride](https://www.strava.com/activities/4850916858) up north, around a portion of the loop that I really like to do here in San Mateo. When I got home, I realized that I had laundry to do. Surprise, surprise, right?
 
-And given that I recently wrote about [what cycling clothes to buy]({{< ref "/blog/20210220_Intro_to_Cycling_Clothing.md" >}}), I thought it'd be good to write something short about how I keep mine clean.
+And given that I recently wrote about [what cycling clothes to buy]({{< ref "/blog/Guides/Intro_Cycling_Clothing/index.md" >}}), I thought it'd be good to write something short about how I keep mine clean.
 
 # Taking Care of your Cycling Clothing
 Take good care of them and they'll take good care of you! Keep them clean and ready to go, and you won't run into (hopefully) too many issues with the pad prematurely wearing out, zippers coming off, seams tearing, or edges curling.

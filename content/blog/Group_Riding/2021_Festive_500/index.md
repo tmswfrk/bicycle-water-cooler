@@ -158,7 +158,7 @@ In 2017 I started off strong with an [80 mile ride](https://www.strava.com/activ
 In 2018 I was recovering from a knee injury I got while in [Girona, Spain]({{< ref "/blog/Girona_Rides/2019_Routes/index.md" >}}) using new pedals that had a different Q-factor than my previous ones. The following year in 2019, I was traveling with my girlfriend who had no desire to do the challenge, especially since it was a rainy week down in San Diego. And in 2020, we were both in [Tucson, Arizona]({{< ref "/tags/tucson-arizona/" >}}) riding our bikes, but certainly not enough to consider the challenge a real possibility.
 
 # How I tackled the challenge this year
-With some encouragement from my girlfriend, who was already going to be traveling on her own separately from me for Christmas, I resolved within myself that this was the year to do the challenge. My buddy [Josh](https://www.strava.com/athletes/2515324) in Orange County was game for it, too, and as a newly minted [Rapha Ride Leader]({{< ref "/blog/Group_Riding/RCC_Ride_Leading/index.md" >}}), I felt a certain sense of excitement to represent Bay Area riding down in my original "[home turf]({{< ref "/blog/20200520_My_Story.md" >}})" of Orange County.
+With some encouragement from my girlfriend, who was already going to be traveling on her own separately from me for Christmas, I resolved within myself that this was the year to do the challenge. My buddy [Josh](https://www.strava.com/athletes/2515324) in Orange County was game for it, too, and as a newly minted [Rapha Ride Leader]({{< ref "/blog/Group_Riding/RCC_Ride_Leading/index.md" >}}), I felt a certain sense of excitement to represent Bay Area riding down in my original "[home turf]({{< ref "/blog/Introspective/My_Story/index.md" >}})" of Orange County.
 
 My general plan was to try to stack some early miles on the 24th itself, then to join a Rapha ride on the 26th after spending time with family. I figured a recovery ride could be good the morning of the 27th, after which I would travel home to ride another two days with my girlfriend, since she was returning on the 28th (and had expressed interest in riding with me).
 
@@ -184,7 +184,7 @@ Definitely wasn't a planned century route that day, but the group was strong, th
 ### [Recovery through Laguna](https://www.strava.com/activities/6434705039) (31m / 50k)
 {{< img 2 danapoint laguna >}}
 
-This ride was shockingly cold, actually, getting down to 4 degrees celsius! I was definitely tired, but it made for a great [recovery]({{< ref "/blog/20210731_Recovery.md" >}}) ride, which again, can be almost necessary after a big day in the saddle. I don't think my drive home later that day would have been very pleasant otherwise!
+This ride was shockingly cold, actually, getting down to 4 degrees celsius! I was definitely tired, but it made for a great [recovery]({{< ref "/blog/Nutrition/Recovery/index.md" >}}) ride, which again, can be almost necessary after a big day in the saddle. I don't think my drive home later that day would have been very pleasant otherwise!
 
 ### [Another 50km around a virtual world inside my house](https://www.strava.com/activities/6444163491) (31m / 50km)
 {{< img 2 zwift cranks >}}
@@ -235,12 +235,12 @@ It may be tempting to find really cool routes that include a bunch of climbing, 
 Being able to pump out a lot more miles in a shorter amount of time just generally makes the challenge go more quickly. This is especially the case during the holidays, as time is typically the most limiting factor here.
 
 ## Include virtual rides if the weather is bad
-This one kind of goes against the grain of the spirit of the original challenge, but given how things have been the past two years, [riding indoors can be a great alternative]({{< ref "/blog/20200530_Thoughts_on_Zwift.md" >}}) if the weather outside is not favorable. Or if regulations for travel have been restricted.
+This one kind of goes against the grain of the spirit of the original challenge, but given how things have been the past two years, [riding indoors can be a great alternative]({{< ref "/blog/Introspective/Thoughts_on_Zwift/index.md" >}}) if the weather outside is not favorable. Or if regulations for travel have been restricted.
 
 Just know that one mile inside on a trainer is, at least in my experience, more difficult than a mile outside. Not being able to coast very efficiently on a turbo trainer, along with simply the lack of mental engagement can make this more difficult.
 
 ## Try to ride with a group
-Going back to the "unexpected" century ride, it was made significantly more easy by being part of a group. First and foremost, this meant that I could draft others, but second, that I could just enjoy being social. This helped me take my mind off of the miles, as a [huge part of cycling is mental]({{< ref "/blog/20210131_Nietzsche_Cycling.md" >}}).
+Going back to the "unexpected" century ride, it was made significantly more easy by being part of a group. First and foremost, this meant that I could draft others, but second, that I could just enjoy being social. This helped me take my mind off of the miles, as a [huge part of cycling is mental]({{< ref "/blog/Introspective/Nietzsche_Cycling/index.md" >}}).
 
 {{< img tunnel >}}
 

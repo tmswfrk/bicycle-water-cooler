@@ -89,7 +89,7 @@ resources:
     alt: "Two cyclists in helmets in front of a vineyard near Healdsburg, California"
 ---
 # Riding in a Group is what Initially Attracted me to Cycling
-I originally started out this blog with telling [my story]({{< ref "/blog/20200520_My_Story.md">}}) of how I got into riding. Truth be told, a huge component and part of that was the social aspect of riding, particularly in a group. Sure, I loved the drafting effect when moving at speed, but the idea of riding in a group, developing friendships, and becoming a more social human certainly intrigued me.
+I originally started out this blog with telling [my story]({{< ref "/blog/Introspective/My_Story/index.md">}}) of how I got into riding. Truth be told, a huge component and part of that was the social aspect of riding, particularly in a group. Sure, I loved the drafting effect when moving at speed, but the idea of riding in a group, developing friendships, and becoming a more social human certainly intrigued me.
 
 {{< img 2 me_josh_dave flat >}}
 

@@ -11,7 +11,7 @@ keywords: ["The Longest Day bike event", "group riding", "pacing"]
 draft: false
 ---
 # Traditions are for Bike Riding Too
-Last year, I was frustrated with the way things were. I know we all were. 2020 was a hell of a year. So I opted to actually go for this whole "Longest Day" thing that has become quite popular in the cycling community. And I even did it solo. It was a big, big day for me, enough to the point where [I wrote about it on this blog]({{< ref "/blog/20200622_Longest_Day_2020.md" >}}).
+Last year, I was frustrated with the way things were. I know we all were. 2020 was a hell of a year. So I opted to actually go for this whole "Longest Day" thing that has become quite popular in the cycling community. And I even did it solo. It was a big, big day for me, enough to the point where [I wrote about it on this blog]({{< ref "/blog/Distance_Riding/Longest_Day_2020/index.md" >}}).
 
 A lot of training, both physically and mentally goes into a ride like this. So when I was invited by a good friend from out of town to do it again this year within a smaller group setting, I was a bit unsure. Was I ready? I had literally just ridden the day before, and was on track for a 200 mile week if I went.
 
@@ -35,7 +35,7 @@ It was fast. It was incredible. And I also won't forget that memory any time soo
 
 {{< figresize src="/img/2021/06/santacruz_county_line.jpeg" alt="The Santa Cruz county line sign along Cabrillo highway near Davenport, CA" width=100% title="That grading on the side of the road was rough, let me tell you!" >}}
 
-We even got up [Old La Honda]({{< ref "/blog/20201214_FR_Old_La_Honda.md" >}}) (our preferred route over the mountains of the peninsula) in about 24 1/2 minutes. And that was with my buddy "taking it easy" (his words, not mine). I remember thinking at the top of it that these guys better peter out soon, while I was also mentally telling myself to keep the long game in mind.
+We even got up [Old La Honda]({{< ref "/blog/Ride_Guides/Old_La_Honda/index.md" >}}) (our preferred route over the mountains of the peninsula) in about 24 1/2 minutes. And that was with my buddy "taking it easy" (his words, not mine). I remember thinking at the top of it that these guys better peter out soon, while I was also mentally telling myself to keep the long game in mind.
 
 That meant that when we got to the rest stop at [Whale City Bakery](http://www.whalecitybakery.com/) in Davenport, I made sure to take my time to recover a bit, and then proceeded to order a lot more food and beverages than I typically do. I wish I had more photos of it, but it was a mix of relatively easy to digest carbs and protein in the form of a ham and cheese croissant, a cookie, a coffee, and a coconut water. Recovery of champions!
 

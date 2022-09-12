@@ -90,7 +90,7 @@ This one is kind of difficult to categorize, as it's kind of subdivision of the 
 * Not necessarily made for light weight
 * Some are made to tow trailers and have space for pannier bags with multiple tie-down spots on the frame (for bikepacking)
 
-I currently have a [Niner RLT9]({{< ref "/blog/20200517_N_Plus_One_Rule.md" >}} "Niner RLT9"), while made of steel, is very much an "adventure" bike.
+I currently have a [Niner RLT9]({{< ref "/blog/Introspective/N_Plus_One_Rule/index.md" >}} "Niner RLT9"), while made of steel, is very much an "adventure" bike.
 
 ## Time Trial Bikes
 These bikes are basically so different here that it's kind of hard to truly classify them even as a "road bike". They're the one you'll typically see triathletes buying (and subsequently selling), as they are extremely purpose driven. You can tell one of these frames by an extremely aggressive seating position (really far reach to those bars, seating on the very front of the saddle, etc), very chunky frames when viewed from the side while retaining a small front cross section, and typically a set of "tri" bars that allow a rider to grip two parallel-with-the-road bars to get into the most aerodynamic position possible.

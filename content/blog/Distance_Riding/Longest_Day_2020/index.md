@@ -102,7 +102,7 @@ I know for this ride, I looked forward to the wonderful redwoods of the Santa Cr
 
 {{< yt "Descent down Old Santa Cruz Highway" "https://www.youtube.com/embed/bxGUBsxeO9w" "Point of view video of cyclist descending Old Santa Cruz Highway">}}
 
-I actually [wrote more about this very topic]({{< ref "/blog/20210131_Nietzsche_Cycling.md" >}}). A lot of this mentality can be attributed to Nietzsche, believe it or not.
+I actually [wrote more about this very topic]({{< ref "/blog/Introspective/Nietzsche_Cycling/index.md" >}}). A lot of this mentality can be attributed to Nietzsche, believe it or not.
 
 ## The exhilaration of it all
 Some of that stuff above sounds dreadful, doesn't it?
