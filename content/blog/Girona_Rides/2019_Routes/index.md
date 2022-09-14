@@ -4,7 +4,7 @@ date: 2021-08-27T17:44:20-07:00
 summary: "Because it's one of the best places on Earth for cycling. Seriously."
 description: "Need some cycling guidance, inspiration, and GPX routes? Here are my recommended cycling routes for the paradise that is Girona, Spain"
 image: "girona_cathedral"
-categories: ["Epic Rides"]
+categories: ["Bike Travel"]
 tags: ["Girona, Spain"]
 keywords: [
     "Best cycling routes in Girona, Spain",

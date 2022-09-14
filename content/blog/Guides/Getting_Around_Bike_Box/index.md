@@ -5,7 +5,7 @@ summary: "Because why not bring your wonderful bike to a new and exciting destin
 description: "Getting around with a bike carrier can be tricky in some international destinations like Europe. But with some planning, it doesn't have to be difficult."
 image: "/img/2020/08/girona_hotel_room.jpg"
 imagealt: "Getting around with a bike carrier can be tricky in some international destinations like Europe, but with some planning, it doesn't have to be difficult. Image contains: Giant TCR bicycle, BikeBoxAlan bike box case, hotel bedroom, tool bag, charging cables."
-categories: ["Travel"]
+categories: ["Bike Travel"]
 tags: ["Train Travel", "BikeBoxAlan"]
 keywords: ["Traveling with your bike on a train", "Traveling with your bike on public transit", "Traveling with your bike", "How to get around with a bike box", "Luggage tips while traveling", "Trek Travel experiences"]
 draft: false

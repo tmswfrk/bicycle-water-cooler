@@ -5,7 +5,7 @@ summary: "Looks like this is becoming a thing for me."
 description: "Creating traditions specific to bike riding can be fun, even if they may seem crazy at first."
 image: "/img/2021/06/longestday_factor_bridge.jpeg"
 imagealt: "Factor O2 VAM on a bridge near Pescadero, CA during The Longest Day adventure."
-categories: ["Epic Rides"]
+categories: ["Longest Day"]
 tags: ["The Longest Day", "Factor O2 VAM"]
 keywords: ["The Longest Day bike event", "group riding", "pacing"]
 draft: false

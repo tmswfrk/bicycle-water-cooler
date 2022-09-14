@@ -5,7 +5,7 @@ summary: "The next horizon when it comes to traveling with your bike."
 description: "Bringing your bike with you on an international trip is easy with some careful planning and some basic knowledge."
 image: "/img/2020/08/bikeboxalan_packedup.jpg"
 imagealt: "Bringing your bike with you on an international trip is easy with some careful planning and some basic knowledge. Image contains: BikeBoxAlan bike box, packed bicycle, stickers."
-categories: ["Travel"]
+categories: ["Bike Travel"]
 tags: ["Plane Travel", "BikeBoxAlan"]
 keywords: ["Traveling with you bicycle on a plane", "airline liability and bike boxes", "tips and tricks when packing a bicycle into a case", "recommended bike boxes"]
 draft: false

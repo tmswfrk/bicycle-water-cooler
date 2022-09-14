@@ -4,7 +4,7 @@ date: 2022-07-01T14:20:00-07:00
 summary: "What a fantastic place in the world to ride a bike!"
 description: "What is it like to ride a bike through the Dalmatian Coast in Croatia? Here is my first-hand experience and review of cycling with Exodus Travels"
 image: "mljet_distance"
-categories: ["Travel"]
+categories: ["Bike Travel"]
 tags: ["Croatia", "Exodus Travels"]
 keywords: [
     "Cycling the Dalmatian Coast",

@@ -5,7 +5,7 @@ summary: "The most common way I travel to do epic rides on my bike."
 description: "Driving somewhere new to ride your bike can be incredibly rewarding. And packing your bike into a car with all your supplies doesn't have to be a chore."
 image: "/img/2020/07/stuffincar.jpg"
 imagealt: "Packing up your bike into your car with all your supplies doesn't have to be a chore. Image contains: bicycles, Ford Escape, bags, backpacks, souvenirs."
-categories: ["Travel"]
+categories: ["Bike Travel"]
 tags: ["Car Travel"]
 keywords: ["traveling with your bike", "put bike in car", "skewers versus thru axles", "different kinds of bike racks for your car"]
 draft: false

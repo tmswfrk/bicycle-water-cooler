@@ -5,7 +5,7 @@ summary: "Ah, the long days of summer."
 description: "A truly epic challenge that took me from San Mateo to Santa Cruz and back."
 image: "/img/2020/06/PescaderoCreekRd.jpg"
 imagealt: "A truly epic challenge that took me from San Mateo to Santa Cruz and back. Image contains: redwood trees, empty road, filtered light."
-categories: ["Epic Rides"]
+categories: ["Longest Day"]
 tags: ["The Longest Day", "Factor O2 VAM", "Pas Normal Studios"]
 keywords: ["200 kilometer bike ride", "The Longest Day bike event", "riding your bike solo", "riding your bike along the coast"]
 draft: false

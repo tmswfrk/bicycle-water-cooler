@@ -5,7 +5,7 @@ summary: "Lake Como, Bellagio, Museo del Ciclismo, the Muro di Sormano, and gela
 description: "It was a truly magnificent cycling adventure around Lake Como in Italy, looping through Bellagio, visiting the Museo del Ciclismo, and tackling the Muro di Sormano."
 image: "/img/2020/06/Como.jpg"
 imagealt: "It was a truly magnificent cycling adventure around Lake Como in Italy. Image contains: bike, Lake Como, Italian mountains, fence, disc brakes, Rapha water bottles."
-categories: ["Epic Rides"]
+categories: ["Bike Travel"]
 tags: ["Italy", "Epic Riding", "Climbing", "Factor O2 VAM"]
 keywords: ["Riding a bike in Italy", "Madonna del Ghisallo climb", "Muro di Sormano climb", "Lake Como Cycling", "Bellagio Italy Cycling"]
 draft: false

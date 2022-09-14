@@ -5,7 +5,7 @@ summary: "It's been a while."
 description: "Quick update on the status of the www.bicyclewatercooler.com website, with an updated theme."
 image: "/img/2020/12/GGB.jpg"
 imagealt: "Quick update on the status of the www.bicyclewatercooler.com website, with an updated theme. Image contains: Cannondale Synapse, Factor O2 VAM, Golden Gate Bridge, San Francisco."
-categories: ["Website Related"]
+categories: ["Technology"]
 tags: ["Welcome"]
 keywords: ["Golang Hugo Static WebSite Generator", "Bicycle Water Cooler", "Blog"]
 draft: false

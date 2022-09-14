@@ -5,7 +5,7 @@ summary: "What do I ride, you ask? Well, let me introduce to you my N+1 stable."
 description: "The proper number of bikes to own is N+1, where N is equal to the current number of bikes you currently have."
 image: "/img/2020/05/stable.jpg"
 imagealt: "The proper number of bikes to own is N+1, where N is equal to the current number of bikes you currently have. Image contains: Giant TCR bike, Cycleops Hammer trainer, subway-inspired tube map, bike hats."
-categories: ["Cycling Gear"]
+categories: ["Stories"]
 tags: ["N+1", "Giant TCR", "Factor O2 VAM"]
 keywords: ["the N+1 rule", "what bikes I have", "what bike gear I use", "how many bikes do I need"]
 draft: false

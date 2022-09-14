@@ -4,7 +4,7 @@ date: 2022-09-03T14:24:52-07:00
 summary: "A week of the most intense riding I've ever done."
 description: "Review, details, and routes for the Italian Job, an epic bike ride adventure through the Italian Dolomites with the Velodrom Cycling Club"
 image: "fedaia_morning"
-categories: ["Epic Rides"]
+categories: ["Bike Travel"]
 tags: ["Italy", "Climbing"]
 keywords: [
     "Velodrom Italian Job Review",

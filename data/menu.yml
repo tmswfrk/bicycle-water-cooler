@@ -11,9 +11,11 @@
 - item: My Favorite Rides
   url: "categories/my-favorite-rides/"
 - item: Travel
-  url: "categories/travel/"
+  url: "categories/bike-travel/"
 - item: Epic Rides
   url: "categories/epic-rides/"
+- item: Technology
+  url: "categories/technology/"
 - item: "---"
   separator: "true"
 # - item: Favorite Links
