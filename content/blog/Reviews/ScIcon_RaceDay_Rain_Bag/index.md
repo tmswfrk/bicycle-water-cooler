@@ -56,6 +56,12 @@ resources:
   params:
     alt: "Side view of the ScIcon Race Day Rain bag showing its mesh pocket"
     exclude_gps: true
+- src: "*/side.jpeg"
+  name: "side"
+  title: "It actually fits better than I initially thought it would!"
+  params:
+    alt: "Inside view of the ScIcon Race Day Rain bag with helmet tilted sideways fitting two stacked shoes"
+    exclude_gps: true
 draft: false
 ---
 # Discount Code You Say?
@@ -97,7 +103,11 @@ You can fit a set of shoes around your helmet, either in the same pocket or in t
 
 {{< img helmet_and_shoe >}}
 
-You have considerably more room if instead you used the main pocket for shoes and carried your helmet separately. The [product page](https://sciconsports.com/us_en/essentials-cycling-kit-race-day-rain-bag-pr101205013) actually has a handy gif that showcases this quite nicely.
+Now if you instead orient your helmet sideways, with the outer shell facing the outer side of the bag, you can actually fit two shoes in the gap on the other side. That is, if you stack them heel to toe like you normally would in a shoebox. Once I packed the bag this way, I was surprised that everything fit so well. You could even fit some sunglasses or some snacks inside the helmet.
+
+{{< img side >}}
+
+That being said, you do have considerably more room if you use the main pocket for shoes and carried your helmet separately. The [product page](https://sciconsports.com/us_en/essentials-cycling-kit-race-day-rain-bag-pr101205013) actually has a handy gif that showcases this quite nicely.
 
 ## Strap
 I didn't use the strap too much on the trip itself, but I _did_ find it quite handy when later using the bag traveling on some busses, trains, and planes. The main top hand strap is solid and can definitely support plenty of weight on its own.
@@ -113,7 +123,7 @@ It felt quite well protected in there, and it fit into a nice rectangular shape 
 ## Pockets
 There are 4 top / bottom pockets, each fitting skinny things in a flexible shape. Imagine putting 4 books in, side to side, two accessible from the top and two from the bottom. Except that you also have the main side pocket that basically expands and contracts in a sort of duffel bag fashion.
 
-So depending on what you really want to carry will determine how you pack these pockets. When putting a helmet in the main pocket, you'll find that smaller and flexible items like clothing will fit best in each of these pockets because they'll fit around the helmet.
+So depending on what you really want to carry will determine how you pack these pockets. When putting a helmet in the main pocket, you'll find that smaller and flexible items like clothing will fit best in each of these pockets because they'll fit around the helmet. Similarly, if you fit the helmet in sideways with a set of shoes next to it, you can still fit several items in these pockets provided that they can fit around the shell of your helmet and around your shoes.
 
 The other side pocket expands a bit like the main pocket, but doesn't extend all the way like the main one does. 
 
