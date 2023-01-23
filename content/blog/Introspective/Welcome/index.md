@@ -3,12 +3,17 @@ title: "Welcome to the Bicycle Water Cooler"
 summary: "Introduction to both me and the Bicycle Water Cooler"
 date: 2020-05-13T22:16:41-07:00
 description: "Welcome to the Bicycle Water Cooler, your online blog resource for reviews, technology, discussions, and travel ideas for you and your bicycle."
-image: "/img/2020/05/vaujany.jpg"
-imagealt: "Bicyclist looking out over the town of Vaujany, France. Image contains: France, view, church, clouds, road, cyclist, road signs, houses"
+image: "vaujany"
 categories: ["Technology"]
 tags: ["Welcome", "Origin Story", "Hugo", "Golang"]
 keywords: ["Bicycle Water Cooler", "building a website in Hugo", "bikes are awesome"]
 draft: false
+resources:
+- src: '*/vaujany.jpg'
+  name: "vaujany"
+  title: "Love this picture!"
+  params:
+    alt: "Bicyclist looking out over the town of Vaujany, France. Image contains: France, view, church, clouds, road, cyclist, road signs, houses"
 ---
 # The start of what I'm hoping will be an active and long journey
 I've always been a guy who's been fascinated by technology. I was the geeky kid in school who literally wrote a "Dear Abbey" anonymous letter (it was an assignment, after all) and signed it "technologically impaired" because I was lamenting my lack of some new computer or game or something. I can't remember. I just remember being frustrated that everyone kept referring to my letter as "technology impaired" instead of "technologically" impaired. 

@@ -3,3 +3,4 @@ public/*
 resources/*
 themes/*
 .gitmodules
+.hugo_build.lock

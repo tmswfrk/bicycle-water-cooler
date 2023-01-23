@@ -96,7 +96,7 @@
       {{- if and (ne $image_lat "") (ne $image_long "") }}<a href="{{ printf "https://www.google.com/maps/search/?api=1&query=%f,%f" $image_lat $image_long }}">{{ end -}}
       {{ end }}
       <img src='{{ $image.Permalink }}' class="lazyload image" 
-        style="display:block;max-width:{{ $width }}%;" 
+        style="display:block;max-width:{{ $width }}%;margin:auto;margin-bottom:10px" 
         alt="{{ $altText }}" 
         title="{{ $image.Title }}"
       />
@@ -130,7 +130,7 @@
               {{- if not $exclude_gps }}
               {{- if and (ne $image_lat "") (ne $image_long "") }}<a href="{{ printf "https://www.google.com/maps/search/?api=1&query=%f,%f" $image_lat $image_long }}">{{ end }}
               {{ end }}
-                <img class="pogoimage" style="margin-top:0;margin-bottom:0;" sizes="{{ printf "%svw" (string (div 60 $numberOfCols) ) }}"
+                <img class="pogoimage" style="margin-top:0;margin-bottom:10px;" sizes="{{ printf "%svw" (string (div 60 $numberOfCols) ) }}"
                   srcset='
                   {{- range $sizes }}
                     {{- ($image.Resize (printf "%sx" .)).RelPermalink }} {{ (printf "%sw" .) }},

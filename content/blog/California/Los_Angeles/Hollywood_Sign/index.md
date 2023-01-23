@@ -151,7 +151,7 @@ Google won't show you a bike route around the southern and western sides of the 
 
 {{< img 1 reservoir >}}
 
-Continue heading around, be a tourist and take pictures, and eventually get out to [Tahoe Drive](google.com/maps/@34.1262011,-118.328727,17z) just past another gate with a fanciful Hollywood logo with stars on it.
+Continue heading around, be a tourist and take pictures, and eventually get out to [Tahoe Drive](https://goo.gl/maps/dy8fT6THzkUcyEvM6) just past another gate with a fanciful Hollywood logo with stars on it.
 
 {{< img 1 star_gate >}}
 

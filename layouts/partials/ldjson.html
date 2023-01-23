@@ -6,7 +6,7 @@
     "name": "{{ .Site.Title }}",
     "url": "{{ .Site.BaseURL }}",
     "description": "{{ .Site.Params.Meta.Description }}",
-    "thumbnailUrl": "{{ "/img/about/vaujany.jpg" | absURL }}",
+    "thumbnailUrl": "{{ "/about/images/vaujany.jpg" | absURL }}",
     "keywords" : [ {{ range $index, $keyword := .Site.Params.Meta.Keywords }}{{ if $index }}, {{ end }}"{{ $keyword }}" {{ end }}],
     "license": "{{ .Site.Params.Copyright }}"
 }
