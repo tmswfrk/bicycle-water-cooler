@@ -40,11 +40,10 @@
   </div>
 </section>
 
-<section class="section-sm" style="padding-top: 10px;">
+<section class="section-sm" style="padding-top: 10px; padding-bottom: 10px">
   <div class="container">
     <div class="row">
       <div style="margin-left: 0%; margin-right: 0%;";>
-        <!--<h1 class="mb-4">{{ .Title }}</h1>-->
         <div class="content">{{.Content}}</div>
         <div class="text-center mt-5">
           <ul class="list-inline post-meta d-inline-block mr-4">
@@ -65,7 +64,7 @@
   </div>
 </section>
 
-{{ partial "singlefooter" . }}
+{{ partial "relatedposts" . }}
 
 {{ if .Site.DisqusShortname }}
 <section class="section-sm bg-light">

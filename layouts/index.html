@@ -1,7 +1,7 @@
 {{ define "main" }}
 {{- /* NOTE that this file is based on the Persian Hugo theme */ -}}
 
-<section class="section pt-0">
+<section class="section pt-0" style="padding-bottom: 20px;">
   <div class="container-fluid">
     <div class="row">
       {{ $paginator := .Paginate (where site.RegularPages "Type" "in" site.Params.mainSections) }}
@@ -138,5 +138,8 @@
     </div>
   </div>
 </section>
+<div class="col-md-12 mb-4 text-center">
+  <hr class="mt-2 mb-4" style="width: 70%"/>
+</div>
 
 {{ end }}

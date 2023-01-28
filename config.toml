@@ -2,36 +2,31 @@ baseurl                 = "https://www.bicyclewatercooler.com/"
 relativeurls            = true
 DefaultContentLanguage  = "en"
 title                    = "Bicycle Water Cooler"
-# title                   = "Welcome to the Bicycle Water Cooler, a virtual water cooler conversation about bikes, travel, and all things related to cycling."
-#theme                   = "hugo-future-imperfect-slim"
-#theme                   = "newsroom"
 theme                   = "persian"
 preserveTaxonomyNames   = true
-paginate                = 5 # odd number works best here
-# disqusShortname         = "bicyclewatercooler"
-# disqus_url              = "bicyclewatercooler.com"
+paginate                = 7 # odd number works best here
 googleAnalytics         = ""
 pluralizeListTitles     = false
 disableLanguages        = [""]
 enableRobotsTXT         = true
 canonifyURLs            = true
+# disqusShortname         = "bicyclewatercooler"
+# disqus_url              = "bicyclewatercooler.com"
 
-[outputFormats]
-    [outputFormats.SearchIndex]
-    mediaType   = "application/json"
-    baseName    = "index"
-
-[author]
-  name = "James Clarke"
+# [outputFormats]
+#     [outputFormats.SearchIndex]
+#     mediaType   = "application/json"
+#     baseName    = "search"
 
 [outputs]
-    home = ["html", "json", "RSS", "SearchIndex"]
+    home = ["html", "json", "RSS"]
 
 [permalinks]
   blog = "/:section/:year/:month/:title/"
   reviews = "/:section/:year/:month/:title/"
 
 [params]
+  search            = true # enables search, from Persian theme
   siteName          = "Bicycle Water Cooler"
   logo              = "/img/main/bwc_350x116_light.png"
   logo_dark         = "/img/main/bwc_350x116_dark.png"
@@ -39,7 +34,8 @@ canonifyURLs            = true
   # disableDarkMode = true
   #logoAlt          = "Bicycle Water Cooler | Join the virtual water cooler conversation about bikes, travel, and tech."
   logoAlt           = "Your online blog resource for bikes, travel, and tech. Come join the conversation."
-  ga_analytics      = "UA-172930899-1"
+  ga_analytics      = "UA-172930899-1" # added myself
+  google_analitycs_id = "UA-172930899-1" # used in footer.html, pulled from Persian theme
   amzn_associate_id = "bicyclewate08-20"
   mainSections      = ["blog"]
   copyright         = "James Clarke"
@@ -70,11 +66,6 @@ canonifyURLs            = true
   description = "Welcome to the Bicycle Water Cooler, your online water cooler conversation about all things cycling. Come join the conversation!"
 
   [params.meta]
-    # Sets the meta tag description
-    # V1 - no longer used
-    #description         = "A virtual water cooler conversation about all things cycling: the tech, travel, and the ride you did last weekend."
-    # description         = "Welcome to the Bicycle Water Cooler, your online cycling resource for reviews, technology, discussions, and travel ideas for you and your bicycle."
-    #description         = "Bicycle Water Cooler | Biking, Travel, Tech, Reviews | Your online blogging resource for all things cycling"
     description         = "Bicycle Water Cooler Blog | Biking, Travel, Tech, Reviews"
     # Sets the meta tag author
     author              = "James Clarke"
@@ -101,63 +92,6 @@ canonifyURLs            = true
       "bike events",
       "bike event reviews",
       ]
-    # If you would like to add more comprehensive favicon support passed root
-    # directory favicon.ico, utlize this funtion. It is recommened to use
-    # https://realfavicongenerator.net to generate your icons as that is the basis
-    # for the theme's naming.
-    favicon             = false
-    svg                 = false
-    faviconVersion      = "1"
-    msColor             = "#ffffff" # Copy from the https://realfavicongenerator.net
-    iOSColor            = "#ffffff" # Copy from the https://realfavicongenerator.net
-
-  [params.header]
-    # Sets the navbarTitle that appears in the top left of the navigation bar
-    navbarTitle         = "The Bicycle Water Cooler"
-    # Sets navbarTitle to match the section of the website
-    dynamicTitles       = true
-    searchMenu          = true
-    shareMenu           = true
-    languageMenu        = true
-
-  # These are optional params related to the sidebar. They are recommended, but not
-  # required for proper functionality. HTML is supported within the params.
-  [params.intro]
-    #header                = "The Bicycle Water Cooler"
-    header                = ""
-    paragraph             = "Biking around the world, and talking about it one water cooler conversation at a time."
-    rssIntro              = true
-    socialIntro           = true
-    # You may not want to display a long intro above content in the
-    # single column layout used on smaller screens.
-    hideWhenSingleColumn  = false
-    # But you may want to always display the intro on the homepage.
-    alwaysOnHomepage      = false
-
-    # This appears at the top of the sidebar above params.intro.header.
-    # A width of less than 100px is recommended from a design perspective.
-    [params.intro.pic]
-      #src                 = "/img/main/bwc.jpg"
-      src                 = "/img/main/BicycleWatercoolerLogo_618x400.png"
-      # Masks image in a certain shape. Supported are circle, triangle, diamond, and hexagon.
-      shape               = ""
-      width               = "418"
-      alt                 = "The Bicycle Water Cooler, a virtual conversation around the water cooler. Image contains: carbon fiber bicycle, water bottle, bidon."
-
-  [params.sidebar]
-    about               = "A techie from southern CA, living in San Francisco, obsessed with all things tech and bike related."
-    # Sets the number of recent posts to show in the sidebar. The default value is 5.
-    postAmount          = 5
-    # set to show or to hide categories in the sidebar
-    categories          = false
-    # Sets Categories to sort by number of posts instead of alphabetical
-    categoriesByCount   = true
-
-  [params.footer]
-    # Sets RSS icons to appear on the sidebar with the social media buttons
-    rssFooter           = true
-    # Sets Social Media icons to appear on the sidebar
-    socialFooter        = true
 
   # Disqus will take priority over Staticman (github.com/eduardoboucas/staticman)
   # due to its ease of use. Feel free to check out both and decide which you would
@@ -248,3 +182,22 @@ canonifyURLs            = true
   stackoverflow         = "" # User Number
   # Email
   email                 = "bicyclewatercooler@gmail.com"
+
+############################# Plugins ##############################
+# CSS Plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+link = "plugins/search/mark.js"
+[[params.plugins.js]]
+link = "plugins/search/search.js"

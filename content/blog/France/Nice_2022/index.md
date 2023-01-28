@@ -1,6 +1,6 @@
 ---
 title: "My Solo Ride Camp through the Stunning Côte d'Azur"
-date: 2022-12-11T21:42:38-08:00
+date: 2023-01-11T21:42:38-08:00
 summary: "After visiting, I can understand why Chris Froome made it his home."
 description: "Routes, climbs, and details from a solo cycling trip in the coastal region of Nice, France"
 image: "cap_martin"

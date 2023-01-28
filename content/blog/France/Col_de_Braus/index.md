@@ -1,6 +1,6 @@
 ---
 title: "The Lacets of the Col de Braus"
-date: 2023-01-02T14:21:35-08:00
+date: 2023-01-08T14:21:35-08:00
 summary: "An exposed 10km climb up switchback paradise from L'Escarene in the hills above Nice."
 description: "Personal thoughts and details on cycling up the Col de Braus climb from the west via L'Escarene"
 image: "lacets"

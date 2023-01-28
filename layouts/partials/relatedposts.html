@@ -1,12 +1,13 @@
-{{- /* Footer Section */ -}}
-{{- "<!-- Single Page Footer Section -->" | safeHTML }}
+{{- /* Related Posts Section */ -}}
+{{- "<!-- Related Posts Section -->" | safeHTML }}
 {{ $related := (where site.RegularPages "Section" "blog") | intersect (where site.Pages ".Title" "!=" .Title) | union (site.RegularPages.Related . ) }}
 {{ if $related }}
-<section class="section pt-0">
+<section class="section pt-0" style="padding-bottom: 20px;">
   <div class="container-fluid">
     <div class="row">
       <div class="col-md-12 mb-4 text-center">
-        <h2>Other Posts You May Be Interested In</h2>
+        <hr class="mt-2 mb-4" style="width: 70%"/>
+        <h2 class="mb-2">Other Posts You May Be Interested In</h2>
       </div>
     </div>
     <div class="row">
@@ -70,4 +71,7 @@
     </div>
   </div>
 </section>
+<div class="col-md-12 mb-4 text-center">
+  <hr class="mt-2 mb-4" style="width: 70%"/>
+</div>
 {{ end }}

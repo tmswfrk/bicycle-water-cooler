@@ -1,0 +1,11 @@
+{{ "<!-- Search index -->" | safeHTML -}}
+{{- if .Site.Params.search }}
+<script>var indexURL = {{"index.json" | absURL}}</script>
+{{ end }}
+{{- "<!-- JS Plugins -->" | safeHTML -}}
+{{ range .Site.Params.plugins.js -}}
+<script src="{{ .link | absURL }}"></script>
+{{ end }}
+{{- "<!-- Main Script -->" | safeHTML }}
+{{- $script := resources.Get "js/script.js" | minify}}
+<script src="{{ $script.Permalink }}"></script>
