@@ -13,13 +13,13 @@ canonifyURLs            = true
 # disqusShortname         = "bicyclewatercooler"
 # disqus_url              = "bicyclewatercooler.com"
 
-# [outputFormats]
-#     [outputFormats.SearchIndex]
-#     mediaType   = "application/json"
-#     baseName    = "search"
+[outputFormats]
+    [outputFormats.SearchIndex]
+    mediaType   = "application/json"
+    baseName    = "search"
 
 [outputs]
-    home = ["html", "json", "RSS"]
+    home = ["html", "json", "RSS", "SearchIndex"]
 
 [permalinks]
   blog = "/:section/:year/:month/:title/"
@@ -27,6 +27,7 @@ canonifyURLs            = true
 
 [params]
   search            = true # enables search, from Persian theme
+  searchJSONFile    = "search.json"
   siteName          = "Bicycle Water Cooler"
   logo              = "/img/main/bwc_350x116_light.png"
   logo_dark         = "/img/main/bwc_350x116_dark.png"
@@ -110,33 +111,33 @@ canonifyURLs            = true
     pre               = "<i class='far fa-id-card'></i>"
     weight            = 2
 
-  [[menu.main]]
-    name              = "Blog"
-    identifier        = "blog"
-    url               = "/blog/"
-    pre               = "<i class='far fa-newspaper'></i>"
-    weight            = 3
+  # [[menu.main]]
+  #   name              = "Blog"
+  #   identifier        = "blog"
+  #   url               = "/blog/"
+  #   pre               = "<i class='far fa-newspaper'></i>"
+  #   weight            = 3
 
   [[menu.main]]
     name              = "Reviews"
     identifier        = "reviews"
     url               = "/reviews/"
     pre               = "<i class='fas fa-bicycle'></i>"
-    weight            = 4
+    weight            = 3
 
   [[menu.main]]
     name              = "Tags"
     identifier        = "tags"
     url               = "/tags/"
     pre               = "<i class='fas fa-sitemap'></i>"
-    weight            = 5
+    weight            = 4
 
   [[menu.main]]
     name              = "Contact"
     identifier        = "contact"
     url               = "/contact/"
     pre               = "<i class='far fa-envelope'></i>"
-    weight            = 6
+    weight            = 5
 
 [Languages]
   # Each language has its own menu.
@@ -171,6 +172,10 @@ canonifyURLs            = true
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
 link = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
+link = "plugins/css/imggrid.css"
+[[params.plugins.css]]
+link = "plugins/css/custom.css"
 
 # JS Plugins
 [[params.plugins.js]]

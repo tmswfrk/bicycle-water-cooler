@@ -1,0 +1,4 @@
+/* For custom CSS that will get included in <head> */
+.content h1 {
+    margin-top: 10px;
+}

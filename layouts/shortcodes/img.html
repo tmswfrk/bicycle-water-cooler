@@ -28,46 +28,6 @@
       {{- end -}}
     {{- end -}}
     
-    <style>
-        .grid {
-          width: 100%;
-          display: grid;
-          grid-auto-flow: row;
-          justify-items: stretch;
-          justify-content: stretch;
-          grid-gap: 10px;
-          grid-template-columns: repeat(12, 1fr);
-        }
-        .oneCol, .twoCols, .threeCols {
-          grid-column: span 12;
-        }
-        .fourCols, .sixCols {
-          grid-column: span 6;
-        }
-          @media (min-width: 768px) {
-            .twoCols, .threeCols {
-              grid-column: span 6;
-            }
-            .fourCols, .sixCols {
-              grid-column: span 3;
-            }
-          }
-          @media (min-width: 992px) {
-            .twoCols {
-              grid-column: span 6;
-            }
-            .threeCols {
-              grid-column: span 4;
-            }
-            .sixCols {
-              grid-column: span 2;
-            }
-          }
-        .pogoimage {
-          width: 100%;
-        }
-    </style>
-    
     {{- /* Tee off here to process image differently if only one is provided */ -}}
     {{- /* An additional .Params.Get "width" value is supported here */ -}}
     {{- if eq (len $image_names) 1 -}}

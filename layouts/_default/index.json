@@ -1,29 +1,23 @@
-{{- $.Scratch.Add "index" slice -}}
-{{- range where site.RegularPages "Section" "blog" -}}
-{{ $date:= .PublishDate.Format "02"}}
-{{ $month:= .PublishDate.Format "Jan"}}
-{{- /* TODO: Modify existing pages to use resources instead of direct URL's here */ -}}
-{{- /* .Params.image is the front matter for each page, have to get match from what is */ -}}
-{{- /* essentially a `ls images/` within this page's bundle */ -}}
-{{- /* First, let's check for backward compatibility refs */ -}}
-{{ $image_url := "" }}
-{{ $image_alt := "" }}
-{{ $image_title := "" }}
-{{- if and (isset .Params "image") (hasPrefix (.Params.image) "/img") -}}
-    {{- $image_url = (absURL .Params.image) -}}
-    {{- $image_alt = .Params.imagealt }}
-    {{- $image_title = .Params.imagetitle }}
-{{ else if (.Resources.ByType "image").GetMatch (printf "%s" .Params.image) }}
-    {{ $image_match := (.Resources.ByType "image").GetMatch (.Params.image) }}
-    {{ with $image_match }}
-        {{ $image_url = $image_match.Permalink }}
-        {{- with $image_match.Params.Get "alt" }}{{ $image_alt = . }}{{ end -}}
-            {{- with $image_match.Title }}{{ $image_title = . }}{{ end -}}
-    {{ end }}
-{{- else -}}
-{{- /* The (former) about page comes through here - TODO? */ -}}
-{{- /* If no resources or direct img top content is provided, it goes through here */ -}}
-{{ end -}}
-  {{- $.Scratch.Add "index" (dict "title" .Title "date" $date "month" $month "tags" .Params.tags "image" .Params.image "categories" .Params.categories "contents" .Plain "permalink" .Permalink "imageUrl" $image_url) -}}
-{{- end -}}
-{{- $.Scratch.Get "index" | jsonify -}}
+{
+    "@context": "http://schema.org",
+    "@type": "Website",
+    "name": "{{ .Site.Title }}",
+    "url": "{{ absURL "" }}",
+    "logo": "{{ absURL .Site.Params.Logo }}",
+    "headline": "{{ .Title }}",
+    "author": {
+      "@type": "Person",
+      "name": "{{ .Site.Params.copyright }}"
+    },
+    "description": {{ .Site.Params.meta.description | jsonify }},
+    "mainEntityOfPage": "True",
+    "publisher": {
+      "@type": "Organization",
+      "name": "{{ .Site.Title }}",
+      "logo": {
+        "@type": "imageObject",
+        "url": "{{ absURL .Site.Params.Logo }}"
+      }
+    },
+    "keywords": "{{ delimit .Site.Params.Meta.Keywords ", "}}"
+  }
