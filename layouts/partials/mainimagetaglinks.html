@@ -1,14 +1,24 @@
-<div class="text-center">
-    <ul class="list-inline post-meta d-inline-block mr-4">
-        <li class="list-inline-item"><i class="ti-tag"></i></li>
-        {{ range .Params.Tags }}
-        <li class="list-inline-item">
-            <a href="{{ `tags/` | relLangURL }}{{ . | urlize | lower }}/">{{ . | humanize }}</a>
-        </li>
-        {{ end }}
-    </ul>
-    {{ if (isset .Params "author") }}
-    <span><i class="ti-user mr-2"></i><a
-        href="{{ `author/` | relLangURL }}{{ .Params.author | urlize }}/">{{ .Params.author }}</a></span>
-    {{ end }}
-</div>
+{{- if isset .Params "tags" }}
+    {{- $tags := slice }}
+    {{- range .Params.Tags }}
+        {{- if ne . "" }}
+            {{- $tags = $tags | append . }}
+        {{- end }}
+    {{- end }}
+    {{- if gt (len $tags) 0 }}
+    <div class="text-center">
+        <ul class="list-inline post-meta d-inline-block mr-4">
+            <li class="list-inline-item"><i class="ti-tag"></i></li>
+            {{- range $tags }}
+            <li class="list-inline-item">
+                <a href="{{ `tags/` | relLangURL }}{{ . | urlize | lower }}/">{{ . | humanize }}</a>
+            </li>
+            {{- end }}
+        </ul>
+        {{- if (isset .Params "author") }}
+        <span><i class="ti-user mr-2"></i><a
+            href="{{ `author/` | relLangURL }}{{ .Params.author | urlize }}/">{{ .Params.author }}</a></span>
+        {{- end }}
+    </div>
+    {{- end }}
+{{- end }}
