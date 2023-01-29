@@ -3,7 +3,7 @@ title: "About Me"
 image: vaujany
 date: 2020-05-13T22:16:07-07:00
 draft: false
-layout: "about"
+type: "about"
 keywords: ["About me", "Bicycle Water Cooler", "Golang Hugo", "Site Reliability Engineer"]
 description: "Welcome to the Bicycle Water Cooler, your online blog resource for reviews, technology, discussions, and travel ideas for you and your bicycle."
 resources:
