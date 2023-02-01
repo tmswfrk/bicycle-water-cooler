@@ -53,7 +53,7 @@
       {{- end -}}
       {{- $exclude_gps := $image.Params.Get "exclude_gps" }}
       {{- if not $exclude_gps }}
-      {{- if and (ne $image_lat "") (ne $image_long "") }}<a href="{{ printf "https://www.google.com/maps/search/?api=1&query=%f,%f" $image_lat $image_long }}">{{ end -}}
+      {{- if and (ne $image_lat "") (ne $image_long "") }}<a href="{{ printf "https://www.google.com/maps/search/?api=1&query=%f,%f" $image_lat $image_long }}" target="_blank">{{ end -}}
       {{ end }}
       <img src='{{ $image.Permalink }}' class="lazyload image" 
         style="display:block;max-width:{{ $width }}%;margin:auto;margin-bottom:10px" 
@@ -88,7 +88,7 @@
               {{- /* Only show Google Maps URL if we have both latitude and longitude values */ -}}
               {{- $exclude_gps := $image.Params.Get "exclude_gps" }}
               {{- if not $exclude_gps }}
-              {{- if and (ne $image_lat "") (ne $image_long "") }}<a href="{{ printf "https://www.google.com/maps/search/?api=1&query=%f,%f" $image_lat $image_long }}">{{ end }}
+              {{- if and (ne $image_lat "") (ne $image_long "") }}<a href="{{ printf "https://www.google.com/maps/search/?api=1&query=%f,%f" $image_lat $image_long }}" target="_blank">{{ end }}
               {{ end }}
                 <img class="pogoimage" style="margin-top:0;margin-bottom:10px;" sizes="{{ printf "%svw" (string (div 60 $numberOfCols) ) }}"
                   srcset='

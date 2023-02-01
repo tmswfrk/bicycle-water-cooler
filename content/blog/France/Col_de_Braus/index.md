@@ -108,7 +108,7 @@ First of all, this post is part of a greater series of posts that I've written a
 It's a marvelous feat of engineering if you ask me.
 
 # The Route
-When I was in Nice in the summer of 2022, I opted to visit and climb the Col de Braus on my second day of riding. It was actually my most ambitious day of riding, as the total distance I planned for the day was over 80 miles and over 10,000 feet of climbing!
+When I was in [Nice in the summer of 2022]({{< ref "/blog/France/Nice_2022/index.md" >}}), I opted to visit and climb the Col de Braus on my second day of riding. It was actually my most ambitious day of riding, as the total distance I planned for the day was over 80 miles and over 10,000 feet of climbing!
 
 If you check out [Cafe du Cycliste's Nice Rider's Guide](https://www.cafeducycliste.com/en_us/la-gazette/where-to-ride-from-nice-braus-turini/), you'll see that they will often group this climb with the Col de Turini as part of a larger, epic loop, starting from their shop in Nice. Given that I was new to the region and that I was doing this solo, I opted to (mostly) follow their route.
 
