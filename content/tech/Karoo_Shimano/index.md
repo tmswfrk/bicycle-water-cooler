@@ -4,6 +4,7 @@ date: 2022-06-02T15:29:27-07:00
 summary: "Turns out there was more to this one than I initially thought."
 description: "General thoughts and review on the current Hammerhead Karoo 2 and Shimano recent news from an engineer's perspective."
 image: "karoo"
+type: "tech"
 categories: ["Technology"]
 tags: ["Technology", "News", "Shimano", "Karoo"]
 keywords: [
@@ -104,7 +105,7 @@ Actively removing features and functionality that you've grown to really enjoy d
 ## Wireless Protocols
 The DCRainmaker article above discusses this in more detail, but Shimano has not been very forthcoming in sharing their wireless standard. Nor have they been onboard with using more open standards that both SRAM and Garmin have been pioneering for years.
 
-They choose to remain locked in to a private ANT network, something very similar to how my [Pioneer Power Meter]({{< ref "/blog/Reviews/Pioneer_Power/index.md" >}}) works. It continues to be a bit of a black box to us end users, while we all just simply assume it's "bluetooth". 
+They choose to remain locked in to a private ANT network, something very similar to how my [Pioneer Power Meter]({{< ref "/reviews/Pioneer_Power/index.md" >}}) works. It continues to be a bit of a black box to us end users, while we all just simply assume it's "bluetooth". 
 
 {{< img blackbox >}}
 

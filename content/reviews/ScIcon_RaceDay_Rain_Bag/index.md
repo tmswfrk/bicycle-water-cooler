@@ -4,6 +4,7 @@ date: 2022-09-13T21:12:58-07:00
 summary: "I didn't expect to like this one as much as I have."
 description: "Product review of the ScIcon Race Day Rain Bag, a surprisingly large bag that fits your bike helmet, shoes, and several items of clothing for your next biking adventure."
 image: "with_helmet"
+type: "reviews"
 categories: ["Product Reviews"]
 tags: ["ScIcon Sports", "Product Review"]
 keywords: [

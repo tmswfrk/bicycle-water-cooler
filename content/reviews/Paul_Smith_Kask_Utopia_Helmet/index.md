@@ -5,6 +5,7 @@ summary: "I feel so Gucci wearing this."
 description: "Non-sponsored product review of a custom colored Kask Utopia bicycle helmet, created by clothing brand and bicycle enthusiast Paul Smith"
 image: "/img/reviews/PaulSmithKaskUtopia/OLH.jpg"
 imagealt: "Non-sponsored product review of a custom colored Kask Utopia bicycle helmet, created by clothing brand and bicycle enthusiast Paul Smith. Image contains: Factor O2 VAM bicycle, multicolored rainbow Paul Smith Kask Utopia helmet, redwood trees, Skyline Blvd, Old La Honda Road."
+type: "reviews"
 categories: ["Product Reviews"]
 tags: ["Kask", "Helmet", "Product Review"]
 keywords: ["Paul Smith Custom Kask Utopia Helmet Review", "Custom gear for your ride", "Unique products for your bike"]

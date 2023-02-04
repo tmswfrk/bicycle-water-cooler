@@ -4,6 +4,7 @@ date: 2022-03-20T16:45:47-07:00
 summary: "A no-longer-supported power meter still has some customers."
 description: "Non-sponsored product review of the Pioneer Power meter used for detailed metrics for cyclists and coaches."
 image: "power_meter_box"
+type: "reviews"
 categories: ["Product Reviews"]
 tags: ["Pioneer", "Power Meter", "Product Review"]
 keywords: [

@@ -275,7 +275,7 @@ Overall, I really like [RideWithGPS](https://ridewithgps.com/users/1129196/), bu
 
 It's basically duplicate work, so it can be a bit more time consuming, but this whole process does give me more confidence in the route I've chosen to ride. This is why sometimes I use Google Maps first in a cursory manner, narrowing in on details here in a separate step.
 
-RWGPS actually gives you really good turn-by-turn directions and cue sheets (at least for now) without the need of a paid subscription, so it works very well with my [Hammerhead Karoo]({{< ref "/blog/Tech/Karoo_Shimano/index.md" >}}).
+RWGPS actually gives you really good turn-by-turn directions and cue sheets (at least for now) without the need of a paid subscription, so it works very well with my [Hammerhead Karoo]({{< ref "/tech/Karoo_Shimano/index.md" >}}).
 
 With a [paid subscription](https://ridewithgps.com/choose_account) you get more, of course. One of the perks I would use allows you to denote stops and points of interests along your route as cue sheet items. However if someone else builds a route for you who happens to have a paid membership and puts these items in their route, when they share it with you, you'll have them, too.
 
