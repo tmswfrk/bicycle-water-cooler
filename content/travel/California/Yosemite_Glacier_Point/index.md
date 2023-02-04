@@ -77,7 +77,7 @@ While I personally didn't find it too harrowing or nerve-wracking, my girlfriend
 There's another great view out over the valley just past the tunnel, so don't forget to look back over your shoulder to see it!
 
 ### The Altitude
-The next few miles are where the elevation may start to hit you, depending on how well adjusted you are to it. In our case, we had only driven up the previous day, so we did not have too much time to adjust. So while the overall elevation wasn't as high as it was when we did [Mount Lemmon in Tucson]({{< ref "blog/Arizona/Mt_Lemmon/index.md" >}}), we had to take similar precautions.
+The next few miles are where the elevation may start to hit you, depending on how well adjusted you are to it. In our case, we had only driven up the previous day, so we did not have too much time to adjust. So while the overall elevation wasn't as high as it was when we did [Mount Lemmon in Tucson]({{< ref "/travel/Arizona/Mt_Lemmon/index.md" >}}), we had to take similar precautions.
 
 ### Safety
 There isn't a lot of shoulder along this section, and it isn't even the section that would be shut down anyway during the magical "bikes only" week, so be careful, be visible, and be predictable. There's a large area that was previously burned a few years ago, which does actually help aid your visibility. It also rewards you with vertigo-inducing views of the valley beyond Yosemite Valley, which is quite spectacular.

@@ -100,7 +100,7 @@ resources:
 
 ---
 # My Experience with the Col de Braus
-First of all, this post is part of a greater series of posts that I've written about that documents my trip to the area in the summer of 2022. If you're looking for more on that trip and where else I went, definitely [check out the post]({{< ref "/blog/France/Nice_2022/index.md" >}})!
+First of all, this post is part of a greater series of posts that I've written about that documents my trip to the area in the summer of 2022. If you're looking for more on that trip and where else I went, definitely [check out the post]({{< ref "/travel/France/Nice_2022/index.md" >}})!
 
 ## What are "lacets", you ask?
 "Lacets" translates to "laces" in French. There are _a lot_ of these tight switchbacks throughout France and some of them even look like they double back over themselves. So from above, they basically look like laces one would use to tie their shoe.
@@ -108,13 +108,13 @@ First of all, this post is part of a greater series of posts that I've written a
 It's a marvelous feat of engineering if you ask me.
 
 # The Route
-When I was in [Nice in the summer of 2022]({{< ref "/blog/France/Nice_2022/index.md" >}}), I opted to visit and climb the Col de Braus on my second day of riding. It was actually my most ambitious day of riding, as the total distance I planned for the day was over 80 miles and over 10,000 feet of climbing!
+When I was in [Nice in the summer of 2022]({{< ref "/travel/France/Nice_2022/index.md" >}}), I opted to visit and climb the Col de Braus on my second day of riding. It was actually my most ambitious day of riding, as the total distance I planned for the day was over 80 miles and over 10,000 feet of climbing!
 
 If you check out [Cafe du Cycliste's Nice Rider's Guide](https://www.cafeducycliste.com/en_us/la-gazette/where-to-ride-from-nice-braus-turini/), you'll see that they will often group this climb with the Col de Turini as part of a larger, epic loop, starting from their shop in Nice. Given that I was new to the region and that I was doing this solo, I opted to (mostly) follow their route.
 
 But if you follow this blog, you'll know that I, of course, had to add my own flair to this one.
 
-So since I _also_ wanted to climb the [Col de Turini]({{< ref "/blog/France/Col_de_Turini/index.md" >}}), I opted to climb the Col de Braus from the west via the town of [L'Escarene](https://goo.gl/maps/NaA8uqRWGTxiiLio6), traveling onward into [Sospel](https://goo.gl/maps/pwsagKAWvBqfArgP6). This allowed me to take a different way to the base of the climb.
+So since I _also_ wanted to climb the [Col de Turini]({{< ref "/travel/France/Col_de_Turini/index.md" >}}), I opted to climb the Col de Braus from the west via the town of [L'Escarene](https://goo.gl/maps/NaA8uqRWGTxiiLio6), traveling onward into [Sospel](https://goo.gl/maps/pwsagKAWvBqfArgP6). This allowed me to take a different way to the base of the climb.
 
 {{< rwgps id="111171892" >}}
 
@@ -167,7 +167,7 @@ It was quiet, with a small parking lot for some cars, and an overgrown set of ru
 Definitely take a moment to enjoy it here. It's shaded and you've made it up the Col de Braus!
 
 # The Descent
-If you're doing the additional route onward to the [Col de Turini]({{< ref "/blog/France/Col_de_Turini/index.md" >}}), you'll end up descending down an incredible few miles of switchback heaven through here! I didn't get nearly as many pictures here as I could have, as I was trying to pass a garbage truck of some kind, but you find yourself entering another valley, this time a bit more shaded than where you just came up from.
+If you're doing the additional route onward to the [Col de Turini]({{< ref "/travel/France/Col_de_Turini/index.md" >}}), you'll end up descending down an incredible few miles of switchback heaven through here! I didn't get nearly as many pictures here as I could have, as I was trying to pass a garbage truck of some kind, but you find yourself entering another valley, this time a bit more shaded than where you just came up from.
 
 Take care to watch out on these roads, though. I saw some construction near the top of a set of lacets, and given how high up and how beautiful everything is, you may find yourself not fully paying attention to the road or to incoming cars, especially since there are so few of them!
 

@@ -111,7 +111,7 @@ Well, I've owned two of these things, one of the first generation when I got my 
 I've also been through two situations where a firmware update on my bike computer basically bricked my respective unit.
 
 ## So what happened?
-In September of 2018, right before I was about to board a plane to visit [Girona]({{< ref "/blog/Girona_Rides/2019_Routes/index.md" >}}) on a fantastic cycling trip, a new update was pushed out to my {{< amzn asin="B06XT3YX7T" text="Wahoo Elemnt Bolt" >}} device. The idea behind this particular update was to integrate all the incredibly detailed metrics that no other power meter out there has (to my knowledge) to the Wahoo platform, a first for Pioneer.
+In September of 2018, right before I was about to board a plane to visit [Girona]({{< ref "/travel/Spain/Trek_Travel_Girona_2018/index.md" >}}) on a fantastic cycling trip, a new update was pushed out to my {{< amzn asin="B06XT3YX7T" text="Wahoo Elemnt Bolt" >}} device. The idea behind this particular update was to integrate all the incredibly detailed metrics that no other power meter out there has (to my knowledge) to the Wahoo platform, a first for Pioneer.
 
 ### Detailed metrics, you say?
 This means force vectors (directions your foot is actually pressing on the pedal) at 12 independently measured points around a single rotation of the cranks (you can see a depiction of this on the box above). I'm sure a few other things are included here, but to be honest, I've never used these features before. It requires magnets installed on specific points of your bike to get them, along with obviously a head unit that can actually pick up on these details.

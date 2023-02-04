@@ -75,7 +75,7 @@ Another interesting tidbit about Tucson is that there are a ton of what they cal
 Since it's basically part of the outskirts of the city, and most of the roads around near there had bike lanes, we figured, why not incorporate this into our road back to the car?
 
 ### More of "The Loop"
-To get there, we actually took a few extra roads around through Vail, a fairly empty looking suburb way outside of Tucson (with apparently great schools), and picked up another section of The Loop to head back a bit closer towards the city. Specifically, this section was called the Julian Wash trail, and it was wonderful, too, for all the same reasons as I've written about in a [previous post]({{< ref "/blog/Arizona/Gates_Pass/index.md" >}}), but the trail itself felt a bit more remote by comparison.
+To get there, we actually took a few extra roads around through Vail, a fairly empty looking suburb way outside of Tucson (with apparently great schools), and picked up another section of The Loop to head back a bit closer towards the city. Specifically, this section was called the Julian Wash trail, and it was wonderful, too, for all the same reasons as I've written about in a [previous post]({{< ref "/travel/Arizona/Gates_Pass/index.md" >}}), but the trail itself felt a bit more remote by comparison.
 
 {{< figresize src="/img/2020/12/joininghands.jpeg" alt="Cyclist looking out over the Joining Hands monument along the Julian Wash portion of the Loop trail in Tucson, Arizona" width=100% title="Pretty sweet. This is just one of many installations along the Loop!" >}}
 
@@ -107,6 +107,6 @@ I guess that was really the phrase of the day, huh?
 Don't forget to grab a pic of the sign at the entrance if you haven't already!
 
 ## Overall Thoughts?
-Yup, Tucson is pretty great for cycling. I'm shocked at how much was out there, from [Mount Lemmon]({{< ref "/blog/Arizona/Mt_Lemmon/index.md" >}}), to the [west side]({{< ref "/blog/Arizona/Gates_Pass/index.md" >}}), to what we saw on this day over on the east side. Despite not usually feeling comfortable being so isolated from civilization, I was shocked that I never felt like that at any point during this ride, so you shouldn't either.
+Yup, Tucson is pretty great for cycling. I'm shocked at how much was out there, from [Mount Lemmon]({{< ref "/travel/Arizona/Mt_Lemmon/index.md" >}}), to the [west side]({{< ref "/travel/Arizona/Gates_Pass/index.md" >}}), to what we saw on this day over on the east side. Despite not usually feeling comfortable being so isolated from civilization, I was shocked that I never felt like that at any point during this ride, so you shouldn't either.
 
 If you have any desire to go riding out near Tucson, I definitely recommend it. At this point, I can absolutely see why so many professional riders make their way out to Tucson each year for their winter training!

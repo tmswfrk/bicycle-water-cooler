@@ -94,13 +94,13 @@ The general appeal of Nice, and more generally the Côte d'Azur, are its beaches
 However, as cyclists, we often look up to the mountains. _This_, in my experience, is what makes Nice and the surrounding regions so unique.
 
 ## What prompted me to do this
-I first visited the infamous Côte d'Azur in 2018 after my trip to [Girona, Spain]({{< ref "/blog/Girona_Rides/2019_Routes/index.md" >}}). I left my bike in the Barcelona airport and then jetted off to Nice, France, where I  spent a day or two while also visiting Monaco.
+I first visited the infamous Côte d'Azur in 2018 after my trip to [Girona, Spain]({{< ref "/travel/Spain/Trek_Travel_Girona_2018/index.md" >}}). I left my bike in the Barcelona airport and then jetted off to Nice, France, where I  spent a day or two while also visiting Monaco.
 
 Despite the weather being cold and rainy (not typical of the south of France!), I still was fascinated by the overall appeal there. The shopping, the blue Mediterranean coastline, and above all, the imposing mountain range that the entire region seemed to be hugged by.
 
 {{< img villefranche_sur_mer >}}
 
-When presented the option to go back a few days before my [Italian Job]({{< ref "/blog/Italy/Velodrom_Italian_Job_2022/index.md" >}}) trip, I researched all that I could and jumped on the opportunity!
+When presented the option to go back a few days before my [Italian Job]({{< ref "/travel/Italy/Velodrom_Italian_Job_2022/index.md" >}}) trip, I researched all that I could and jumped on the opportunity!
 
 ## Considerations to Doing this Solo
 Speaking of planning, this trip was a solo one and required a lot of it! Basically I had to employ all the tricks in my arsenal to inform myself as much as possible before heading off alone into the mountains. This included Google Maps, random internet searches, local bike shop word-of-mouth, and Strava. 
@@ -128,7 +128,7 @@ Writing this blog is time consuming for me, but I love doing it. So that means e
 
 ## Day One: Corniche Roads to Nice, then Back Through Monaco
 After a slight mix up on my end, I actually had an additional day in the area before my next adventure. This meant that I was able to ride a more introductory ride to both familiarize myself with the area and to do some basic shopping. So, musette in pocket, I headed out up and over Monaco into Nice, with the intention of coming back through Monaco on my way back.
- * [Complete Blog Post!]({{< ref "/blog/France/Monaco_Nice/index.md" >}})
+ * [Complete Blog Post!]({{< ref "/travel/France/Monaco_Nice/index.md" >}})
  * [Strava Link](https://www.strava.com/activities/7420140821)
  * Total Mileage: 32 miles / 52 km
  * Total Elevation: 3415 ft / 1041 meters
@@ -137,8 +137,8 @@ After a slight mix up on my end, I actually had an additional day in the area be
 The biggest single day of the trip and my most ambitious! This one also required some of the most pre-planning, as some of the roads through here are not always open due to construction and business hours L'Escarene. However, the [hidden gem of Peille](https://happilyevertravels.com/peille-france/) is absolutely worth the extra effort, and was one of the highlights of my entire trip.
 
 Knowing there were big climbs ahead of me, I opted to take the musette again with me and headed up the same road from the day before.
- * [Col de Braus Details]({{< ref "/blog/France/Col_de_Braus/index.md" >}})
- * [Col de Turini Details]({{< ref "/blog/France/Col_de_Turini/index.md" >}})
+ * [Col de Braus Details]({{< ref "/travel/France/Col_de_Braus/index.md" >}})
+ * [Col de Turini Details]({{< ref "/travel/France/Col_de_Turini/index.md" >}})
  * [Strava Link](https://www.strava.com/activities/7426042986)
  * Total Mileage: 82 miles / 132 km
  * Total Elevation: 10864 ft / 3311 meters
@@ -157,7 +157,7 @@ Knowing there were big climbs ahead of me, I opted to take the musette again wit
 After an incredible 35 degree celsius day of riding the day before, I felt it was time to do a first for me - riding across an international border on my bike! This day I found myself in a loving arms of Italy, along a fairly flat route along a former train route that's now one of the most spectacular bike paths I've seen.
 
 And on the way back? The Cipressa and Poggio climbs, both featured in the Milano-San Remo race each year. Both of which playing host to professionals battling it out for the final kilometers of the longest classics race in the professional calendar.
- * [Complete Blog Post!]({{< ref "/blog/Italy/Cipressa_Poggio/index.md" >}})
+ * [Complete Blog Post!]({{< ref "/travel/Italy/Cipressa_Poggio/index.md" >}})
  * [Strava Link](https://www.strava.com/activities/7431599379)
  * Total Mileage: 44 miles / 71 km
  * Total Elevation: 3530 feet / 1076 meters
@@ -173,8 +173,8 @@ And on the way back? The Cipressa and Poggio climbs, both featured in the Milano
 No rest for the weary bike rider! Because of the extra day I had, I was able to both do the coastal Nice ride of the first day as well as the Col de la Madone, the featured and hallowed training grounds for many professionals, including Lance Armstrong and George Hincapie.
 
 I also was able to visit Col d'Eze, another smaller but also famous climb of the region, coming up from Nice. This meant not only revisiting Nice itself, but also the amazing medieval town of Peille, one of my (now) favorite places to ride in this region. Oh and not to mention, the Monte Carlo Golf Course near the top of Mont Agel.
- * [Col de la Madone Details]({{< ref "/blog/France/Col_de_la_Madone/index.md" >}})
- * [Col d'Eze Details]({{< ref "/blog/France/Col_dEze/index.md" >}})
+ * [Col de la Madone Details]({{< ref "/travel/France/Col_de_la_Madone/index.md" >}})
+ * [Col d'Eze Details]({{< ref "/travel/France/Col_dEze/index.md" >}})
  * [Strava Link](https://www.strava.com/activities/7436242347)
  * Total Mileage: 52 miles / 83 km
  * Total Elevation: 6400 feet / 1950 meters
@@ -223,7 +223,7 @@ But then you get up and out of it. And then you're looking down at Monaco. And t
 It really is an amazing experience. And after a day or two of doing this, you may even start to recognize the roads and towns you're in! You start to find that you're more able to focus on the riding rather than the mechanics of where to go and how to do it.
 
 ## Pacing
-With multiple days to ride, the emphasis becomes more on _doing it all_ rather than doing it all _quickly_. I know, we all like to push ourselves and go fast, but this was more of a long game for me. Especially so, since I had plans to [ride in the Dolomites]({{< ref "/blog/Italy/Velodrom_Italian_Job_2022/index.md" >}}) just a week later.
+With multiple days to ride, the emphasis becomes more on _doing it all_ rather than doing it all _quickly_. I know, we all like to push ourselves and go fast, but this was more of a long game for me. Especially so, since I had plans to [ride in the Dolomites]({{< ref "/travel/Italy/Velodrom_Italian_Job_2022/index.md" >}}) just a week later.
 
 Besides, you're on vacation!
 

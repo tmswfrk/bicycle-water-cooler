@@ -75,7 +75,7 @@ However, I've never seriously considered a soft shell bike bag, given the weirdl
 This is something else entirely though, so I thought I'd write about it.
 
 # On to the Race Day Rain Bag
-Recently I was traveling on an [epic trip to the Dolomites]({{< ref "/blog/Italy/Velodrom_Italian_Job_2022/index.md" >}}). As part of the trip's perks, I found this bag waiting for me in my hotel in [Bormio](https://goo.gl/maps/U4TmYMw8RcAAZjiS7) once I arrived. [Velodrom](https://www.instagram.com/velodrom.cc/) even took care to put my name on my individual bag! 
+Recently I was traveling on an [epic trip to the Dolomites]({{< ref "/travel/Italy/Velodrom_Italian_Job_2022/index.md" >}}). As part of the trip's perks, I found this bag waiting for me in my hotel in [Bormio](https://goo.gl/maps/U4TmYMw8RcAAZjiS7) once I arrived. [Velodrom](https://www.instagram.com/velodrom.cc/) even took care to put my name on my individual bag! 
 
 I knew we were getting a bike bag of some kind, but I thought it'd be a basic, small thing that I'd likely never use.
 

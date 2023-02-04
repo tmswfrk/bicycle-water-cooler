@@ -142,7 +142,7 @@ Luckily for me, I've found a few key tools that have helped me throughout the ye
 Please note that all of this is just how I tend to operate, and I do indeed spend a lot of time doing this. I enjoy it though!
 
 ## Old Fashioned Social Engineering
-This one takes time, but we all do it, whether we recognize it or not. Next time you're at a bike shop, keep an ear out for conversations you may overhear. You'll often hear employees talking about doing a ride that day, or talking with a customer about a ride they recently did. Some of it may not even be anywhere near where you are that particular day! I know I will often find myself chatting away with an associate and sharing stories about "[my ride camp in Girona]({{< ref "/blog/Girona_Rides/2019_Routes/index.md" >}})" or last week's [Rapha ride]({{< ref "/blog/Group_Riding/RCC_Ride_Leading.md" >}}).
+This one takes time, but we all do it, whether we recognize it or not. Next time you're at a bike shop, keep an ear out for conversations you may overhear. You'll often hear employees talking about doing a ride that day, or talking with a customer about a ride they recently did. Some of it may not even be anywhere near where you are that particular day! I know I will often find myself chatting away with an associate and sharing stories about "[my ride camp in Girona]({{< ref "/travel/Spain/Trek_Travel_Girona_2018/index.md" >}})" or last week's [Rapha ride]({{< ref "/blog/Group_Riding/RCC_Ride_Leading.md" >}}).
 
 {{< img social >}}
 

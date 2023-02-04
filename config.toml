@@ -23,7 +23,8 @@ canonifyURLs            = true
 
 [permalinks]
   blog = "/:section/:year/:month/:title/"
-  reviews = "/:section/:year/:month/:title/"
+  travel = "/:section/:year/:title/"
+  reviews = "/:section/:title/"
 
 [params]
   search            = true # enables search, from Persian theme
@@ -38,7 +39,7 @@ canonifyURLs            = true
   ga_analytics      = "UA-172930899-1" # added myself
   google_analitycs_id = "UA-172930899-1" # used in footer.html, pulled from Persian theme
   amzn_associate_id = "bicyclewate08-20"
-  mainSections      = ["blog"]
+  mainSections      = ["blog", "travel"]
   copyright         = "James Clarke"
   customCss         = ["css/custom.css"] # come back to this? implement grid for bikebox pics
 
@@ -97,12 +98,12 @@ canonifyURLs            = true
 [menu]
   # Sets the menu items in the navigation bar
   # Identifier prepends a Font Awesome icon to the menu item
-  [[menu.main]]
-    name              = "Home"
-    identifier        = "home"
-    url               = "/"
-    pre               = "<i class='fa fa-home'></i>"
-    weight            = 1
+  # [[menu.main]]
+  #   name              = "Home"
+  #   identifier        = "home"
+  #   url               = "/"
+  #   pre               = "<i class='fa fa-home'></i>"
+  #   weight            = 1
 
   [[menu.main]]
     name              = "About"
@@ -119,25 +120,32 @@ canonifyURLs            = true
   #   weight            = 3
 
   [[menu.main]]
+    name              = "Travel"
+    identifier        = "travel"
+    url               = "/travel/"
+    pre               = "<i class='fas fa-newspaper'></i>"
+    weight            = 3
+
+  [[menu.main]]
     name              = "Reviews"
     identifier        = "reviews"
     url               = "/reviews/"
     pre               = "<i class='fas fa-bicycle'></i>"
-    weight            = 3
+    weight            = 4
 
   [[menu.main]]
-    name              = "Tags"
-    identifier        = "tags"
-    url               = "/tags/"
+    name              = "Tech"
+    identifier        = "tech"
+    url               = "/tech/"
     pre               = "<i class='fas fa-sitemap'></i>"
-    weight            = 4
+    weight            = 5
 
   [[menu.main]]
     name              = "Contact"
     identifier        = "contact"
     url               = "/contact/"
     pre               = "<i class='far fa-envelope'></i>"
-    weight            = 5
+    weight            = 6
 
 [Languages]
   # Each language has its own menu.

@@ -127,7 +127,7 @@ resources:
 
 ---
 # My Experience with the Col de Turini
-First of all, this post is part of a greater series of posts that I've written about that documents my trip to the area in the summer of 2022. If you're looking for more on that trip and where else I went, definitely [check out the post]({{< ref "/blog/France/Nice_2022/index.md" >}})!
+First of all, this post is part of a greater series of posts that I've written about that documents my trip to the area in the summer of 2022. If you're looking for more on that trip and where else I went, definitely [check out the post]({{< ref "/travel/France/Nice_2022/index.md" >}})!
 
 ## What is this Climb Known For?
 Well, not initially for cycling! The Col de Turini is actually most known for being included in the [Monte Carlo Rally](https://en.wikipedia.org/wiki/Monte_Carlo_Rally), which was created in 1911 by Prince Albert of Monaco to promote new car technology and Monaco as a tourist destination.
@@ -139,7 +139,7 @@ Turns out that it was also featured in an episode of Top Gear, as the guys were 
 Perhaps it wasn't the greatest driving road in the world, but it was a pretty incredible road for cycling!
 
 ## Getting There
-If you're staying in Nice or near the coast, you'll find that this col is quite a journey to reach, as the most popular approach to the top appears to be from the town of [Sospel](https://goo.gl/maps/mJ5Xz5sypYGUCaJr7). It's a popular addition to an epic day out on the bike if you're already tackling the great [Col de Braus]({{< ref "/blog/France/Col_de_Braus/index.md" >}}), as it's nearby. This is actually a popular shop ride that Cafe du Cycliste has in their [Nice Rider's Guide](https://www.cafeducycliste.com/en_us/la-gazette/where-to-ride-from-nice-braus-turini/).
+If you're staying in Nice or near the coast, you'll find that this col is quite a journey to reach, as the most popular approach to the top appears to be from the town of [Sospel](https://goo.gl/maps/mJ5Xz5sypYGUCaJr7). It's a popular addition to an epic day out on the bike if you're already tackling the great [Col de Braus]({{< ref "/travel/France/Col_de_Braus/index.md" >}}), as it's nearby. This is actually a popular shop ride that Cafe du Cycliste has in their [Nice Rider's Guide](https://www.cafeducycliste.com/en_us/la-gazette/where-to-ride-from-nice-braus-turini/).
 
 Just remember to fuel up in town, as the climb itself is quite long! "Long" being 24 kilometers long!
 
@@ -153,7 +153,7 @@ I can't blame them, either. That particular day I was there, it was well into th
 While the whole climb was just incredibly beautiful, climbing up the sinewing road through this first initial gorge was the highlight of the route. I definitely stopped too many times to take pictures along what was a relatively quiet road.
 
 # The Route
-When I opted to tackle this climb, I combined it with the [Col de Braus]({{< ref "/blog/France/Col_de_Braus/index.md" >}}) as was suggested by the [Nice Rider's Guide](https://www.cafeducycliste.com/en_us/la-gazette/where-to-ride-from-nice-braus-turini/) supplied by Cafe du Cycliste. This was the second day of my trip out there, so at least I was fresh _enough_ to consider this route, which was quite epic in length and elevation.
+When I opted to tackle this climb, I combined it with the [Col de Braus]({{< ref "/travel/France/Col_de_Braus/index.md" >}}) as was suggested by the [Nice Rider's Guide](https://www.cafeducycliste.com/en_us/la-gazette/where-to-ride-from-nice-braus-turini/) supplied by Cafe du Cycliste. This was the second day of my trip out there, so at least I was fresh _enough_ to consider this route, which was quite epic in length and elevation.
 
 {{< rwgps id="111171892" >}}
 
@@ -246,8 +246,8 @@ I basically found a way to connect the area of L'Escarène to Sainte-Agnes on my
 
 And, as it would turn out, taking this route dumps you out over one of the single most beautiful portions of the mountains above Menton, also known as [Sainte Agnès](https://goo.gl/maps/U5vT1EMQCAS6rTbZ9). It's a [hidden gem](https://frenchmoments.eu/sainte-agnes-french-riviera/), much like Peille is, and is absolutely worth the trip.
 
-As it turns out, this section of beautiful tarmac is along part of what is called the [Col de la Madone]({{< ref "/blog/France/Col_de_la_Madone/index.md" >}}), a famous training climb ridden by Hincapie and Armstrong. I managed to ride it two days later on this same trip!
+As it turns out, this section of beautiful tarmac is along part of what is called the [Col de la Madone]({{< ref "/travel/France/Col_de_la_Madone/index.md" >}}), a famous training climb ridden by Hincapie and Armstrong. I managed to ride it two days later on this same trip!
 
 What a day this was! I highly recommend this one if you have the legs and the fitness for it. 
 
-Perhaps a rest day in order, what about [heading to Italy]({{< ref "/blog/Italy/Cipressa_Poggio/index.md" >}}) next?
+Perhaps a rest day in order, what about [heading to Italy]({{< ref "/travel/Italy/Cipressa_Poggio/index.md" >}}) next?

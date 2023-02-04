@@ -110,7 +110,7 @@ resources:
 
 ---
 # An Incredible Way to See the Riviera
-First of all, this post is part of a greater series of posts that I've written about that documents my trip to the area in the summer of 2022. If you're looking for more on that trip and where else I went, definitely [check out the post]({{< ref "/blog/France/Nice_2022/index.md" >}})!
+First of all, this post is part of a greater series of posts that I've written about that documents my trip to the area in the summer of 2022. If you're looking for more on that trip and where else I went, definitely [check out the post]({{< ref "/travel/France/Nice_2022/index.md" >}})!
 
 ## What is a Corniche Road, Anyway?
 So according to [frenchmoments.eu](https://frenchmoments.eu/corniche-roads-of-the-french-riviera/), a "Corniche Road" literally means "Cliff Road". There are three of them, each progressively further up the cliffside, between [Monaco](https://goo.gl/maps/1aQhpeUrEbgM4HgT7) and [Menton](https://goo.gl/maps/18KzYERaatsXbRBU9). They follow ancient Roman routes through the region, and a lot of it was later built by [Napoleon Bonaparte](https://en.wikipedia.org/wiki/Napoleon)!
@@ -122,7 +122,7 @@ Somehow, they each have very different and unique views out over the Mediterrane
 This means that riding through here is sublime.
 
 # The Route
-The day that I did this was actually somewhat of an errand day, believe it or not. I had previously visited the region after [visiting Croatia]({{< ref "/blog/Croatia/Exodus_Tour_2022/index.md" >}}) and had a few places I wanted to visit and a few items to purchase, so I opted to make the day into an adventure!
+The day that I did this was actually somewhat of an errand day, believe it or not. I had previously visited the region after [visiting Croatia]({{< ref "/travel/Croatia/Exodus_Tour_2022/index.md" >}}) and had a few places I wanted to visit and a few items to purchase, so I opted to make the day into an adventure!
 
 The [musette](https://biketips.com/musette-bag/) that I brought with me definitely got some good use this day.
 
@@ -213,4 +213,4 @@ Despite this route not going up and over any of the famous Cols of the region, I
 
 I love seeing areas like this from the back of my bike. It allows me to take it all in at a pace slower than if I were in a car, without having to worry about traffic, right of way, one way roads, and without having to worry about parking each time I want to stop and look at something. Basically, it's the best of both worlds!
 
-Given this region's incredible natural beauty, I wouldn't suggest seeing it any other way. So do yourself a favor and start planning your next bike adventure out to the [Côte d'Azur]({{< ref "/blog/France/Nice_2022/index.md" >}})! 
+Given this region's incredible natural beauty, I wouldn't suggest seeing it any other way. So do yourself a favor and start planning your next bike adventure out to the [Côte d'Azur]({{< ref "/travel/France/Nice_2022/index.md" >}})! 
