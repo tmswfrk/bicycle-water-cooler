@@ -158,19 +158,19 @@ resources:
     width: 50
 - src: '*/portrait_sanremo.jpeg'
   name: "portrait_sanremo"
-  title: ""
+  title: "I had to walk across a busy street to get here!"
   params:
-    alt: ""
+    alt: "Cyclist selfie posing with bicycle in from the water fountain in Sanremo, Italy"
 - src: '*/coastline.jpeg'
   name: "coastline"
-  title: ""
+  title: "Golden hour, indeed"
   params:
-    alt: ""
+    alt: "Golden Hour along the French / Italian coastal border"
 - src: '*/France_sign.jpeg'
   name: "francesign"
-  title: ""
+  title: "Well this was fun to take"
   params:
-    alt: ""
+    alt: "Bicycle in front of France border sign with Italy"
     width: 50
 - src: ''
   name: ""
