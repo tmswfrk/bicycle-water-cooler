@@ -163,6 +163,7 @@ And on the way back? The Cipressa and Poggio climbs, both featured in the Milano
  * Total Elevation: 3530 feet / 1076 meters
 
 // International border biking, no big deal
+// found out about this from a contact on IG
 // coast of Italy felt different
 // sandwich at shop with bike rider names
 // came back along San Remo route

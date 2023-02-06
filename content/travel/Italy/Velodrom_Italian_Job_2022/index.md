@@ -357,6 +357,7 @@ resources:
   params:
     alt: "Cyclist from Velodrom.cc riding near Lago di Carezza in the Italian Dolomites"
     width: 80
+    exclude_gps: true
 
 ---
 # What is "The Italian Job"?
