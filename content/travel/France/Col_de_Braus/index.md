@@ -2,13 +2,15 @@
 title: "The Lacets of the Col de Braus"
 date: 2023-01-08T14:21:35-08:00
 summary: "An exposed 10km climb up switchback paradise from L'Escarene in the hills above Nice."
-description: "Personal thoughts and details on cycling up the Col de Braus climb from the west via L'Escarene"
+description: "Cycling up the Col de Braus in the Côte d'Azur is an epic accomplishment and features unique riding up tight switchbacks from the west via the town of L'Escarene"
 image: "lacets"
 categories: ["Bike Travel"]
 tags: ["France"]
 keywords: [
     "Cycling in Nice, France",
+    "Côte d'Azur cycling",
     "Climbing Col de Braus",
+    "Cols in France",
     "Lacets roads in France",
     "Most beautiful roads in France",
     "Climb profile Col de Braus",
@@ -110,30 +112,30 @@ It's a marvelous feat of engineering if you ask me.
 # The Route
 When I was in [Nice in the summer of 2022]({{< ref "/travel/France/Nice_2022/index.md" >}}), I opted to visit and climb the Col de Braus on my second day of riding. It was actually my most ambitious day of riding, as the total distance I planned for the day was over 80 miles and over 10,000 feet of climbing!
 
-If you check out [Cafe du Cycliste's Nice Rider's Guide](https://www.cafeducycliste.com/en_us/la-gazette/where-to-ride-from-nice-braus-turini/), you'll see that they will often group this climb with the Col de Turini as part of a larger, epic loop, starting from their shop in Nice. Given that I was new to the region and that I was doing this solo, I opted to (mostly) follow their route.
+If you check out {{< link text="Cafe du Cycliste's Nice Rider's Guide" url="https://www.cafeducycliste.com/en_us/la-gazette/where-to-ride-from-nice-braus-turini/" >}}, you'll see that they will often group this climb with the Col de Turini as part of a larger, epic loop, starting from their shop in Nice. Given that I was new to the region and that I was doing this solo, I opted to (mostly) follow their route.
 
 But if you follow this blog, you'll know that I, of course, had to add my own flair to this one.
 
-So since I _also_ wanted to climb the [Col de Turini]({{< ref "/travel/France/Col_de_Turini/index.md" >}}), I opted to climb the Col de Braus from the west via the town of [L'Escarene](https://goo.gl/maps/NaA8uqRWGTxiiLio6), traveling onward into [Sospel](https://goo.gl/maps/pwsagKAWvBqfArgP6). This allowed me to take a different way to the base of the climb.
+So since I _also_ wanted to climb the [Col de Turini]({{< ref "/travel/France/Col_de_Turini/index.md" >}}), I opted to climb the Col de Braus from the west via the town of {{< link text="L'Escarene" url="https://goo.gl/maps/NaA8uqRWGTxiiLio6" >}}, traveling onward into {{< link text="Sospel" url="https://goo.gl/maps/pwsagKAWvBqfArgP6" >}}. This allowed me to take a different way to the base of the climb.
 
 {{< rwgps id="111171892" >}}
 
 ## Recommended Roundabout Option
-If you're coming from the eastern side of the region, I highly recommend getting to the base of Col de Braus by first climbing up to [La Turbie](https://goo.gl/maps/uvb9AQF3mmLL1F986) and then head up further into the region of Peille. According to [Happily Ever Travels](https://happilyevertravels.com/peille-france/), this ancient, medieval town is also known as "le plus curieux" or "the most curious".
+If you're coming from the eastern side of the region, I highly recommend getting to the base of Col de Braus by first climbing up to {{< link text="La Turbie" url="https://goo.gl/maps/uvb9AQF3mmLL1F986" >}} and then head up further into the region of Peille. According to {{< link text="Happily Ever Travels" url="https://happilyevertravels.com/peille-france/" >}}, this ancient, medieval town is also known as "le plus curieux" or "the most curious".
 
 {{< img 2 peille_road peille >}}
 
 It's also just an incredibly beautiful valley and area. The road snakes around the edge of what I perceived as a big mountainous bowl, just beyond the initial mountain range that everyone is so used to seeing from the coastal, touristy Côte d'Azur. The road is beautifully maintained and relatively flat, there are several tunnels, and you get your first real taste of "lacets" roads before even reaching the beginning of the climb itself.
 
-Descending from the medieval village of [Peille](https://goo.gl/maps/ADjwtZ9YViYrgG4s8) is a joy as well, as you end up in a smaller town called [La Grave de Peille](https://goo.gl/maps/KijNhL2fiGpSWEvc6) right at the beginning of what kind of looks like a quarry / ravine. Be careful though, as the road is closed during certain days of the week due to construction traffic!
+Descending from the medieval village of {{< link text="Peille" url="https://goo.gl/maps/ADjwtZ9YViYrgG4s8" >}} is a joy as well, as you end up in a smaller town called {{< link text="La Grave de Peille" url="https://goo.gl/maps/KijNhL2fiGpSWEvc6" >}} right at the beginning of what kind of looks like a quarry / ravine. Be careful though, as the road is closed during certain days of the week due to construction traffic!
 
 {{< img 2 sign gorge >}}
 
-On the other side, you're in the town of L'Escarene, where you can easily find a cafe for a quick snack and coffee before your climb. I chose to visit [Pan d'Aqui](https://goo.gl/maps/7UgzrYyTDnzznnVE9), which had fresh breads and amazing baked goods.
+On the other side, you're in the town of L'Escarene, where you can easily find a cafe for a quick snack and coffee before your climb. I chose to visit {{< link text="Pan d'Aqui" url="https://goo.gl/maps/7UgzrYyTDnzznnVE9" >}}, which had fresh breads and amazing baked goods.
 
 {{< img pan_daqui >}}
 
-Fun story, on the particular day that I rode up this way, I met [someone](https://www.strava.com/activities/7424243870) from San Francisco! And as it turns out, he was riding that day with [Wout Poels](https://www.procyclingstats.com/rider/wout-poels), who had raced in the Giro d'Italia last year! Amazing how small the world feels sometimes.
+Fun story, on the particular day that I rode up this way, I met {{< link text="someone" url="https://www.strava.com/activities/7424243870" >}} from San Francisco! And as it turns out, he was riding that day with {{< link text="Wout Poels" url="https://www.procyclingstats.com/rider/wout-poels" >}}, who had raced in the Giro d'Italia last year! Amazing how small the world feels sometimes.
 
 # The Climb Itself
 On the day that I chose to do this, it was around 32 to 35 degrees celsius, which is somewhere near 95 degrees Fahrenheit! Because of this, I remember being quite drained, as the climb from this direction is quite exposed, not leaving you much time or many places to find shade on your ascent.
@@ -141,7 +143,7 @@ On the day that I chose to do this, it was around 32 to 35 degrees celsius, whic
 It was still so much fun to climb. The views get incredible so quickly, just as it was along the coast, but instead of ocean, you're looking at incredible greenery and hillsides, with nestled villages and other structures in between it all. This region is quite interesting from a historical perspective, too, as a lot of forts existed through here between Napoleanic times leading into the two world wars.
 
 ## Climb Profile
-According to the [Strava segment](https://www.strava.com/segments/611471) for coming up from L'Escarene, the climb is 6.2 miles / 10 km long and climbs 2064 feet / 629 meters from its starting point. The profile itself is actually quite a steady 6.3% average gradient, and there really isn't too much out there to bother you.
+According to the {{< link text="Strava segment" url="https://www.strava.com/segments/611471" >}} for coming up from L'Escarene, the climb is 6.2 miles / 10 km long and climbs 2064 feet / 629 meters from its starting point. The profile itself is actually quite a steady 6.3% average gradient, and there really isn't too much out there to bother you.
 
 {{< img braus_profile_sign >}}
 
@@ -173,8 +175,8 @@ Take care to watch out on these roads, though. I saw some construction near the 
 
 {{< img 2 lacets_sign construction >}}
 
-Eventually you'll find yourself in [Sospel](https://goo.gl/maps/mJ5Xz5sypYGUCaJr7), a small town along a river with a few shops and a [grocery store](https://goo.gl/maps/z1x62xSsyMAdZjKBA).
+Eventually you'll find yourself in {{< link text="Sospel" url="https://goo.gl/maps/mJ5Xz5sypYGUCaJr7" >}}, a small town along a river with a few shops and a {{< link text="grocery store" url="https://goo.gl/maps/z1x62xSsyMAdZjKBA" >}}.
 
-To get there, though, you do technically need to head down just a few hundred meters more, taking a hard [righthand hairpin turn](https://goo.gl/maps/G2qZ5mo3EtgGVXY27) past a line of trees. It's easy to follow though, as you'll end up going that way anyway, following the road markers. It's a great spot for a rest and refueling, as the store is easily accessible and has a section specifically for cold drinks. Oh, and they sell sunscreen, too, if you need more of it!
+To get there, though, you do technically need to head down just a few hundred meters more, taking a hard {{< link text="righthand hairpin turn" url="https://goo.gl/maps/G2qZ5mo3EtgGVXY27" >}} past a line of trees. It's easy to follow though, as you'll end up going that way anyway, following the road markers. It's a great spot for a rest and refueling, as the store is easily accessible and has a section specifically for cold drinks. Oh, and they sell sunscreen, too, if you need more of it!
 
 What a climb! On to the next one!

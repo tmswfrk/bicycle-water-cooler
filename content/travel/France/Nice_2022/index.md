@@ -1,6 +1,6 @@
 ---
 title: "My Solo Ride Camp through the Stunning Côte d'Azur"
-date: 2023-01-11T21:42:38-08:00
+date: 2023-01-13T21:42:38-08:00
 summary: "After visiting, I can understand why Chris Froome made it his home."
 description: "Routes, climbs, and details from a solo cycling trip in the coastal region of Nice, France"
 image: "cap_martin"
@@ -57,26 +57,46 @@ resources:
   title: "This was well worth it, someone flagged me through here"
   params:
     alt: "Via along the Route des Clues near L'Escaréne, France"
-- src: ''
-  name: ""
-  title: ""
+- src: '*/bsm_road.jpeg'
+  name: "bsm_road"
+  title: "This is the main drag in town, definitely worthwhile to explore the shops here"
   params:
-    alt: ""
-- src: ''
-  name: ""
-  title: ""
+    alt: "Main street of downtown Beaulieu-sur-Mer, France"
+- src: '*/factor_nice_portrait.jpeg'
+  name: "factor_nice_portrait"
+  title: "A little bit away from the crowded \"heart nice\" sign"
   params:
-    alt: ""
-- src: ''
-  name: ""
-  title: ""
+    alt: "Factor O2 VAM bicycle leaning against a wall overlooking the Mediterranean Sea and Nice, France"
+- src: '*/braus_lacets.jpeg'
+  name: "braus_lacets"
+  title: "Definitely not able to capture the vertical scale of this view from an iPhone!"
   params:
-    alt: ""
-- src: ''
-  name: ""
-  title: ""
+    alt: "View out over several switchbacks along the Col de Braus climb in France"
+- src: '*/lacet.jpeg'
+  name: "turini_lacets"
+  title: "So beautiful with the trees surrounding it"
   params:
-    alt: ""
+    alt: "View out over some lacets or switchback roads on the Col de Turini"
+- src: '*/bordighera.jpeg'
+  name: "bordighera"
+  title: "Definitely a nice spot to stop and take in the view"
+  params:
+    alt: "View over the Mediterranean Sea in Bordighera, Italy"
+- src: '*/garden_tower.jpeg'
+  name: "garden_tower"
+  title: "Tower at the gardens near the border"
+  params:
+    alt: "View out over the gardens dedicated to Sir Thomas Hanbury near Ventimiglia, Italy"
+- src: '*/back_tunnel.jpeg'
+  name: "back_tunnel"
+  title: "Yup, still loving all of these"
+  params:
+    alt: "View of tunnel entrance on the way to Peille, France"
+- src: '*/wall.jpeg'
+  name: "wall"
+  title: "This reminded me a little bit of the flat road near Twin Peaks in San Francisco"
+  params:
+    alt: "Factor O2 VAM bicycle leaning against wall near Mont Agel with view over Mediterranean Sea"
 - src: ''
   name: ""
   title: ""
@@ -112,10 +132,10 @@ Since I had several days to ride while I was out there, my first task was to sor
 
 Some of this required a lot of clever usage of Google Maps as well as looking at other Strava rides and routes to see what is considered a "common" route to do. It also meant being ready for some potentially big mile days!
 
-Perhaps my most valuable resource I used to group these rides together was the incredibly helpful [Nice Riding Guide](https://www.cafeducycliste.com/en_us/la-gazette/nice-riding-guide/) hosted on Cafe du Cycliste's website. It helped me narrow in on what climbs I should prioritize, and generally what kinds of combinations the locals use for their typical riding routes. It also gave me an added level of confidence on where I could veer off path to find my own way around the region.
+Perhaps my most valuable resource I used to group these rides together was the incredibly helpful {{< link text="Nice Riding Guide" url="https://www.cafeducycliste.com/en_us/la-gazette/nice-riding-guide/" >}} hosted on Cafe du Cycliste's website. It helped me narrow in on what climbs I should prioritize, and generally what kinds of combinations the locals use for their typical riding routes. It also gave me an added level of confidence for where I could veer off path to find my own way around the region.
 
 ### Where I Stayed
-I chose this time to stay at an AirBnB in [Roquebrune-Cap-Martin](https://goo.gl/maps/PmtG1tWRbsjBCGep6), which is a small area near the fancy town of Cap-Martin and along the border of Menton, an area famous for its lemons. A lot of this area can be quite expensive, and since I was planning to ride through it all, I opted to find a place somewhat central but not necessarily central to the areas most people visit the Côte d'Azur for.
+I chose this time to stay at an AirBnB in {{< link text="Roquebrune-Cap-Martin" url="https://goo.gl/maps/PmtG1tWRbsjBCGep6" >}}, which is a small area near the fancy town of Cap-Martin and along the border of Menton, an area famous for its {{< link text="lemons" url="https://www.france.fr/en/cote-dazur/list/menton-lemon" >}}. A lot of this area can be quite expensive, and since I was planning to ride through it all, I opted to find a place somewhat central but not necessarily central to the areas most people visit the Côte d'Azur for.
 
 {{< img 2 rcm_church rcm_beach >}}
 
@@ -129,66 +149,46 @@ Writing this blog is time consuming for me, but I love doing it. So that means e
 ## Day One: Corniche Roads to Nice, then Back Through Monaco
 After a slight mix up on my end, I actually had an additional day in the area before my next adventure. This meant that I was able to ride a more introductory ride to both familiarize myself with the area and to do some basic shopping. So, musette in pocket, I headed out up and over Monaco into Nice, with the intention of coming back through Monaco on my way back.
  * [Complete Blog Post!]({{< ref "/travel/France/Monaco_Nice/index.md" >}})
- * [Strava Link](https://www.strava.com/activities/7420140821)
+ * {{< link text="Strava Link" url="https://www.strava.com/activities/7420140821" >}}
  * Total Mileage: 32 miles / 52 km
  * Total Elevation: 3415 ft / 1041 meters
 
+{{< img 2 factor_nice_portrait bsm_road >}}
+
 ## Day Two: Col de Braus and Col de Turini
-The biggest single day of the trip and my most ambitious! This one also required some of the most pre-planning, as some of the roads through here are not always open due to construction and business hours L'Escarene. However, the [hidden gem of Peille](https://happilyevertravels.com/peille-france/) is absolutely worth the extra effort, and was one of the highlights of my entire trip.
+The biggest single day of the trip and my most ambitious! This one also required some of the most pre-planning, as some of the roads through here are not always open due to construction and business hours in {{< link text="L'Escarene" url="https://goo.gl/maps/g42dqH824JAoNR8t9" >}}. However, the {{< link text="hidden gem of Peille" url="https://happilyevertravels.com/peille-france/" >}} is absolutely worth the extra effort, and was one of the highlights of my entire trip.
 
 Knowing there were big climbs ahead of me, I opted to take the musette again with me and headed up the same road from the day before.
  * [Col de Braus Details]({{< ref "/travel/France/Col_de_Braus/index.md" >}})
  * [Col de Turini Details]({{< ref "/travel/France/Col_de_Turini/index.md" >}})
- * [Strava Link](https://www.strava.com/activities/7426042986)
+ * {{< link text="Strava Link" url="https://www.strava.com/activities/7426042986" >}}
  * Total Mileage: 82 miles / 132 km
  * Total Elevation: 10864 ft / 3311 meters
 
-// similar route as before, made faster time
-// amazing road, so beautiful, world opened up after got over initial mountain over Monaco
-// met guy from SF, was riding with a Giro rider
-// had musette for a sandwich that I'm glad I had
-// Braus was so exposed, crazy switchbacks
-// Turini was like Jurassic Park, felt waaaay out there
-// Restaurant at top, sweaty, fountain for water
-// booked it back down the other side
-// St. Agnus descent was smooth and fast, amazing views, turns out was part of Madone route
+ {{< img 2 braus_lacets turini_lacets >}}
 
 ## Day Three: Italy's Cipressa and Poggio
-After an incredible 35 degree celsius day of riding the day before, I felt it was time to do a first for me - riding across an international border on my bike! This day I found myself in a loving arms of Italy, along a fairly flat route along a former train route that's now one of the most spectacular bike paths I've seen.
+After an incredible 35 degree celsius day of riding the day before, I felt it was time to do a first for me - riding across an international border on my bike! This day I found myself in a loving arms of Italy, along a fairly flat route following a former train route that's now one of the most spectacular bike paths I've been on.
 
-And on the way back? The Cipressa and Poggio climbs, both featured in the Milano-San Remo race each year. Both of which playing host to professionals battling it out for the final kilometers of the longest classics race in the professional calendar.
+And on the way back? The Cipressa and Poggio climbs, both featured in the {{< link text="Milano-Sanremo" url="https://www.milanosanremo.it/" >}} race each year. Both of which have played host to battles over the final kilometers of the longest classics race in the professional calendar.
  * [Complete Blog Post!]({{< ref "/travel/Italy/Cipressa_Poggio/index.md" >}})
- * [Strava Link](https://www.strava.com/activities/7431599379)
+ * {{< link text="Strava Link" url="https://www.strava.com/activities/7431599379" >}}
  * Total Mileage: 44 miles / 71 km
  * Total Elevation: 3530 feet / 1076 meters
 
-// International border biking, no big deal
-// found out about this from a contact on IG
-// coast of Italy felt different
-// sandwich at shop with bike rider names
-// came back along San Remo route
-// Bike tunnels!
-// Ventimiglia was busy, another hot day
+{{< img 2 garden_tower bordighera >}}
 
 ## Day Four: Col de la Madone and Col d'Eze
 No rest for the weary bike rider! Because of the extra day I had, I was able to both do the coastal Nice ride of the first day as well as the Col de la Madone, the featured and hallowed training grounds for many professionals, including Lance Armstrong and George Hincapie.
 
-I also was able to visit Col d'Eze, another smaller but also famous climb of the region, coming up from Nice. This meant not only revisiting Nice itself, but also the amazing medieval town of Peille, one of my (now) favorite places to ride in this region. Oh and not to mention, the Monte Carlo Golf Course near the top of Mont Agel.
+I also visited the Col d'Eze, another smaller but also famous climb of the region, coming up from Nice. This meant not only revisiting Nice itself, but also the amazing medieval town of Peille, one of my (now) favorite places to ride in this region. Oh lest I forget, the Monte Carlo Golf Course near the top of Mont Agel.
  * [Col de la Madone Details]({{< ref "/travel/France/Col_de_la_Madone/index.md" >}})
  * [Col d'Eze Details]({{< ref "/travel/France/Col_dEze/index.md" >}})
- * [Strava Link](https://www.strava.com/activities/7436242347)
+ * {{< link text="Strava Link" url="https://www.strava.com/activities/7436242347" >}}
  * Total Mileage: 52 miles / 83 km
  * Total Elevation: 6400 feet / 1950 meters
 
-// Was quite tired by this point, kept stopping for photos
-// Madone goes on and on, up past St. Agnus again
-// cool cafe at top, served Froome
-// So fun seeing town again that I went through the other day
-// Cap d'Ail descent, Princess Grace
-// back to Nice, went to Cafe du Cycliste
-// Col d'Eze back up, gradual, sun exposed then not
-// continued upward, went to Monte Carlo golf club
-// dirt descent, don't do this on a road bike
+{{< img 2 back_tunnel wall >}}
 
 # My Overall Thoughts on the Trip
 After each day, I chose to take some extra time to document what I was feeling and how things went for me during the ride. With no major issues with the bike or with the roads, I was luckily able to focus more on the overall experience and how I felt, which I think was great to capture as part of my ride description on each Strava upload.
@@ -199,16 +199,16 @@ It's kind of like writing a journal, and I highly recommend doing something simi
 My advice here would be to do more of this than you think you need to!
 
 ### Quick Case Study - The Positive Experience
-When initially scouring the internet for details about doing Col de Braus and Col de Turini, I found a small reference to a section of road that was closed during certain hours of certain days. Knowing this actually altered which day I did that route to make sure that I wouldn't have problems getting through. I even asked about this road specifically of one of the employees at the [Service Course](https://theservicecourse.cc/nice) and was able to confirm my research, and therefore had no issues getting through. 
+When initially scouring the internet for details about doing Col de Braus and Col de Turini, I found a small reference to a section of road that was closed during certain hours of certain days. Knowing this actually altered which day I did that route to make sure that I wouldn't have problems getting through. I even asked about this road specifically of one of the employees at the {{< link text="Service Course" url="https://theservicecourse.cc/nice" >}} and was able to confirm my research, and therefore had no issues getting through. 
 
-See [this sign](https://goo.gl/maps/ngu4TvJEwCHZXjhm7) in Google Maps for what I'm talking about - it's near L'Escarene which is on the way to Col de Braus coming from the coast.
+See {{< link text="this sign" url="https://goo.gl/maps/ngu4TvJEwCHZXjhm7" >}} in Google Maps for what I'm talking about - it's near L'Escarene which is on the way to Col de Braus coming from the coast.
 
 {{< img 2 sign gorge >}}
 
 ### And the Not-So-Positive One
 There was one time on this trip, however, that I had not planned things out like I should have. Upon leaving the Monte Carlo golf club on my final day of riding, I utilized my normal mapping tactics to find a route more directly back to my AirBnB. I didn't check it quite as closely as I should have though!
 
-While beautiful, and initially paved, I found myself scooting my bike down soft, steep gravel with my 28mm road bike tires, contemplating over and over the [sunk cost fallacy](https://www.grammarly.com/blog/sunk-cost-fallacy/) when it came to finding a paved option back. Luckily, after a lot of colorful language, I made it down the mountain safely.
+While beautiful, and initially paved, I found myself scooting my bike down soft, steep gravel with my 28mm road bike tires, contemplating over and over the {{< link text="sunk cost fallacy" url="https://www.grammarly.com/blog/sunk-cost-fallacy/" >}} when it came to finding a paved option back. Luckily, after a lot of colorful language, I made it down the mountain safely.
 
 {{< img 2 dirt_entrance dirt_bend >}}
 

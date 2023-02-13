@@ -1,12 +1,22 @@
 ---
 title: "Living La Dolce Vita on Cipressa and Poggio"
 date: 2023-01-10T17:53:09-08:00
-# summary: "Cool stuff"
-description: ""
+summary: "Riding part of the famous route of the Milano-Sanremo race along the bike path was truly living La Dolce Vita"
+description: "Cycling ride report from France to Italy along the Ospedaletti bike path and Milano-Sanremo race route, while also climbing the Cipressa and Poggio climbs."
 image: "san_remo_fountain"
-categories: [""]
+categories: ["Bike Travel"]
 tags: ["Italy"]
-keywords: [""]
+keywords: [
+  "Côte d'Azur cycling",
+  "Cipressa climb",
+  "Poggio climb",
+  "Riding a bike over an international border",
+  "Ospedaletti bike path",
+  "La Cueva Sanremo",
+  "Milano-Sanremo bike race route",
+  "Riding your bike in coastal western Italy",
+  "Best cycling routes of the Côte d'Azur",
+]
 draft: false
 resources:
 - src: '*/san_remo_fountain.jpeg'
@@ -192,16 +202,16 @@ After the previous day's humongous ride, doing both the [Col de Braus]({{< ref "
 And what better place to rest than in Italy, right?
 
 # The Route
-The highlight of this day was to visit and climb two smaller climbs, the Cipressa and the Poggio, that are both widely known in the [Milano-Sanremo](https://www.milanosanremo.it/) race. This is the longest single day classics ride in the Pro Tour calendar at usually around 300km!
+The highlight of this day was to visit and climb two smaller climbs, the Cipressa and the Poggio, that are both widely known in the {{< link text="Milano-Sanremo" url="https://www.milanosanremo.it/" >}} race. This is the longest single day classics ride in the Pro Tour calendar at usually around 300km!
 
 {{< rwgps id="95753736" >}}
 
 So after finding a slightly "out and back" route, loosely following another route that I was recommended from a contact on Instagram, I set out to follow in the footsteps of the peloton.
 
 # Crossing My First International Border on a Bike
-While this was sort of a bucket list item for me, it actually was quite non-eventful that day. I left my AirBnb in [Roquebrune-Cap-Martin](https://goo.gl/maps/JKDM4YmyALDGaZnW6) and headed along the beach towards Italy through Menton, the last town in France before the border.
+While this was sort of a bucket list item for me, it actually was quite non-eventful that day. I left my AirBnb in {{< link text="Roquebrune-Cap-Martin" url="https://goo.gl/maps/JKDM4YmyALDGaZnW6" >}} and headed along the beach towards Italy through Menton, the last town in France before the border.
 
-Most of the traffic through this region follows the major road / freeway, which is where I imagine there's more security. But if you're on your bike, there's a frontage road that goes up and over that same major road. It also happens to go up through some nice gardens and back down the other side towards [Ventimiglia](https://goo.gl/maps/HEYcPjeWfhEbwPCJ6), Italy.
+Most of the traffic through this region follows the major road / freeway, which is where I imagine there's more security. But if you're on your bike, there's a frontage road that goes up and over that same major road. It also happens to go up through some nice gardens and back down the other side towards {{< link text="Ventimiglia" url="https://goo.gl/maps/HEYcPjeWfhEbwPCJ6" >}}, Italy.
 
 {{< img 2 border garden_tower >}}
 
@@ -214,18 +224,18 @@ The next few miles were spent wandering along some very nicely marked and separa
 
 {{< img 2 red_bike_path bordighera >}}
 
-Following this path actually took me eventually to the town of [Bordighera](https://goo.gl/maps/RUcZ6h4Xraw6vjDx8), which is on a point that has some commanding views of the coastline. There was a market that was just finishing up that day, and I specifically remember seeing women carrying their goods on their heads with the most ease, it was very cool to see! 
+Following this path actually took me eventually to the town of {{< link text="Bordighera" url=https://goo.gl/maps/RUcZ6h4Xraw6vjDx8" >}}, which is on a point that has some commanding views of the coastline. There was a market that was just finishing up that day, and I specifically remember seeing women carrying their goods on their heads with the most ease, it was very cool to see! 
 
 I definitely felt like I was a guest in a new and unique place in the world, a place where this sort of thing is considered absolutely normal, and it just helped me, yet again, realize just how big the world is and just how varied the people are in it.
 
 ## The Ospedaletti Bike Path
-So while this path taken through here is nice and follows the beaches, it eventually does put you back onto the main road after passing through Bordighera. Turns out that the best way to travel through here is through what's known as the [Ospedaletti bike path](https://www.pistaciclabile.com/en/project/ospedaletti/). It's amazing and follows an old rail line, past repurposed train depots out past [Sanremo](https://goo.gl/maps/FMLizHi8pAXwxT278). 
+So while this path taken through here is nice and follows the beaches, it eventually does put you back onto the main road after passing through Bordighera. Turns out that the best way to travel through here is through what's known as the {{< link text="Ospedaletti bike path" url="https://www.pistaciclabile.com/en/project/ospedaletti/" >}}. It's amazing and follows an old rail line, past repurposed train depots out past {{< link text="Sanremo" url="https://goo.gl/maps/FMLizHi8pAXwxT278" >}}. 
 
-Seriously, there's a 1.7 km tunnel through here that is fully lit, stays cool in the summer, and has fun banners and signs marking famous points in Italy's history that are bike related. It's what's known as the [Capo Nero](https://goo.gl/maps/fkRhkdTWdiYQr5XF6), which is basically the location geographically of where it is. The Italians really do have a love affair with the bicycle, and I don't blame them!
+Seriously, there's a 1.7 km tunnel through here that is fully lit, stays cool in the summer, and has fun banners and signs marking famous points in Italy's history that are bike related. It's what's known as the {{< link text="Capo Nero" url="https://goo.gl/maps/fkRhkdTWdiYQr5XF6" >}}, which is basically the location geographically of where it is. The Italians really do have a love affair with the bicycle, and I don't blame them!
 
 {{< img caponero >}}
 
-I actually missed this incredible tunnel on my way out, as I didn't realize that the way to get to it was by taking the turn off towards the beach when you come upon a particularly visible [dolphin statue](https://goo.gl/maps/9WpDwWX7qMiNTwrb7). It's near a small bodega shop if you need snacks or water.
+I actually missed this incredible tunnel on my way out, as I didn't realize that the way to get to it was by taking the turn off towards the beach when you come upon a particularly visible {{< link text="dolphin statue" url="https://goo.gl/maps/9WpDwWX7qMiNTwrb7" >}}. It's near a small bodega shop if you need snacks or water.
 
 {{< img dolphin_statue >}}
 
@@ -240,17 +250,17 @@ Not to mention that seeing "Sanremo" in street signs so casually was something o
 
 {{< img sanremostation >}}
 
-It was around this time that I got hungry, so conveniently, and in true Italian fashion, I found a delicious food stop that is _literally on the bike path_. How cool! It's called [Paninoteca La Cueva](https://restaurantguru.com/Bar-La-Cueva-Sanremo-2) and the staff was super friendly, and definitely catered to cyclists, especially since they had a bunch of burgers that were each named after various professional cyclists.
+It was around this time that I got hungry, so conveniently, and in true Italian fashion, I found a delicious food stop that is _literally on the bike path_. How cool! It's called {{< link text="Paninoteca La Cueva" url="https://restaurantguru.com/Bar-La-Cueva-Sanremo-2" >}} and the staff was super friendly, and definitely catered to cyclists, especially since they had a bunch of burgers that were each named after various professional cyclists.
 
 {{< img menu burger >}}
 
-Check them out on [Instagram](https://www.instagram.com/lacueva_sanremo/)!
+Check them out on {{< link text="Instagram" url="https://www.instagram.com/lacueva_sanremo/" >}}!
 
 And yes, I ate that entire burger and kept on riding. Food in Europe never seems as heavy as a lot of similar American equivalents.
 
 {{< img 2 tunnel colors >}}
 
-Continuing on, I enjoyed another cool tunnel or two, saw some colorful condos on the beach, and generally enjoyed myself on this wonderful bike path that seemed to go on forever. Eventually I found my way out to a train station at [San Lorenzo](https://goo.gl/maps/RCqrMdk8pk2gZ9Js7), which is where the bike path turned to gravel. It continues, but I chose this as my turnaround point, because after all, this was _supposed_ to be a rest day. 
+Continuing on, I enjoyed another cool tunnel or two, saw some colorful condos on the beach, and generally enjoyed myself on this wonderful bike path that seemed to go on forever. Eventually I found my way out to a train station at {{< link text="San Lorenzo" url="https://goo.gl/maps/RCqrMdk8pk2gZ9Js7" >}}, which is where the bike path turned to gravel. It continues, but I chose this as my turnaround point, because after all, this was _supposed_ to be a rest day. 
 
 {{< img sanlorenzo >}}
 
@@ -263,7 +273,7 @@ Getting to the start of this climb is a relatively short trip from the San Loren
 
 {{< img cipressa_start >}}
 
-As the sign says, it's a relatively gentle climb, averaging only 5.6% with a maximum gradient of 7%. Strava's [full segment](https://www.strava.com/segments/626918), which for some reason is marked as "hazardous", shows it as 3.5 miles / 2.1 miles long.
+As the sign says, it's a relatively gentle climb, averaging only 5.6% with a maximum gradient of 7%. Strava's {{< link text="full segment" url="https://www.strava.com/segments/626918" >}}, which for some reason is marked as "hazardous", shows it as 3.5 miles / 2.1 miles long.
 
 It honestly is a quiet and beautiful climb. There's a ton of history on this road, even if it's not quite the final climbing battleground for the Milano-Sanremo race. You pass olive trees and a few houses, a road winding its way through the mountains of Liguria in the north, and your view southward of the ever-present blue Mediterranean.
 
@@ -278,7 +288,7 @@ Descending the other side is very fun, very similar to a miniaturized version of
 {{< img 2 cipressa_sign cipressa_descent >}}
 
 # Poggio
-After getting back on the main road, I headed towards the next climb, the Poggio. On the way, I stopped briefly at a [Carrefour](https://goo.gl/maps/F5ifgbVy1DFZntfBA) to get some water, where the guy at the front watched my bike. It was fun chatting with him, as he talked fondly of watching [Peter Sagan](https://en.wikipedia.org/wiki/Peter_Sagan) descend during a previous event that went through here. I always love talking with the locals in unique places that I don't think I'd normally ever be in.
+After getting back on the main road, I headed towards the next climb, the Poggio. On the way, I stopped briefly at a {{< link text="Carrefour" url="https://goo.gl/maps/F5ifgbVy1DFZntfBA" >}} to get some water, where the guy at the front watched my bike. It was fun chatting with him, as he talked fondly of watching {{< link text="Peter Sagan" url="https://en.wikipedia.org/wiki/Peter_Sagan" >}} descend during a previous event that went through here. I always love talking with the locals in unique places that I don't think I'd normally ever be in.
 
 I can understand why the Poggio is such an iconic climb. It's not steep, isn't long, and isn't even particularly beautiful. But it's one of those perfect, smaller climbs that let you go as hard as you can. Usually gears are available for you in the right ranges and you can really choose to take it easy or just really push yourself as part of either training or an event.
 
@@ -286,7 +296,7 @@ It even looks like a ramp, as if it's asking you to take a running start!
 
 {{< img poggio_initial >}}
 
-The official [strava segment](https://www.strava.com/segments/626919) for the Poggio di Sanremo shows it as 3.7 km / 2.25 miles long, with a 4% average gradient. According to the sign at the start of the climb, the first portion of the climb is slightly steeper, with it averaging downward a bit as you get closer to the top, where you're met with another sign and another, slightly larger town square.
+The official {{< link text="strava segment" url="https://www.strava.com/segments/626919" >}} for the Poggio di Sanremo shows it as 3.7 km / 2.25 miles long, with a 4% average gradient. According to the sign at the start of the climb, the first portion of the climb is slightly steeper, with it averaging downward a bit as you get closer to the top, where you're met with another sign and another, slightly larger town square.
 
 {{< img poggio_top >}}
 
@@ -312,7 +322,7 @@ I actually stuck to some of the main roads through Ventimiglia on the way back, 
 
 Don't forget that getting back into France requires you to go up the way you initially came down into Italy, too, so save some strength for it! Later in the day, the road actually stays secluded in the shadow of the ridge it ascends, which was a very welcome surprise for me that day. Once at the top, the descent into France felt triumphant, despite me getting thoroughly confused as to which lanes were for which direction! There was some construction on the side road next to the tunnel that particular day.
 
-Definitely don't forget to enjoy this part, too. And don't forget to take a picture of the French border sign like I did! It's basically on the [Ponte San Luigi](https://goo.gl/maps/nBFD3cBGWDy212hUA) next to a beautiful rocky canyon that's quite intriguing. And there's even a [bar](https://goo.gl/maps/DKebLzxm5Ze1RUFcA) next to it!
+Definitely don't forget to enjoy this part, too. And don't forget to take a picture of the French border sign like I did! It's basically on the {{< link text="Ponte San Luigi" url="https://goo.gl/maps/nBFD3cBGWDy212hUA" >}} next to a beautiful rocky canyon that's quite intriguing. And there's even a [bar](https://goo.gl/maps/DKebLzxm5Ze1RUFcA) next to it!
 
 {{< img francesign >}}
 

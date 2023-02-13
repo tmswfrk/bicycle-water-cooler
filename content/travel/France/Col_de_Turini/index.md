@@ -1,14 +1,20 @@
 ---
 title: "A Gorge, a Church, and a Forest - The Col de Turini"
 date: 2023-01-09T14:21:50-08:00
-summary: "A climb that was something out of Jurassic Park"
-description: "First hand account of riding"
+summary: "An epic climb that was something out of Jurassic Park"
+description: "Climbing the Col de Turini on your bike takes you 24 kilometers up through a gorge, past a church, and into a forest, checking off another epic cycling climb from your bucket list"
 image: "turini_base"
 categories: ["Bike Travel"]
 tags: ["France"]
 keywords: [
   "Col de Turini",
   "Col de Turini France",
+  "Cols in France",
+  "Sospel, France",
+  "Notre Dame de la Menour",
+  "Long cycling climb in France",
+  "Côte d'Azur cycling",
+  "Best cycling routes of the Côte d'Azur",
 ]
 draft: false
 resources:
@@ -130,7 +136,7 @@ resources:
 First of all, this post is part of a greater series of posts that I've written about that documents my trip to the area in the summer of 2022. If you're looking for more on that trip and where else I went, definitely [check out the post]({{< ref "/travel/France/Nice_2022/index.md" >}})!
 
 ## What is this Climb Known For?
-Well, not initially for cycling! The Col de Turini is actually most known for being included in the [Monte Carlo Rally](https://en.wikipedia.org/wiki/Monte_Carlo_Rally), which was created in 1911 by Prince Albert of Monaco to promote new car technology and Monaco as a tourist destination.
+Well, not initially for cycling! The Col de Turini is actually most known for being included in the {{< link text="Monte Carlo Rally" url="https://en.wikipedia.org/wiki/Monte_Carlo_Rally" >}}, which was created in 1911 by Prince Albert of Monaco to promote new car technology and Monaco as a tourist destination.
 
 Turns out that it was also featured in an episode of Top Gear, as the guys were out on a quest to find the "greatest driving road in the world".
 
@@ -139,7 +145,7 @@ Turns out that it was also featured in an episode of Top Gear, as the guys were 
 Perhaps it wasn't the greatest driving road in the world, but it was a pretty incredible road for cycling!
 
 ## Getting There
-If you're staying in Nice or near the coast, you'll find that this col is quite a journey to reach, as the most popular approach to the top appears to be from the town of [Sospel](https://goo.gl/maps/mJ5Xz5sypYGUCaJr7). It's a popular addition to an epic day out on the bike if you're already tackling the great [Col de Braus]({{< ref "/travel/France/Col_de_Braus/index.md" >}}), as it's nearby. This is actually a popular shop ride that Cafe du Cycliste has in their [Nice Rider's Guide](https://www.cafeducycliste.com/en_us/la-gazette/where-to-ride-from-nice-braus-turini/).
+If you're staying in Nice or near the coast, you'll find that this col is quite a journey to reach, as the most popular approach to the top appears to be from the town of {{< link text="Sospel" url="https://goo.gl/maps/mJ5Xz5sypYGUCaJr7" >}}. It's a popular addition to an epic day out on the bike if you're already tackling the great [Col de Braus]({{< ref "/travel/France/Col_de_Braus/index.md" >}}), as it's nearby. This is actually a popular shop ride that Cafe du Cycliste has in their {{< link text="Nice Rider's Guide" url="https://www.cafeducycliste.com/en_us/la-gazette/where-to-ride-from-nice-braus-turini/" >}}.
 
 Just remember to fuel up in town, as the climb itself is quite long! "Long" being 24 kilometers long!
 
@@ -165,7 +171,7 @@ Before the "official" climb, meandering out of the town of Sospel was something 
 {{< img trees >}}
 
 ## Climb Profile
-According to the [Strava segment](https://www.strava.com/segments/16273563), coming up from Sospel is a long 15 miles / 24 km, with a total elevation gain of 3970 ft / 1210 meters!
+According to the {{< link text="Strava segment" url="https://www.strava.com/segments/16273563" >}}, coming up from Sospel is a long 15 miles / 24 km, with a total elevation gain of 3970 ft / 1210 meters!
 
 In my experience with this climb, I remember it most distinctly in three separate portions. 
 
@@ -183,14 +189,14 @@ I found myself looking back a lot, too, as it's always shocking to me to see how
 {{< img lacet >}}
 
 ### The Church
-Eventually, you notice the church way up on the hill. At first, it feels quite far off, but you find your way to it before you know it. It's called the [Notre Dame de la Menour](https://goo.gl/maps/X95L47L4CzgVvA857), and it's 10 km from the town of Sospel.
+Eventually, you notice the church way up on the hill. At first, it feels quite far off, but you find your way to it before you know it. It's called the {{< link text="Notre Dame de la Menour" url="https://goo.gl/maps/X95L47L4CzgVvA857" >}}, and it's 10 km from the town of Sospel.
 
 {{< img 2 church_afar church >}}
 
-It's a popular spot for tourists to stop, as it sits perched between the gorge you just came up through and the nearby region of [Moulinet](https://goo.gl/maps/q89tTXzJ9ZCfgFgd6). You can even climb up a set of stairs that traverse the spine of the ridge to visit the monastery itself.
+It's a popular spot for tourists to stop, as it sits perched between the gorge you just came up through and the nearby region of {{< link text="Moulinet" url="https://goo.gl/maps/q89tTXzJ9ZCfgFgd6" >}}. You can even climb up a set of stairs that traverse the spine of the ridge to visit the monastery itself.
 
 ### The Forest
-Once passing the church, things seemed to change. The road flattened out a bit and you quickly come upon the town of Moulinet, which has a [water fountain](https://goo.gl/maps/jpuNb2XhWeTr6ktQ7) if you need it. The town seems encompassed by the road, as it wanders through town, and you almost forget that you're still climbing up a mountain.
+Once passing the church, things seemed to change. The road flattened out a bit and you quickly come upon the town of Moulinet, which has a {{< link text="water fountain" url="https://goo.gl/maps/jpuNb2XhWeTr6ktQ7" >}} if you need it. The town seems encompassed by the road, as it wanders through town, and you almost forget that you're still climbing up a mountain.
 
 {{< img moulinet >}}
 
@@ -209,12 +215,12 @@ Make sure to stop at the sign and say hello to my sticker!
 {{< img turini_sign >}}
 
 ## Optional Addition (That I Didn't Do)
-There's actually more to this climb, believe it or not! There's a roundabout loop that can be done, up a small road beyond the chalet. At the top, listed on Google Maps as [La Redoute](https://goo.gl/maps/m6r3dTEqTkzdHRkn8), there is a stone building called the Pointe des Trois Communes...and I _think_ an American tank!
+There's actually more to this climb, believe it or not! There's a roundabout loop that can be done, up a small road beyond the chalet. At the top, listed on Google Maps as {{< link text="La Redoute" url="https://goo.gl/maps/m6r3dTEqTkzdHRkn8" >}}, there is a stone building called the Pointe des Trois Communes...and I _think_ an American tank!
 
 I don't fully know why or the story behind all this, but this pass was an important pass that was used during the World Wars. Maybe I'll have to go back sometime to check it out!
 
 # What I Liked about the Col de Turini
-Well, I'd be remiss if I didn't mention the first part of the climb being my favorite. I remember posting about this day on my [Instagram](https://www.instagram.com/bicyclewatercooler/) and putting the Jurassic Park theme song to it, because that's just what it looked like to me at the time.
+Well, I'd be remiss if I didn't mention the first part of the climb being my favorite. I remember posting about this day on my {{< link text="Instagram" url="https://www.instagram.com/bicyclewatercooler/" >}} and putting the Jurassic Park theme song to it, because that's just what it looked like to me at the time.
 
 The road was definitely quite long, but I personally loved seeing where I was going and, in this particular case, seeing the church at the top of the ridge to know _exactly_ where I was heading. It's fun to have a market in a place like this, as it really gives you a sense of scale of what you're doing and where you are. Looking back on the road below once you've climbed up is also spectacular, too, as you see the cars making their way up and around to meet you in some kind of dance with nature.
 
@@ -244,7 +250,7 @@ I basically found a way to connect the area of L'Escarène to Sainte-Agnes on my
 
 {{< img 2 tunnel agnes >}}
 
-And, as it would turn out, taking this route dumps you out over one of the single most beautiful portions of the mountains above Menton, also known as [Sainte Agnès](https://goo.gl/maps/U5vT1EMQCAS6rTbZ9). It's a [hidden gem](https://frenchmoments.eu/sainte-agnes-french-riviera/), much like Peille is, and is absolutely worth the trip.
+And, as it would turn out, taking this route dumps you out over one of the single most beautiful portions of the mountains above Menton, also known as {{< link text="Sainte Agnès" url="https://goo.gl/maps/U5vT1EMQCAS6rTbZ9" >}}. It's a {{< link text="hidden gem" url="https://frenchmoments.eu/sainte-agnes-french-riviera/" >}}, much like Peille is, and is absolutely worth the trip.
 
 As it turns out, this section of beautiful tarmac is along part of what is called the [Col de la Madone]({{< ref "/travel/France/Col_de_la_Madone/index.md" >}}), a famous training climb ridden by Hincapie and Armstrong. I managed to ride it two days later on this same trip!
 

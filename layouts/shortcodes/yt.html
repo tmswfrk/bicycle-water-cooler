@@ -1,5 +1,8 @@
+{{ $vid := .Get "id" }}
+{{ $title := .Get "title" }}
+{{ $alt := .Get "alt" }}
 <p style='text-align:center'>
-    <iframe height="421" width="100%" title="{{.Get 0}}" src="{{.Get 1}}" alt="{{.Get 2}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen id="YouTubeIFrame"></iframe>
+    <iframe height="421" width="100%" title="{{ $title }}" src="https://www.youtube.com/embed/{{ $vid }}" alt="{{ $alt }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen id="YouTubeIFrame"></iframe>
     <script>
         // Selecting the iframe element
         var frame = document.getElementById("YouTubeIFrame");

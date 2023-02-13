@@ -113,7 +113,7 @@ resources:
 First of all, this post is part of a greater series of posts that I've written about that documents my trip to the area in the summer of 2022. If you're looking for more on that trip and where else I went, definitely [check out the post]({{< ref "/travel/France/Nice_2022/index.md" >}})!
 
 ## What is a Corniche Road, Anyway?
-So according to [frenchmoments.eu](https://frenchmoments.eu/corniche-roads-of-the-french-riviera/), a "Corniche Road" literally means "Cliff Road". There are three of them, each progressively further up the cliffside, between [Monaco](https://goo.gl/maps/1aQhpeUrEbgM4HgT7) and [Menton](https://goo.gl/maps/18KzYERaatsXbRBU9). They follow ancient Roman routes through the region, and a lot of it was later built by [Napoleon Bonaparte](https://en.wikipedia.org/wiki/Napoleon)!
+So according to {{< link text="frenchmoments.eu" url="https://frenchmoments.eu/corniche-roads-of-the-french-riviera/" >}}, a "Corniche Road" literally means "Cliff Road". There are three of them, each progressively further up the cliffside, between {{< link text="Monaco" url="https://goo.gl/maps/1aQhpeUrEbgM4HgT7" >}} and {{< link text="Menton" url="https://goo.gl/maps/18KzYERaatsXbRBU9" >}}. They follow ancient Roman routes through the region, and a lot of it was later built by {{< link text="Napoleon Bonaparte" url="https://en.wikipedia.org/wiki/Napoleon" >}}!
 
 Somehow, they each have very different and unique views out over the Mediterranean Sea, despite generally following a similar path and direction. It's not always easy to connect over from one to the other, as the terrain through this region is, well, _mountainous_.
 
@@ -124,42 +124,42 @@ This means that riding through here is sublime.
 # The Route
 The day that I did this was actually somewhat of an errand day, believe it or not. I had previously visited the region after [visiting Croatia]({{< ref "/travel/Croatia/Exodus_Tour_2022/index.md" >}}) and had a few places I wanted to visit and a few items to purchase, so I opted to make the day into an adventure!
 
-The [musette](https://biketips.com/musette-bag/) that I brought with me definitely got some good use this day.
+The {{< link text="musette" url="https://biketips.com/musette-bag/" >}} that I brought with me definitely got some good use this day.
 
 {{< rwgps id="95552512" >}}
 
 # The Details
-On this trip, I stayed at an AirBnb in [Roquebrune-Cap-Martin](https://goo.gl/maps/PmtG1tWRbsjBCGep6), which is just east of the country of Monaco. It's a small town, but does have its own set of busy roads, so I started the day by quickly getting out of town.
+On this trip, I stayed at an AirBnb in {{< link text="Roquebrune-Cap-Martin" url="https://goo.gl/maps/PmtG1tWRbsjBCGep6" >}}, which is just east of the country of Monaco. It's a small town, but does have its own set of busy roads, so I started the day by quickly getting out of town.
 
 ## La Turbie and Èze
-After passing some construction and new paving of the road I was on, I found myself climbing up and over Monaco via one of these [corniche roads](https://frenchmoments.eu/corniche-roads-of-the-french-riviera/), stopping for a quick bite to eat at a cafe in [La Turbie](https://goo.gl/maps/1bwBkgUwi9J5yiz88). This is a small town that I found myself passing back through multiple times on this trip, as it seems to intersect a bunch of the cycling routes in the region.
+After passing some construction and new paving of the road I was on, I found myself climbing up and over Monaco via one of these {{< link text="corniche roads" url="https://frenchmoments.eu/corniche-roads-of-the-french-riviera/" >}}, stopping for a quick bite to eat at a cafe in {{< link text="La Turbie" src="https://goo.gl/maps/1bwBkgUwi9J5yiz88" >}}. This is a small town that I found myself passing back through multiple times on this trip, as it seems to intersect a bunch of the cycling routes in the region.
 
 The views along this road are unparalleled, and it's shocking just how far up you go so quickly!
 
 {{< img 2 me_monaco tunnel >}}
 
-Leaving La Turbie, I then descended down what was a glorious descent past the town of [Èze](https://en.wikipedia.org/wiki/%C3%88ze) and through some tunnels into the actual city of Nice. Traffic definitely tends to pile up a bit towards the base of the descent, so be aware of that when coming into town.
+Leaving La Turbie, I then descended down what was a glorious descent past the town of {{< link text="Èze" url="https://en.wikipedia.org/wiki/%C3%88ze" >}} and through some tunnels into the actual city of Nice. Traffic definitely tends to pile up a bit towards the base of the descent, so be aware of that when coming into town.
 
 ## Cruising into Nice
-When in Nice, I stopped in at the [Service Course](https://theservicecourse.cc/nice) (they carry my favorite [chamois cream](https://theraceday.se/store#!/products/chamois-balm) that's hard to find in the US) and [Cafe du Cycliste](https://www.cafeducycliste.com/). Both were very welcoming to me and I spent some time inside escaping the heat from the day (with an iced coffee, of course!).
+When in Nice, I stopped in at the {{< link text="Service Course" url="https://theservicecourse.cc/nice" >}} (they carry my favorite {{< link text="chamois cream" url="https://theraceday.se/store#!/products/chamois-balm" >}} that's hard to find in the US) and {{< link text="Cafe du Cycliste" url="https://www.cafeducycliste.com/" >}}. Both were very welcoming to me and I spent some time inside escaping the heat from the day (with an iced coffee, of course!).
 
 {{< img factor_nice nice_beach >}}
 
 Coming back along the coast was awesome. Both my fiancée and I had explored it only a few weeks prior, just after visiting Croatia. It was so fun being back in Nice so quickly and having pedaled there myself. There are just so many beautiful places along this route!
 
-There was [Villefranche-sur-Mer](https://en.wikipedia.org/wiki/Villefranche-sur-Mer), which has a nice beach and walking path right next to its train station:
+There was {{< link text="Villefranche-sur-Mer" url="https://en.wikipedia.org/wiki/Villefranche-sur-Mer" >}}, which has a nice beach and walking path right next to its train station:
 
 {{< img 2 vsm_beach vsm_harbor >}}
 
-Next was [Saint-Jean-Cap-Ferrat](https://en.wikipedia.org/wiki/Saint-Jean-Cap-Ferrat), a Beverly-Hills like affluent community (second most expensive residential neighborhood in the world after Monaco!) with calm roads that look like they were made for a Strava time trial segment:
+Next was {{< link text="Saint-Jean-Cap-Ferrat" url="https://en.wikipedia.org/wiki/Saint-Jean-Cap-Ferrat" >}}, a Beverly-Hills like affluent community (second most expensive residential neighborhood in the world after Monaco!) with calm roads that look like they were made for a Strava time trial segment:
 
 {{< img 2 sjcf_park_palace sjcf_road >}}
 
-And one of our favorites was [Beaulieu-sur-Mer](https://en.wikipedia.org/wiki/Beaulieu-sur-Mer), a metropolitan town that [Dirty Rotten Scoundrels](https://www.imdb.com/title/tt0095031/) was based on:
+And one of our favorites was {{< link text="Beaulieu-sur-Mer" url="https://en.wikipedia.org/wiki/Beaulieu-sur-Mer" >}}, a metropolitan town that {{< link text="Dirty Rotten Scoundrels" url="https://www.imdb.com/title/tt0095031/" >}} was based on:
 
 {{< img 2 bsm_road bsm_mountain >}}
 
-If you need a good bike shop in this region, check out [Camellini Bicycles](https://www.cyclescamellini.com/), as they have some high end stuff and were friendly to me both times I visited.
+If you need a good bike shop in this region, check out {{< link text="Camellini Bicycles" url="https://www.cyclescamellini.com/" >}}, as they have some high end stuff and were friendly to me both times I visited.
 
 ## Next Up: The Grand Prix Circuit of Monaco
 After taking that coastal road in the last photo, make sure to stop near the tunnel through the rock that you can see around the point. It's such a beautiful spot. Not far beyond it, you'll find yourself in Monaco!
@@ -170,7 +170,7 @@ I discovered something here when [mapping my route]({{< ref "/blog/Ride_Planning
 
 Although you will quickly find yourself in a network of tunnels, underground roundabouts, and basically _madness_ of car traffic that will quickly want you to get out of there in search of better paths!
 
-Once you do, however, you can kind of just meander through the [Grand Prix](https://en.wikipedia.org/wiki/Monaco_Grand_Prix) route, which is a spectacle in and of itself. I had been to Monaco in the past and walked it, but it was so much fun to actually ride it on my bike!
+Once you do, however, you can kind of just meander through the {{< link text="Grand Prix" url="https://en.wikipedia.org/wiki/Monaco_Grand_Prix" >}} route, which is a spectacle in and of itself. I had been to Monaco in the past and walked it, but it was so much fun to actually ride it on my bike!
 
 {{< img start_line >}}
 
@@ -178,31 +178,31 @@ I wanted to get my bearings first by stopping by the harbor waterfront, and if y
 
 If you're familiar with the Grand Prix route, you can use a general sense of direction to follow the route around the harbor, up the hill, past the casino, and then turn left at the bottom of the hill (don't turn right unless you want to go to the infamous tunnel).
 
-Admittedly, that's a lot to just gloss over so quickly, but feel free to create a route from my [Strava ride](https://www.strava.com/activities/7420140821) I recorded that day!
+Admittedly, that's a lot to just gloss over so quickly, but feel free to create a route from my {{< link text="Strava ride" url="https://www.strava.com/activities/7420140821" >}} I recorded that day!
 
 {{< img monte_carlo >}}
 
 Seriously, that casino is quite the sight to behold, given how many movies it's been showcased in. Don't linger too long though! There is security all over that place, and the _entire country_ of Monaco is under careful surveillance, so while it's a super safe place to be, make sure you act like a respectful guest!
 
-It's a bit tricky to navigate your way out of the country, though. Just follow the coastal road (which is Avenue Princess Grace) until you see a [hairpin](https://goo.gl/maps/GJXiMxpv7KxasGhg6) that leads up away from the sea. You follow that road up and follow it straight until you take a right and then a left hand roundabout that gets you to the main road. That road is called Avenue de France and while it looks a little like a freeway entrance, it's just a large road and is your ticket back to your starting point. Basically just follow the traffic and go where they're going!
+It's a bit tricky to navigate your way out of the country, though. Just follow the coastal road (which is Avenue Princess Grace) until you see a {{< link text="hairpin" url="https://goo.gl/maps/GJXiMxpv7KxasGhg6" >}} that leads up away from the sea. You follow that road up and follow it straight until you take a right and then a left hand roundabout that gets you to the main road. That road is called Avenue de France and while it looks a little like a freeway entrance, it's just a large road and is your ticket back to your starting point. Basically just follow the traffic and go where they're going!
 
-Again, feel free to use the [route I recorded that day](https://www.strava.com/activities/7420140821) as a route to make this easier. Just make sure to avoid going into the parking lot at the end of that hairpin. I was looking for a route through that day, but alas, there wasn't an accessible one!
+Again, feel free to use the {{< link text="route I recorded that day" url="https://www.strava.com/activities/7420140821" >}} as a route to make this easier. Just make sure to avoid going into the parking lot at the end of that hairpin. I was looking for a route through that day, but alas, there wasn't an accessible one!
 
 ## Getting Back to Menton
 Getting back to the Menton area from here is straightforward, but if you go during the commuting times of the day, be prepared for some more madness! Experienced city riders will manage just fine, but over time I started to get really irritated at the frantic passing that many motorbikes were doing around me. This is also while trying to navigate the slower moving traffic in front of me with no shoulder or bike lane. Oof.
 
-I managed to find [this video](https://www.youtube.com/watch?v=mrKWu3z6xqY) that showcases some of this traffic in the region, even taken from a road bike. It really reminded me of what I experienced that day in some spots! There's also [this video](https://www.youtube.com/watch?v=xvPvPt4nfcw) that doesn't showcase the traffic, but shows (most of) the specific route back that I took.
+I managed to find {{< link text="this video" url="https://www.youtube.com/watch?v=mrKWu3z6xqY" >}} that showcases some of this traffic in the region, even taken from a road bike. It really reminded me of what I experienced that day in some spots! There's also {{< link text="this video" url="https://www.youtube.com/watch?v=xvPvPt4nfcw" >}} that doesn't showcase the traffic, but shows (most of) the specific route back that I took.
 
 Overall, the route through here is mostly flat and even has several downhill sections to it, so I never felt stuck on the side of the road with cars zipping past me the entire time. I imagine if you ride this section outside of normal commuting hours, it'll be significantly less crazy and likely just as beautiful as the earlier sections of this ride!
 
 {{< img cap_martin >}}
 
-Oh and do yourself a favor and take the roundabout way back through [Cap-Martin](https://goo.gl/maps/Cs7yFgLro8uZWEiGA). The road is significantly quieter, with incredible views looking east out towards Menton and Italy.
+Oh and do yourself a favor and take the roundabout way back through {{< link text="Cap-Martin" url="https://goo.gl/maps/Cs7yFgLro8uZWEiGA" >}}. The road is significantly quieter, with incredible views looking east out towards Menton and Italy.
 
 ## You've Made It!
 Coming back into Roquebrune-Cap-Martin happens quickly, as most of the road leading into it tends to be fast and is slightly downhill, so enjoy it! 
 
-Once there, make sure to fuel up and enjoy the rest of your day! I found it difficult to find much grab-and-go food that was also healthy in the immediate vicinity, so my advice would be to find a nicer place to sit down or go visit the [nearby grocery store](https://goo.gl/maps/V9VrccGPxbM6GCsU8) (they close on Sundays, though). This is especially the case if you have another day or two in town to do more riding, as it's always good to have some food in your AirBnB.
+Once there, make sure to fuel up and enjoy the rest of your day! I found it difficult to find much grab-and-go food that was also healthy in the immediate vicinity, so my advice would be to find a nicer place to sit down or go visit the {{< link text="nearby grocery store" url="https://goo.gl/maps/V9VrccGPxbM6GCsU8" >}} (they close on Sundays, though). This is especially the case if you have another day or two in town to do more riding, as it's always good to have some food in your AirBnB.
 
 Alternatively, you can ride your bike a bit further east (like I did that day) into Menton itself, where there are significantly more choices for food.
 
