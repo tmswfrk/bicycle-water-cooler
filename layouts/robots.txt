@@ -4,5 +4,7 @@ User-agent: *
 Disallow: */tags/
 Disallow: */categories/
 Disallow: 404.html
+Disallow: */search/
+Disallow: search.json
 
 Sitemap: {{ "sitemap.xml" | absLangURL }}

@@ -48,7 +48,7 @@ function executeSearch(searchQuery){
     if(result.length > 0){
       populateResults(result);
     }else{
-      $('#search-results').append("<div class=\"text-center mx-auto\"><img class=\"img-fluid mb-5\" src=\"https://user-images.githubusercontent.com/37659754/64060567-7cece400-cbf0-11e9-9cf9-abac3543ec1f.png\"><h2>No Results Found!</h2></div>");
+      $('#search-results').append("<div class=\"text-center mx-auto\"><h2>No Results Found!</h2></div>");
     }
   });
 }
