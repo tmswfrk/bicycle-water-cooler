@@ -3,12 +3,95 @@ title: "An Introduction to Cycling Clothing"
 date: 2021-02-20T17:04:21-08:00
 summary: "Padded shorts? Tight clothes? Let's talk about what these are and why you want them."
 description: "A beginner's guide to choosing the right cycling shorts and jersey, as well as specific product recommendations based on personal experience and feedback."
-image: "/img/2021/02/cycling_clothes_on_bed.jpeg"
-imagealt: "A beginner's guide to choosing the right cycling shorts and jersey, as well as specific product recommendations based on personal user experience and feedback. Image contains: Louis Garneau cycling shorts and jersey, beginner's cycling clothing."
+image: "cycling_clothes_on_bed"
 categories: ["Cycling Guides"]
-tags: ["New Rider Tips", "Pas Normal Studios", "Cycling Clothing"]
+tags: ["New Rider Tips", "Cycling Clothing"]
 keywords: ["What cycling clothing do I need", "do I need padded shorts for cycling", "why are cycling clothes so tight"]
 draft: false
+resources:
+- src: '*/cycling_clothes_on_bed.jpeg'
+  name: "cycling_clothes_on_bed"
+  title: "From forever ago!"
+  params:
+    alt: "A beginner's guide to choosing the right cycling shorts and jersey, as well as specific product recommendations based on personal user experience and feedback. Image contains: Louis Garneau cycling shorts and jersey, beginner's cycling clothing."
+- src: '*/voler_shorts.jpeg'
+  name: "voler"
+  title: "Voler is a great company"
+  params:
+    alt: "Voler cycling shorts"
+    width: 50
+    exclude_gps: true
+- src: '*/pearl_izumi_logo.jpeg'
+  name: "pearl_izumi_logo"
+  title: "Not changing any time soon!"
+  params:
+    alt: "Pearl Izumi company logo"
+    width: 40
+- src: '*/white_pants.gif'
+  name: "white_pants"
+  title: "I got my white pants on!"
+  params:
+    alt: "Will Ferrell and Jimmy Fallon doing a dance in white pants"
+    width: 75
+- src: '*/louis_garneau.jpg'
+  name: "garneau_logo"
+  title: "From their site"
+  params:
+    alt: "Louis Garneau company logo"
+    width: 35
+    exclude_gps: true
+- src: '*/castelli_logo.jpeg'
+  name: "castelli_logo"
+  title: "From their site"
+  params:
+    alt: "Castelli company logo"
+    width: 35
+    exclude_gps: true
+- src: '*/homer_baggy_pants.gif'
+  name: "homer_baggy_pants"
+  title: "Not exactly, but a hilarious and classic Simpsons scene"
+  params:
+    alt: "Homer Simpson wearing clown pants that are supposed to be baggy"
+    width: 50
+- src: '*/gore_bib_shorts.jpeg'
+  name: "gore_bib_shorts"
+  title: "I remember wearing these a lot. I eventually outgrew them, unless there's a different word for when they're now too big?"
+  params:
+    alt: "Gore cycling bib shorts"
+    width: 75
+    exclude_gps: true
+- src: '*/urkel.gif'
+  name: "urkel"
+  title: "Yeah, we definitely didn't do that"
+  params:
+    alt: "Steve Urkel in suspenders gif"
+    width: 35
+- src: '*/pearl_izumi_jersey.jpeg'
+  name: "pearl_izumi_jersey"
+  title: "I remember this jersey feeling really tight when I first bought it. I eventually got rid of it because it had somehow become too big!"
+  params:
+    alt: "A white and red accented Pearl Izumi cycling jersey"
+    width: 75
+    exclude_gps: true
+- src: '*/aero_time_trialist.jpg'
+  name: "aero_time_trialist"
+  title: "This is a totally different sport, really."
+  params:
+    alt: "Aerodynamic Time Trialist on track bike"
+    width: 50
+    exclude_gps: true
+- src: '*/me_diablo.jpeg'
+  name: "me_diablo"
+  title: "I really like this jersey."
+  params:
+    alt: "Cyclist wearing pro kit from The Service Course in Girona, Spain, at the top of Mount Diablo"
+    width: 75
+    exclude_gps: true
+- src: '*/me_hoodoo_lemmon.jpg'
+  name: "me_hoodoo_lemmon"
+  title: "I'm a bit of a fanboy of Pas Normal these days."
+  params:
+    alt: "Cyclist wearing Pas Normal Studios gear ascending Mt. Lemmon in Tucson, Arizona"
 ---
 # Cycling Clothes Maketh the Cyclist
 Or something like that! 
@@ -23,7 +106,7 @@ Please know that the content in this post are simply my initial recommendations 
 ## First of all, do I need padded shorts?
 Short answer, yes. Yes, you do. At this point, I can't even imagine riding a bike without them. At least not for any appreciable amount of time.
 
-{{< figresize src="/img/2021/02/voler_shorts.jpeg" alt="Voler cycling shorts" width=50% title="Voler is a great company" >}}
+{{< img voler >}}
 
 I purchased these from [Voler](https://www.voler.com), which is a local company out of Grover Beach, CA, and they were my first pair of shorts I really liked. I enjoyed the ones I originally came home with when I purchased my bike, but I remember starting to really take note of my preferences once I got a few miles in these.
 
@@ -32,26 +115,26 @@ A few important points about padded shorts in general:
 ### Not all padded shorts are created equal
 Just because there's a pad in them doesn't mean that a $100 pair will be the same as a $200 pair (and they go up from there, believe it or not!). If you're simply getting started, don't expect to understand the differences or nuances yet, just get something that seems to fit snugly and comfortably, and don't spend too much money on them. At least not until you become more familiar with what you like and don't like.
 
-{{< figresize src="/img/2021/02/white_pants.gif" alt="Will Ferrell and Jimmy Fallon doing a dance in white pants" width=75% title="I got my white pants on!" >}}
+{{< img white_pants >}}
 
 #### Some Initial Recommendations
 To be honest, I've never really shopped on Amazon specifically for cycling shorts, but I am familiar with a lot of the brands that they tend to sell there. I've found a few relatively cheap options here to give you an idea of what to start looking for, all from Amazon of course, in case you're concerned about a good return policy or trying things on from the comfort of your own home.
 
-{{< figresize src="https://pizu-prod-cdn-medias.s3.amazonaws.com/sys-master/s3medias1/hf1/h25/8972224233502/logo.png" alt="Pearl Izumi company logo" width=35% title="From their site" >}}
+{{< img pearl_izumi_logo >}}
 
 [Pearl Izumi](https://www.pearlizumi.com/US/en/) is originally a Japanese company that is now part of the greater Shimano umbrella. They tend to have a wide range of products, and, in my experience, their shorts don't fit quite as tightly as the Italian-inspired brands (more on that later).
 
 * {{< amzn asin="B01H7BQXNC" text="Pearl Izumi Escape Quest Mens Short" >}}
 * {{< amzn asin="B074JQ31HW" text="Pearl Izumi Escape Quest Womens Short" >}}
 
-{{< figresize src="/img/2021/02/louis_garneau.jpg" alt="Louis Garneau company logo" width=35% title="From their site" >}}
+{{< img garneau_logo >}}
 
 [Louis Garneau](https://garneau.com/us_en/garneau-group/about-us) is a company out of Quebec, Canada, focusing on providing good products at reasonable prices. They definitely have something for everyone, including tighter fitting stuff for racer types, but their more reasonably priced stuff tends to be a lot more forgiving in their sizing. Chances are you've seen some of their clothing before.
 
 * {{< amzn asin="B00NMK9DTO" text="Louis Garneau Optimum Mens Short" >}}
 * {{< amzn asin="B00NMK9QS2" text="Louis Garneau Optimum Womens Short" >}}
 
-{{< figresize src="https://www.castelli-cycling.com/mediaObject/castelli/US/support-imagery/castelli-header/original/castelli-header.png" alt="Castelli company logo" width=35% title="From their site" >}}
+{{< img castelli_logo >}}
 
 [Castelli](https://www.castelli-cycling.com/us) is out of Italy, and was my first foray into what is known as the "Italian" fit, i.e., crazy small compared to what people in the US are typically used to. I've always liked their logo! However, they are also quite a large company these days, too, so you can also find a lot of variation in how each of their products fit. For reference, these tended to cost a bit more than some of the other brands I remember oogling over at Performance Bicycle.
 
@@ -73,7 +156,7 @@ Following up on the previous point, these shorts aren't designed to fit like a p
 
 I remember starting with what sizing that I typically wore in more casual clothing and then trying on a size up or down from there. I usually worse a size medium shirt and pants, but found that the size large was actually preferable to me at the time for the jersey, mainly because I had more, ahem, around the waistline.
 
-{{< figresize src="/img/2021/02/homer_baggy_pants.gif" alt="Homer Simpson wearing clown pants that are supposed to be baggy" width=50% title="Not exactly, but a hilarious and classic Simpsons scene" >}}
+{{< img homer_baggy_pants >}}
 
 Your mileage will definitely vary, but try to go out to a store to try some of these on, as there is a lot of variability here, not just in sizing alone, but also from brand to brand, and sometimes even within product lines within the same brand.
 
@@ -83,7 +166,7 @@ Yes, they are different. I've heard of some women preferring men's cycling short
 ### Padded Shorts vs Bib Shorts
 In case you've already been looking around online, "bib" shorts are actually the preferred shorts for cyclists. They look absolutely ridiculous on their own, as they are basically just the same shorts, pad and all, but with a set of suspenders.
 
-{{< figresize src="/img/2021/02/gore_bib_shorts.jpeg" alt="Gore cycling bib shorts" width=75% title="I remember wearing these a lot. I eventually outgrew them, unless there's a different word for when they're now too big?" >}}
+{{< img gore_bib_shorts >}}
 
 They're absolutely wonderful, though. I don't specifically advise getting them right off the bat if you're just starting out, but it's up to you.
 
@@ -107,7 +190,7 @@ There are definitely other factors to consider here beyond simply the pad, namel
 
 Each of these will vary pretty widely depending on your body type and the brand and fit you choose. A taller rider, for example, may find that the straps on a particular bib short are a bit too tight or loose.
 
-{{< figresize src="/img/2021/02/urkel.gif" alt="Steve Urkel in suspenders gif" width=35% title="Yeah, we definitely didn't do that" >}}
+{{< img urkel >}}
 
 ## What about a jersey?
 If you're like me and get really excited about a new thing, getting a jersey (or two) alongside some new cycling shorts is a welcome addition. It certainly makes you _feel_ the part if you look it.
@@ -120,7 +203,7 @@ If it's your first jersey, just make sure not to get one that is too big, or a j
 ### Obnoxious colors? Sure.
 Obviously there's a personal preference here that you should absolutely blend with functional purpose. I think this matters a bit less if you're just getting into the sport, but a lot of cyclists like having bright or obnoxious colors, particularly on their jersey, to make themselves more obvious to drivers and other riders on the road.
 
-{{< figresize src="/img/2021/02/pearl_izumi_jersey.jpeg" alt="A white and red accented Pearl Izumi cycling jersey" width=75% title="I remember this jersey feeling really tight when I first bought it. I eventually got rid of it because it had somehow become too big!" >}}
+{{< img pearl_izumi_jersey >}}
 
 Definitely an important point to consider, and most cycling clothing has considered this to some extent. Even some of the darker colored clothing items have special sections or seams that reflect light in low-light conditions quite well.
 
@@ -131,7 +214,7 @@ Similar to the shorts, jerseys are designed to be a bit more closer-fitting, too
 
 But let's not simply skip over that part just yet! Aerodynamics sounds like something only professionals or serious riders need to consider, but it actually is something everyone can benefit from. Once you get over about 18 or 20 mph on a bike, the additional energy you use to go faster is 90% devoted to overcoming wind resistance! It's quite significant.
 
-{{< figresize src="/img/2021/02/aero_time_trialist.jpg" alt="Aerodynamic Time Trialist on track bike" width=50% title="This is a totally different sport, really." >}}
+{{< img aero_time_trialist >}}
 
 So that annoying flapping you hear when riding down a hill or when it's windy out? It's slowing you down. And over a longer day, believe it or not, this will absolutely be noticeable. There's actually a ton of research that the various clothing manufacturers are always doing to better assist here, and it's why you see riders in criterium races in the Tour de France sporting full-on "skinsuits", because it can affect a rider's power output [by up to measures of 10% in some cases](https://www.youtube.com/watch?v=-_2SM30kI-4).
 
@@ -149,7 +232,7 @@ Typically a line of cycling clothing within a single brand will be labeled as a 
 
 I'm not going to lie, these are my favorite kind of jerseys. They just look the part, and they truly are _very_ functional, believe it or not. Keeping things close and tight really help me feel like I'm slipping through the wind, while also providing breathability in all the right places.
 
-{{< figresize src="/img/2021/02/me_diablo.jpeg" alt="Cyclist wearing pro kit from The Service Course in Girona, Spain, at the top of Mount Diablo" width=75% title="I really like this jersey." >}}
+{{< img me_diablo >}}
 
 Even having things like higher pockets help keep things from sagging back there and getting caught on my saddle when getting on and off the bike. [Zipper garages](http://blog.runningwarehouse.com/uncategorized/a-closer-look-at-zippers-an-unsung-hero-in-running-apparel/#:~:text=Zipper%20Garage%20%E2%80%93%20This%20little%20fabric,or%20chafing%20as%20you%20run.) are also a welcome addition here, so as to avoid a zipper causing undue comfort near your neck or rubbing against your expensive bib shorts.
 
@@ -178,4 +261,4 @@ I definitely plan to write more about some of my favorite brands listed above, b
 
 Now get out there and enjoy the ride in your new kit!
 
-{{< figresize src="/img/2021/02/me_hoodoo_lemmon.jpg" alt="Cyclist wearing Pas Normal Studios gear ascending Mt. Lemmon in Tucson, Arizona" width=100% title="I'm a bit of a fanboy of Pas Normal these days." >}}
+{{< img me_hoodoo_lemmon >}}

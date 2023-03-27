@@ -3,8 +3,7 @@ title: "Recovery for Cyclists"
 date: 2021-07-31T17:41:43-07:00
 summary: "You train hard, make sure to recover hard."
 description: "Recovery for cyclists is almost as important as the training itself, so here are some recommended protein, BCAA, glutamine, electrolytes filled products."
-image: "/img/2021/07/recovery_products.jpeg"
-imagealt: "Recovery products and recommendations for cyclists to help rebuild those leg muscles after you train!"
+image: "recovery_products"
 categories: ["Product Reviews", "Cycling Guides"]
 tags: ["New Rider Tips", "Product Review", "Nutrition"]
 keywords: [
@@ -20,6 +19,102 @@ keywords: [
     "Settle your stomach with good nutrition",
 ]
 draft: false
+resources:
+- src: '*/recovery_products.jpeg'
+  name: "recovery_products"
+  title: "Some of my favorites"
+  params:
+    alt: "Recovery products and recommendations for cyclists to help rebuild those leg muscles after you train!"
+- src: '*/dealwithlater.gif'
+  name: "dealwithlater"
+  title: "At least I think that's what it said?"
+  params:
+    alt: "Woman saying I will deal with this later gif"
+    width: 40
+- src: '*/stairs.gif'
+  name: "stairs"
+  title: "Hilarious part of the movie, I'll add"
+  params:
+    alt: "Po from Kung Fu Panda having a hard time getting up the stairs"
+    width: 75
+- src: '*/proteinshake.gif'
+  name: "proteinshake"
+  title: "whoa, what the what now?"
+  params:
+    alt: "crazy kid drinking protein shake in unusual fashion"
+- src: '*/caseinfacts.jpeg'
+  name: "caseinfacts"
+  title: "Suspiciously on the dot, isn't it?"
+  params:
+    alt: "nutrition label for Ascent casein protein bag"
+    width: 50
+    exclude_gps: true
+- src: '*/plantprotein.jpeg'
+  name: "plantprotein"
+  title: "I'm not vegan or vegetarian, but I like this stuff"
+  params:
+    alt: "label from plant based protein brand KOS"
+    width: 50
+    exclude_gps: true
+- src: '*/collagen.jpeg'
+  name: "collagen"
+  title: "Despite being unflavored, this smooths out the texture of my recovery drink mix, and I like it"
+  params:
+    alt: "label from Bubs Naturals collagen protein mix"
+    width: 50
+    exclude_gps: true
+- src: '*/casein.jpeg'
+  name: "casein"
+  title: "This stuff is great, definitely recommend it"
+  params:
+    alt: "Ascent casein protein powder mix bag"
+    width: 50
+    exclude_gps: true
+- src: '*/pizza.jpeg'
+  name: "pizza"
+  title: "This was me back in 2015, actually recovering from a ride"
+  params:
+    alt: "Pizza in front of a tv"
+    width: 75
+    exclude_gps: true
+- src: '*/bcaas.jpeg'
+  name: "bcaas"
+  title: "Blood Orange is my favorite flavor, and I often use it during rides"
+  params:
+    alt: "label from Scivation XTend BCAA mix"
+    width: 50
+    exclude_gps: true
+- src: '*/ratioofcarbstoprotein.jpeg'
+  name: "ratioofcarbstoprotein"
+  title: "Definitely not common to see this ratio"
+  params:
+    alt: "label from Skratch's recovery mix, showing a 4:1 ratio of carbs to protein"
+    width: 50
+    exclude_gps: true
+- src: '*/musclecramp.gif'
+  name: "musclecramp"
+  title: "Oof."
+  params:
+    alt: "Tennis player getting a cramp during a serve"
+    width: 50
+- src: '*/namedsport.jpeg'
+  name: "namedsport"
+  title: "You see their stuff all over the pro circuit these days"
+  params:
+    alt: "Professional bike riders looking at a NamedSport booth at a major event"
+    width: 50
+- src: '*/sleep.gif'
+  name: "sleep"
+  title: "Zzzzz..."
+  params:
+    alt: "kitten falling asleep on bed"
+    width: 50
+- src: '*/homersimpson.jpg'
+  name: "homersimpson"
+  title: "The Simpsons have so many quotable lines!"
+  params:
+    alt: "Homer Simpson logo with one of his famous quotes about alcohol"
+    width: 35
 ---
 # My Personal Views Only
 Let's get this out of the way. I'm definitely _not_ a qualified medical person to be giving out any kind of official advice when it comes to nutrition. These are simply my views only, and they're based entirely on my own personal experience.
@@ -45,7 +140,7 @@ Well, this explains things better, taken from [Scientific American](https://www.
 
 So basically energy (which can come from any of the major macronutrients, which is a whole other topic) plus oxygen equals output, but without enough oxygen in the input side of things, lactate is created by your body to make up the slack, with the intention on dealing with it later.
 
-{{< figresize src="/img/2021/07/dealwithlater.gif" alt="Woman saying I will deal with this later gif" width=40% title="At least I think that's what it said?" >}}
+{{< img dealwithlater >}}
 
 I've found that the soreness that's associated with leftover lactic acid can be particularly bad the _second_ day after a hard endurance ride, as these leftover byproducts of training really have had a chance to settle in to your muscle fibers.
 
@@ -58,7 +153,7 @@ Ah yes, protein, the building blocks of muscles as we were all taught in school.
 
 After a hard or difficult ride, our muscles have gone through a lot. And you feel it, usually in soreness or in a sense of reduced strength in doing other tasks that are typically quite easy.
 
-{{< figresize src="/img/2021/07/stairs.gif" alt="Po from Kung Fu Panda having a hard time getting up the stairs" width=75% title="Hilarious part of the movie, I'll add" >}}
+{{< img stairs >}}
 
 ## Protein rebuilds your muscle tissues
 During the few hours after your ride, your body is going to be looking for protein in whatever form it can find it. A lot of people are just fine with eating a good meal after a ride to get all their nutrients, but others choose to supplement it with more direct sources of protein. A few good / easy reasons for this:
@@ -69,7 +164,7 @@ During the few hours after your ride, your body is going to be looking for prote
 
 This is more body-building territory, and I won't claim to have much expertise here specifically, but when a body builder is really working out hard and consistently, they're often recommended to take in about 1 gram of protein per pound of body weight _every day_.
 
-{{< figresize src="/img/2021/07/proteinshake.gif" alt="crazy kid drinking protein shake in unusual fashion" width=50% title="whoa, what the what now?" >}}
+{{< img proteinshake >}}
 
 That's a LOT of protein, so it's important to have clean sources of protein that provide the nutrients they need while also not bringing along a lot of unnecessary fat or carbohydrates.
 
@@ -78,7 +173,7 @@ What additionally complicates some of the above is the fact that our bodies can 
 
 You'll typically see around 25 grams of protein per serving on a lot of protein bags out there:
 
-{{< figresize src="/img/2021/07/caseinfacts.jpeg" alt="nutrition label for Ascent casein protein bag" width=50% title="Suspiciously on the dot, isn't it?" >}}
+{{< img caseinfacts >}}
 
 ## Types of Protein
 Luckily, there are a lot more forms of protein that are readily available today compared to times past. This is great, because those who have trouble with digestion of certain types of foods now have many options to choose from to get their protein. Typically you'll find a few types:
@@ -92,12 +187,12 @@ From soy beans, soy often has a stigma to it, as it includes isoflavones, which 
 ### Plant Based
 Usually from peas, this one is the new kid on the block. I'll admit that their taste can often be a bit much, unless you're already comfortable with a vegetarian or vegan lifestyle, but some are not too bad. There's some promising research going on in this new and existing world of plant-based foods, as evidenced by the recent [Netflix documentary](https://www.netflix.com/title/81157840) and a lot of literature, including the {{< amzn asin="1527249247" text="Plant Based Cyclist book" >}} that GCN has been promoting for some time now (the price on this one seems to vary widely depending on which seller you select).
 
-{{< figresize src="/img/2021/07/plantprotein.jpeg" alt="label from plant based protein brand KOS" width=50% title="I'm not vegan or vegetarian, but I like this stuff" >}}
+{{< img plantprotein >}}
 
 ### Collagen Protein
 One more mention here, as this one is a bit newer to me these days. It doesn't completely fit in with the above types of proteins, but is a protein nonetheless. It's often marketed towards those who wish to supplement nutrients to help their skin's elasticity, but there has been more recent research showing that collagen can help retain elasticity in your muscle fibers, helping them grow and operate to their full capacity as we grow older.
 
-{{< figresize src="/img/2021/07/collagen.jpeg" alt="label from Bubs Naturals collagen protein mix" width=50% title="Despite being unflavored, this smooths out the texture of my recovery drink mix, and I like it" >}}
+{{< img collagen >}}
 
 Keep in mind that the sources for collagen protein are typically bovine-based.
 
@@ -115,7 +210,7 @@ Not as expensive, and requires more "work" for your body to utilize it in the wa
 ### Casein
 So for casein protein, take that concept of concentration a bit further. It's a very dense protein (the shakes can sometimes come out a bit more thick by comparison) but is a great choice that body builders have been using for years just before going to sleep. Having some casein in your system really lets your body have a longer, slower uptake of protein while your body sleeps to recover those tired muscles.
 
-{{< figresize src="/img/2021/07/casein.jpeg" alt="Ascent casein protein powder mix bag" width=50% title="This stuff is great, definitely recommend it" >}}
+{{< img casein >}}
 
 I actually really like using casein protein as a cyclist, but mainly after really difficult rides, and especially if I know I have another ride planned the next day or the day after. I feel like this isn't very commonly used among cyclists, as I think most riders are not typically expecting to build as much muscle as someone like a body builder might.
 
@@ -124,7 +219,7 @@ If you're really good about keeping up with your nutrition, eating a good, healt
 
 Personally, I'm not all that great about doing it this way, though, as for a long time, my recovery meals often included a trip to my local Dominos.
 
-{{< figresize src="/img/2021/07/pizza.jpeg" alt="Pizza in front of a tv" width=75% title="This was me back in 2015, actually recovering from a ride" >}}
+{{< img pizza >}}
 
 # There's more to the story, though
 Beyond simply knowing about various kinds of protein, there are a lot of other things to consider when it comes to muscle recovery.
@@ -135,7 +230,7 @@ Like a lot of what has already been mentioned, the topic of the anabolic window 
 ### BCAAs
 If you've ever wandered the aisles of a health food or supplement store and seen BCAAs on the shelf, these are called "branched chain amino acids" and can help keep your body in an anabolic window for longer. They're most often marketed to body builders to help build more muscle mass if supplementation is used _during_ a workout in addition to directly afterwards. They represent a series of amino acids that make up the components of protein and muscle, most of which you typically can attain from a good diet and others that your body makes naturally.
 
-{{< figresize src="/img/2021/07/bcaas.jpeg" alt="label from Scivation XTend BCAA mix" width=50% title="Blood Orange is my favorite flavor, and I often use it during rides" >}}
+{{< img bcaas >}}
 
 I personally don't use BCAAs for muscle mass, but I do occasionally use them during rides. Besides usually being quite tasty, [there is some research out there](https://www.bicycling.com/health-nutrition/a20019455/harness-amino-acid-power-to-boost-your-riding/) about the use of BCAAs contributing to your brain and its "perceived exertion" of an activity. If you choose to go this route, be aware that most BCAA mixes do _not_ include carbohydrates, which you will need both during and after a hard activity.
 
@@ -151,12 +246,12 @@ After training, your glycogen stores are likely depleted, and carbohydrates are 
 ### Supplements for Carbohydrates
 This is where you'll see some significant differences between different recovery mixes from company to company, as most recovery mixes definitely focus on more protein than carbohydrates, primarily because the audience for those products tends to be larger. {{< amzn asin="B0767XV957" text="Skratch" >}} is one of my favorites here, as they include about a 4:1 ratio of carbohydrates to protein that definitely lend itself to replenishing those glycogen stores quickly.
 
-{{< figresize src="/img/2021/07/ratioofcarbstoprotein.jpeg" alt="label from Skratch's recovery mix, showing a 4:1 ratio of carbs to protein" width=50% title="Definitely not common to see this ratio" >}}
+{{< img ratioofcarbstoprotein >}}
 
 ## Electrolytes
 I recently was speaking with a friend about these, as they tend to be very much marketed to every endurance sport for hydration during activity. On longer rides, I absolutely ride with them, typically in my bottles in the form of {{< amzn asin="B0089YIQGO" text="Skratch" >}} or [Hydrafit](https://www.namedsport.com/en/sports/hydrafit-400g-sportbottle-hydra2pro-2021-1.html) (from Italy, so it's a bit difficult to source in the US, but are a huge sponsor of the Tour de France and the Giro d'Italia), and they definitely tend to help me keep muscle cramps away.
 
-{{< figresize src="/img/2021/07/musclecramp.gif" alt="Tennis player getting a cramp during a serve" width=50% title="Oof." >}}
+{{< img musclecramp >}}
 
 However, my friend pointed out that [a lot of what is being marketed about electrolytes is false](https://fivethirtyeight.com/features/you-dont-need-sports-drinks-to-stay-hydrated/), or at least the studies behind their claims aren't very reproducible. Our adrenal glands are apparently quite good at maintaining our sodium and potassium levels (the two main "electrolytes"), so it's actually more likely to _over_ hydrate than to underhydrate. It's a fascinating topic.
 
@@ -167,7 +262,7 @@ There's a lot to be said here, too, but {{< amzn asin="B07NYB5N4N" text="Nuun" >
 
 Going back to the electrolytes earlier, I actually really like the [Hydrafit](https://www.namedsport.com/en/sports/hydrafit-400g-sportbottle-hydra2pro-2021-1.html) stuff from NamedSport, but it's difficult to find here in the US. They're an Italian company and despite being new to the industry, have quite a pedigree elsewhere, and are a huge sponsor of both the Tour de France and the Giro d'Italia. What I find most interesting about this drink is that it includes magnesium in addition to electrolytes. Magnesium helps balance out the electrolyte levels in your body while also having a bit of a calming effect on your muscles, as anyone who is familiar with what an "epsom salt bath" is will tell you.
 
-{{< figresize src="/img/2021/07/namedsport.jpeg" alt="Professional bike riders looking at a NamedSport booth at a major event" width=50% title="You see their stuff all over the pro circuit these days" >}}
+{{< img namedsport >}}
 
 ## Glutamine
 Glutamine is an amino acid, and deserves its own call out from the point mentioned previously. It's apparently one of the most abundant ones in your body, but because it's transported around via your blood stream, it can have two noticeable effects more specific to cyclists:
@@ -214,10 +309,10 @@ We didn't really talk about these above, but I'll mention them here for perhaps 
 * {{< amzn asin="B00EIO4I7A" text="Beta Alanine" >}} - a large bag, only need a tiny bit, helps buffer the acid from your cells prior to working out
 * Good old fashioned SLEEP - pros will regularly sleep 9-10 hours a night to properly recover from long days in the saddle!
 
-{{< figresize src="/img/2021/07/sleep.gif" alt="kitten falling asleep on bed" width=50% title="Zzzzz..." >}}
+{{< img sleep >}}
 
 And that's it!
 
 Do _you_ have any recommendations for recovery after a long ride? Perhaps a beer? Let me know!
 
-{{< figresize src="/img/2021/07/homersimpson.jpg" alt="Homer Simpson logo with one of his famous quotes about alcohol" width=35% title="The Simpsons have so many quotable lines!" >}}
+{{< img homersimpson >}}
