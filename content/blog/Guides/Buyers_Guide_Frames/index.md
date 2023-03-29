@@ -3,17 +3,56 @@ title: "Road Bike Buyer's Guide: Frames"
 date: 2020-10-06T19:49:10-07:00
 summary: "Let's take this one step at a time, starting with the frame."
 description: "A beginner's guide to understanding how to buy the main component of your road bike."
-image: "/img/2020/10/huddart_park.jpg"
-imagealt: "A beginner's guide to understanding how to buy the main component of your road bike. Image contains: Factor O2 VAM, Specialized Roubaix, trees, filtered light, road, bicycle riders, bicycle helmet."
+image: "huddart_park"
 categories: ["Cycling Guides"]
 tags: ["New Rider Tips", "Purchasing a Bike"]
 keywords: ["How to buy your first road bike", "what bike should I buy", "what kind of bikes are there"]
 draft: false
+resources:
+- src: '*/huddart_park.jpeg'
+  name: "huddart_park"
+  title: ""
+  params:
+    alt: "A beginner's guide to understanding how to buy the main component of your road bike. Image contains: Factor O2 VAM, Specialized Roubaix, trees, filtered light, road, bicycle riders, bicycle helmet."
+- src: '*/innerchild.jpg'
+  name: "innerchild"
+  title: "I love this comic, credit to www.yehudamoon.com"
+  params:
+    alt: "Comic from www.yehudamoon.com of a man riding a bicycle, channeling his inner child"
+    width: 50
+    exclude_gps: true
+- src: '*/wilier_frames.jpg'
+  name: "wilier_frames"
+  title: "A few Wilier race frames hanging up in a local shop in Orange County from a few years ago"
+  params:
+    alt: "Wilier Zero7 Race Bicycle Frames"
+    width: 50
+- src: '*/ogtcr.jpg'
+  name: "ogtcr"
+  title: "The OG Giant TCR"
+  params:
+    alt: "Mid 1990's Giant Total Compact Road or TCR frame bike"
+    exclude_gps: true
+- src: '*/specialized_centurion.jpg'
+  name: "specialized_centurion"
+  title: "A Specialized Centurion bike that my girlfriend's father has, a wonderful take on how bikes typically were a bit more boxy than they are today"
+  params:
+    alt: "Specialized Centurion Bicycle"
+- src: '*/trek_speed_tt.jpg'
+  name: "trek_speed_tt"
+  title: "These are truly fast, look badass, but can be tough to handle and are very purpose driven bicycles"
+  params:
+    alt: "Trek Speed Concept 9.9 Time Trial bike"
+- src: '*/kestrel.jpg'
+  name: "kestrel"
+  title: "An old picture I found while wandering a Performance Bicycle shop in Huntington Beach, CA"
+  params:
+    alt: "Kestrel Bicycle on Sale"
 ---
 # Just like riding a bike
 There really is something freeing about riding a bike. That feeling as a kid, waking up the morning of your birthday, or perhaps getting up before your parents on Christmas morning, finding that new bike waiting for you. As a child, this represented freedom. Your ability to take off and go somewhere, to do whatever you wanted.
 
-{{< figresize src="/img/2020/10/innerchild.jpg" alt="Comic from www.yehudamoon.com of a man riding a bicycle, channeling his inner child" width=50% title="I love this comic, credit to www.yehudamoon.com">}}
+{{< img innerchild >}}
 
 I know I felt this way, except that unfortunately for me, I grew up on a steep hill. So my feeling of freedom was more found during my teenage years when I got my first car. But I did have a few bikes as child, regardless, so that feeling is still there for me. It just lay dormant for some time until I discovered it again in my later twenties.
 
@@ -33,7 +72,7 @@ Maybe it's a way to get out of the house during pandemic times. Maybe it's a way
 # First up, the Frame
 This is, believe it or not, a bit of a hotly debated topic these days. Traditionally, road bikes were just...road bikes. They were pretty boxy, dimension wise, and were typically classified by the number of gears it had. Or perhaps by the brand. 
 
-![Specialized Centurion Bicycle](/img/2020/10/specialized_centurion.jpg "A Specialized Centurion bike that my girlfriend's father has, a wonderful take on how bikes typically were a bit more boxy than they are today")
+{{< img specialized_centurion >}}
 
 These days, there are actually several "types" of road bike frames, each of which will do some things better than others and some things not as well as the others. 
 
@@ -50,7 +89,7 @@ These are the thoroughbreds of the sport. When compared to other road bike frame
 * Skinnier tires (although that is changing), less clearance, more focus on aerodynamics in some cases
 * Typically the most expensive in the line up
 
-{{< figresize src="/img/2020/10/wilier_frames.jpg" alt="Wilier Zero7 Race Bicycle Frames" width=50% title="A few Wilier race frames hanging up in a local shop in Orange County from a few years ago" >}}
+{{< img wilier_frames >}}
 
 I'm a sucker for this stuff, to be open and honest about it. I love the feeling of speed, the wind whooshing through my deep profile, carbon wheels, the literal lurch forward of my entire body when really pressing down hard on the pedals and letting those bars pull against me. These bikes even get subdivided further, believe it or not, into frames that are marketed more towards more climbing or aerodynamics focused.
 
@@ -59,7 +98,7 @@ But technology is as technology is, and a lot of the tech that you find in these
 ### A side point about these frames
 Years ago, it was significantly more common for race bikes to look the way we have traditionally looked at bikes that the professionals rode. That meant a straight and nearly level top tube, which is the tube that people will often pick a bike up by. However, in the mid-1990's, Giant came out with a bike called the TCR, meaning "Total Compact Road", and it changed the name of the game.
 
-![Mid 1990's Giant Total Compact Road or TCR frame bike](/img/2020/10/ogtcr.jpg "The OG Giant TCR")
+{{< img ogtcr >}}
 
 The intention behind this radical departure of the frame was its "slack" top tube, meaning that it sloped down at a high angle, more like a mountain bike frame does. What this allowed for was the focus for customization of parts to be on the parts like the handlebars, the stem, the seatpost instead of the frames themselves, which are significantly more complicated and expensive to make in multiple sizes. It's why Giant still sells these frames today and why many manufacturers will sell frames by "small", "medium", or "large" sizes.
 
@@ -95,7 +134,7 @@ I currently have a [Niner RLT9]({{< ref "/blog/Introspective/N_Plus_One_Rule/ind
 ## Time Trial Bikes
 These bikes are basically so different here that it's kind of hard to truly classify them even as a "road bike". They're the one you'll typically see triathletes buying (and subsequently selling), as they are extremely purpose driven. You can tell one of these frames by an extremely aggressive seating position (really far reach to those bars, seating on the very front of the saddle, etc), very chunky frames when viewed from the side while retaining a small front cross section, and typically a set of "tri" bars that allow a rider to grip two parallel-with-the-road bars to get into the most aerodynamic position possible.
 
-![Trek Speed Concept 9.9 Time Trial bike](/img/2020/10/trek_speed_tt.jpg "These are truly fast, look badass, but can be tough to handle and are very purpose driven bicycles")
+{{< img trek_speed_tt >}}
 
 Much like the cyclecross frames above, if you're reading this and are not already familiar with this kind of bike, I would also suggest sticking to those other frames instead. These kinds of bikes are typically for those very interested in short, fast, and typically uncomfortable riding at (often) the expense of handling for a very specific kind of event. I would actually go as far as saying that if you're a newbie here and really want to get into triathlons, I'd still recommend a more traditional kind of road bike frame over one of these.
 
@@ -107,7 +146,7 @@ You can always upgrade the components. You can't easily just upgrade the frame.
 ## Saving some money
 Just like buying a car, bikes have model years. A lot of the bikes for major brands are released during the earlier summer months, in preparation for various trade shows and major bike racing events like the Tour de France, where the new tech are all announced and showcased. Going in to a shop and buying last year's model can save you a ton of money if you're flexible with what specific components and frame you want.
 
-![Kestrel Bicycle on Sale](/img/2020/10/kestrel.jpg "An old picture I found while wandering a Performance Bicycle shop in Huntington Beach, CA")
+{{< img kestrel >}}
 
 If you look at the above photo, the price for the bike above was originally about $6500, but because it was last year's model at the time, it was on sale for $5000.
 

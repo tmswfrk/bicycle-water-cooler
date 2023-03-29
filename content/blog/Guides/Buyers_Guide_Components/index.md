@@ -3,12 +3,64 @@ title: "Road Bike Buyer's Guide: Components"
 date: 2020-10-07T21:21:39-07:00
 summary: "Next, let's consider your components."
 description: "Beyond just picking a frame for a new bicycle purchase, it's important to consider what kind of components you will want to have."
-image: "/img/2020/10/drivetrain.jpg"
-imagealt: "Beyond just picking a frame for a new bicycle purchase, it's important to consider what kind of components you will want to have. Image contains: Factor O2 VAM, BBInfinite red jockey rear derailleur wheels, Pioneer Power Meter, Shimano Dura Ace grouposet, Arundel bottle cages, Feedback Sports bike stand."
+image: "drivetrain"
 categories: ["Cycling Guides"]
 tags: ["New Rider Tips", "Purchasing a Bike"]
 keywords: ["How to buy your first road bike", "What components do I need on a bike", "Shimano or SRAM", "What kind of gearing do I need"]
 draft: false
+resources:
+- src: '*/drivetrain.jpeg'
+  name: "drivetrain"
+  title: ""
+  params:
+    alt: "Beyond just picking a frame for a new bicycle purchase, it's important to consider what kind of components you will want to have. Image contains: Factor O2 VAM, BBInfinite red jockey rear derailleur wheels, Pioneer Power Meter, Shimano Dura Ace grouposet, Arundel bottle cages, Feedback Sports bike stand."
+- src: '*/numbers.gif'
+  name: "numbers"
+  title: "Maybe this all feels like this now, but keep reading, this is fun!"
+  params:
+    alt: "Man seeing numbers in head as if Rainman during movie The Hangover"
+    width: 50
+- src: '*/sram_axs.jpg'
+  name: "sram"
+  title: "From DCRainmaker's site, you can tell it's AXS by the silver and black on the crank and the flat topped chain"
+  params:
+    alt: "SRAM Red eTap AXS Crankset and Groupset"
+    width: 50
+- src: '*/parts.jpg'
+  name: "parts"
+  title: "The day I dropped all this off to the bike shop to build up my Factor was a wonderful day"
+  params:
+    alt: "Shimano Dura Ace parts in original boxes, ready for building up into a new bike"
+    exclude_gps: true
+- src: '*/campy.jpg'
+  name: "campy"
+  title: "I'm a huge fan of the design and function of Campagnolo, but they aren't nearly as common in the US"
+  params:
+    alt: "Campagnolo Thumb Shifters"
+    width: 50
+    exclude_gps: true
+- src: '*/di2-diagram.png'
+  name: "diagram"
+  title: "Found off the Colorado Cyclist's website"
+  params:
+    alt: "Shimano Di2 cable wiring diagram"
+- src: '*/disc_rim_compare.jpg'
+  name: "disc_rim_compare"
+  title: "You'll see here that there are specific attachment points to the frame that are unique to each, and the geometry ends up being very differently. Image is from Chain Reaction Bicycles."
+  params:
+    alt: "Rim brake mounted on a bicycle compared to a disc brake mounted on a similar bicycle"
+    exclude_gps: true
+- src: '*/fuji_at_store.jpg'
+  name: "fuji_at_store"
+  title: "If you look closely, most of the parts on my first bike were by Oval, when I remember being sold on it having Ultegra - which it did, but really only for the rear derailleur."
+  params:
+    alt: "Fuji Altamira bicycle at Performance Bicycle shop just after purchasing"
+- src: '*/cassette.png'
+  name: "cassette"
+  title: "This is labeled as an 11-28t cassette, meaning the smallest cog has 11 teeth while the largest one has 28. The 11 will be for speed, the 28 will be for climbing."
+  params:
+    alt: "Numbers tagged around the number of teeth on an 11-28 bicycle rear cassette"
+    width: 50
 ---
 # The Components
 Components are the bread and butter of your bike. They are what keep you moving and what translates your pedaling into forward movement. While maybe not as important as which frame you should purchase for your first road bike, it's important to consider them similarly, as well as what cost-conscious decisions can or should be made, depending on your budget.
@@ -32,14 +84,14 @@ Bikes are actually quite simple, generally speaking. Even though the newer techn
 
 Please note that the links above may or may not all line up with your custom build if you're going this route, so please feel free to [contact me]({{< ref "/contact.md" >}}) if you'd like more information!
 
-![Shimano Dura Ace parts in original boxes, ready for building up into a new bike](/img/2020/10/parts.jpg "The day I dropped all this off to the bike shop to build up my Factor was a wonderful day")
+{{< img parts >}}
 
 If you're looking for your first road bike, all of these will simply be included on the bike you choose from your local bike shop. Together, the mechanical parts of the above (everything below the pedals), they're referred to as a "groupset" or even sometimes a "gruppo" if you're using the local jargon.
 
 ## The major brands
 In the road biking world, there are three major brands when it comes to components: [Shimano](https://bike.shimano.com/en-US/home.html), [SRAM](https://www.sram.com/en/sram), and [Campagnolo](https://www.campagnolo.com/US/en). Each have their own levels as far as perceived quality, named with each of their own product lines.
 
-{{< figresize src="/img/2020/10/numbers.gif" alt="Man seeing numbers in head as if Rainman during movie The Hangover" width="50%" title="Maybe this all feels like this now, but keep reading, this is fun!" >}}
+{{< img numbers >}}
 
 I say "perceived" because as a novice rider, you'll likely not notice very much difference between one product line or even brand to another. However, once you become more familiar with a particular brand or product line, you'll begin to start noticing the differences in more pronounced ways.
 
@@ -55,7 +107,7 @@ Shimano is the most ubiquitous brand out there, and, full disclosure, pretty muc
 
 Things get a bit more complicated when you consider their Di2 lines, which introduce electronically-actuated shifting. This is not to be confused with e-Bikes. Perhaps not considered or even known about by those new to the sport, the Di2 system is incredibly well liked within Shimano's product line, as they _just work_. Instead of running cables under tension to provide shifting, electronic cables are run instead, relying on a single cylindrical battery that's placed into the frame somewhere that only needs to be charged every month or so. Those cables send a signal to the derailleurs to shift when needed, and they do so quite well.
 
-![Shimano Di2 cable wiring diagram](/img/2020/10/di2-diagram.png "Found off the Colorado Cyclist's website")
+{{< img diagram >}}
 
 If you're looking for a new bike that has already been built up and are fortunate to be in a higher price bracket in your search, you'll often come across choices like going with "mechanical Dura Ace" versus "Di2 Ultegra" because they're similarly priced. It's almost always better to go with the Di2 option if you can. Some parts are the same between their mechanical forms and their electronic shifting forms, so you have some options to upgrade things later, of course, but at a typically higher overall cost when factoring in the original cost as well. It's up to you, though, this is your bike!
 
@@ -68,12 +120,12 @@ It was weird at first for me when I rode a bike with this arrangement, but I act
 
 SRAM's recent large claim to fame was being the first road set up to not only introduce completely wireless shifting with their eTap system (not even cables are run in the frame), but also the first 12 gear (cassette) arrangement, called AXS (pronounced "axis"). This also was unique because the ratios used (i.e., number of teeth on both the front crankset and the rear cogs) departed from what has been considered pretty normal for the last several years.
 
-{{< figresize src="/img/2020/10/sram_axs.jpg" alt="SRAM Red eTap AXS Crankset and Groupset" width=50% title="From DCRainmaker's site, you can tell it's AXS by the silver and black on the crank and the flat topped chain" >}}
+{{< img sram >}}
 
 ### Campagnolo
 Campagnolo is a very traditional, Italian brand. What makes them unique beyond simply their incredible heritage, is the different way that you shift in a "Campy" system. It has a thumb shifter that may be foreign to people (like myself) who are more familiar with Shimano or SRAM.
 
-{{< figresize src="/img/2020/10/campy.jpg" alt="Campagnolo Thumb Shifters" width=50% title="I'm a huge fan of the design and function of Campagnolo, but they aren't nearly as common in the US" >}}
+{{< img campy >}}
 
 It's very interesting stuff, and people who are fans of Campy will often swear by them and be very die-hard fans. They especially like the idea that shifting has a very satisfying "clunk" to it and you can dump up to about 3 gears in a single action. I personally struggled with it a bit, as my hands are a bit on the smaller side, so reaching up to that thumb shifter from the drops can be a bit of a stretch.
 
@@ -84,7 +136,7 @@ Again, not going to get into the debate that exists between rim braking and disc
 
 "Rim" brakes use calipers that stretch around both sides of the wheels and they literally grip the rim of your wheel to slow you down. "Disc" brakes have a concentrically placed disc rotor (attached to the center / hub of your wheel) that a small caliper grabs instead of the rim to slow you down. Since the rotor is attached to the center hub of your wheel, it slows down the bike very efficiently and there is less concern about heat build up on long descents.
 
-![Rim brake mounted on a bicycle compared to a disc brake mounted on a similar bicycle](/img/2020/10/disc_rim_compare.jpg "You'll see here that there are specific attachment points to the frame that are unique to each, and the geometry ends up being very differently. Image is from Chain Reaction Bicycles.")
+{{< img disc_rim_compare >}}
 
 I mention it here because if you're considering building up a bike with parts, there are actually two lines of disc brakes - one uses mechanical wires / cables that pull the caliper pads around the disc rotor, while the other actually uses hydraulic fluid in tubing to accomplish the same task. Hydraulic is definitely easier to pull, and is quite noticeable, even while wandering the aisles of your local bike shop.
 
@@ -96,7 +148,7 @@ This is due to bike parts manufacturers applying a "trickle down" principle to n
 ## Number of gears
 This gets people caught up a bit, too, as this was how things used to be classified when it came to buying a new bike. These days, while important, the number of gears is less important to the gear ratios you have between your gears.
 
-{{< figresize src="/img/2020/10/cassette.png" alt="Numbers tagged around the number of teeth on an 11-28 bicycle rear cassette" width=50% title="This is labeled as an 11-28t cassette, meaning the smallest cog has 11 teeth while the largest one has 28. The 11 will be for speed, the 28 will be for climbing." >}}
+{{< img cassette >}}
 
 Basically, the more teeth you see available on a cassette, the more chain length you have to use per rotation of your wheel, which roughly translates into "more spinning, less speed, easier to climb". So, how many teeth are available on both the rear cassette gears and the front crankset (in total) will influence how you ride a lot more than the number of gears you have.
 
@@ -117,7 +169,7 @@ Getting back to the bike purchase, I've found that bikes are often sold to you a
 
 In fact, that's what happened to me when I got my first road bike - I was sold on it having Ultegra, but I had a few random parts on there like an Oval branded crankset. Did it work just fine? It sure did, but if you're a bit of a perfectionist or maybe a little OCD, it may eventually bother you and make you want to upgrade the mis-matched parts.
 
-![Fuji Altamira bicycle at Performance Bicycle shop just after purchasing](/img/2020/10/fuji_at_store.jpg "If you look closely, most of the parts on my first bike were by Oval, when I remember being sold on it having Ultegra - which it did, but really only for the rear derailleur.")
+{{< img fuji_at_store >}}
 
 It's best to look over the details of the bike you're considering pretty carefully to make sure you know what is put on the bike as it is being sold to you. This can not only apply to the brands and product lines, but also to things like the specific gearing that may not be a good fit for you.
 

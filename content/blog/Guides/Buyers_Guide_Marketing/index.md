@@ -51,16 +51,6 @@ resources:
   title: "Definitely a fantastic route to test this amazing bike out on"
   params:
     alt: "BMC TeamMachine bicycle parked out near Alice's Restaurant in Woodside, CA"
-- src: ''
-  name: ""
-  title: ""
-  params:
-    alt: ""
-- src: ''
-  name: ""
-  title: ""
-  params:
-    alt: ""
 
 ---
 # How brands will sell you these bikes
