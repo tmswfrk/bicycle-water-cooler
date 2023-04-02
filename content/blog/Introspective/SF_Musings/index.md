@@ -3,12 +3,33 @@ title: "Biking is Good for the Soul"
 date: 2021-04-02T17:36:01-07:00
 summary: "Life often gets complicated. Biking can often simplify it."
 description: "A few thoughts on how we each can ride our bikes to more simplify our lives."
-image: "/img/2021/04/flowers_ggb.jpg"
-imagealt: "Simplifying your life by riding your bike is easy. Image contains: flowers, Golden Gate Bridge."
+image: flowers_ggb
 categories: ["Psychological / Philosophy"]
 tags: ["Musings"]
 keywords: ["Simplify your life", "Being present", "Biking in San Francisco"]
 draft: false
+resources:
+- src: '*/flowers_ggb.jpeg'
+  name: "flowers_ggb"
+  title: ""
+  params:
+    alt: "Simplifying your life by riding your bike is easy. Image contains: flowers, Golden Gate Bridge."
+- src: '*/pun.gif'
+  name: "pun"
+  title: "So punny!"
+  params:
+    alt: "A funny man saying it was a pun, as if it weren't obvious"
+    width: 50
+- src: '*/bike_museum.jpg'
+  name: "bike_museum"
+  title: "Portrait mode ftw!"
+  params:
+    alt: "Factor O2 VAM bike leaning against a wall in front of a reflecting pool in front of the Legion of Honor in San Francisco, California"
+- src: '*/acai_bowl.jpg'
+  name: "acai_bowl"
+  title: "I'm a huge fan of Acai bowls!"
+  params:
+    alt: "Acai bowl from Indie Superette in the Marina district of San Francisco."
 ---
 This past week has been kind of rough for me. I think the "long" winter that we've had this year, while incredibly mild to many of you I'm sure, has taken its toll on this Southern California kid. Riding has become a bit tough for me to get passionate about, and work has become a bit difficult to stay focused with.
 
@@ -28,13 +49,13 @@ Shocker, right? I took last Friday to myself. It was a normal work day, but with
 
 The wind going up the peninsula during this time of day is basically head-on, a 0 degree yaw, and really makes for a lot more difficult riding than normal, especially by the airport where the tailwind really helps you fly.
 
-{{< figresize src="/img/2021/04/pun.gif" alt="A funny man saying it was a pun, as if it weren't obvious" width=50% title="So punny!" >}}
+{{< img pun >}}
 
 But it was wonderful.
 
 I didn't focus too much on what I wasn't doing.
 
-{{< figresize src="/img/2021/04/bike_museum.jpg" alt="Factor O2 VAM bike leaning against a wall in front of a reflecting pool in front of the Legion of Honor in San Francisco, California" width=100% title="Portrait mode ftw!" >}}
+{{< img bike_museum >}}
 
 I was busy disconnecting.
 
@@ -44,7 +65,7 @@ I was happy that my disc brakes weren't squealing like they have been recently.
 
 I even enjoyed some nice snacks throughout my venture into the city.
 
-{{< figresize src="/img/2021/04/acai_bowl.jpg" alt="Acai bowl from Indie Superette in the Marina district of San Francisco." width=100% title="I'm a huge fan of Acai bowls!" >}}
+{{< img acai_bowl >}}
 
 # Find your Reset
 Whatever it is for you. Biking is a great way to do it, and is something that you likely share an affinity for, since you're already here, reading this blog.

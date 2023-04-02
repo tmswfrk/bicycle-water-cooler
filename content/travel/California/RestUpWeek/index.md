@@ -3,12 +3,118 @@ title: "Reflecting Back on my Solo Central Coast Ride Camp"
 date: 2021-04-16T16:53:29-07:00
 summary: "A solo ride camp of my own making was just what I needed."
 description: "LinkedIn's RestUp Week gave me the opportunity to create my own cycling camp in Cambria, Paso Robles, and Carmel."
-image: "/img/2021/04/poppies_morro_rock.jpg"
-imagealt: "LinkedIn's RestUp Week gave me the opportunity to create my own cycling camp in Cambria, Paso Robles, and Carmel. Image contains: California poppies, beach, Morro Rock, grass, fencing, beautiful view."
+image: poppies_morro_rock
 categories: ["Epic Rides"]
-tags: ["Consecutive Days Riding", "Central Coast California", "17 Mile Drive"]
+tags: ["Central Coast California"]
 keywords: ["Bike to Big Sur", "Bike riding along highway 1", "Cambria cycling", "Gorda cycling", "Cayucos cycling loop", "Biking in Morro Bay", "Biking in Paso Robles", "Santa Rosa Creek", "Peachy Canyon", "Adelaida road climb", "Lime Mountain", "East Paso Robles", "Biking in Carmel", "Biking in Monterey", "17 Mile Drive biking", "Cycling camp", "solo bike riding", "Lone Cypress tree", "Ghost tree"]
 draft: false
+resources:
+- src: '*/poppies_morro_rock.jpeg'
+  name: "poppies_morro_rock"
+  title: ""
+  params:
+    alt: "LinkedIn's RestUp Week gave me the opportunity to create my own cycling camp in Cambria, Paso Robles, and Carmel. Image contains: California poppies, beach, Morro Rock, grass, fencing, beautiful view."
+- src: '*/shesbest.gif'
+  name: "shesbest"
+  title: "She really is!"
+  params:
+    alt: "Gif of girl saying she's the best"
+    width: 50
+- src: '*/sweepingroad.jpg'
+  name: "sweeping_road"
+  title: "I couldn't believe how few cars were out here that day!"
+  params:
+    alt: "View out over the ocean north of San Simeon, California, showing a straight road with beautiful undulating bumps leading up to Ragged Point"
+- src: '*/portal.jpg'
+  name: "portal"
+  title: "It was so cool to come here on my bike after having been here previously by car!"
+  params:
+    alt: "Factor O2 VAM bicycle leaning against the Portal to Big Sur statue in Ragged Point, California."
+    width: 75
+- src: '*/edgeworld.jpg'
+  name: "edgeworld"
+  title: "Pictures just can't do it justice"
+  params:
+    alt: "Highway 1 following the edge of the Santa Lucia mountain range between Ragged Point and Gorda, California"
+- src: '*/whalewatcherscafe.jpg'
+  name: "whalewatcherscafe"
+  title: "You pay for the view, that's for sure!"
+  params:
+    alt: "A coke drink at the bar facing the Pacific Ocean at the Whale Watcher's Cafe in Gorda, California"
+- src: '*/elephantseals.jpg'
+  name: "elephantseals"
+  title: "They're a rambunctious bunch!"
+  params:
+    alt: "Elephant Seals on Elephant Seal beach north of San Simeon, California."
+- src: '*/turkeys.jpg'
+  name: "turkeys"
+  title: "Gobble, gobble!"
+  params:
+    alt: "Male wild turkeys in the grass along Santa Rosa Creek Road in Cambria, California"
+    width: 75
+- src: '*/topofthewall.jpg'
+  name: "topofthewall"
+  title: "Even going down the other side is crazy steep!"
+  params:
+    alt: "The view out over what's called The Wall near Sky Ranch along Santa Rosa Creek Road"
+- src: '*/bikemorrorock.jpg'
+  name: "bikemorrorock"
+  title: "That rock looks like it shouldn't belong there. Fascinating area, though!"
+  params:
+    alt: "Factor O2 VAM bicycle leaning against a fence overlooking the beach north of Morro Rock in Morro Bay, California"
+- src: '*/cayucospier.jpg'
+  name: "cayucospier"
+  title: "Not much on it, but it's a well maintained pier you can eat your brown butter cookies on."
+  params:
+    alt: "Bicycle rider selfie on the Cayucos, California pier"
+    width: 75
+- src: '*/adelaida.jpg'
+  name: "adelaida"
+  title: "Will have to come back to this winery, it looked like a beautiful property."
+  params:
+    alt: "Factor O2 VAM bicycle resting on a stone wall at Adelaida Winery in Paso Robles, California"
+- src: '*/qualityroads.jpg'
+  name: "qualityroads"
+  title: "I just had to stop for this. It was too beautiful in that filtered light that day."
+  params:
+    alt: "A beautiful winding section of road perfect for cycling out near Adelaida winery in Paso Robles, California"
+- src: '*/limemountain.jpg'
+  name: "limemountain"
+  title: "I couldn't believe how remote it felt out there!"
+  params:
+    alt: "Factor O2 VAM bicycle leaning against a sign by Lime Mountain quarry, near Lake Nacimiento, California"
+- src: '*/peachy.jpg'
+  name: "peachy"
+  title: "It's fun diving in to a shaded patch of trees like this on the bike"
+  params:
+    alt: "Looking into shaded trees at the top of Peachy Canyon road in Paso Robles, California, a favorite descent for road cycling"
+- src: '*/casswineryhill.jpg'
+  name: "casswineryhill"
+  title: "The climb up here from Cass Winery snaked through a small, grassy canyon that was weirdly enjoyable."
+  params:
+    alt: "Viewpoint at the top of a hill behind Cass Winery in Paso Robles, California"
+- src: '*/ghosttree.jpg'
+  name: "ghosttree"
+  title: "I mean, I think this is the Ghost Tree"
+  params:
+    alt: "Image of the Ghost Tree in Pebble Beach, California along 17 Mile Drive, after cycling there"
+- src: '*/lonecypress.jpg'
+  name: "lonecypress"
+  title: "Golden hour that day seemed to last forever!"
+  params:
+    alt: "The Lone Cypress pine tree along 17 Mile Drive in Pebble Beach, California after cycling there"
+    width: 50
+- src: '*/montereymural.jpg'
+  name: "montereymural"
+  title: "There are a few nice artistic touches along this path, just follow the markings and signs."
+  params:
+    alt: "Factor O2 VAM and Cannondale Synapse bikes resting against a mural along the bike path in Monterey, California depicting men unloading crates from a railroad car"
+- src: '*/goldengrassandfog.jpg'
+  name: "goldengrassandfog"
+  title: "Taken along highway 1 just south of Bixby Bridge. Just perfect."
+  params:
+    alt: "Golden grasses along highway 1 near Big Sur, California, with fogged over mountains in the background, just south of Bixby Bridge."
+
 ---
 # "RestUp" Week, as coined by LinkedIn
 I love working for LinkedIn. In addition to many generous perks, the company decided to give the [entire company the first week off in April](https://abc7news.com/10475793/) of 2021. They had taken some surveys, saw that the workforce was feeling a bit burned out, and actually did something about it. It's amazing to see a company actually care this much about its workforce.
@@ -18,7 +124,7 @@ So while I had this great and amazing opportunity to have the week off to do som
 
 Throughout the week, I decided to make my home base in [Cambria](https://www.google.com/maps/place/Cambria,+CA/@35.5514769,-121.1232397,13z/data=!3m1!4b1!4m5!3m4!1s0x80ecd77a7b67481f:0xc4fd49cb873a8956!8m2!3d35.5641381!4d-121.0807468) for 3 days, then [Paso Robles](https://www.google.com/maps/place/Paso+Robles,+CA+93446/@35.6335346,-120.6884576,12z/data=!3m1!4b1!4m5!3m4!1s0x80ecdd8f16c5c4bd:0x469422f891ccd5ef!8m2!3d35.6368759!4d-120.6545022) for 2 more, and then finally [Carmel](https://www.google.com/maps/place/Carmel-By-The-Sea,+CA+93923/@36.5526466,-121.9310997,15z/data=!3m1!4b1!4m5!3m4!1s0x808de615b717ec53:0xd2c22ba6ca51541c!8m2!3d36.5552386!4d-121.9232879) for another two. Even better, my girlfriend was able to come down and meet me Carmel for the following weekend! How awesome!
 
-{{< figresize src="/img/2021/04/shesbest.gif" alt="Gif of girl saying she's the best" width=50% title="She really is!" >}}
+{{< img shesbest >}}
 
 # A note about my Ride Planning
 Definitely want to give a shout out to a few resources on the web I used to figure out where to ride!
@@ -41,29 +147,29 @@ I rode 35 miles up, fighting headwind, and 35 miles back, enjoying a crazy tailw
 ## An epic ride, indeed
 Especially when there is no real traffic through here, this ride is pretty quintessential.
 
-{{< figresize src="/img/2021/04/sweepingroad.jpg" alt="View out over the ocean north of San Simeon, California, showing a straight road with beautiful undulating bumps leading up to Ragged Point" width=100% title="I couldn't believe how few cars were out here that day!" >}}
+{{< img sweeping_road >}}
 
 Longer, gradual climbs that are welcomed after battling the wind for a few miles, and beautiful cypress pines line the road as you get closer towards [Ragged Point](https://www.google.com/maps/place/Ragged+Point,+CA+93452/@35.7814186,-121.3388671,15z/data=!3m1!4b1!4m5!3m4!1s0x8092cbc8d3bde30f:0x64768874c54967d4!8m2!3d35.7814021!4d-121.3300909). Luckily the traffic slows once you reach Ragged Point, and there are public restrooms, an inn, and a diner / coffee shop there, too.
 
-{{< figresize src="/img/2021/04/portal.jpg" alt="Factor O2 VAM bicycle leaning against the Portal to Big Sur statue in Ragged Point, California." width=75% title="It was so cool to come here on my bike after having been here previously by car!" >}}
+{{< img portal >}}
 
 Beyond Ragged Point is where the really interesting part begins. The road has largely two major hills, each with their own respective downhills, the second of which even goes nearly to the ocean itself. The road winds around the edge of the mountains, giving you the feeling that you are seriously riding your bike at the end of the world.
 
 I can't exactly describe it any differently than that.
 
-{{< figresize src="/img/2021/04/edgeworld.jpg" alt="Highway 1 following the edge of the Santa Lucia mountain range between Ragged Point and Gorda, California" width=100% title="Pictures just can't do it justice" >}}
+{{< img edgeworld >}}
 
 Remember that when you are out there, you have basically zero cell reception. And not really any services, either. So be prepared to handle your own issues, or perhaps to flag down a passer-by if help is needed. Luckily, the total distance between San Simeon, Ragged Point, and Gorda are all pretty manageable distances if you're a regular rider. Keep all that in mind, as these kinds of thoughts can sometimes get into your head and bring in some unneeded anxiety.
 
 ## The turnaround point
 The [Whale Watcher's Cafe](https://www.seemonterey.com/listings/whale-watcher-cafe/244/) restaurant is a nice turnaround spot, as it has snacks and food. All of it is quite expensive (I spent $22 on fish and chips), but it's very remote and has an incredible view, so it kind of makes sense. If that doesn't suit your fancy, there's a small convenience store just next to it.
 
-{{< figresize src="/img/2021/04/whalewatcherscafe.jpg" alt="A coke drink at the bar facing the Pacific Ocean at the Whale Watcher's Cafe in Gorda, California" width=100% title="You pay for the view, that's for sure!" >}}
+{{< img whalewatcherscafe >}}
 
 ## A true bucket list ride
 If you ever get a chance to do this ride when the road is mostly closed off to cars, _absolutely do it_. Don't even consider anything otherwise. Go further if you can!
 
-{{< figresize src="/img/2021/04/elephantseals.jpg" alt="Elephant Seals on Elephant Seal beach north of San Simeon, California." width=100% title="They're a rambunctious bunch!" >}}
+{{< img elephantseals >}}
 
 And say hello to the kind man at the [Ragged Point Restaurant](https://www.raggedpointinn.com/restaurant.php) coffee bar who gave me a free drink because "I deserved it" for biking out that far. Cheers to you, good sir!
 
@@ -77,11 +183,11 @@ A few months back, I saw this ride mentioned in a few places within a fairly sho
 ## Watch out for "The Wall"
 Stop in at [Cambria Coffee Roasting Company](https://www.cambriacoffeesales.com/) then head out past [Stolo Winery](https://www.stolofamilyvineyards.com/) (come back for a tasting!) and [Linne's Farm Store](https://visitcambriaca.com/itinerary-element/linns-farm-store/), then enjoy some beautiful, quiet, rollers following the Santa Rosa Creek. It's fantastic out there, and you'll very likely see more turkeys than people!
 
-{{< figresize src="/img/2021/04/turkeys.jpg" alt="Male wild turkeys in the grass along Santa Rosa Creek Road in Cambria, California" width=75% title="Gobble, gobble!" >}}
+{{< img turkeys >}}
 
 I've done a lot of riding in areas where people tell me to watch out for what they each call "The Wall". I'm usually not impressed. It may sound a bit pretentious of me, but it's true. This, however, was indeed worthy of its warning. The [Strava segment](https://www.strava.com/segments/651281) shows the road averaging over 10% for a little more than a mile and a half, with pitches that are well into 20%!
 
-{{< figresize src="/img/2021/04/topofthewall.jpg" alt="The view out over what's called The Wall near Sky Ranch along Santa Rosa Creek Road" width=100% title="Even going down the other side is crazy steep!" >}}
+{{< img topofthewall >}}
 
 ## Rolling Hills all the way to Cayucos
 The rest of the ride is significantly less steep, luckily, and the road turns into Old Creek Road. Watch out for the backside of The Wall, too, especially if you have carbon rim brakes.
@@ -91,14 +197,14 @@ Once you get close to [Whale Rock Reservoir](https://www.google.com/maps/place/W
 ## Morro Bay Out and Back
 I wanted to check out Morro Bay again, as it had been a long time since I had last been there, and stopped in at [Top Dog Coffee Bar](https://topdogcoffeebar.com/) after winding my way past [Morro Rock](https://www.google.com/maps/place/Morro+Rock/@35.3694353,-120.8764561,15z/data=!3m1!4b1!4m5!3m4!1s0x80ece1be0e7ca91d:0x86290a912149b941!8m2!3d35.3694186!4d-120.8676799). 
 
-{{< figresize src="/img/2021/04/bikemorrorock.jpg" alt="Factor O2 VAM bicycle leaning against a fence overlooking the beach north of Morro Rock in Morro Bay, California" width=100% title="That rock looks like it shouldn't belong there. Fascinating area, though!" >}}
+{{< img bikemorrorock >}}
 
 Unfortunately, there isn't a way through part of this where you _don't_ take the main Cabrillo Highway, but luckily the shoulder is pretty wide and the visibility is good. You're also not on it too long, either.
 
 ## Cayucos, Wind, and Eventually Cambria
 After meandering through Morro Bay's suburbs a bit more, I chatted with a couple on beach cruisers who were also making their way back north. I even saw them later when I stopped in at the original location for the [Brown Butter Cookie Company](https://brownbuttercookies.com/). It's a quiet beach town, and is worth a few minutes' stop. There are restrooms by the pier, and it's another pier along the California coastline that I can now say I've been to!
 
-{{< figresize src="/img/2021/04/cayucospier.jpg" alt="Bicycle rider selfie on the Cayucos, California pier" width=75% title="Not much on it, but it's a well maintained pier you can eat your brown butter cookies on." >}}
+{{< img cayucospier >}}
 
 Be prepared for the journey going back to Cambria, though. While it's beautiful and coastal, if you're going north through here at any time in the afternoon, get ready for some serious wind. There's a lot of gradual up and down, nothing too difficult on its own (especially as you near [Harmony](https://www.google.com/maps/place/Harmony,+CA+93428/@35.5086002,-121.0314641,15z/data=!3m1!4b1!4m5!3m4!1s0x80ed25ae0573cebf:0xcf9a1ccb370b5e7!8m2!3d35.5085836!4d-121.0226879)), but the wind really can sap the energy out of you. Just be patient, shift down and spin away, and enjoy the view.
 
@@ -116,11 +222,11 @@ After a great breakfast sandwich at [AMSTRDM](https://www.amstrdmpaso.com/), it 
 ## Wineries, wineries, wineries!
 There are so many of them along this route! Most of the websites I was referencing recommended doing the loop starting up Adelaida and coming back down Peachy Canyon, both of which were highly regarded for their road quality. And they both did not disappoint!
 
-{{< figresize src="/img/2021/04/adelaida.jpg" alt="Factor O2 VAM bicycle resting on a stone wall at Adelaida Winery in Paso Robles, California" width=100% title="Will have to come back to this winery, it looked like a beautiful property." >}}
+{{< img adelaida >}}
 
 I was actually impressed by how good the roads were back there, and the levels of traffic out that direction were basically nil. Only a few trucks here and there on their way to places.
 
-{{< figresize src="/img/2021/04/qualityroads.jpg" alt="A beautiful winding section of road perfect for cycling out near Adelaida winery in Paso Robles, California" width=100% title="I just had to stop for this. It was too beautiful in that filtered light that day." >}}
+{{< img qualityroads >}}
 
 ## Chimney Rock Road and Lime Mountain
 I had previously been to the [Justin](https://www.justinwine.com/) tasting room and wanted to specifically go past it while on the bike. Definitely worthwhile! I actually got to talking to one of the women working there who seemed to be a bit of a rider herself.
@@ -131,7 +237,7 @@ I had previously been to the [Justin](https://www.justinwine.com/) tasting room 
 
 Turns out that the "end of the road" was actually the entrance of a quarry of some kind, known as Lime Mountain, about 10 miles west of Justin's tasting room. Luckily for me, I had previously found [a random PDF](https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/morrobayca/xLime_Mountain_143e7cf4-244d-4167-9632-cafca5b2af7f.pdf) file online that made reference to this, so I already had it loaded in my Karoo as part of my route.
 
-{{< figresize src="/img/2021/04/limemountain.jpg" alt="Factor O2 VAM bicycle leaning against a sign by Lime Mountain quarry, near Lake Nacimiento, California" width=100% title="I couldn't believe how remote it felt out there!" >}}
+{{< img limemountain >}}
 
 While the section out from the Justin tasting room was an out-and-back (something I don't typically like to do), it was really fun getting out there. No one but a few trucks. I got to go over one of the legs of Lake Nacimiento, and even saw literal bounding deer along the road. It was quite the experience.
 
@@ -140,14 +246,14 @@ If you follow my route, just be aware of what Klau Mine Road is like. It's defin
 ## Peachy Canyon
 After making my way down through Vineyard road, where there are a ton of more ritzy wineries, I made the turn off on to Peachy Canyon road, one of the stars of the region. Smooth tarmac, few cars, and banked turns. I think I had been spoiled from some of the previous riding I had done, though, because it was basically a bit more of the same, except a bit more engaging. There was some more uphill on the "downhill" portion than I had expected though.
 
-{{< figresize src="/img/2021/04/peachy.jpg" alt="Looking into shaded trees at the top of Peachy Canyon road in Paso Robles, California, a favorite descent for road cycling" width=100% title="It's fun diving in to a shaded patch of trees like this on the bike" >}}
+{{< img peachy >}}
 
 ## East side of Paso
 When I got back in to town, I found myself a bit low on water and a bit hungry. I actually debated whether I should go back to the hotel earlier than planned. I got some food and water, perked back up a bit, and proceeded to do another 20 mile loop around the east side of town.
 
 And I'm so glad I did. I think this was my favorite part of my ride!
 
-{{< figresize src="/img/2021/04/casswineryhill.jpg" alt="Viewpoint at the top of a hill behind Cass Winery in Paso Robles, California" width=100% title="The climb up here from Cass Winery snaked through a small, grassy canyon that was weirdly enjoyable." >}}
+{{< img casswineryhill >}}
 
 The roads were glassy smooth, the wind was in my favor, and I got to experience open fields of grapevines and horse ranches, sometimes as far as my eyes could see. On both sides of the road at times, even! Union Road in particular was quite a sight to behold that day.
 
@@ -160,11 +266,11 @@ My girlfriend and I have been wanting to do 17 Mile Drive in Carmel for a long w
 
 This was a perfect way to cap off my week. I noticed some serious fatigue starting to set in, so taking my time around Pebble Beach to look at incredible views and houses was fantastic. We got to see the so-called Ghost Tree at [Pescadero Point](https://www.google.com/maps/place/Pescadero+Point/@36.5618404,-121.9564881,17z/data=!3m1!4b1!4m5!3m4!1s0x808de7a9474fe061:0xba446930449682bd!8m2!3d36.5618363!4d-121.9543761):
 
-{{< figresize src="/img/2021/04/ghosttree.jpg" alt="Image of the Ghost Tree in Pebble Beach, California along 17 Mile Drive, after cycling there" width=100% title="I mean, I think this is the Ghost Tree" >}}
+{{< img ghosttree >}}
 
 And the very famous [Lone Cypress Pine](https://www.google.com/maps/place/Lone+Cypress/@36.568744,-121.9675165,17z/data=!3m1!4b1!4m5!3m4!1s0x808de71fe19bad5f:0x9518b47cdc5a7455!8m2!3d36.5687397!4d-121.9653225):
 
-{{< figresize src="/img/2021/04/lonecypress.jpg" alt="The Lone Cypress pine tree along 17 Mile Drive in Pebble Beach, California after cycling there" width=50% title="Golden hour that day seemed to last forever!" >}}
+{{< img lonecypress >}}
 
 ## Weather
 We got incredibly lucky with the weather that day. We had originally planned to ride this two days later, but had we done so, the coast would have been a bit more fogged in. The pictures certainly wouldn't have been as good!
@@ -179,7 +285,7 @@ If you're not on your bike and plan to visit a restaurant out in the Pebble Beac
 ## Monterey, Skyline, and Ascending Back Up
 We made it a point to actually veer away from part of 17 Mile Drive just after [Seal Rock](https://www.google.com/maps/place/Seal+Rock+Creek+Beach/@36.5883865,-121.9657671,17z/data=!3m1!4b1!4m5!3m4!1s0x808de73bebcc8a25:0x41d43e1057bf7bff!8m2!3d36.5883865!4d-121.9635784!5m1!1e3) and ventured through [Asilomar Beach](https://www.google.com/maps/place/Asilomar+State+Beach/@36.6180088,-121.9441002,17z/data=!3m1!4b1!4m5!3m4!1s0x808de125fdd7c0f5:0xbd02e27eb1cc42b8!8m2!3d36.6180088!4d-121.9419115!5m1!1e3) and Pacific Grove. There's a nice bike path we connected up with near [Lover's Point](https://www.google.com/maps/place/Lovers+Point/@36.6266252,-121.9242652,15z/data=!3m1!4b1!4m5!3m4!1s0x808de145708f2d0d:0xbc006cf98e21c422!8m2!3d36.6266261!4d-121.9155104!5m1!1e3) that let us get through a lot of traffic that's typical of Monterey itself, especially by the aquarium and Cannery Row.
 
-{{< figresize src="/img/2021/04/montereymural.jpg" alt="Factor O2 VAM and Cannondale Synapse bikes resting against a mural along the bike path in Monterey, California depicting men unloading crates from a railroad car" width=100% title="There are a few nice artistic touches along this path, just follow the markings and signs." >}}
+{{< img montereymural >}}
 
 At some point, you can start heading back up towards the hills that separate Carmel from Monterey. They definitely get pitchy, and there's even a small section along Skyline Road that had pitches in the 10% range, but do yourself a favor and [find the turnoff that we took](https://www.google.com/maps/@36.5859134,-121.9174711,3a,75y,207.49h,86.93t/data=!3m6!1e1!3m4!1swk8OqIzz0yyvF-3ZPept9Q!2e0!7i16384!8i8192!5m1!1e3) to get down to Scenic Drive. It diverts you from taking a beautiful, but busy section of the 68 highway. The Google street view doesn't look like much, but it was paved, and was not a problem for a road bike.
 
@@ -197,4 +303,4 @@ Final stats for the week stack up to 228 miles over 4 separate rides. As an avid
 
 I've talked a long while about designing my own ride camp. And it seems that I've finally followed through on one!
 
-{{< figresize src="/img/2021/04/goldengrassandfog.jpg" alt="Golden grasses along highway 1 near Big Sur, California, with fogged over mountains in the background, just south of Bixby Bridge." width=100% title="Taken along highway 1 just south of Bixby Bridge. Just perfect." >}}
+{{< img goldengrassandfog >}}
