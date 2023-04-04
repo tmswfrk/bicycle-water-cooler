@@ -4,12 +4,72 @@ date: 2021-01-31T20:03:03-08:00
 summary: "Turns out the two have a lot more in common that you'd think."
 description: "Turns out that Nietzsche and cycling have a lot in common."
 # image: "/img/2021/01/thewall_tuc.jpg"
-image: "/img/2021/01/zwift_chalk.jpg"
-imagealt: "Turns out that Nietzsche and cycling have a lot in common. Image contains: an image from the Zwift Insider website, writing on the pavement, a virtual backdrop."
+image: zwift_chalk
 categories: ["Psychological / Philosophy"]
 tags: ["Nietzsche"]
 keywords: ["Ninety percent mental ten percent physical", "Personal blog post"]
 draft: false
+resources:
+- src: '*/zwift_chalk.jpeg'
+  name: "zwift_chalk"
+  title: ""
+  params:
+    alt: "Turns out that Nietzsche and cycling have a lot in common. Image contains: an image from the Zwift Insider website, writing on the pavement, a virtual backdrop."
+- src: '*/prepared.gif'
+  name: "prepared"
+  title: "Yeah. Sure."
+  params:
+    alt: "Celebrity gif unsure as to whether they are prepared"
+    width: 75
+- src: '*/nomemory.gif'
+  name: "nomemory"
+  title: "This gif seems to work in an awful lot of situations."
+  params:
+    alt: "Gandalf saying he has no memory of this place"
+    width: 75
+- src: '*/thewall_tuc.jpg'
+  name: "thewall_tuc"
+  title: "If you look closely, you can see cyclists paperboy-ing it to get up this intense climb"
+  params:
+    alt: "Cyclists climbing up the Wall during the Tour of the Unknown Coast bike ride in 2019"
+- src: '*/giants.jpeg'
+  name: "giants"
+  title: "A shot my girlfriend got while riding down the Avenue of the Giants!"
+  params:
+    alt: "Cyclist riding through the Avenue of the Giants near Ferndale, California"
+- src: '*/guillaume-martin_hero_tdf_2017.jpg'
+  name: "guillaume-martin_hero_tdf_2017"
+  title: "From Peloton Magazine's website"
+  params:
+    alt: "Guillaume Martin, professional cyclist, image from Peloton Magazine"
+    width: 75
+- src: '*/running.gif'
+  name: "running"
+  title: "Surprisingly, this gif takes me back pretty vividly"
+  params:
+    alt: "Children running along the grass towards some green trees"
+    width: 75
+- src: '*/coolbreeze.jpeg'
+  name: "cool_breeze_century"
+  title: "It doesn't look like much, but I can still remember just how it tasted."
+  params:
+    alt: "Sandwich consumed during the Cool Breeze Century in 2015"
+    width: 75
+- src: '*/me_girona.jpg'
+  name: "me_girona"
+  title: "One of the few sunny shots I have of me during that trip!"
+  params:
+    alt: "Cyclist riding through old town Girona, Spain"
+- src: '*/formentor.jpg'
+  name: "formentor"
+  title: "An amazing last day in Mallorca in 2017!"
+  params:
+    alt: "Cyclist climbing to the light at the top of Cap de Formentor in Mallorca, Spain"
+- src: '*/girona_group.jpg'
+  name: "girona_group"
+  title: "Definitely need to get back here soon!"
+  params:
+    alt: "Group of cyclists riding in the Spanish countryside, outside of Girona, Spain"
 ---
 # This one gets personal
 I think a lot about cycling, but I've been recently thinking a lot about the _mental_ aspect of cycling. I keep getting reminded of this quote:
@@ -27,13 +87,13 @@ One day, I eventually got the nerve to bring all my bike stuff up to LA with me.
 
 I planned out the ride, I got up early (no easy feat for me, I'll add), and even drove my things over closer towards the parking lot that I previously had started from in the past. I remember being groggy, tired, and seriously asked myself many times on the way over "why am I doing this?", while also simultaneously responding with "well, you have all your stuff, and you said you would, so you should." I mean, normal stuff, I suppose.
 
-{{< figresize src="/img/2021/01/prepared.gif" alt="Celebrity gif unsure as to whether they are prepared" width=75% title="Yeah. Sure." >}}
+{{< img prepared >}}
 
 Except that once I got to riding, my mind got the best of me. I started really focusing on the things that I _hadn't_ done or _hadn't_ quite fully prepared myself for. Turns out that it was darker outside than what I had thought, and the light I had with me was nearly done. I was _in Los Angeles_, a place that I thought was about as anti-bike and pro-car as possible. Further, it was cold (relatively speaking), and I didn't have a formal route loaded into my Garmin, nor was I familiar with the first part of the route first-hand.
 
 A few minutes into riding, I started to really psyche myself out. I was on a road that looked huge and had no formal bike lane, making me wonder if the morning commute was going to suddenly show up behind me and run me off the road. I also found myself no longer recognizing things based on what I had scouted out on Google Maps. I thought I was in a bad section of town, and even ended up on a sidewalk on the opposite side of the street going the wrong direction. You know...anxiety.
 
-{{< figresize src="/img/2021/01/nomemory.gif" alt="Gandalf saying he has no memory of this place" width=75% title="This gif seems to work in an awful lot of situations." >}}
+{{< img nomemory >}}
 
 I specifically remember a moment where, when I stopped finally to gather myself and my bearings, I almost forgot to unclip out. I imagined myself falling over in this crazy area. I don't know if I was hyperventilating or not (it's not something I really do), but I certainly wasn't enjoying my morning.
 
@@ -57,13 +117,13 @@ Of course this doesn't mean to ride with bad form or to push through legitimatel
 ### "Life is a journey, not a destination"
 We've all heard this before, but sometimes the best rides on the bike are not the fastest. They're often then ones that you enjoyed due to the scenery, the companionship, or simply just being there enjoying the moment. Life is _absolutely_ similar.
 
-{{< figresize src="/img/2021/01/thewall_tuc.jpg" alt="Cyclists climbing up the Wall during the Tour of the Unknown Coast bike ride in 2019" width=100% title="If you look closely, you can see cyclists paperboy-ing it to get up this intense climb" >}}
+{{< img thewall_tuc >}}
 
 The above was taken during the [2019 Tour of the Unknown Coast](https://www.strava.com/activities/2434582981), a [fascinating ride](https://tuccycle.org) that also surprises you with a 15% grade about 80 miles in to a 100 mile century. That day, I saw people using the "paperboy technique" to zigzag across the road just to get up it.
 
 Sometimes, life is just like this. _Brutal_. Tough. You can even _see_ it coming. You may also be complaining about the horrific offshore wind that's slowing you down and draining your energy. But the ride was also one of the most beautiful rides I've done, which included riding down the [Avenue of the Giants](http://avenueofthegiants.net/). Frankly, it's quite a fond memory.
 
-{{< figresize src="/img/2021/01/giants.jpeg" alt="Cyclist riding through the Avenue of the Giants near Ferndale, California" width=100% title="A shot my girlfriend got while riding down the Avenue of the Giants!" >}}
+{{< img giants >}}
 
 ## Riding with Nietzsche
 I'm really new to Nietzsche. Philosophy is not necessarily an area of study I dive into the scholarly aspects of, at least not that often. I've found his name coming up more recently with current political events, and I got to thinking - with someone who has so much to say about the state of our lives, is there any connection he has to the cycling community? Or perhaps is there any kind of inspiration we can draw upon from his work?
@@ -73,7 +133,7 @@ Turns out, yes, there is.
 ### Guillaume Martin
 Back in 2017, [Peloton Magazine](https://pelotonmagazine.com/) did an interview article on [Guillaume Martin](https://www.procyclingstats.com/rider/guillaume-martin/overview/start), a pro cyclist currently riding with Team Cofidis. What makes him unique is not only that he's a great rider, but has a master's degree in philosophy - not something that has been terribly common among the pro peloton over the years.
 
-{{< figresize src="https://pelotonmagazine.com/wp-content/uploads/2017/10/guillaume-martin_hero_tdf_2017.jpg" img="Guillaume Martin, professional cyclist, image from Peloton Magazine" width=75% title="Linked directly from Peloton Magazine's website" >}}
+{{< img guillaume-martin_hero_tdf_2017 >}}
 
 Despite the formatting not quite rendering well on a web browser, you can find the full text [here](https://pelotonmagazine.com/interviews/riding-with-nietzsche/).
 
@@ -81,7 +141,7 @@ Guillaume "...maintains that the philosophy of Nietzsche allowed us to speak abo
 
 I've always enjoyed competition among my peers, and being faster or "better" in some objective way is definitely something I think all of us strive for, generally speaking. I think back on the schoolyard playground when I would run from the blacktop out to the back fence and back, no easy feat for us as third graders. I took immense pride at being very regularly third in the whole class, behind two other friends of mine who both were avid soccer players all throughout their early years. I also respected their athletic prowess and saw it as a driving force to push myself more the next time we did this run.
 
-{{< figresize src="/img/2021/01/running.gif" alt="Children running along the grass towards some green trees" width=75% title="Surprisingly, this gif takes me back pretty vividly" >}}
+{{< img running >}}
 
 Guillaume wrote a thesis paper called "Applying Nietzsche in Modern Day Sports", and while I haven't found the text of it published online yet, there doesn't seem to be too much else on the subject. At least not yet. The part that the Peloton article quoted that really stuck out to me was:
 
@@ -91,7 +151,7 @@ Some interesting food for thought there. If you ascribe to Guillaume's perspecti
 
 I think a lot of us avid cyclists know this, some more so than others, but I think ruminating on this may be beneficial. When we get tired, are we actually tired, or are we just mentally done and want to throw in the towel? When the weather is bad outside, do we decide against doing that event you've prepared and trained for or do we push through and do it anyway?
 
-{{< figresize src="/img/2021/01/coolbreeze.jpeg" alt="Sandwich consumed during the Cool Breeze Century in 2015" width=75% title="It doesn't look like much, but I can still remember just how it tasted." >}}
+{{< img cool_breeze_century >}}
 
 It may just be a picture of a sandwich, but it was my lunch during one of the most difficult rides I have ever done, somewhat early in my cycling journey. The day was 85+ degrees with extremely high humidity, we were lagging behind pace, had some mechanicals, and the rest stops were closing up just as we managed to get to them. This was all that they had for us that day, and I honestly can still remember how this thing tasted.
 
@@ -106,13 +166,13 @@ But flip this around on its head - if you _know_ that these thoughts are coming 
 
 How about "wow, that's a crazy hill, let's see how it goes" or "I've trained for this, I know I can do this as long as I'm patient with myself". Maybe instead of thinking about all those riders who are passing you, think more on "this is the pace I've set, and chances are I'll catch up to them later".
 
-{{< figresize src="/img/2021/01/me_girona.jpg" alt="Cyclist riding through old town Girona, Spain" width=100% title="One of the few sunny shots I have of me during that trip!" >}}
+{{< img me_girona >}}
 
 The picture above was one of the few sunny pictures I have of me on my bicycle riding in [Girona, Spain in 2018]({{< ref "/travel/Spain/Trek_Travel_Girona_2018/index.md" >}}). We arrived during a cold snap of weather, along with an unusual amount of rain considering the area and time of year. To top it off, I had somehow forgotten my arm and leg warmers! But I was in Europe with my buddy and a good group of people as part of a Trek Travel adventure, so I forced myself to stay positive, despite the blockades that were physically in my way. I think it really was one of the first times of my cycling career where I didn't grumble and get down and out about the weather. Perhaps it was a masochistic moment that I used to my advantage.
 
 And you know what? It was one of the best trips of my life, despite the cold and the wet. I dream of going back quite often. And possibly even moving there one day to just enjoy the Spanish _paisaje_.
 
-{{< figresize src="/img/2021/01/formentor.jpg" alt="Cyclist climbing to the light at the top of Cap de Formentor in Mallorca, Spain" width=100% title="An amazing last day in Mallorca in 2017!" >}}
+{{< img formentor >}}
 
 Speaking of masochistic tendencies that cyclists share, in the year prior, I went on my first Trek Travel adventure and I experienced exhaustion to an extent I had never previously thought possible. 
 
@@ -132,7 +192,7 @@ I've had a few rides that clearly stick out in my mind due to bad weather, wind,
 ## Cycling Goes Beyond Simply Being a Sport
 At the risk of starting to sound like a Tony Robbins lecture, the parallels here to life are very clear. And it's one of the main parts about cycling that I find most beautiful and wonderful.
 
-{{< figresize src="/img/2021/01/girona_group.jpg" alt="Group of cyclists riding in the Spanish countryside, outside of Girona, Spain" width=100% title="Definitely need to get back here soon!" >}}
+{{< img girona_group >}}
 
 The journey of each of our lives will take us through all kinds of bumps and obstacles along its path. One day we may forget to charge our headlight before that morning ride in the city, or maybe we'll get stuck in a downpour that we were hoping to outrun. But I believe it's important to relish the journey and to enjoy all aspects of it, even when things get tough. Take a moment for yourself to reflect, focus outwards from beyond the current struggle, and lean on your past experiences and confidence to connect it all together.
 
