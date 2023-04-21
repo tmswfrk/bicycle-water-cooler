@@ -3,13 +3,65 @@ title: "Paul Smith Custom Kask Utopia Helmet Review"
 date: 2020-10-31T11:56:01-07:00
 summary: "I feel so Gucci wearing this."
 description: "Non-sponsored product review of a custom colored Kask Utopia bicycle helmet, created by clothing brand and bicycle enthusiast Paul Smith"
-image: "/img/reviews/PaulSmithKaskUtopia/OLH.jpg"
-imagealt: "Non-sponsored product review of a custom colored Kask Utopia bicycle helmet, created by clothing brand and bicycle enthusiast Paul Smith. Image contains: Factor O2 VAM bicycle, multicolored rainbow Paul Smith Kask Utopia helmet, redwood trees, Skyline Blvd, Old La Honda Road."
+image: OLH
 type: "reviews"
 categories: ["Product Reviews"]
 tags: ["Kask", "Helmet", "Product Review"]
 keywords: ["Paul Smith Custom Kask Utopia Helmet Review", "Custom gear for your ride", "Unique products for your bike"]
 draft: false
+resources:
+- src: '*/OLH.jpeg'
+  name: "OLH"
+  title: ""
+  params:
+    alt: "Non-sponsored product review of a custom colored Kask Utopia bicycle helmet, created by clothing brand and bicycle enthusiast Paul Smith. Image contains: Factor O2 VAM bicycle, multicolored rainbow Paul Smith Kask Utopia helmet, redwood trees, Skyline Blvd, Old La Honda Road."
+- src: '*/fire.gif'
+  name: "fire"
+  title: "Accurate portrayal of 2020"
+  params:
+    alt: "A stock image gif of a dumpster on fire representing the 2020 calendar year"
+    width: 50
+- src: '*/protone.jpg'
+  name: "protone"
+  title: "I actually took this photo because I wanted to check if I had a bug lodged in one of those big ol' vents!"
+  params:
+    alt: "Bicycle rider wearing a Kask Protone bicycle helmet on Canada road"
+- src: '*/box.jpg'
+  name: "box"
+  title: "So pretty"
+  params:
+    alt: "Outside box design for the Paul Smith custom Kask Utopia bicycle helmet"
+    exclude_gps: true
+- src: '*/topview.jpg'
+  name: "topview"
+  title: "It's hard to capture this without also capturing yourself, it's so shiny"
+  params:
+    alt: "Top view of Paul Smith custom Kask Utopia bicycle helmet showing color gradient"
+    exclude_gps: true
+- src: '*/interior.jpg'
+  name: "interior"
+  title: "A very thoughtful addition"
+  params:
+    alt: "Interior view of Paul Smith custom Kask Utopia bicycle helmet showing matching color pads"
+    exclude_gps: true
+- src: '*/bling.jpg'
+  name: "bling"
+  title: "What we're all basically going for in our own way"
+  params:
+    alt: "Bike blinged out in stereotypical fashion"
+    width: 50
+- src: '*/update.jpeg'
+  name: "update"
+  title: "Holding this up with my left hand while wearing a sweater, in case you're curious what those other colors are"
+  params:
+    alt: "Updated picture of Paul Smith Kask Utopia helmet after a year of use"
+    exclude_gps: true
+- src: '*/padding.jpeg'
+  name: "padding"
+  title: "It's more pronounced on the right side"
+  params:
+    alt: "Zoomed in close up shot of peeling padding on back of Kask Utopia helmet after a year of use"
+    exclude_gps: true
 ---
 # An Update as of December 1st, 2021
 If you're interested in reading about my thoughts on this after having used it consistently for a year now, [check out my thoughts on it here](#an-update-after-a-year-of-ownership).
@@ -26,7 +78,7 @@ Basically the strap connector around your chin actually clips around the side of
 
 I've owned a [Kask Vertigo](https://www.kask.com/media/download/img_1305.pdf) and a {{< amzn asin="B00YS9N5Z6" text="Kask Protone" >}}, both fantastic helmets. Upgrading from each of them was done largely as an aesthetic choice. However, it's also a good idea to replace a well used helmet after about 2 or 3 years of usage anyway, even if not involved in any kind of spill or crash.
 
-![Bicycle rider wearing a Kask Protone bicycle helmet on Canada road](/img/reviews/PaulSmithKaskUtopia/protone.jpg#center "I actually took this photo because I wanted to check if I had a bug lodged in one of those big ol' vents!")
+{{< img protone >}}
 
 ## This is essentially just a Kask Utopia
 Not that that is a bad thing of course. There are numerous reviews online about this particular helmet, with a few variances among them. I've researched this one a lot, so I'll highlight a few of my findings so far.
@@ -52,7 +104,7 @@ The first run of these apparently immediately sold out. Because _of course_ it d
 
 He even said they may have had some over in their Los Angeles store, and since that was on my way home for a July 4th trip I was already planning, I even offered to go there to get one. That didn't really pan out, though, as inventory during 2020 basically is no longer something most stores can manage.
 
-{{< figresize src="/img/reviews/PaulSmithKaskUtopia/fire.gif" alt="A stock image gif of a dumpster on fire representing the 2020 calendar year" width=50% title="Accurate portrayal of 2020" >}}
+{{< img fire >}}
 
 I actually never really heard back from them directly, but did put in a notification alert on the availability of this item on their website. This ended up working out a bit easier. As soon as I got the email, I immediately ordered this thing.
 
@@ -61,15 +113,15 @@ The packaging seemed on-par with what Kask has provided me in the past, which is
 
 The box is a thing of beauty, too.
 
-![Outside box design for the Paul Smith custom Kask Utopia bicycle helmet](/img/reviews/PaulSmithKaskUtopia/box.jpg "So pretty")
+{{< img box >}}
 
 The colors are different on either side of the helmet, one side being more predominantly blue, while the other is more green and yellow.
 
-![Top view of Paul Smith custom Kask Utopia bicycle helmet showing color gradient](/img/reviews/PaulSmithKaskUtopia/topview.jpg "It's hard to capture this without also capturing yourself, it's so shiny")
+{{< img topview >}}
 
 What I also thought was cool was the interior of the helmet, specifically that the pads used between your head and the helmet also match the color motif.
 
-![Interior view of Paul Smith custom Kask Utopia bicycle helmet showing matching color pads](/img/reviews/PaulSmithKaskUtopia/interior.jpg "A very thoughtful addition")
+{{< img interior >}}
 
 #### No brow padding strip
 Note here that, just like with the normal Kask Utopia, there is less padding in here than their other helmets. Especially across the brow region, meaning that sweat will likely be an issue if you wear this helmet as a heavy sweater or if you don't also wear some kind of under-helmet head covering. I always wear a cap, so I honestly don't notice any difference here compared to my other Kask helmets.
@@ -93,7 +145,7 @@ While I don't obviously have data on this particular helmet as to its long term 
 ### Price
 This one is a bit on a high side. You can get the Kask Utopia on sale every so often, depending on where they are with supplies and the product cycle, but this one likely isn't going on sale any time soon. It's an exclusive product. And you feel very exclusive wearing it.
 
-{{< figresize src="/img/reviews/PaulSmithKaskUtopia/bling.jpg" alt="Bike blinged out in stereotypical fashion" width=50% title="What we're all basically going for in our own way" >}}
+{{< img bling >}}
 
 At least I do. And so it's easy for me to justify!
 
@@ -115,7 +167,7 @@ A few things to point out:
 
 Current pic of my helmet (with minimal cleaning, I'll add):
 
-{{< figresize src="/img/reviews/PaulSmithKaskUtopia/update.jpeg" alt="Updated picture of Paul Smith Kask Utopia helmet after a year of use" width=100% title="Holding this up with my left hand while wearing a sweater, in case you're curious what those other colors are" >}}
+{{< img update >}}
 
 If you look closely, you can see a few things:
 * The colors on the inside padding are a bit faded compared to what they were before, which absolutely should be expected of a helmet.
@@ -124,7 +176,7 @@ If you look closely, you can see a few things:
 
 A bit closer on that last part:
 
-{{< figresize src="/img/reviews/PaulSmithKaskUtopia/padding.jpeg" alt="Zoomed in close up shot of peeling padding on back of Kask Utopia helmet after a year of use" width=100% title="It's more pronounced on the right side" >}}
+{{< img padding >}}
 
 This is a bit of a gripe with some of the Kask retention system based helmets. You'll notice that the padding _should_ be fitting into that thinner channel that the rear strap loops through. 
 
