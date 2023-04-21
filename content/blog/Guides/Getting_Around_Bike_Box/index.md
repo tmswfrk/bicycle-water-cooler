@@ -3,12 +3,58 @@ title: "Getting around with a Bike Box"
 date: 2020-08-02T16:25:09-07:00
 summary: "Because why not bring your wonderful bike to a new and exciting destination?"
 description: "Getting around with a bike carrier can be tricky in some international destinations like Europe. But with some planning, it doesn't have to be difficult."
-image: "/img/2020/08/girona_hotel_room.jpg"
-imagealt: "Getting around with a bike carrier can be tricky in some international destinations like Europe, but with some planning, it doesn't have to be difficult. Image contains: Giant TCR bicycle, BikeBoxAlan bike box case, hotel bedroom, tool bag, charging cables."
+image: girona_hotel_room
 categories: ["Bike Travel"]
-tags: ["Train Travel", "BikeBoxAlan"]
+tags: ["Travel"]
 keywords: ["Traveling with your bike on a train", "Traveling with your bike on public transit", "Traveling with your bike", "How to get around with a bike box", "Luggage tips while traveling", "Trek Travel experiences"]
 draft: false
+resources:
+- src: '*/girona_hotel_room.jpeg'
+  name: "girona_hotel_room"
+  title: ""
+  params:
+    alt: "Getting around with a bike carrier can be tricky in some international destinations like Europe, but with some planning, it doesn't have to be difficult. Image contains: Giant TCR bicycle, BikeBoxAlan bike box case, hotel bedroom, tool bag, charging cables."
+- src: '*/paris_baked_goods.jpg'
+  name: "baked_goods"
+  title: "Just across the street from the Gare de Lyon train station in Paris, a wonderfully accessible gateway from Paris to anywhere else in the country"
+  params:
+    alt: "Paris baked goods at a small cafe across the street from the Gare de Lyon train station"
+- src: '*/paris_gare_du_nord_map.jpg'
+  name: "map"
+  title: "This was my saved screenshot I took of a map I found of one of the train stations I needed to use while last in Paris"
+  params:
+    alt: "Paris Gare du Nord train station map"
+- src: '*/paris_hotel_room.jpg'
+  name: "hotelroom"
+  title: "The CitizenM hotel in Paris, France is right across the street from the Gare de Lyon train station, and is reasonably priced, fun, and quirky"
+  params:
+    alt: "At the CitizenM hotel in Paris, France with a BikeBoxAlan and my Samsonite 4 wheel rolling suitcase"
+    width: 75
+- src: '*/bcn_transport.jpg'
+  name: "bcn_transport"
+  title: "We rented a van out of a bike shop in Girona with some new friends to get back to Barcelona"
+  params:
+    alt: "Cyclists unloading a van full of suitcases and bike boxes at the Grand Hotel Central in Barcelona, Spain"
+- src: '*/milan_train_platforms.jpg'
+  name: "milan"
+  title: "Just arriving on the platform in Milano Centrale train station after leaving Montreux, Switzerland"
+  params:
+    alt: "Train platform with train cars and people walking at the Milano Centrale train station in Milan, Italy"
+- src: '*/switzerland_countryside.jpg'
+  name: "switzerland"
+  title: "Trains in Switzerland are incredible, you should absolutely use them to get around the country"
+  params:
+    alt: "View out over the Switzerland countryside from a train window, going from Geneva to Montreux with BikeBoxAlan case"
+- src: '*/girona_ride_camp_instructions.jpg'
+  name: "instructions"
+  title: "The first day of our Trek Travel ride camp in Girona, Spain, getting the lay of the land from Celene"
+  params:
+    alt: "Instructions being given to a group of cyclists by a Trek Travel guide"
+- src: '*/Girona_TT_crew.jpg'
+  name: "crew"
+  title: "An amazing week of riding with an amazing group of people out in Girona, Spain"
+  params:
+    alt: "Group photo of several cyclists in Girona, Spain"
 ---
 # The gift of gab around the water cooler
 Whenever I write posts, I like to keep them relatively short. Usually about 10 minutes or less. Unfortunately, I also have a tendency to be wordy in my every day life, and I'm very passionate about biking and travel. So of course, I have more to say!
@@ -18,7 +64,7 @@ I mainly wanted to mention a few more things about traveling with a bike box onc
 ## Getting around
 Despite not doing _nearly_ as much traveling as I wish I have had by this time in my life, I do feel like I've managed to come across a few things I've learned that others could potentially benefit from.
 
-![Paris baked goods at a small cafe across the street from the Gare de Lyon train station](/img/2020/08/paris_baked_goods.jpg "Just across the street from the Gare de Lyon train station in Paris, a wonderfully accessible gateway from Paris to anywhere else in the country")
+{{< img baked_goods >}}
 
 Wherever "there" is for you, of course. This is what all the build up and pre-work has been leading up to!
 
@@ -36,7 +82,7 @@ There are a few things you're going to want to do at the airport, once you've ar
 ### Pre work is helpful
 A lot of airports (and train stations) have helpful maps, not only in person when you're there, but posted online. While I'm very good at directions and visualizing where things translate from (virtual) paper to real-life, things can still be a bit disorienting once you actually get there. You have to be aware of your own level of jet lag, anxiety, handle of a foreign language, all of that stuff. 
 
-![Paris Gare du Nord train station map](/img/2020/08/paris_gare_du_nord_map.jpg "This was my saved screenshot I took of a map I found of one of the train stations I needed to use while last in Paris")
+{{< img map >}}
 
 Spend some time reviewing maps before your trip and save images of them locally on your phone if you want them handy once you land. Remember, even if you have internet in the foreign country, you may not have service 20 meters underground. Saving the map locally will save you from last minute frustration in finding the link, hoping it loads, signing up for a free airport wifi after jumping through ten ads, or paying money to either your carrier for international fees or local ones.
 
@@ -52,7 +98,7 @@ All of these are pretty normal questions that people already have their own rhyt
 ### Bring another rolling suitcase
 Depending on how long you're going to be gone, or how heavy of a packer you are, chances are that you need to bring with you more than simply a carry on backpack.
 
-![At the CitizenM hotel in Paris, France with a BikeBoxAlan and my Samsonite 4 wheel rolling suitcase](/img/2020/08/paris_hotel_room.jpg "The CitizenM hotel in Paris, France is right across the street from the Gare de Lyon train station, and is reasonably priced, fun, and quirky")
+{{< img hotelroom >}}
 
 #### You can do the backpack only option, but
 On my trip to Mallorca in 2017, I had plans to visit London, Edinburgh, and Cardiff after the [Trek Travel ride camp](https://trektravel.com/trip/mallorca-ride-camp-bike-tour/), and I managed to get away with only bringing a larger-ish carry on backpack. I also had to bring a small duffle bag that I was able to bring as my "personal item" on the plane. While this worked out surprisingly well for me, I did find myself needing to spend a lot more time on laundry (hanging them in hotel rooms is a pain to me) and having to be very self-regulating when it came to anything I wanted to pick up as a souvenir.
@@ -77,14 +123,14 @@ In Europe, this is a pretty common affair, actually. There are a lot of companie
 ### Carpool if you can
 If you're riding your bike in some kind of organized riding event or camp, see what options they already may have for you. Or any local company recommendations. Otherwise, you can coordinate with them or with other riders to potentially share costs, as a lot of the vans that perform this kind of service can typically provide the service for more than one rider at a time. It certainly helps save on costs.
 
-![Cyclists unloading a van full of suitcases and bike boxes at the Grand Hotel Central in Barcelona, Spain](/img/2020/08/bcn_transport.jpg "We rented a van out of a bike shop in Girona with some new friends to get back to Barcelona")
+{{< img bcn_transport >}}
 
 Similarly, if no reasonable service is available, you could potentially rent a van yourself and help offset that cost with others that you'd be willing to drive around. Up to you!
 
 ### Public transit
 When outside of the US (because our public transit here is generally terrible), taking trains is an awesome option. Sometimes it takes a bit longer, and you need to scout out your destination(s) a bit more clearly and ahead of time, taking the time to mind any language gaps or barriers, but I've found that personally this can be a very rewarding experience. In France, for example, their train system is wonderful. Italy's wasn't too bad, either.
 
-![Train platform with train cars and people walking at the Milano Centrale train station in Milan, Italy](/img/2020/08/milan_train_platforms.jpg "Just arriving on the platform in Milano Centrale train station after leaving Montreux, Switzerland")
+{{< img milan >}}
 
 My most recent trip to the French Alps and Italy in 2019 really taxed my threshold for navigating all kinds of situations when taking public transit with a large bike box. From a vast number of escalators to muscling a bike box in one arm down 4 flights of tightly turning stairs, there are a few things you _definitely_ need to think about ahead of time.
 
@@ -103,7 +149,7 @@ As an example, in Milan last year, I had to get down to the RGV connecting termi
 #### Boarding a train
 This is going to require you to find an open car and lifting up your bike box on to the train car floor, then separately grabbing your suitcase and doing the same there. Usually there is more room in the entry way of the train car for your larger items (some have actual storage for them), and depending on how long you have to be on the train, it can be a pleasant way to hang out during the duration of the trip, taking in the sights and sounds of where you are.
 
-![View out over the Switzerland countryside from a train window, going from Geneva to Montreux with BikeBoxAlan case](/img/2020/08/switzerland_countryside.jpg "Trains in Switzerland are incredible, you should absolutely use them to get around the country")
+{{< img switzerland >}}
 
 At one point, earlier in France, I had a conversation with a few loud 20-something-year-olds from one of the northern African countries. They liked that I was from California and had a bike with me.
 
@@ -116,8 +162,8 @@ The screen grab shared above was actually for a station in Paris that I knew I w
 ## _FIN_
 I think most of this was just another excuse of mine to reminisce about my recent travels, but I have certainly learned a lot and wanted to put what i've learned to writing in case others found it useful. After a few rounds of learning these things above, mostly from the most recent trip, things became easier and more obvious to me. 
 
-![Instructions being given to a group of cyclists by a Trek Travel guide](/img/2020/08/girona_ride_camp_instructions.jpg "The first day of our Trek Travel ride camp in Girona, Spain, getting the lay of the land from Celene")
+{{< img instructions >}}
 
-![Group photo of several cyclists in Girona, Spain](/img/2020/08/Girona_TT_crew.jpg "An amazing week of riding with an amazing group of people out in Girona, Spain")
+{{< img crew >}}
 
 Some of this may sound daunting at first, but take it slow and keep the excitement up! Traveling is a wonderful experience that people (myself included) need to do a LOT more of!

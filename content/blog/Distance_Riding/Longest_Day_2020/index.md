@@ -3,12 +3,50 @@ title: "The Longest Day of 2020"
 date: 2020-06-22T18:29:35-07:00
 summary: "Ah, the long days of summer."
 description: "A truly epic challenge that took me from San Mateo to Santa Cruz and back."
-image: "/img/2020/06/PescaderoCreekRd.jpg"
-imagealt: "A truly epic challenge that took me from San Mateo to Santa Cruz and back. Image contains: redwood trees, empty road, filtered light."
+image: PescaderoCreekRd
 categories: ["Longest Day"]
-tags: ["The Longest Day", "Factor O2 VAM", "Pas Normal Studios"]
+tags: ["The Longest Day", "Rapha"]
 keywords: ["200 kilometer bike ride", "The Longest Day bike event", "riding your bike solo", "riding your bike along the coast"]
 draft: false
+resources:
+- src: '*/PescaderoCreekRd.jpeg'
+  name: "PescaderoCreekRd"
+  title: ""
+  params:
+    alt: "A truly epic challenge that took me from San Mateo to Santa Cruz and back. Image contains: redwood trees, empty road, filtered light."
+- src: '*/CanadaRd.jpg'
+  name: "CanadaRd"
+  title: "About 6:30am on Canada Road was so majestic, as I'm never out there that early"
+  params:
+    alt: "Sun rising over mountain along Canada road near San Mateo, California"
+- src: '*/SCCountyLine.jpg'
+  name: "SCCountyLine"
+  title: "This was a lot further away than I expected it to be"
+  params:
+    alt: "Santa Cruz county line road sign along road in front of mountains sloping into the ocean"
+- src: '*/LockedAndLoaded.jpg'
+  name: "LockedAndLoaded"
+  title: "Got all the stuff, let's go!"
+  params:
+    alt: "Cyclist with a lot of gear stuffed into back jersey pockets"
+- src: '*/mechanism.jpg'
+  name: "mechanism"
+  title: "Their Mechanism line is fantastic (credit: @pasnormalstudios on Instagram)"
+  params:
+    alt: "Photo by PAS NORMAL STUDIOS in Vélez de Benaudalla, Spain."
+    width: 60
+- src: '*/MtCharlieRd.jpg'
+  name: "MtCharlieRd"
+  title: "Mountain Charlie would be proud!"
+  params:
+    alt: "Bicycle posed against brick road marker for Mountain Charlie Road in the Santa Cruz mountains"
+    width: 50
+- src: ''
+  name: ""
+  title: ""
+  params:
+    alt: ""
+
 ---
 # The "fun" of long rides
 This post may be a little less for those not as crazy as I am, and perhaps a bit more for those of us who are. With the longer days of summer upon us, those of us who really enjoy riding their bikes along epic routes see this as an opportunity to do something really unusual, something to wow their Strava crowd and family and friends.
@@ -16,7 +54,7 @@ This post may be a little less for those not as crazy as I am, and perhaps a bit
 ## Quick Aside about "The Longest Day"
 The last few years, cycling groups and, in particular, Rapha, have been advocating getting out on your bike during the longest day of the year and doing something unique or special. They even have a [webpage](https://www.rapha.cc/us/en_US/stories/rcc-the-longest-day) about it. The emphasis is on pushing yourself, camaraderie, and enjoying nature in some way or another.
 
-![Sun rising over mountain along Canada road near San Mateo, California](/img/2020/06/CanadaRd.jpg "About 6:30am on Canada Road was so majestic, as I'm never out there that early")
+{{< img CanadaRd >}}
 
 ## What I chose to do this past weekend
 I've had my eye on doing the section of road south from Pescadero, CA, to Santa Cruz. I've driven this stretch of road before, but never have I biked it. I usually balk at the idea because of how difficult it is to just get to this loop from where I am. But then again, this IS the "longest day", right?
@@ -27,7 +65,7 @@ Growing up in Southern California, I've always associated the coast with the qui
 
 ...except that this is definitely _not_ the case up here! However, a certain sense of wonderment has overtaken me when it comes to exploring this somewhat uncharted coastline. At least by bicycle. I enjoy doing the ride from Pacifica southward into Half Moon Bay, so why not further south into Santa Cruz?
 
-![Santa Cruz county line road sign along road in front of mountains sloping into the ocean](/img/2020/06/SCCountyLine.jpg "This was a lot further away than I expected it to be")
+{{< img SCCountyLine >}}
 
 ## How I prepared
 This was a bit more tricky than per usual, given the COVID circumstances we are all currently in. I prepared much like I would normally for a long ride with things like:
@@ -51,14 +89,14 @@ But on this day, I decided to try to bring a few extra things with me.
 
 Prior to this ride, I even opted to lather on a bunch of {{< amzn asin="B082P4SXRZ" text="Amp PR Lotion" >}}, which is a sodium bicarbonate lotion that mixes into to your muscles to help offset the lactic acid that builds up naturally in your muscles during extended exercise. I've been using this stuff recently and it's not too bad. A bit messy (it feels like you can't easily wash it off your hands), but you put it on just before your sunscreen and you're good to go. It feels a bit tingly and seems to help give you a little extra "oomph" throughout longer rides.
 
-![Cyclist with a lot of gear stuffed into back jersey pockets. Image may](/img/2020/06/LockedAndLoaded.jpg "Got all the stuff, let's go!")
+{{< img LockedAndLoaded >}}
 
 ## Kit
 My favorite set up, my [Pas Normal Studios](https://www.pasnormalstudios.com/) set up. It's become quite a popular brand over in its home country of Denmark, and has extended its influence across Europe and in a few cycling hubs elsewhere (San Francisco being one of them). Pricey, but seriously fantastic gear. You can be in this stuff for hours and not really "notice" your clothing like you might with other brands.
 
 I guess that depends on your physique to an extent, though! They definitely skew towards the slimmer rider. I wore a few items mainly from their [Mechanism](https://www.pasnormalstudios.com/mechanism-men-ss20) line, along with a stow away vest and some thin arm warmers (that I find oddly warm) from Velocio that just so happen to match the blue bib shorts I own. Because of course they do.
 
-{{< figresize src="/img/2020/06/mechanism.jpg" alt="Photo by PAS NORMAL STUDIOS in Vélez de Benaudalla, Spain. Image may contain: one or more people, people standing, tree, sky, bicycle, outdoor and nature, text that says 'Mechanism Mechanism'." width=60% title="Their Mechanism line is fantastic (credit: @pasnormalstudios on Instagram)" >}}
+{{< img mechanism >}}
 
 ## Weather
 I did my best to predict the conditions before this day, using an app on my phone called [EpicRideWeather](https://www.epicrideweather.com/) that is seriously worth the $9 a year they charge. I routed things out as I usually do with Google maps, then [built a route in RideWithGPS](https://ridewithgps.com/routes/33044426), and then imported it over to EpicRideWeather. I gave it my start time, my expected average speed, and it showed me a nice detailed output as to wind direction and temperature changes expected throughout the day, based on where I would be at the time. Pretty rad!
@@ -66,7 +104,7 @@ I did my best to predict the conditions before this day, using an app on my phon
 ### Except that the weather wasn't quite as I expected
 The first part of the ride was wonderful. Filtered light through redwood groves out near Pescadero, going up the idyllic Old La Honda road, even meeting a fellow cyclist who was doing an "Everesting" attempt (I thought I was supposed to be the crazy one!). When I got out to the coast, however, the wind shifted and I was staring down into a headwind for basically _30 miles_. Brutal.
 
-{{< yt "Terrible headwind along the Cabrillo highway near Davenport, California" "https://www.youtube.com/embed/vGH_QQPU3Tc" "Point of view video of terrible headwind blowing along the coast of the San Francisco Bay Area Peninsula">}}
+{{< yt id="vGH_QQPU3Tc" alt="Point of view video of terrible headwind blowing along the coast of the San Francisco Bay Area Peninsula" >}}
 
 Listen to that wind. Super fun, let me tell you.
 
@@ -100,7 +138,7 @@ Instead, I like to stay focused on the positive. The colors in the trees, the bl
 
 I know for this ride, I looked forward to the wonderful redwoods of the Santa Cruz mountains, the absolutely amazing descent down the Old Santa Cruz Highway, and the feeling of incredible accomplishment of knowing that I did a 200km-plus-some ride _solo_.
 
-{{< yt "Descent down Old Santa Cruz Highway" "https://www.youtube.com/embed/bxGUBsxeO9w" "Point of view video of cyclist descending Old Santa Cruz Highway">}}
+{{< yt id="bxGUBsxeO9w" alt="Point of view video of cyclist descending Old Santa Cruz Highway" >}}
 
 I actually [wrote more about this very topic]({{< ref "/blog/Introspective/Nietzsche_Cycling/index.md" >}}). A lot of this mentality can be attributed to Nietzsche, believe it or not.
 
@@ -117,4 +155,4 @@ You got to see sights and roads that others rarely notice, let alone appreciate.
 
 And to top it all off, you likely learned something about yourself.
 
-{{< figresize src="/img/2020/06/MtCharlieRd.jpg" alt="Bicycle posed against brick road marker for Mountain Charlie Road in the Santa Cruz mountains" width=50% title="Mountain Charlie would be proud!" >}}
+{{< img MtCharlieRd >}}

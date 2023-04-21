@@ -140,7 +140,7 @@ Well, not initially for cycling! The Col de Turini is actually most known for be
 
 Turns out that it was also featured in an episode of Top Gear, as the guys were out on a quest to find the "greatest driving road in the world".
 
-{{< yt "I have always enjoyed this show" "https://www.youtube.com/embed/lUF-N8BsBmU" "Video from YouTube of the tenth season of Top Gear, a British car racing show" >}}
+{{< yt title="I have always enjoyed this show" id="lUF-N8BsBmU" alt="Video from YouTube of the tenth season of Top Gear, a British car racing show" >}}
 
 Perhaps it wasn't the greatest driving road in the world, but it was a pretty incredible road for cycling!
 

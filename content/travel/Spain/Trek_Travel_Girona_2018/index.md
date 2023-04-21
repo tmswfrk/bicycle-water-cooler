@@ -297,7 +297,7 @@ Overall, the climb is difficult, but not _too_ difficult. It's what makes this a
 
 A good rule of thumb, [according to locals](https://www.epicroadrides.com/cycling-spain/girona-costa-brava/rocacorba-girona/), is to aim for a time that is your age plus ten minutes. I guess I didn't quite make that one, as I pulled in at a respectable 56 minutes ([official strava segment here](https://www.strava.com/segments/686229?filter=overall)), but I did learn that day that my friend running a different gearing arrangement than me was able to spin more efficiently given our similar FTP levels at the time.
 
-{{< yt "Col Collective video on riding Rocacorba" "https://youtube.com/embed/QzAPecjEmWg" "Embedded video from the Col Collective on YouTube for riding the Rocacorba climb in Girona, Spain" >}}
+{{< yt id="QzAPecjEmWg" alt="Embedded video from the Col Collective on YouTube for riding the Rocacorba climb in Girona, Spain" >}}
 
 It's a fascinating climb generally, one that isn't anything like what you'll experience in the Alps, and isn't even the most scenic climb around. But there's definitely an allure to it, as the road has pitches >10% in many spots, and even has a few flatter / false flat sections that really force you to stay engaged if going for a good time. You'll regularly see professionals on this one, going for a sub 30 minute (!) time.
 

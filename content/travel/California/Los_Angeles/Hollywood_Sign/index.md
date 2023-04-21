@@ -145,7 +145,7 @@ It's actually a reservoir, but seriously, who knew this was even here? You certa
 
 There's a trail that goes around the entire reservoir, and it's quite scenic. Quiet, blocked off to cars, and beautiful. Watch out for pedestrians here though, as you'll definitely see a lot of them on weekends. You'll see their cars parked, so be mindful of traffic, doors, and people generally not paying attention to you.
 
-{{< yt "South side of the multi-use path around the Hollywood Reservoir" "https://www.youtube.com/embed/-Dw-5zwKUJ4" "Point of view GoPro footage of a bike ride on the southern part of the multi-use path around Lake Hollywood" >}}
+{{< yt id="-Dw-5zwKUJ4" alt="Point of view GoPro footage of a bike ride on the southern part of the multi-use path around Lake Hollywood" >}}
 
 Google won't show you a bike route around the southern and western sides of the reservoir (or at least it won't route you through it), but I promise, it's there. Go through the gate and enjoy the view overlooking the Hollywood Sign over the water once you reach the dam.
 
@@ -158,7 +158,7 @@ Continue heading around, be a tourist and take pictures, and eventually get out 
 ### Lake Hollywood Park and Mulholland (again)
 There are more houses through here, along with some speed bumps. I guess this area gets a lot of traffic, something I absolutely would not want to deal with, even if it meant living in one of the beautiful homes along here. 
 
-{{< yt "Tahoe Drive Bike Ride from Lake Hollywood" "https://www.youtube.com/embed/G0zniZvIwOo" "Point of view GoPro footage of a bike ride along Tahoe Drive near the Hollywood Reservoir" >}}
+{{< yt id="G0zniZvIwOo" alt="Point of view GoPro footage of a bike ride along Tahoe Drive near the Hollywood Reservoir" >}}
 
 Around the bend, you end up going up quite a bit - it's definitely a bit of a climb, and with all the parked cars, you need to be wary of doors and irritable people behind you trying to find parking through here for their morning walk / search for a celebrity.
 
@@ -168,7 +168,7 @@ Once around the bend, the road flattens out a bit, but definitely still continue
 
 If you stick to the left of the road, you eventually come up to a dirt path with a walkaround gate. Don't worry, it's short, so if you're nervous about your road bike on this stretch, it's really not too bad, even if you have to walk it (it's a bit gravelly if you're not already familiar with riding road bike tires on gravel). You can see some of this on Google Maps, but only from single points where users have submitted images.
 
-{{< yt "Top of Mulholland Highway on the way to the Hollywood Sign" "https://www.youtube.com/embed/Synp8x-2C8g" "Point of view GoPro footage of a bike ride at the top of Mulholland Highway on the way to the Hollywood Sign" >}}
+{{< yt id="Synp8x-2C8g" alt="Point of view GoPro footage of a bike ride at the top of Mulholland Highway on the way to the Hollywood Sign" >}}
 
 You'll end up eventually in what looks like a private road that almost looks like a driveway. Don't worry, just get off the bike and take a walk around the gate that's along the sidewalk.
 
@@ -183,7 +183,7 @@ What makes this climb tricky isn't really the traditional reasons for tricky cli
 
 It's an _incredibly_ popular hike for people, almost as much as [Runyon Canyon](https://www.google.com/maps/place/Runyon+Canyon+Rd+Hiking+Path,+Los+Angeles,+CA+90046/@34.1097839,-118.3534845,17z/data=!3m1!4b1!4m5!3m4!1s0x80c2bee330b644ab:0x88ee17518152f7c9!8m2!3d34.1097839!4d-118.3512905) (which is typically where you go if you're trying to spot a celebrity - there are signs banning photography), especially on weekends. However, this being said, I had a buddy who did this same climb somewhat more recently on an extremely hot day and has footage of it being nearly empty. So take that for what it's worth.
 
-{{< yt "FULL CLIMB up Mt. Lee Drive to Hollywood Sign" "https://www.youtube.com/embed/8VKVkAY5SWM" "Point of view GoPro footage of a bike ride going the full climb up Mt. Lee Drive to the Hollywood Sign in Los Angeles" >}}
+{{< yt id="8VKVkAY5SWM" alt="Point of view GoPro footage of a bike ride going the full climb up Mt. Lee Drive to the Hollywood Sign in Los Angeles" >}}
 
 The road, somewhat tauntingly, doesn't actually show you much of the Hollywood Sign as you go up it. In fact, you actually go up, over, and above it as you approach it from the back. It's still crazy beautiful up there though, and you actually get some really incredible views over the San Fernando Valley north of you before the road twists back over to the southern-facing side of the mountain. It's from there where you get to see the Hollywood Sign, looking down over it and further out towards the City of Angels.
 

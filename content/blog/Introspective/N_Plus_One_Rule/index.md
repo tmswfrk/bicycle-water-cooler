@@ -3,12 +3,56 @@ title: "The \"N Plus One\" Rule"
 date: 2020-05-17T17:40:30-07:00
 summary: "What do I ride, you ask? Well, let me introduce to you my N+1 stable."
 description: "The proper number of bikes to own is N+1, where N is equal to the current number of bikes you currently have."
-image: "/img/2020/05/stable.jpg"
-imagealt: "The proper number of bikes to own is N+1, where N is equal to the current number of bikes you currently have. Image contains: Giant TCR bike, Cycleops Hammer trainer, subway-inspired tube map, bike hats."
+image: stable
 categories: ["Stories"]
-tags: ["N+1", "Giant TCR", "Factor O2 VAM"]
+tags: ["N Plus 1", "Cycling Rules"]
 keywords: ["the N+1 rule", "what bikes I have", "what bike gear I use", "how many bikes do I need"]
 draft: false
+resources:
+- src: '*/stable.jpeg'
+  name: "stable"
+  title: ""
+  params:
+    alt: "The proper number of bikes to own is N+1, where N is equal to the current number of bikes you currently have. Image contains: Giant TCR bike, Cycleops Hammer trainer, subway-inspired tube map, bike hats."
+- src: '*/factoro2vam.jpg'
+  name: "factoro2vam"
+  title: "2020 Factor O2 VAM"
+  params:
+    alt: "Factor O2 VAM bicycle leaning against the wall at Twin Peaks in San Francisco, California"
+- src: '*/gianttcradvancedsl.jpg'
+  name: "giant"
+  title: "2016 Giant TCR Advanced SL"
+  params:
+    alt: "2016 Giant TCR Advanced SL bicycle leaning against a fence with Enve 4.5 wheels"
+- src: '*/gianttcr_pch.jpg'
+  name: "pch"
+  title: "Coast Highway in Newport Beach"
+  params:
+    alt: "Giant TCR bicycle leaning against light pole along Coast Highway in Newport Beach, California"
+    width: 75
+- src: '*/niner.jpg'
+  name: "niner"
+  title: "2018 Niner RLT9 Steel"
+  params:
+    alt: "Niner RLT9 Steel bicycle in garage against a wall"
+    exclude_gps: true
+- src: '*/niner_sendero.jpg'
+  name: "sendero"
+  title: "Badass Tires, indeed"
+  params:
+    alt: "Niner RLT9 Steel bicycle with WTB Sendero gravel tires leaning against a wall"
+    exclude_gps: true
+- src: ''
+  name: ""
+  title: ""
+  params:
+    alt: ""
+- src: ''
+  name: ""
+  title: ""
+  params:
+    alt: ""
+
 ---
 # The N+1 Rule
 Everyone who gets really into cycling, bicycling, or riding, however you wish to refer to it, _should_ know about the N+1 rule. It states:
@@ -21,7 +65,7 @@ Honestly, whatever reason you have to your bike, as long as you're riding it, I 
 
 ## Factor O2 VAM
 
-![Factor O2 VAM bicycle leaning against the wall at Twin Peaks in San Francisco, California](/img/2020/05/factoro2vam.jpg "2020 Factor O2 VAM")
+{{< img factoro2vam >}}
 
 This is my [Factor O2 VAM](https://factorbikes.com/models/vam/), and allow me to geek out a bit on this one. I had it built up here locally by [Palo Alto Bicycles](https://www.paloaltobicycles.com/), and they were kind enough to let me supply a lot of my own parts, which I got on sale over at [Competitive Cyclist](http://www.competitivecyclist.com). It's a pretty fun experience building up a bike from scratch, by the way, and if you're really into geeking out over parts in addition to what the ride itself affords you, it's totally worth it. 
 
@@ -44,7 +88,7 @@ Beyond the components, Factor has a sweet deal generally when you buy the frame 
 
 ## 2016 Giant TCR Advanced SL
 
-![2016 Giant TCR Advanced SL bicycle leaning against a fence with Enve 4.5 wheels](/img/2020/05/gianttcradvancedsl.jpg "2016 Giant TCR Advanced SL")
+{{< img giant >}}
 
 This bike unfortunately sits in my trainer most days at this point, although it still occupies a special place of my heart. It was really my first true journey into what I love about this sport. I got it through [Fullerton Bicycles](https://www.fullertonbicycle.com/), and they are an awesome shop. Seriously, go see Mike Franze if you're at ALL interested and are local to the area.
 
@@ -57,11 +101,11 @@ This bike unfortunately sits in my trainer most days at this point, although it 
 
 Honestly, I should probably sell this thing, but I know I won't get nearly enough for it, given that it's still a thoroughbred race machine in the hands of the right rider. I had so many great experiences on this bike, mainly back when I lived in Newport Beach, from racing around with Team Rokform (or Bike Monkeys now, I believe), to touring all the way from Newport to Malibu and back to downtown Los Angeles to take the train home (115 miles).
 
-![Giant TCR bicycle leaning against light pole along Coast Highway in Newport Beach, California](/img/2020/05/gianttcr_pch.jpg "Coast Highway in Newport Beach")
+{{< img pch >}}
 
 ## 2017 Niner RLT9 Steel
 
-![Niner RLT9 Steel bicycle in garage against a wall](/img/2020/05/niner.jpg "2018 Niner RLT9 Steel")
+{{< img niner >}}
 
 Unfortunately my Niner doesn't get enough love from me these days. It's a sweet bike, but it is heavier than most of the carbon ones that are so popular for gravel riding. This thing is a beast though, and really does roll up to speed quick quickly, given its 853 steel construction. 
 
@@ -73,6 +117,6 @@ Unfortunately my Niner doesn't get enough love from me these days. It's a sweet 
 
 I've only done a few true gravel rides with this thing, but [one of them](https://www.strava.com/activities/1482554610) was one of the most memorable ones for me. It was through the SF Peninsula Watershed, which is this disputed area of land where the reservoirs of the SF Bay Peninsula are located. There's even a whole group online dedicated to "opening the watershed" as they call it. A lot of history there, but occasionally they take people through to go ride some of the single and double track roads out there, and it truly is spectacular, especially if you're already familiar with the area from the back of a bike. It's amazing where bikes like this can take you!
 
-![Niner RLT9 Steel bicycle with WTB Sendero gravel tires leaning against a wall](/img/2020/05/niner_sendero.jpg "Badass Tires, indeed")
+{{< img sendero >}}
 
 So that's the overview of my stable! Perhaps a bit more matter-of-fact details as opposed to my actual thoughts on the subject, but as I'm exploring my intentions for this blog, I feel like this is an important one to have pretty early on.

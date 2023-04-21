@@ -3,12 +3,65 @@ title: "Traveling With Your Bike by Car"
 date: 2020-07-12T12:16:50-07:00
 summary: "The most common way I travel to do epic rides on my bike."
 description: "Driving somewhere new to ride your bike can be incredibly rewarding. And packing your bike into a car with all your supplies doesn't have to be a chore."
-image: "/img/2020/07/stuffincar.jpg"
-imagealt: "Packing up your bike into your car with all your supplies doesn't have to be a chore. Image contains: bicycles, Ford Escape, bags, backpacks, souvenirs."
+image: stuffincar
 categories: ["Bike Travel"]
-tags: ["Car Travel"]
+tags: ["Travel"]
 keywords: ["traveling with your bike", "put bike in car", "skewers versus thru axles", "different kinds of bike racks for your car"]
 draft: false
+resources:
+- src: '*/stuffincar.jpeg'
+  name: "stuffincar"
+  title: ""
+  params:
+    alt: "Packing up your bike into your car with all your supplies doesn't have to be a chore. Image contains: bicycles, Ford Escape, bags, backpacks, souvenirs."
+- src: '*/4series.jpg'
+  name: "4series"
+  title: "With the front wheel off and the seats folded, it fits nicely"
+  params:
+    alt: "Bike fits when placed in trunk of sedan with seats folded down"
+- src: '*/jumbovismabikerack.jpg'
+  name: "jumbovisma"
+  title: "That was a wild day, Galibier climb, stage 19 of the 2019 Tour de France"
+  params:
+    alt: "Bike rack on top of Team Jumbo Visma support car during 2019 Tour de France"
+- src: '*/nicebike.jpg'
+  name: "nicebike"
+  title: "It's usually a junky car with a nice bike as opposed to the opposite"
+  params:
+    alt: "New bike placed in bike rack on top of old car"
+    width: 50
+- src: '*/trunkrack.jpg'
+  name: "trunkrack"
+  title: "It was a nice, but heavy, rack"
+  params:
+    alt: "Hitch mounted bike rack with bicycle on back of sedan"
+    exclude_gps: true
+- src: '*/skewer.jpg'
+  name: "skewer"
+  title: "These are super easy to take off and put back on"
+  params:
+    alt: "Quick release skewer for road bike"
+- src: '*/thruaxle.jpg'
+  name: "thruaxle"
+  title: "This one doesn't have the handle, and needs to be removed by a hex wrench"
+  params:
+    alt: "Thru axle for road bike"
+- src: '*/padspacer.jpg'
+  name: "padspacer"
+  title: "Cheap, but handy"
+  params:
+    alt: "Disc brake pad spacer for use when no rotor present"
+    width: 50
+- src: '*/final.jpg'
+  name: "final"
+  title: "We always collect stuff throughout the trip"
+  params:
+    alt: "Rear of SUV full of bicycles and luggage after a long trip to San Diego, California"
+- src: '*/oscars.jpg'
+  name: "oscars"
+  title: "Oscars has some amazing fish tacos, and there are several locations"
+  params:
+    alt: "Two fish tacos from Oscar's in San Diego, California"
 ---
 # It isn't as awkward as you'd think
 While I love to ride in the area where I live, specifically the mid-peninsula of the San Francisco Bay Area, there are plenty of great opportunities to ride elsewhere. Loading up my bike, often along with my girlfriend's bike since she rides with me a lot, is a relatively easy thing to do once you do it a few times.
@@ -29,7 +82,7 @@ This option unfortunately is very much dictated by the type of car you may alrea
 #### Sedans work for (usually) one bike only
 If you _do_ have a sedan, and want to put a bike (or possibly two) inside the vehicle, check to see if the rear seats fold down as a pass through option. I used to own a BMW and I found that the passthrough option would let me carry my one bike with my stuff pretty well, all things considered.
 
-{{< figresize src="/img/2020/07/4series.jpg" alt="Bike fits when placed in trunk of sedan with seats folded down" width=50% title="With the front wheel off and the seats folded, it fits nicely" >}}
+{{< img 4series >}}
 
 I actually once managed to squeeze in two bikes into a 5-series BMW, but I wouldn't say it's easy and I certainly wouldn't recommend it for long distance transportation! It required me to remove both wheels on the second bike and place some padding between the two bikes, as there were several parts that were laying on top of each other.
 
@@ -38,7 +91,7 @@ I love the look of a good roof rack. Especially on GTI's and other hatchback sty
 
 It's actually the preferred option of transporting spare bikes around for the pros during official events, like in the Tour de France.
 
-![Bike rack on top of Team Jumbo Visma support car during 2019 Tour de France](/img/2020/07/jumbovismabikerack.jpg "That was a wild day, Galibier climb, stage 19 of the 2019 Tour de France")
+{{< img jumbovisma >}}
 
 I actually took this photo myself while watching the Tour go by on the Col du Galibier on Stage 18 of the Tour de France in 2019. I'll have to make a separate post just for that day...
 
@@ -51,12 +104,12 @@ While I do not have own one of these bike racks, I did look into them at one poi
 * Can accidentally forget that they're there and driving in to a garage can be **problem**
 * However, they look nice and keep things tidy and out of the way inside the car for normal things
 
-{{< figresize src="/img/2020/07/nicebike.jpg" alt="New bike placed in bike rack on top of old car" width=50% title="It's usually a junky car with a nice bike as opposed to the opposite" >}}
+{{< img nicebike >}}
 
 ### On a tow hitch mounted rack
 I used to own one of these, actually, mounted on my Acura TL that I had at the time. It was quite handy, and is my second-preferred option behind storing my bike inside my car.
 
-![Hitch mounted bike rack with bicycle on back of sedan](/img/2020/07/trunkrack.jpg "It was a nice, but heavy, rack")
+{{< img trunkrack >}}
 
 Some points about this style of transporting your bike:
 
@@ -82,14 +135,14 @@ This is a given in most cases. Unless, of course, you have a fancy hitch-mounted
 ### Quick Release Skewers
 If you have rim mounted brakes, you are likely using traditional quick-release skewers. They're easy to get on and off, and have been the standard arrangement for bike wheels for decades.
 
-![Quick release skewer for road bike](/img/2020/07/skewer.jpg "These are super easy to take off and put back on")
+{{< img skewer >}}
 
 It works like a screw mechanism, with a handle end that clamps down at a perpendicular angle to cinch everything together. You also open up the brake caliper to get more room around the caliper and your tire, and then you simply lift your wheel out of the frame. [Easy Peasy](https://www.youtube.com/watch?v=Hcq-PwYj3TE).
 
 ### Thru Axles
 By now, a lot of people are riding bikes with disc brakes. They're quite effective in my experience (another topic to debate these days, of course), but the additional complexity of managing them can be tricky for newcomers.
 
-![Thru axle for road bike](/img/2020/07/thruaxle.jpg "This one doesn't have the handle, and needs to be removed by a hex wrench")
+{{< img thruaxle >}}
 
 Some have a quick-release-like mechanism that requires using the handle to find a groove to use to unscrew the axle from the other side of the frame, and some don't have a handle at all, relying on a hex wrench to remove the axle from the frame. There are claimed weight savings there, and a certain aesthetic that's nice, but it certainly is more to manage. It's how my bike is and I just deal with it these days, since I don't feel like it takes me very long whenever I need to remove the front wheel.
 
@@ -98,7 +151,7 @@ I actually like to bring a small bag that I got from REI that carries my mechani
 #### Bring a pad spacer
 These little guys are cheap, and sometimes you can get them for free if you ask a bike shop mechanic at a big box store who gets a bunch of bikes at once. 
 
-{{< figresize src="/img/2020/07/padspacer.jpg" alt="Disc brake pad spacer for use when no rotor present" width=50% title="Cheap, but handy" >}}
+{{< img padspacer >}}
 
 It basically mimics having a disc brake rotor inside the caliper when there isn't one physically in there. This is especially important if you have hydraulic disc brakes, because if you grab the brake levers while there is no rotor inside the caliper, you will have to manually press back the calipers and could potentially introduce bubbles into your hydraulic line (which requires you to bleed the system and refill it).
 
@@ -130,7 +183,7 @@ I also try to keep things like backpacks with electronics and jackets / sweaters
 
 All of this roughly translates into a final product like so:
 
-![Rear of SUV full of bicycles and luggage after a long trip to San Diego, California](/img/2020/07/final.jpg "We always collect stuff throughout the trip")
+{{< img final >}}
 
 ### And don't drive like a maniac
 Yeah. Just don't. All your stuff is in there!
@@ -149,4 +202,4 @@ Exploring the world by bicycle is now one of my favorite things to do. Whenever 
 
 Plus, riding a lot while on vacation is not only fun, but you usually burn enough calories doing so that you can really enjoy the food on your vacation! Fish tacos in San Diego are always a good choice.
 
-![Two fish tacos from Oscar's in San Diego, California](/img/2020/07/oscars.jpg "Oscars has some amazing fish tacos, and there are several locations")
+{{< img oscars >}}

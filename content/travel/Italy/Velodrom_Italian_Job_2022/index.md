@@ -367,7 +367,7 @@ Fast forward to about a year ago in 2021 when my buddy and I were looking for a 
 
 In short, it was incredible. But also one of the most difficult weeks of my life.
 
-{{< yt "Promotional video for Velodrom's Italian Job cycling tour" "https://www.youtube.com/embed/kJVxq58Fvlc" "Promotional video for Velodrom's Italian Job cycling tour" >}}
+{{< yt id="kJVxq58Fvlc" alt="Promotional video for Velodrom's Italian Job cycling tour" >}}
 
 ## The mileage for the week
 The overall mileage for the week for me was around 340 miles or 750 kilometers, with 54,000 feet or 16,000 meters of climbing.
@@ -418,7 +418,7 @@ By the way, watch out for the tunnel most of the way up! It's uphill and quite d
 
 At the top of the climb, there are some signs for both the pass itself and the Giro d'Italia. Descending down the other side of this back into Bormio was incredible, being nearly all downhill through trees through some very quintessential Italian villages. I actually have some raw footage of this one!
 
-{{< yt "" "https://www.youtube.com/embed/videoseries?list=PLzrO_Dhk_BJpdK8rPXLnTEQLEoUiVZpSY" "" >}}
+{{< yt id="9vIX2sKz3eo" alt="POV descent of cyclist coming down the Passo Gavia back into Bormio" >}}
 
 ### Day 2: Stelvio, Umbrail, Stelvio (again)
 This day was one of the more memorable days of the trip, as it started out with me actually riding with my buddy, who's bike never made it to Italy due to some flight issues. He made it, of course, but he had to borrow another bike once he finally arrived, nearly 36 hours late. Thanks, [Air Canada](https://www.cbc.ca/news/business/air-canada-flights-july-august-reductions-1.6506451).

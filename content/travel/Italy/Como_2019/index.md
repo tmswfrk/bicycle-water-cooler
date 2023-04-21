@@ -3,12 +3,118 @@ title: "My Favorite Day of Riding...Ever"
 date: 2020-06-29T21:11:09-07:00
 summary: "Lake Como, Bellagio, Museo del Ciclismo, the Muro di Sormano, and gelato."
 description: "It was a truly magnificent cycling adventure around Lake Como in Italy, looping through Bellagio, visiting the Museo del Ciclismo, and tackling the Muro di Sormano."
-image: "/img/2020/06/Como.jpg"
-imagealt: "It was a truly magnificent cycling adventure around Lake Como in Italy. Image contains: bike, Lake Como, Italian mountains, fence, disc brakes, Rapha water bottles."
+image: Como
 categories: ["Bike Travel"]
-tags: ["Italy", "Epic Riding", "Climbing", "Factor O2 VAM"]
+tags: ["Italy", "Epic Riding"]
 keywords: ["Riding a bike in Italy", "Madonna del Ghisallo climb", "Muro di Sormano climb", "Lake Como Cycling", "Bellagio Italy Cycling"]
 draft: false
+resources:
+- src: '*/Como.jpeg'
+  name: "Como"
+  title: ""
+  params:
+    alt: "It was a truly magnificent cycling adventure around Lake Como in Italy. Image contains: bike, Lake Como, Italian mountains, fence, disc brakes, Rapha water bottles."
+- src: '*/Tower.jpg'
+  name: "tower"
+  title: "Definitely not Montreux that day"
+  params:
+    alt: "Bell tower on the coast of Lake Como in Italy"
+    width: 75
+- src: '*/Ghisallo_inside.jpg'
+  name: "Ghisallo_inside"
+  title: "With some other tourists paying homage, I'm sure"
+  params:
+    alt: "Inside the Madonna del Ghisallo church, a shrine to fallen professional cyclists"
+    width: 75
+- src: '*/Centrale.jpg'
+  name: "Centrale"
+  title: "Built in the days of Mussolini, this place is quite a sight to behold"
+  params:
+    alt: "Inside the Milan Centrale train station"
+- src: '*/MeAtLakeComo.jpg'
+  name: "MeAtLakeComo"
+  title: "The adventure!"
+  params:
+    alt: "Cyclist posting with bike over a view out over Lake Como"
+- src: '*/Bellagio_Waterfront.jpg'
+  name: "Bellagio_Waterfront"
+  title: "The waterfront"
+  params:
+    alt: "Tranquility with boats floating by the Bellagio waterfront in Italy"
+- src: '*/Bellagio_Steps.jpg'
+  name: "Bellagio_Steps"
+  title: "These wonderful steps scale beautifully up from the water"
+  params:
+    alt: "Pebbled steps leading upward to shops and restaurants in Bellagio, Italy"
+    width: 75
+- src: '*/ComoLagoBike.jpg'
+  name: "ComoLagoBike"
+  title: "They were closed that day, but what a view!"
+  params:
+    alt: "Bicycle hanging from rack with view out over Lake Como at the Como Lago Bike shop in Bellagio, Italy"
+- src: '*/Ghisallo.jpg'
+  name: "Ghisallo"
+  title: "As we all do when traveling abroad"
+  params:
+    alt: "Road sign with bike parked in front marking the location for the Madonna del Ghisallo church near Bellagio, Italy"
+    width: 50
+- src: '*/MuseoDelCiclismo.jpg'
+  name: "MuseoDelCiclismo"
+  title: "Such a contrast"
+  params:
+    alt: "Modern museum of Museo del Ciclismo in the hills above Bellagio, Italy"
+- src: '*/BikesInARow.jpg'
+  name: "BikesInARow"
+  title: "Brings a new definition to an old school bike"
+  params:
+    alt: "Old bicycles ranging over 100 years of history parked in a row inside the Museo del Ciclismo, a cycling museum"
+- src: '*/Ghisallo_Statue.jpg'
+  name: "Ghisallo_Statue"
+  title: "Second place is just short for the first place loser. Or whatever that translates into Italian"
+  params:
+    alt: "Famous statue of two bike riders with bicycle parked out front overlooking Lake Como"
+    width: 75
+- src: '*/MuroSign01.jpg'
+  name: "MuroSign01"
+  title: "Muro di Sormano!"
+  params:
+    alt: "Cut out sign on a stone wall for the famous Muro di Sormano climb for cyclists"
+- src: '*/MuroSign02.jpg'
+  name: "MuroSign02"
+  title: "Another one!"
+  params:
+    alt: "Sign pointing to the famous Muro di Sormano bicycle climb"
+- src: '*/Sormano.jpg'
+  name: "Sormano"
+  title: "I forgot just how beautiful this part of the ride was"
+  params:
+    alt: "View out over the town of Sormano, Italy with flag pole, green trees, and blue sky with church in the background"
+- src: '*/MuroNumbers.jpg'
+  name: "MuroNumbers"
+  title: "Oh the beautiful pain!"
+  params:
+    alt: "Painted numbers representing elevation in meters on the pavement of famous Muro di Sormano cycling climb"
+- src: '*/SereneLakeComo.jpg'
+  name: "SereneLakeComo"
+  title: "Breathtaking"
+  params:
+    alt: "View out over Lake Como in Italy with green trees in the foreground and mountains in the background"
+- src: '*/Aranciata.jpg'
+  name: "Aranciata"
+  title: "This stuff is heavenly, I wish I could get it here without paying for exorbitant shipping!"
+  params:
+    alt: "Refreshing La Nostra Aranciata orange soda drink at Sartoria Ciclistica after bike ride"
+    width: 50
+- src: '*/Gelato.jpg'
+  name: "Gelato"
+  title: "Mmm..."
+  params:
+    alt: "Gelato ice cream in cup with waffle cookie and spoon sitting on pavement"
+- src: '*/Como_Piazza.jpg'
+  name: "Como_Piazza"
+  title: "Ciao!"
+  params:
+    alt: "Le Fontanelle di Piazza Cavour Como overlooking the lake with docked boats"
 ---
 # Travel + Bike = Happiness
 Back in early 2019, which seems so long ago these days, my girlfriend found something on Instagram for me. It was a local group, based out of San Francisco, called [Mission Cycling](http://missioncycling.org/). They were planning an epic week of riding in France, in the French Alps, of all places. Price was great, timing worked out for me, and I went.
@@ -23,7 +129,7 @@ I was looking back on some photos earlier today and saw some photos of a ride I 
 ### I originally wasn't going to do this one
 On a spur of the moment decision while sitting in my wonderful hotel room in Montreux, Switzerland, overlooking Lake Geneva under a rain storm, I made the decision to skip out on the last few nights of my hotel and onboard a train that took me 4 hours southeast to Milan, Italy.
 
-![Bell tower on the coast of Lake Como in Italy](/img/2020/06/Tower.jpg "Definitely not Montreux that day")
+{{< img tower >}}
 
 # A pilgrammage of sorts
 The ride that I had my eye on previously, that I had been _hoping_ to do while I was out in Europe last year, is a famous one that a lot of cyclists do when visiting the _stupidly beautiful_ region of Lake Como. It follows the lake around from the city of Como, through some tunnels and winding streets, past amazing villas, up to the Madonna del Ghisallo, then back around to Como.
@@ -31,12 +137,12 @@ The ride that I had my eye on previously, that I had been _hoping_ to do while I
 ## Yes, there IS a patron saint of cycling
 I know what you were thinking, could the Italian people BE any more serious about their cycling heritage? The answer is no, and I found out first hand when doing this loop. The highlight of this loop is the Madonna del Ghisallo, a small church dedicated to the patron saint of Cycling (it's an official designation), and houses a variety of cycling related paraphernalia from riders who have, in most cases, met an early demise during their racing careers. A bit humbling, actually.
 
-![Inside the Madonna del Ghisallo church, a shrine to fallen professional cyclists](/img/2020/06/Ghisallo_inside.jpg "With some other tourists paying homage, I'm sure")
+{{< img Ghisallo_inside >}}
 
 ## How I got there
 I found a hotel next to the main train station, the Milano Centrale station, built up my bike from the case, then proceeded to take the 45 minute train ride to Lake Como. Fun aside, I got to go through the Monza region along the way (for any of you racing fans out there).
 
-![Inside the Milan Centrale train station](/img/2020/06/Centrale.jpg "Built in the days of Mussolini, this place is quite a sight to behold")
+{{< img Centrale >}}
 
 Once there, I rode down into town (there's a nice walkway past a crazy hand statue) and found a sweet little coffee shop that had a ton of great bike merch in it. Definitely recommend it if you're in the area: [Sartoria Ciclistica](https://sartoriaciclistica.cc/).
 
@@ -48,18 +154,18 @@ The first part of the ride out of town is the only really "sketchy" part, as the
 ### The most picturesque place I've been to
 I think the most difficult part of this ride for me at the onset of it was not wanting to stop every few hundred meters to take a photo. Or just sit and stare. I simply could not believe my eyes at how stunningly beautiful Lake Como is. It basically made me rethink a lot of my life choices up to that point in order to maximize my time to experience the region. I luckily got a photo of me fairly early on by a father and son who were also visiting on their bikes.
 
-![Cyclist posting with bike over a view out over Lake Como](/img/2020/06/MeAtLakeComo.jpg "The adventure!")
+{{< img MeAtLakeComo >}}
 
 I remember being particularly excited that day wearing my [La Passione](https://us.lapassione.cc/) jersey, as it was about as Italian of a brand as I had on me at the time!
 
 ### Next stop, Bellagio
 I honestly didn't realize that this was the original town that the hotel in Vegas was named after. After having been to both, I definitely would prefer to be at the original. With carefree boats, shoppers and diners, along with beautiful stone steps leading gently up the side of the hill from the water all added to a wonderful atmosphere that just relaxed and excited me.
 
-![Tranquility with boats floating by the Bellagio waterfront in Italy](/img/2020/06/Bellagio_Waterfront.jpg "The waterfront")
+{{< img Bellagio_Waterfront >}}
 
 I could have just sat there all day watching the boats go by.
 
-![Pebbled steps leading upward to shops and restaurants in Bellagio, Italy](/img/2020/06/Bellagio_Steps.jpg "These wonderful steps scale beautifully up from the water")
+{{< img Bellagio_Steps >}}
 
 Or just walked through the stone-lined street markets of the town, I suppose.
 
@@ -68,11 +174,11 @@ Gently rising out of town is the start of the procession that is the Madonna del
 
 You basically wind up and around in through a few small towns, and even cross paths with a bike shop, [Como Lago Bike](https://www.comolagobike.com/) just out of town that regularly hosts group rides.
 
-![Bicycle hanging from rack with view out over Lake Como at the Como Lago Bike shop in Bellagio, Italy](/img/2020/06/ComoLagoBike.jpg "They were closed that day, but what a view!")
+{{< img ComoLagoBike >}}
 
 Eventually you find yourself looking at the Madonna del Ghisallo, towering over the top of a hill, with a pristine view overlooking the lake, looking north, back down towards where you came from. It's here where you likely will want a photo with its sign.
 
-{{< figresize src="/img/2020/06/Ghisallo.jpg" alt="Road sign with bike parked in front marking the location for the Madonna del Ghisallo church near Bellagio, Italy" width=50% title="As we all do when traveling abroad" >}}
+{{< img Ghisallo >}}
 
 ## Spend some time there
 I wish I had known more about the former professional and titanic riders who are featured in the Madonna church. Still, I felt like it was both somber and inviting. The sport has had its share of problems, but remains embracing, as cycling is a huge part of both fitness and transportation for so many people. 
@@ -82,15 +188,15 @@ The nice thing here is that you're allowed to walk right in, cleats and kit and 
 ## Museo del Ciclismo
 In an interesting bit of striking contrast, literally across the parking lot from the Madonna is a very modern looking museum dedicated to cycling. I seriously could have spent _hours_ in here, as this place had hundreds of bikes from every decade that bikes have been a thing in modern society.
 
-![Modern museum of Museo del Ciclismo in the hills above Bellagio, Italy](/img/2020/06/MuseoDelCiclismo.jpg "Such a contrast")
+{{< img MuseoDelCiclismo >}}
 
 Definitely plan to spend some time in here looking at what was deemed "cutting edge" technology in their respective day.
 
-![Old bicycles ranging over 100 years of history parked in a row inside the Museo del Ciclismo, a cycling museum](/img/2020/06/BikesInARow.jpg "Brings a new definition to an old school bike")
+{{< img BikesInARow >}}
 
 Oh! And they give you a euro off the entry fee if you come in with your riding gear! They also have a nice guard attendant who watches your bike for you just outside the entrance. And you get to put on a pair of crocs that they have lying around so that you don't have to walk around in your cleats on their nice floor.
 
-![Famous statue of two bike riders with bicycle parked out front overlooking Lake Como](/img/2020/06/Ghisallo_Statue.jpg "Second place is just short for the first place loser. Or whatever that translates into Italian")
+{{< img Ghisallo_Statue >}}
 
 # What I did next was crazy
 And no, that's not meant to be a clickbait title.
@@ -102,11 +208,11 @@ My turn off didn't take me all the way down the hill, however. It took me back u
 ## Muro di Sormano
 This was entertaining to me, as I kept seeing signs for this like it was some kind of Disneyland attraction in X number of miles. There's actually a decent amount of climbing to be had just to get to the beginning of this climb, too!
 
-{{< figresize src="/img/2020/06/MuroSign01.jpg" alt="Cut out sign on a stone wall for the famous Muro di Sormano climb for cyclists" width=50% title="Muro di Sormano!" >}}
+{{< img MuroSign01 >}}
 
 ...and another one.
 
-![Sign pointing to the famous Muro di Sormano bicycle climb](/img/2020/06/MuroSign02.jpg "Another one!")
+{{< img MuroSign02 >}}
 
 ### A historical aside
 There's a lot more historical context around this [here](https://inrng.com/2017/10/roads-to-ride-the-muro-di-sormano/), but I'll just simply quote them with this:
@@ -119,7 +225,7 @@ There's a lot more historical context around this [here](https://inrng.com/2017/
 
 But then again, you're a cyclist, so you're very likely a masochist when it comes to climbing. I feel like the rewards always pay off in spades. But that's just me, of course. Sormano is a beautiful little town.
 
-![View out over the town of Sormano, Italy with flag pole, green trees, and blue sky with church in the background](/img/2020/06/Sormano.jpg "I forgot just how beautiful this part of the ride was")
+{{< img Sormano >}}
 
 ### Still a bucket list item
 If you're into climbing like I have somehow become (I know, I'm still shocked, too!), this should be on your bucket list. Numerous professional riders have said that this road is "too steep" to race on, and it's an intense one, drenched in history. It averages 14-17% with several pitches well above 25%, and lasts a little more than a mile. No cars are allowed on it, either.
@@ -131,7 +237,7 @@ Besides it also being so beautiful? Well, for me it was the road markings.
 
 Other websites have captured this, too, but there are quotes along the way painted on the road. At the top they actually have the various times that other professional riders have done the climb in. And each meter climbed vertically is represented by its elevation painted on to the road. What this means is that as the road gets steeper, the numbers get closer together. It's a fun and different way to visualize climbing.
 
-![Painted numbers representing elevation in meters on the pavement of famous Muro di Sormano cycling climb](/img/2020/06/MuroNumbers.jpg "Oh the beautiful pain!")
+{{< img MuroNumbers >}}
 
 Riding this road really makes you feel like you're riding on a part of history.
 
@@ -151,18 +257,18 @@ Boats and beautiful houses casually strolling and laying watch to the region.
 
 Flying along on your bike, feeling connected to it all simply because you're the one pedaling the power into the pavement.
 
-![View out over Lake Como in Italy with green trees in the foreground and mountains in the background](/img/2020/06/SereneLakeComo.jpg "Breathtaking")
+{{< img SereneLakeComo >}}
 
 I love descending and enjoying the rush of wind in your face, the leaning of the bike into the curve, the feeling of the centripetal force pushing your tires into the pavement, all of it. This, combined with everything else (not to mention the endorphin rush from all the riding I had been doing for the past week!) truly made this into my favorite day on the bike (so far).
 
 ## Okay, so a few more things
 What's a ride without post ride snacks?
 
-{{< figresize src="/img/2020/06/Aranciata.jpg" alt="Refreshing La Nostra Aranciata orange soda drink at Sartoria Ciclistica after bike ride" width=50% title="This stuff is heavenly, I wish I could get it here without paying for exorbitant shipping!" >}}
+{{< img Aranciata >}}
 
 And gelato of course!
 
-![Gelato ice cream in cup with waffle cookie and spoon sitting on pavement](/img/2020/06/Gelato.jpg "Mmm...")
+{{< img Gelato >}}
 
 ## Do this ride. Seriously.
 Whenever I have a rough day at work, or maybe life is just stressing me out and getting me down, I think back on this day (and the previous trip in the Alps!). It's a wonderful experience to think back on for all of the above reasons and more. I did this solo, I did it not thinking of the expense at forgoing my hotel fees back in Montreux, and instead opted to follow my heart and run off and ride my bike somewhere magical.
@@ -173,4 +279,4 @@ It's a wonderful feeling to feel like you've grown up, that you've been able to 
 
 So until next time, Como, Ciao!
 
-![Le Fontanelle di Piazza Cavour Como overlooking the lake with docked boats](/img/2020/06/Como_Piazza.jpg "Ciao!")
+{{< img Como_Piazza >}}

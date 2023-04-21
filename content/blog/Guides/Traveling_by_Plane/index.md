@@ -3,12 +3,53 @@ title: "Traveling With Your Bike by Plane"
 date: 2020-08-01T17:04:58-07:00
 summary: "The next horizon when it comes to traveling with your bike."
 description: "Bringing your bike with you on an international trip is easy with some careful planning and some basic knowledge."
-image: "/img/2020/08/bikeboxalan_packedup.jpg"
-imagealt: "Bringing your bike with you on an international trip is easy with some careful planning and some basic knowledge. Image contains: BikeBoxAlan bike box, packed bicycle, stickers."
+image: bikeboxalan_packedup
 categories: ["Bike Travel"]
-tags: ["Plane Travel", "BikeBoxAlan"]
+tags: ["Travel"]
 keywords: ["Traveling with you bicycle on a plane", "airline liability and bike boxes", "tips and tricks when packing a bicycle into a case", "recommended bike boxes"]
 draft: false
+resources:
+- src: '*/bikeboxalan_packedup.jpeg'
+  name: "bikeboxalan_packedup"
+  title: ""
+  params:
+    alt: "Bringing your bike with you on an international trip is easy with some careful planning and some basic knowledge. Image contains: BikeBoxAlan bike box, packed bicycle, stickers."
+- src: '*/tcr_in_box_01.jpg'
+  name: "tcr_in_box_01"
+  title: "My Giant TCR inside my BikeBoxAlan case, laying in the case with basic velcro straps mounted"
+  params:
+    alt: "Giant TCR inside BikeBoxAlan case step 1"
+    exclude_gps: true
+- src: '*/tcr_in_box_02.jpg'
+  name: "tcr_in_box_02"
+  title: "My Giant TCR inside my BikeBoxAlan case, with additional rags and padding on top of areas that need additional support like the brake hoods"
+  params:
+    alt: "Giant TCR inside BikeBoxAlan case step 2 with additional rags and padding"
+    exclude_gps: true
+- src: '*/tcr_in_box_03.jpg'
+  name: "tcr_in_box_03"
+  title: "My Giant TCR inside my BikeBoxAlan case with additional included foam pad to separate the wheels from the frame inside the case"
+  params:
+    alt: "Giant TCR inside BikeBoxAlan case step 3 with included foam padding on top"
+    exclude_gps: true
+- src: '*/tcr_in_box_04.jpg'
+  name: "tcr_in_box_04"
+  title: "My Giant TCR inside my BikeBoxAlan case, all ready to go for its flight to Girona, Spain!"
+  params:
+    alt: "Giant TCR inside BikeBoxAlan case step 4 ready for airline travel"
+    exclude_gps: true
+- src: '*/broken_hangar.jpg'
+  name: "hangar"
+  title: "I'm just glad this waited to happen until AFTER Rococorba!"
+  params:
+    alt: "Hanging rear derailleur because derailleur hangar broke off"
+    width: 50
+- src: '*/packing.gif'
+  name: "packing"
+  title: "Gotta pack for that bike trip!"
+  params:
+    alt: "Furiously Packing at the last minute for a bike trip abroad"
+    width: 50
 ---
 # Oh, plane travel. What we all used to do.
 I write this post with a bit of nostalgia, as I am living in the US and the great pandemic of 2020 is still in full flux. Unfortunately. So, by my own way of reliving some fond memories, I wanted to write a few things about traveling with your bike on a plane.
@@ -56,12 +97,7 @@ If you're really serious about transporting a very nice road bike, get a [BikeBo
     * Previous iterations don't play nice with larger tires
     * Requires you to use an extra tire skewer to attach wheel to case lid
 
-{{< grid 
-    img1src="/img/2020/08/tcr_in_box_01.jpg" img1alt="Giant TCR inside BikeBoxAlan case step 1" img1title="My Giant TCR inside my BikeBoxAlan case, laying in the case with basic velcro straps mounted"
-    img2src="/img/2020/08/tcr_in_box_02.jpg" img2alt="Giant TCR inside BikeBoxAlan case step 2 with additional rags and padding" img2title="My Giant TCR inside my BikeBoxAlan case, with additional rags and padding on top of areas that need additional support like the brake hoods"
-    img3src="/img/2020/08/tcr_in_box_03.jpg" img3alt="Giant TCR inside BikeBoxAlan case step 3 with included foam padding on top" img3title="My Giant TCR inside my BikeBoxAlan case with additional included foam pad to separate the wheels from the frame inside the case"
-    img4src="/img/2020/08/tcr_in_box_04.jpg" img4alt="Giant TCR inside BikeBoxAlan case step 4 ready for airline travel" img4title="My Giant TCR inside my BikeBoxAlan case, all ready to go for its flight to Girona, Spain!"
->}}
+{{< img 2 tcr_in_box_01 tcr_in_box_02 tcr_in_box_03 tcr_in_box_04 >}}
 
 Oh, and a small thing I did with my case - I wrapped a couple layers of electrical tape on the end of the anti-crush pole. On its own, it wobbles a bit inside the cap it fits into, so in case someone opens the case to look at your bike, it's very likely they will pop that thing off and suddenly not know what to do with it. At least with the tape, it stays in place a bit better!
 
@@ -83,7 +119,7 @@ A few key points I want to emphasize here based on my personal experience:
 ### Recommendation: take off the rear derailleur
 It's not hard to put it back on, especially if you have a DI2 set up like I do (make sure to bring a {{< amzn asin="B00884323M" text="di2 tool" >}}). Take a photo of what angle it's at if you're concerned about getting it right yourself, too. It's worth doing so that this doesn't happen to you:
 
-{{< figresize src="/img/2020/08/broken_hangar.jpg" alt="Hanging rear derailleur because derailleur hangar broke off" width=50% title="I'm just glad this waited to happen until AFTER Rococorba!" >}}
+{{< img hangar >}}
 
 The rear derailleur on your bike connects to your frame via a small _derailleur hangar_, which is basically designed to break off if there is stress in the chain or your frame. This way, your frame isn't destroyed simply because of this small connection between it and your rear mech. Instead, the inexpensive derailleur hangar breaks and you replace it instead. 
 
@@ -103,6 +139,6 @@ I brought a bunch of tools with me on the last trip I did out to France in July 
 ### Perform a trial (packing) run
 Do this at least a day or two before you leave for your trip. In case you forget anything, you still want some time to run out and grab something from your local bike shop. It's basically the same thing most people who travel frequently do anyway, but just...with a bike.
 
-{{< figresize src="/img/2020/08/packing.gif" alt="Furiously Packing at the last minute for a bike trip abroad" width=50% title="Gotta pack for that bike trip!" >}}
+{{< img packing >}}
 
 Now just sit back, put your tray tables in their upright position, and enjoy your flight. You have cycling to enjoy!
