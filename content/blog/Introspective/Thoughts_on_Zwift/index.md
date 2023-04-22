@@ -52,12 +52,13 @@ resources:
   params:
     alt: "Stock image of a bicycle trainer that uses fluid to provide resistance for physical training"
     width: 50
-- src: '*/terror.jpg'
+- src: '*/terror.jpeg'
   name: "terror"
   title: "Still strikes terror in my heart"
   params:
     alt: "Stock image of a cyclist on a bicycle that is on a set of bike rollers for use with coordination training"
     width: 50
+    exclude_gps: true
 - src: '*/supertuck.jpg'
   name: "supertuck"
   title: "Look at how pro I am! Virtually, of course"
