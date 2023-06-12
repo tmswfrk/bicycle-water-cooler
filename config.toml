@@ -5,7 +5,6 @@ title                    = "Bicycle Water Cooler"
 theme                   = "persian"
 preserveTaxonomyNames   = true
 paginate                = 7 # odd number works best here
-googleAnalytics         = ""
 pluralizeListTitles     = false
 disableLanguages        = [""]
 enableRobotsTXT         = true
@@ -30,21 +29,19 @@ canonifyURLs            = true
   reviews = "/:section/:title/"
 
 [params]
-  search            = true # enables search, from Persian theme
-  searchJSONFile    = "search.json"
-  siteName          = "Bicycle Water Cooler"
-  logo              = "/img/bwc_350x116_light.png"
-  logo_dark         = "/img/bwc_350x116_dark.png"
-  oglogo            = "/img/bwc_oglogo.jpg"
-  # disableDarkMode = true
-  #logoAlt          = "Bicycle Water Cooler | Join the virtual water cooler conversation about bikes, travel, and tech."
-  logoAlt           = "Your online blog resource for bikes, travel, and tech. Come join the conversation."
-  ga_analytics      = "UA-172930899-1" # added myself
-  google_analitycs_id = "UA-172930899-1" # used in footer.html, pulled from Persian theme
-  amzn_associate_id = "bicyclewate08-20"
-  mainSections      = ["blog", "travel", "reviews", "tech"]
-  copyright         = "James Clarke"
-  customCss         = ["css/custom.css"] # come back to this? implement grid for bikebox pics
+  search             = true # enables search, from Persian theme
+  searchJSONFile     = "search.json"
+  siteName           = "Bicycle Water Cooler"
+  logo               = "/img/bwc_350x116_light.png"
+  logo_dark          = "/img/bwc_350x116_dark.png"
+  oglogo             = "/img/bwc_oglogo.jpg"
+  logoAlt            = "Your online blog resource for bikes, travel, and tech. Come join the conversation."
+  GoogleAnalytics    = "UA-172930899-1" # old, was used by both Persian theme and Hugo's default Google Analytics template
+  GoogleAnalyticsGA4 = "G-C8JQPGLB4F" # see: https://gist.github.com/zjeaton/42246742cdaf2fb46400d04c2eba9a8a#file-analytics-gtag-html
+  amzn_associate_id  = "bicyclewate08-20"
+  mainSections       = ["blog", "travel", "reviews", "tech"]
+  copyright          = "James Clarke"
+  customCss          = ["css/custom.css"] # come back to this? implement grid for bikebox pics
 
   # Add additional section names to mainSections to include posts from
   # those sections on the homepage.
