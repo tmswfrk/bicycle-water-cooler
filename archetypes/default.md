@@ -1,6 +1,27 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-draft: true
+description: ""
+image: ""
+categories: [""]
+tags: [""]
+keywords: [""]
+draft: false
+resources:
+- src: ''
+  name: ""
+  title: ""
+  params:
+    alt: ""
+- src: ''
+  name: ""
+  title: ""
+  params:
+    alt: ""
+- src: ''
+  name: ""
+  title: ""
+  params:
+    alt: ""
 ---
 
