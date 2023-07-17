@@ -32,7 +32,7 @@
               <span>{{ .PublishDate.Format "02" }}</span>
               <span>{{ .PublishDate.Format "Jan" }}</span>
             </div>
-            <h2 class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+            <h2 class="post-title"><a href="{{ .Permalink }}" target="_self">{{ .Title }}</a></h2>
             {{ partial "mainimagetaglinks" . }}
           </div>
         </div>
@@ -46,7 +46,7 @@
               <span>{{ .PublishDate.Format "02" }}</span>
               <span>{{ .PublishDate.Format "Jan" }}</span>
             </div>
-            <h2 class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+            <h2 class="post-title"><a href="{{ .Permalink }}" target="_self">{{ .Title }}</a></h2>
             {{ partial "mainimagetaglinks" . }}
           </div>
         </div>
@@ -71,7 +71,7 @@
           <!-- Previous page. -->
           {{ if $paginator.HasPrev }}
           <li class="page-item">
-            <a href="{{ $paginator.Prev.URL }}" class="page-link">
+            <a href="{{ $paginator.Prev.URL }}" class="page-link" target="_self">
               &laquo;
             </a>
           </li>
@@ -108,7 +108,7 @@
           <!-- Output page numbers. -->
           {{ if eq ($.Scratch.Get "page_number_flag") true }}
           <li class="page-item{{ if eq . $paginator }} page-item active {{ end }}">
-            <a href="{{ .URL }}" class="page-link">
+            <a href="{{ .URL }}" class="page-link" target="_self">
               {{ .PageNumber }}
             </a>
           </li>
@@ -117,7 +117,7 @@
           <!-- Next page. -->
           {{ if $paginator.HasNext }}
           <li class="page-item">
-            <a href="{{ $paginator.Next.URL }}" class="page-link">
+            <a href="{{ $paginator.Next.URL }}" class="page-link" target="_self">
               &raquo;
             </a>
           </li>

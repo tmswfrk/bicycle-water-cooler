@@ -3,7 +3,7 @@
   <div class="container-fluid">
     <!-- navbar -->
     <nav class="navbar navbar-expand-lg navbar-light">
-      <a class="navbar-brand" href="{{ .Site.BaseURL | relLangURL }}">
+      <a class="navbar-brand" href="{{ .Site.BaseURL | relLangURL }}" target="_self">
         {{ if .Site.Params.logo }}
         <img class="img-fluid" width="250px" src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}">
         {{ else }}
@@ -20,18 +20,18 @@
           {{ if .HasChildren }}
           <li class="nav-item dropdown">
             <a class="nav-link" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
-              aria-expanded="false">
+              aria-expanded="false" target="_self">
               {{ .Name }} <i class="ti-angle-down ml-1"></i>
             </a>
             <div class="dropdown-menu">
               {{ range .Children }}
-              <a class="dropdown-item" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+              <a class="dropdown-item" href="{{ .URL | absLangURL }}" target="_self">{{ .Name }}</a>
               {{ end }}
             </div>
           </li>
           {{ else }}
           <li class="nav-item">
-            <a class="nav-link" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+            <a class="nav-link" href="{{ .URL | absLangURL }}" target="_self">{{ .Name }}</a>
           </li>
           {{ end }}
           {{ end }}
@@ -42,7 +42,7 @@
         <div class="search px-4">
           <button id="searchOpen" class="search-btn"><i class="ti-search"></i></button>
           <div class="search-wrapper">
-            <form action="{{ `search`| relLangURL }}" class="h-100">
+            <form action="{{ `search`| relLangURL }}" class="h-100" target="_self">
               <input class="search-box pl-4" id="search-query" name="s" type="search" placeholder="Type and hit enter...">
             </form>
             <button id="searchClose" class="search-close"><i class="ti-close text-dark"></i></button>

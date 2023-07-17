@@ -1,0 +1,25 @@
+{{ $id := .Get "id" }}
+<style>
+.iframe-embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    height: 100%;
+    width: 100%;
+    border: 0;
+}
+.iframe-embed-wrapper {
+    position: relative;
+    display: block;
+    min-height: 500px;
+    padding: 0;
+    overflow: hidden;
+}
+</style>
+
+<div class="iframe-embed-wrapper" >
+    <iframe class="iframe-embed" src="https://connect.garmin.com/modern/activity/embed/{{ $id }}" 
+        title="Los Gatos Road Cycling" frameborder='0'>
+    </iframe>
+</div>

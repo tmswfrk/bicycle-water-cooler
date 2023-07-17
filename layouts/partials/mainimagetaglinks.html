@@ -11,13 +11,13 @@
             <li class="list-inline-item"><i class="ti-tag"></i></li>
             {{- range $tags }}
             <li class="list-inline-item">
-                <a href="{{ `tags/` | relLangURL }}{{ . | urlize | lower }}/">{{ . | humanize }}</a>
+                <a href="{{ `tags/` | relLangURL }}{{ . | urlize | lower }}/" target="_self">{{ . | humanize }}</a>
             </li>
             {{- end }}
         </ul>
         {{- if (isset .Params "author") }}
         <span><i class="ti-user mr-2"></i><a
-            href="{{ `author/` | relLangURL }}{{ .Params.author | urlize }}/">{{ .Params.author }}</a></span>
+            href="{{ `author/` | relLangURL }}{{ .Params.author | urlize }}/" target="_self">{{ .Params.author }}</a></span>
         {{- end }}
     </div>
     {{- end }}

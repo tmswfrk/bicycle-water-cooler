@@ -18,6 +18,8 @@ AUTHOR WEBSITE: https://themefisher.com
     {{ else }}
     <title>{{ .Title }} | {{ .Site.Title }}</title>
     {{ end -}}
+    {{- "<!-- set default value to open all links in a new window / tab -->" | safeHTML }}
+    <base target="_blank">
     {{- with .Site.Params.ga_verify }}
     <meta name="google-site-verification" content="{{ . }}" />
     {{- end }}
