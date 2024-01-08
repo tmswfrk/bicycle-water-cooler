@@ -48,10 +48,10 @@
       {{- $altText := printf "%s %s %s" $page.Title $page.Type $page.Summary -}}
       {{- $width := printf "%d" 100 -}}
       {{- with $image.Params -}}
-        {{- with $image.Params.Get "alt" }}{{ $altText = $image.Params.Get "alt" }}{{ end -}}
-        {{- with $image.Params.Get "width" }}{{ $width = $image.Params.Get "width" }}{{ end -}}
+        {{- with index $image.Params "alt" }}{{ $altText = . }}{{ end -}}
+        {{- with index $image.Params "width" }}{{ $width = . }}{{ end -}}
       {{- end -}}
-      {{- $exclude_gps := $image.Params.Get "exclude_gps" }}
+      {{- $exclude_gps := index $image.Params "exclude_gps" }}
       {{- if not $exclude_gps }}
       {{- if and (ne $image_lat "") (ne $image_long "") }}<a href="{{ printf "https://www.google.com/maps/search/?api=1&query=%f,%f" $image_lat $image_long }}" target="_blank">{{ end -}}
       {{ end }}
@@ -86,7 +86,7 @@
             {{- end -}}
             
               {{- /* Only show Google Maps URL if we have both latitude and longitude values */ -}}
-              {{- $exclude_gps := $image.Params.Get "exclude_gps" }}
+              {{- $exclude_gps := index $image.Params "exclude_gps" }}
               {{- if not $exclude_gps }}
               {{- if and (ne $image_lat "") (ne $image_long "") }}<a href="{{ printf "https://www.google.com/maps/search/?api=1&query=%f,%f" $image_lat $image_long }}" target="_blank">{{ end }}
               {{ end }}
@@ -99,7 +99,7 @@
                   class="lazyload image"
                   {{- $altText := printf "%s %s %s" $page.Title $page.Type $page.Summary -}}
                   {{- with $image.Params -}}
-                  {{ $altText = $image.Params.Get "alt" }}
+                  {{ $altText = index $image.Params "alt" }}
                   {{ end -}}
                   alt="{{- $altText }}"
                   title="{{- $image.Title }}"

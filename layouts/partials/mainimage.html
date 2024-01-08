@@ -16,7 +16,7 @@
         {{ $image_match := (.Resources.ByType "image").GetMatch (.Params.image) }}
         {{ with $image_match }}
         {{ $image_url = $image_match.Permalink }}
-        {{- with $image_match.Params.Get "alt" }}{{ $image_alt = . }}{{ end -}}
+        {{- with index $image_match.Params "alt" }}{{ $image_alt = . }}{{ end -}}
         {{- with $image_match.Title }}{{ $image_title = . }}{{ end -}}
         {{ end }}
         {{- else -}}
