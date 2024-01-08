@@ -182,7 +182,7 @@ link = "plugins/bootstrap/bootstrap.min.css"
 link = "plugins/themify-icons/themify-icons.css"
 [[params.plugins.css]]
 link = "plugins/css/imggrid.css"
-[[params.plugins.css]]
+[[params.plugins.custom]]
 link = "plugins/css/custom.css"
 
 # JS Plugins

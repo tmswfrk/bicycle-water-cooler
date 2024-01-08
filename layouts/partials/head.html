@@ -50,8 +50,8 @@ AUTHOR WEBSITE: https://themefisher.com
     {{ $styles := resources.Get "scss/style.scss" | toCSS }}
     <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
     {{ "<!-- Custom Stylesheets -->" | safeHTML }}
-    {{ range .Site.Params.customCss -}}
-    <link rel="stylesheet" href="{{ . | absURL }}" media="screen">
+    {{ range .Site.Params.plugins.custom -}}
+    <link rel="stylesheet" href="{{ .link | absURL }}" media="screen">
     {{- end }}
   
     {{ with .Params.Image }}
