@@ -13,7 +13,8 @@
     <div class="row" id="search-results"></div>
     <script id="search-result-template" type="text/x-js-template">
       <div class="col-md-6 mb-4" id="summary-${key}">
-        <div class="post post-sm">
+        <div class="post post-sm dimmable linkable-div">
+          <a href="{{ .Permalink }}" target="_self" style="display: block;"><span class="linkable-span"></span></a>
           <img src="${imageUrl}" class="img-fluid w-100" alt="${title}">
           <div class="post-content">
             <div class="post-date">
