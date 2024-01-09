@@ -26,7 +26,8 @@
       {{ end }}
       {{ if eq $index 0}}
       <div class="col-12 mb-4">
-        <div class="post">
+        <div class="post dimmable linkable-div">
+          <a href="{{ .Permalink }}" target="_self" style="display: block;"><span class="linkable-span"></span></a>
           <img src="{{ $image_url }}" class="img-fluid w-100" alt="{{ .Title }}">
           <div class="post-content">
             <div class="post-date">
@@ -45,7 +46,8 @@
       </div>
       {{ else }}
       <div class="col-md-6 mb-4">
-        <div class="post post-sm">
+        <div class="post post-sm dimmable linkable-div">
+          <a href="{{ .Permalink }}" target="_self" style="display: block;"><span class="linkable-span"></span></a>
           <img src="{{ $image_url }}" class="img-fluid w-100" alt="{{ .Title }}">
           <div class="post-content">
             <div class="post-date">
