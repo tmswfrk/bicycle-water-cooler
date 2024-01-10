@@ -1,0 +1,156 @@
+---
+title: "How this Website Works"
+date: 2024-01-09T18:58:27-08:00
+description: "Curious about how the Bicycle Water Cooler works from a tech point of view? Let me give you a quick overview."
+image: "screen"
+categories: ["Technology"]
+tags: ["Technology", "Hugo", "Golang"]
+keywords: [
+  "Creating a static website with Hugo",
+  "Microsoft Azure static website Hugo",
+  "Create a bike blog",
+  "hosting a website",
+  "host a website from Azure blob store",
+]
+draft: false
+resources:
+- src: '*/screen.jpg'
+  name: "screen"
+  title: "Google search \"stock image\" and you'll get all kinds of stuff like this one!"
+  params:
+    alt: "Stock image of glasses in front of code on a computer screen"
+- src: '*/zerowatts.jpg'
+  name: "zerowatts"
+  title: "I still have this Garmin 810 around somewhere"
+  params:
+    alt: "Garmin 810 cycling computer showing no metrics"
+    exclude_gps: true
+- src: '*/desk.jpg'
+  name: "desk"
+  title: "An old photo of my desk from way back in the day, I think I meant it to be artsy?"
+  params:
+    alt: "Dimly lit monitors on a computer desk"
+    exclude_gps: true
+- src: '*/cloud.jpg'
+  name: "cloud"
+  title: "It's out there somewhere!"
+  params:
+    alt: "Clouds in the sky at sunset"
+---
+# Talk Techy to Me
+So this post isn't really about bike riding. Unfortunately. Zero watts this time.
+
+{{< img zerowatts >}}
+
+I know, I know, it's a bike blog. But it's also a _tech_ blog, too!
+
+I thought it might be nice to share a bit more about how I manage this site and how I initially created it. It's actually taken me quite a bit of time, often with the largest of changes never really being noticed.
+
+# Components to a "Simple" Web Site
+Gone are the days where people wrote direct html when creating a web page. No more [Geocities](https://www.howtogeek.com/692445/remembering-geocities-the-1990s-precursor-to-social-media/), no more [Notepad++](https://notepad-plus-plus.org/) editing of html.
+
+In short, people _generate_ html in most cases these days.
+
+# In Enters "Markdown"
+In a lot of cases, you write a website page in what's called _markdown_, a "language" that you typically see across wiki sites like [Wikipedia](https://www.wikipedia.org/), where you write content with various short "codes" that tell some kind of system how to structure and style the final html.
+
+As an example, when I write a [page]({{< ref "/travel/Italy/Velodrom_Italian_Job_2022/index.md" >}}) for this site, it looks like this inside my editor of choice (usually [VSCode](https://code.visualstudio.com/)):
+```
+## The Italian Alps
+Prior to this trip, I honestly thought most of northern Italy was all considered "the Dolomites." Turns out that this isn't the case, as the Dolomites are technically more east within this region, while the western part is actually part of the Alps. Yeah, the same ones you hear about in France and Switzerland.
+
+Our trip started with a bus ride from Milan to the town of [Bormio](https://goo.gl/maps/q9rvUcHv2jar6YT39). It was wonderful driving back past [Lake Como](https://goo.gl/maps/LogCGbq2ijkXwWHKA), which made me giddy to relive a little bit of my [ride there back in 2019]({{</* ref "/travel/Italy/Como_2019/index.md" */>}}).
+
+### Day 1: Mortiolo and Gavia
+We started off the first day of riding by splitting our start times into two groups. I went with the "faster" group, which, looking back on it, was a bit ambitious of me! We left the hotel we were staying at in Bormio and headed out. Extremely quickly, I'll add, as the roads south of Bormio generally descend through a magnificent valley.
+
+* Strava Route: [The Italian Job, Stage 1, Pedaling with Pantani: Mortirolo and Gavia](https://www.strava.com/activities/7451473006)
+```
+It looks like text, so it's _generally_ easy to learn, but there _are_ some new things to learn here. 
+
+## A Quick Example
+To illustrate a simple example, if you want to generate a standard, old-school html link like so:
+```
+<a href="https://www.bicyclewatercooler.com/">My Super Cool Website!</a>
+```
+(which renders like [My Super Cool Website!]({{< ref "/" >}}) by the way)
+
+You can create it in-line with other content with:
+```
+Go to [My Super Cool Website!](https://www.bicyclewatercooler.com/) now!
+```
+Despite that demanding directive, it's not really my intention in this blog post to teach you markdown, though. So if you want to know more, I'd check [markdownguide.org](https://www.markdownguide.org/) or any other many, many resources that are available to you online.
+
+In general, though, markdown is pretty easy to learn the basics of and is easy to get started with. Chances are you're already familiar with it from somewhere else!
+
+# Generating Valid HTML Code
+Once you have some content for my website, you need some kind of generation tool to translate that content into something that looks nice. I mean, that's the reason you're here, right?
+
+## Hugo, a Golang-Based HTML Generation Tool
+This website is generated by a [Golang](https://go.dev/)-based framework called [Hugo](https://gohugo.io/). 
+
+I work in Golang every day for work, so it made sense to find something that fit my existing knowledge set. It was actually a coworker of mine back in 2019 who told me about it originally, as he had already created his site with it. Despite its origin, you _don't really need to know Golang_ to use Hugo - it just helps.
+
+Hugo has a really cool inheritance-like structure of folders that allow various levels of "overrides" for things like layouts, templates, shortcodes - all of those kinds of things. Based on how you structure your folders and files, you can do some really interesting things on top of existing "themes", most of which are free.
+
+Yup, free! Check out a comprehensive list of Hugo Themes [here](https://themes.gohugo.io/) if you don't believe me. Most of these links take you to a Github repository of code that you can freely utilize in your own project, assuming that there are no strict licensing restrictions, of course.
+
+In fact, when doing my work locally, I have a separate [`git submodule`](https://git-scm.com/book/en/v2/Git-Tools-Submodules) that I use so that I don't end up accidentally committing code that isn't mine to my repository where I keep all of this code.
+
+{{< img desk >}}
+
+[Github](https://github.com) speak. What nerds!
+
+## Additional References For Hugo
+- [Hugo Github Page](https://github.com/gohugoio/hugo)
+- [Hugo Official Documentation](https://gohugo.io/documentation/)
+- [LogRocket Blog Post](https://blog.logrocket.com/build-an-app-with-hugo/)
+- Google searching!
+
+As long as your website can be static, meaning that you aren't doing fancy stuff like connecting to a database and dynamically building pages from it, Hugo can be a great way to easily maintain a site.
+
+# Hosting that Code Somewhere
+Okay, so glossing over a lot of the Hugo folder structure and how to create unique shortcodes and layouts, once you have your code generated, you need somewhere online to put it.
+
+If you're familiar with web design or web hosting, you're probably a step ahead of me already.
+
+Most people "host" a website from another website generator / engine like (what used to be) blogspot or wordpress. If you go with Hugo, you need to do this a bit more manually, which is often something people get very nervous about, as it often requires a server, paying for that server, installing things there, keeping packages updated, etc etc.
+
+You could do that, sure, but luckily I've found an easier way to do it, assuming you're at least generally familiar with [Microsoft Azure](https://portal.azure.com/).
+
+# Serving that Code
+Azure has a neat feature I found as I was beginning this site. It actually lets you serve static content in the form of a website directly from a blob store. And yes, that's `blob` not `blog`.
+
+This means that you no longer need to set up a separate web server like [Apache](https://httpd.apache.org/) or [Nginx](https://nginx.org/en/) to run an actively running application server.
+
+## Azure Blob Storage
+The term `blob` generally just means some kind of _unstructured_ data in today's world. So when someone mentions this in the form of [Amazon's S3](https://aws.amazon.com/s3/), as an example, they're referring to the same thing. Basically just imagine it as another folder on your computer that actually exists in the cloud somewhere.
+
+{{< img cloud >}}
+
+What's super handy about this stuff is that it is largely just data [at-rest](https://en.wikipedia.org/wiki/Data_at_Rest), doesn't take up very much space (it's just text, after all), and can be served for _pennies_ when it comes to billing.
+
+Cool!
+
+## Content Delivery Network (CDN)
+Even further, you can configure this static website in Azure to run from behind their [CDN](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/), meaning that your data files are actually copied to various data centers (well, [POPs](https://networkencyclopedia.com/point-of-presence-pop/)) all over the world.
+
+So even though I live in California, my website can be reached just as quickly from Spain or even India, because they're downloading these text files and images from a data center that's far closer to them than California is.
+
+## Additional Information
+- [Getting Started Azure Docs](https://learn.microsoft.com/en-us/azure/static-web-apps/getting-started)
+- [The only guide you need for a static website in Azure](https://itnext.io/the-only-guide-you-need-for-a-static-website-in-azure-part-1-create-a-static-website-da00ddc85f2d) (their words)
+
+# The Domain (url)
+Once all of this is working, the link you get to your static website is actually a bit obscure. Not exactly easily findable. It's something like `https://<az_storage_acct>.z5.web.core.windows.net/`.
+
+Luckily enough, this part is similar to other web hosting. You go to a domain registry service, pick a domain name, hope it's available, then pay for it. You configure it to redirect any incoming traffic to the name you've registered to the Azure CDN url you've previously set up.
+
+There's a really good set of instructions for this over at [Namecheap.com](https://www.namecheap.com/support/knowledgebase/article.aspx/9846/2208/how-to-point-a-domain-to-azure/) that I can recommend. They're also where I registered my site, as they are also a domain registry service.
+
+# Wrap Up
+This post wasn't intended to be anything too complicated or deep-divey, but I did want to post something about the way I maintain this site. 
+
+Maybe it'll capture more audience, or perhaps it'll inspire you to start your own blog, I'm not sure, but I'll definitely try to write more on the topic, as I think it's a fascinating story to tell.
+
+I don't know about you, but I think it's time to stop talking about all this tech stuff and go for a ride!
