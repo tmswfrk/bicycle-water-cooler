@@ -72,6 +72,7 @@ canonifyURLs            = true
     description         = "Bicycle Water Cooler Blog | Biking, Travel, Tech, Reviews"
     # Sets the meta tag author
     author              = "James Clarke"
+    email               = "bicyclewatercooler@gmail.com"
     keywords            = [
       "bicycle water cooler",
       "cycling",
