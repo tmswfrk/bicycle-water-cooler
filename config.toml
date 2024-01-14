@@ -29,6 +29,7 @@ canonifyURLs            = true
   reviews = "/:section/:title/"
 
 [params]
+  defaultAlt         = "Bicyclist looking out over the town of Vaujany, France. Image contains: France, view, church, clouds, road, cyclist, road signs, houses"
   search             = true # enables search, from Persian theme
   searchJSONFile     = "search.json"
   siteName           = "Bicycle Water Cooler"

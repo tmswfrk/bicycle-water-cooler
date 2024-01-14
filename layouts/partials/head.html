@@ -9,36 +9,122 @@ AUTHOR: Themefisher
 AUTHOR WEBSITE: https://themefisher.com
 
 -->
-
-
 <head>
     <meta charset="utf-8">
-    {{- if .IsHome }}
-    <title>{{ .Site.Params.Meta.Description }}</title>
-    {{ else }}
-    <title>{{ .Title }} | {{ .Site.Title }}</title>
-    {{ end -}}
-    {{- "<!-- set default value to open all links in a new window / tab -->" | safeHTML }}
+
+    {{ "<!-- set default value to open all links in a new window / tab -->" | safeHTML }}
     <base target="_blank">
-    {{- with .Site.Params.ga_verify }}
-    <meta name="google-site-verification" content="{{ . }}" />
+
+    {{ "<!-- Locale and Top Level Info -->" | safeHTML }}
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:url" content="{{ .Permalink }}" />
+    <meta property="og:site_name" content="{{ .Site.Title }}" />
+
+    {{ "<!-- Title Details -->" | safeHTML }}
+    {{- $title := printf "%s | %s" .Title .Site.Title }}
+    {{- if .IsHome }}
+    {{- $title = .Site.Params.Meta.Description -}}
     {{- end }}
-  
-    <!-- google analytics -->
-    {{ if not (in (.Site.BaseURL | string) "localhost") }}
-    {{- partial "analytics" . }}
+    <title>{{ $title }}</title>
+    <meta property="og:title" content="{{ $title }}" />
+    <meta property="twitter:title" content="{{ $title }}" />
+
+    {{ "<!-- Keywords -->" | safeHTML }}
+    {{- $keywords := delimit .Keywords ", " -}}
+    {{- if .IsHome -}}
+    {{- $keywords = delimit .Site.Params.Meta.Keywords ", " -}}
+    {{- end }}
+    <meta property="keywords" content="{{ $keywords }}" />
+
+    {{ "<!-- Tags -->" | safeHTML }}
+    {{ if .IsHome -}}
+    {{- range .Site.Params.Meta.Keywords -}}
+    {{- if ne . "" -}}
+    <meta property="og:article:tag" content="{{ . }}" />
+    {{ end -}}
     {{- end -}}
-    {{- partial "opengraph" . }}
-    {{- partial "favicon" . }}
-    {{- partial "ldjson" . }}
+    {{- end -}}
+    {{- range .Params.Tags -}}
+    {{- if ne . "" -}}
+    <meta property="og:article:tag" content="{{ . }}" />
+    {{ end }}
+    {{- end -}}
+
+    {{- with .Site.Params.ga_verify }}
+    {{- "<!-- Google GA Verify -->" | safeHTML -}}
+    <meta property="google-site-verification" content="{{ . }}" />
+    {{- end -}}
+
+    <!-- google analytics -->
+    {{- if not (in (.Site.BaseURL | string) "localhost") }}
+    {{- partial "analytics" . }}
+    {{- end }}
+
+    {{ "<!--Favicon-->" | safeHTML }}
+    <link rel='apple-touch-icon' sizes='180x180' href='{{ absURL "/img/apple-touch-icon.png" }}'>
+    <link rel='icon' type='image/png' sizes='32x32' href='{{ absURL "favicon.ico" }}'>
+    <link rel='icon' type='image/png' sizes='16x16' href='{{ absURL "favicon.ico" }}'>
+    <link rel='manifest' href='{{ absURL "images/icons/site.webmanifest" }}'>
+    <meta property='msapplication-TileColor' content='#da532c'>
+    <meta property='theme-color' content='#ffffff'>
   
-    {{- "<!-- mobile responsive meta -->" | safeHTML }}
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <meta name="description" content="{{ with .Params.Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
-    {{- with .Site.Params.author }}<meta name="author" content="{{ . }}">{{- end -}}
+    {{ "<!-- Begin Meta Tags -->" | safeHTML }}
+    <meta property="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    {{- $desc := .Site.Params.Description -}}
+    {{- if isset .Params "description" -}}
+    {{- $desc = .Params.Description -}}
+    {{- end }}
+    <meta property="description" content="{{ $desc }}" />
+    <meta property="og:description" content="{{ $desc }}" />
+    <meta property="twitter:description" content="{{ $desc }}" />"
+
+    {{ "<!-- Type Info -->" | safeHTML }}
+    <meta property = 'og:type' content = 'article' />
+
+    {{ "<!-- Author Details -->" | safeHTML }}
+    {{- $author := .Site.Params.meta.author -}}
+    {{- if isset .Params "author" -}}
+    {{- $author = .Params.author -}}
+    {{- end }}
+    <meta property="author" content="{{ .Site.Params.meta.author }}">
+    <meta property="twitter:label1" content="Written by" />
+    <meta property="og:article:author" content="{{ $author }}" />
+    <meta property="twitter:data1" content="{{ $author }}" />
+    <meta property="twitter:creator" content="{{ $author }}" />
+
+    {{ "<!-- Publish and Reading Time -->" | safeHTML }}
+    <meta property="og:article:published_time" content="{{ htmlUnescape (.Params.Date.Format "2006-01-02T15:04:05Z0700") }}" />"
+    {{- if .Site.Params.ReadingTime }}
+    <meta property="twitter:label2" content="Reading time" />
+    <meta property="twitter:data2" content="{{ .ReadingTime }} Minutes" />
+    {{- end }}
+
+    {{ "<!-- Image Info -->" | safeHTML }}
+    {{- $imgurl := absURL "/about/images/vaujany.jpg" -}}
+    {{- $alt := printf "%s" .Site.Params.defaultAlt -}}
+    {{- $imgwidth := 390 -}}
+    {{- $imgheight := 260 -}}
+    {{- if isset .Params "image" -}}
+      {{- $image_match := (.Resources.ByType "image").GetMatch (.Params.image) -}}
+      {{- with $image_match -}}
+        {{- $alt = (index $image_match.Params "alt") }}
+        {{- $imgurl = $image_match.Permalink -}}
+        {{- $imgwidth = $image_match.Width -}}
+        {{- $imgheight = $image_match.Height -}}
+      {{- end -}}
+    {{- end }}
+    <meta property="og:image" content="{{ $imgurl }}" />
+    <meta property="og:image:secure_url" content="{{ $imgurl }}" />
+    <meta property="og:image:alt" content="{{ $alt }}" />
+    <meta property="og:image:width" content="{{ $imgwidth }}" />
+    <meta property="og:image:height" content="{{ $imgheight }}" />
+    <meta property="og:image:type" content="image" />
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:image" content="{{ $imgurl }}" />
+    <meta property="twitter:image:alt" content="{{ $alt }}" />
     
-    <!-- theme meta -->
-    <meta name="theme-name" content="persian-hugo" />
+    {{ "<!-- Hugo Theme meta -->" | safeHTML }}
+    <meta property="theme-name" content="persian-hugo" />
     {{ hugo.Generator }}
   
     {{ "<!-- CSS plugins -->" | safeHTML -}}
@@ -46,17 +132,15 @@ AUTHOR WEBSITE: https://themefisher.com
     <link rel="stylesheet" href="{{ .link | absURL }}">
     {{- end }}
   
-    {{ "<!-- Main Stylesheet -->" | safeHTML }}
+    {{ "<!-- Main Stylesheet -->" | safeHTML -}}
     {{ $styles := resources.Get "scss/style.scss" | toCSS }}
     <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
+
     {{ "<!-- Custom Stylesheets -->" | safeHTML }}
     {{ range .Site.Params.plugins.custom -}}
     <link rel="stylesheet" href="{{ .link | absURL }}" media="screen">
     {{- end }}
-  
-    {{ with .Params.Image }}
-    <meta property="og:image" content="{{ . | absURL }}" />
-    {{ end }}
-    {{ template "_internal/opengraph.html" . }}
-    {{ template "_internal/twitter_cards.html" . }}
-  </head>  
+
+    {{ "<!-- Linking Data JSON -->" | safeHTML }}
+    {{ partial "ldjson" . }}
+  </head>

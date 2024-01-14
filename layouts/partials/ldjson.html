@@ -11,24 +11,24 @@
     "license": "{{ .Site.Params.Copyright }}"
 }
 </script>
-{{ else if .IsPage }}
-{{ $author :=  or (.Params.author) (.Site.Author.name) }}
-{{ $organization :=  .Site.Title }}
+{{- else if .IsPage -}}
+{{- $author :=  or (.Params.author) (.Site.Author.name) -}}
+{{- $organization :=  .Site.Title -}}
 
 {{- /* .Params.image is the front matter for each page, have to get match from what is */ -}}
 {{- /* essentially a `ls images/` within this page's bundle */ -}}
 {{- /* First, let's check for backward compatibility refs */ -}}
-{{ $image_url := "" }}
+{{- $image_url := "" }}
 {{- if and (isset .Params "image") (hasPrefix (.Params.image) "/img") -}}
     {{- $image_url = (absURL .Params.image) -}}
-{{ else if (.Resources.ByType "image").GetMatch (printf "%s" .Params.image) }}
-    {{ $image_match := (.Resources.ByType "image").GetMatch (.Params.image) }}
-    {{ with $image_match }}
-        {{ $image_url = $image_match.Permalink }}
-    {{ end }}
+{{- else if (.Resources.ByType "image").GetMatch (printf "%s" .Params.image) -}}
+    {{- $image_match := (.Resources.ByType "image").GetMatch (.Params.image) -}}
+    {{- with $image_match -}}
+        {{- $image_url = $image_match.Permalink -}}
+    {{- end -}}
 {{- else -}}
     {{- $image_url = (absURL "/about/images/vaujany.jpg" ) -}}
-{{ end -}}
+{{- end -}}
 
 <script type="application/ld+json">
 {
