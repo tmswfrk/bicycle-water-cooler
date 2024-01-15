@@ -65,8 +65,8 @@ AUTHOR WEBSITE: https://themefisher.com
     <link rel='icon' type='image/png' sizes='32x32' href='{{ absURL "favicon.ico" }}'>
     <link rel='icon' type='image/png' sizes='16x16' href='{{ absURL "favicon.ico" }}'>
     <link rel='manifest' href='{{ absURL "images/icons/site.webmanifest" }}'>
-    <meta property='msapplication-TileColor' content='#da532c'>
-    <meta property='theme-color' content='#ffffff'>
+    <meta name='msapplication-TileColor' content='#da532c'>
+    <meta name='theme-color' content='#ffffff'>
   
     {{ "<!-- Begin Meta Tags -->" | safeHTML }}
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -74,7 +74,7 @@ AUTHOR WEBSITE: https://themefisher.com
     {{- if isset .Params "description" -}}
     {{- $desc = .Params.Description -}}
     {{- end }}
-    <meta property="description" content="{{ $desc }}" />
+    <meta name="description" content="{{ $desc }}" />
     <meta property="og:description" content="{{ $desc }}" />
     <meta property="twitter:description" content="{{ $desc }}" />
 
@@ -86,7 +86,7 @@ AUTHOR WEBSITE: https://themefisher.com
     {{- if isset .Params "author" -}}
     {{- $author = .Params.author -}}
     {{- end }}
-    <meta property="author" content="{{ .Site.Params.meta.author }}">
+    <meta name="author" content="{{ .Site.Params.meta.author }}">
     <meta property="twitter:label1" content="Written by" />
     <meta property="og:article:author" content="{{ $author }}" />
     <meta property="twitter:data1" content="{{ $author }}" />
@@ -124,7 +124,7 @@ AUTHOR WEBSITE: https://themefisher.com
     <meta property="twitter:image:alt" content="{{ $alt }}" />
     
     {{ "<!-- Hugo Theme meta -->" | safeHTML }}
-    <meta property="theme-name" content="persian-hugo" />
+    <meta name="theme-name" content="persian-hugo" />
     {{ hugo.Generator }}
   
     {{ "<!-- CSS plugins -->" | safeHTML -}}
