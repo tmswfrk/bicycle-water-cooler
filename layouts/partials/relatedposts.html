@@ -3,7 +3,7 @@
 {{ $related := (where site.RegularPages "Type" "in" site.Params.mainSections) | intersect (where site.Pages ".Title" "!=" .Title) | union (site.RegularPages.Related . ) }}
 {{ if $related }}
 <section class="section pt-0" style="padding-bottom: 20px;">
-  <div class="container-fluid">
+  <div class="container">
     <div class="row">
       <div class="col-md-12 mb-4 text-center">
         <hr class="mt-2 mb-4" style="width: 70%"/>
@@ -31,7 +31,7 @@
                 <span>{{ .PublishDate.Format "02" }}</span>
                 <span>{{ .PublishDate.Format "Jan" }}</span>
               </div>
-              <h2 class="post-title"><a href="{{ $left.Permalink }}" target="_self">{{ $left.Title }}</a></h2>
+              <h2 class="post-title" style="font-size:1.5rem"><a href="{{ $left.Permalink }}" target="_self">{{ $left.Title }}</a></h2>
               {{ partial "mainimagetaglinks" $left }}
             </div>
           </div>
@@ -52,7 +52,7 @@
                 <span>{{ .PublishDate.Format "02" }}</span>
                 <span>{{ .PublishDate.Format "Jan" }}</span>
               </div>
-              <h2 class="post-title"><a href="{{ $right.Permalink }}" target="_self">{{ $right.Title }}</a></h2>
+              <h2 class="post-title" style="font-size:1.5rem"><a href="{{ $right.Permalink }}" target="_self">{{ $right.Title }}</a></h2>
               {{ partial "mainimagetaglinks" $right }}
             </div>
           </div>

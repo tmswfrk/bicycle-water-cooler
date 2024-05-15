@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+{{- partial "head.html" . -}}
+
+{{ "<!-- This is coming from MY baseof.html -->" | safeHTML }}
+
+<body style="margin-left: 8%; margin-right: 8%; margin-top: 2%;">
+	{{- partial "preloader.html" . -}}
+	{{- partial "header.html" . -}}
+	{{- block "main" . }}{{- end }}
+	{{- partial "footer.html" . -}}
+</body>
+
+</html>

@@ -2,7 +2,7 @@
 {{- /* NOTE that this file is based on the Persian Hugo theme */ -}}
 
 <section class="section pt-0" style="padding-bottom: 20px;">
-  <div class="container-fluid">
+  <div class="container">
     <div class="row">
       {{ $paginator := .Paginate (where site.RegularPages "Type" "in" site.Params.mainSections) }}
       {{ range $index,$elements:= $paginator.Pages }}
@@ -48,7 +48,7 @@
               <span>{{ .PublishDate.Format "02" }}</span>
               <span>{{ .PublishDate.Format "Jan" }}</span>
             </div>
-            <h2 class="post-title"><a href="{{ .Permalink }}" target="_self">{{ .Title }}</a></h2>
+            <h2 class="post-title" style="font-size:1.5rem"><a href="{{ .Permalink }}" target="_self">{{ .Title }}</a></h2>
             {{ partial "mainimagetaglinks" . }}
           </div>
         </div>
