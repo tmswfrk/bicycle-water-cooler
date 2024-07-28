@@ -17,13 +17,13 @@ Disallow: /
 User-agent: anthropic-ai
 Disallow: /
 
-‍User-agent: Claude-Web
+User-agent: Claude-Web
 Disallow: /
 
-User-Agent: FacebookBot
+User-agent: FacebookBot
 Disallow: /
 
-User-Agent: Applebot
+User-agent: Applebot
 Disallow: /
 
 User-agent: Bytespider
