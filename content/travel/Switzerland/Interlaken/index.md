@@ -300,7 +300,7 @@ And the descent down into [Grindelwald](https://maps.app.goo.gl/yENShDVWvJ9zau7D
 
 {{< img gs_descent >}}
 
-Just watch out for the buses that (somehow) make their way up to the top! Don't worry, they blow their horn on the tighter turns, which sounds quite funny, like a weird trumpet reveille. I love it. I only wish I had somehow caught it on camera!
+Just watch out for the buses that (somehow) make their way up to the top! Don't worry, they blow their [3-note horn](https://www.youtube.com/watch?v=slCSgpclf3s) on the tighter turns, which sounds quite funny, like a weird trumpet reveille. I love it. [Apparently there's a whole history behind it](https://www.postauto.ch/en/about-us-and-news/organization/post-horn).
 
 If you're doing Männlichen as well, make sure to grab some food in Grindelwald beforehand. It's an incredibly touristy town, full of _all_ the Swiss things, much like Lauterbrunen is. I'm not sure which one is _more_ Swiss, but they're both fun. Grindelwald is bigger though, as I think a lot of people have ski chalets there for the winter months.
 
