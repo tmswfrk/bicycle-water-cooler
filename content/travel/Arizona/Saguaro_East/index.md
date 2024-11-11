@@ -5,7 +5,7 @@ summary: "If you're in Tucson and like to ride, this is an easy and amazing ride
 description: "The east side of Saguaro National Park is easily reachable, both in distance and in skill level of cyclist."
 image: saguaro_east
 categories: ["Epic Rides"]
-tags: ["Saguaro East National Park", "Tucson, Arizona"]
+tags: ["Saguaro East National Park", "Tucson"]
 keywords: [
     "Tucson Arizona road cycling",
     "Cycling Saguaro National Park",
