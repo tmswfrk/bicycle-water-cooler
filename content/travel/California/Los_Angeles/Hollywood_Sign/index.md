@@ -215,7 +215,7 @@ Eventually you can find your way to Ventura Blvd, which, while not super friendl
 If you're heading back to the same area we were, take one of the roads heading north (we ended up on Colfax) to get back to Riverside.
 
 # My Thoughts
-Honestly, this ride was rad. While we planned to do this route on our way back from [Arizona]({{< ref "/tags/tucson-arizona/" >}}) that year, this ride felt a bit more ad-hoc than some of the others we've done.
+Honestly, this ride was rad. While we planned to do this route on our way back from [Arizona]({{< ref "/tags/tucson" >}}) that year, this ride felt a bit more ad-hoc than some of the others we've done.
 
 Perhaps it's just the constant meandering that we did to get up there. Maybe it was the sense of exploration behind it because Google Maps didn't have as much data as I'm used to referencing. Or maybe it was simply that we had only a few hours before we had to check out of the hotel that morning and we managed to make it work anyway, even getting an acai bowl on the way out for breakfast at [Kreation](https://www.kreationjuice.com/).
 

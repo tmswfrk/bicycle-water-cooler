@@ -138,4 +138,3 @@ And shopping at a local shop will often be an easy way to find a good, local bik
 Once you have the bike and some basic accessories, go get to it! There will be time for you to get more parts and accessories (like good bib shorts, for example), and you'll learn over time what you like and don't like. Ride safely, familiarize yourself with the rules of the road, and enjoy reliving that childlike wonder of freedom from on top of two wheels!
 
 {{< img awkward_yeti_comic >}}
-<!-- ![Awkward Yeti comic with Bike Parts used at a Y in the road](/img/2020/10/awkward_yeti_comic.jpg#center "Hooray, let's go ride our new stuff!") -->

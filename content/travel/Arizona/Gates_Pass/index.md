@@ -5,7 +5,7 @@ summary: "You definitely don't want to miss this one."
 description: "Gate's Pass and its rolling hills and wonderful road quality is an incredible climb near Tucson. With wonderful road quality and incredible views, it leaves its impression."
 image: gates_pass
 categories: ["Epic Rides"]
-tags: ["Saguaro National Park West", "Gate's Pass", "Tucson, Arizona"]
+tags: ["Saguaro National Park West", "Gate's Pass", "Tucson"]
 keywords: [
   "Tucson Arizona road cycling",
   "Best bicycle rides in Tucson, Arizona",
