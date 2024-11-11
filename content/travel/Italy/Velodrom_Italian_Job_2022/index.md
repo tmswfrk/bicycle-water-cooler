@@ -400,7 +400,6 @@ Our trip started with a bus ride from Milan to the town of [Bormio](https://goo.
 We started off the first day of riding by splitting our start times into two groups. I went with the "faster" group, which, looking back on it, was a bit ambitious of me! We left the hotel we were staying at in Bormio and headed out. Extremely quickly, I'll add, as the roads south of Bormio generally descend through a magnificent valley.
 
 * Strava Route: [The Italian Job, Stage 1, Pedaling with Pantani: Mortirolo and Gavia](https://www.strava.com/activities/7451473006)
-<!-- {{< rwgps id="96173638" >}} -->
 
 #### [Passo del Mortiolo](https://www.strava.com/segments/9596259)
 A lot can be said about this one (I plan to write more about it later, so check back here for updates), but it's where [Marco Pantani made his debut](https://www.caesarnfrank.com/2017/05/26/marco-pantani-1994-mortirolo-the-pirate-become-a-legend/) as a cyclist for the ages in 1994. The whole climb is absolutely brutal and _averages_ almost 11%, with one km of it being 18%. I found myself definitely grinding away in my 34x30 gear for what felt like forever.
@@ -424,7 +423,6 @@ At the top of the climb, there are some signs for both the pass itself and the G
 This day was one of the more memorable days of the trip, as it started out with me actually riding with my buddy, who's bike never made it to Italy due to some flight issues. He made it, of course, but he had to borrow another bike once he finally arrived, nearly 36 hours late. Thanks, [Air Canada](https://www.cbc.ca/news/business/air-canada-flights-july-august-reductions-1.6506451).
 
 * Strava Route: [The Italian Job, Day 2: Passo della Stelvio, Umbrail Pass into Switzerland, and then the Stelvio again!](https://www.strava.com/activities/7457843039)
-<!-- {{< rwgps id="96285077" >}} -->
 
 #### [Passo dello Stelvio](https://www.strava.com/segments/23052076) (from Bormio)
 From this side, you start climbing pretty quickly outside of Bormio, with some longer, less steep switchback roads before reaching a waterfall that tumbles alongside the upper portion of the climb. It just goes on and on forever!
@@ -461,7 +459,6 @@ This day started out like a few of the days on my recent [Croatia]({{< ref "/tra
 When we got to the tiny town of [Nova Levante](https://goo.gl/maps/KZAAwHrtFkWojQVY6), we had a quick coffee, then finished getting dressed and got on our bikes. This was a nice transfer though, as we didn't have to pack up our bikes into their storage boxes. All of our stuff came with us quite easily and it was waiting for us that evening at a brand new hotel in [Alleghe](https://goo.gl/maps/26fBDgR8PP9RvYAn9).
 
 * Strava Route: [The Italian Job, Stage 3: Transfer day over Passo Fedaia](https://www.strava.com/activities/7462979834)
-<!-- {{< rwgps id="96374009" >}} -->
 
 We ended up riding to our next hotel from this point, finally crossing into the infamous Dolomite mountains.
 
@@ -490,7 +487,6 @@ For a good portion of the year, most of these passes are snowed in and the area 
 This is apparently THE ride to do when in the Dolomites, as it makes for an incredibly scenic loop that really showcases what the mountains have to offer. Most of it is at elevation, so it'll definitely be tough if you're not already acclimated.
 
 * Strava Route: [The Italian Job, Stage 4: Pordoi, Sella, Gardena, Valparola, and Falzarego](https://www.strava.com/activities/7468034771)
-<!-- {{< rwgps id="96466328" >}} -->
 
 #### [Passo Pordoi](https://www.strava.com/segments/11149905)
 At the start of this one, we had some darker skies and even a few sprinkles, but the weather subsided. It was a fun climb, as you follow a ski lift that goes up to nearly the same place you're going. The road has a fairly gradual ascent, too, doubling back over itself a lot, so just pay attention to the white building on the horizon and know that that's where you're going.
@@ -524,7 +520,6 @@ After reaching the top of the Passo Valparola, you actually immediately descend 
 This was our "[Queen Stage](https://en.wikipedia.org/wiki/Glossary_of_cycling#Q)" day, with over 80 miles and about 12k feet of climbing! Truly a day I won't forget.
 
 * Strava Route: [The Italian Job, Stage 5: Passo Giau, Tre Croci, Tre Cime di Lavaredo, and Falzarego](https://www.strava.com/activities/7473626072/segments/2983059090822426104)
-<!-- {{< rwgps id="96641212" >}} -->
 
 #### [Passo Giau](https://www.strava.com/segments/618935)
 This one was tough. This particular morning was made easier for me, however, as there was a classic car event going on, meaning that almost 100 different and _very_ unique cars were driving down the road as we were climbing up it.
@@ -570,7 +565,6 @@ I remember the climb itself feeling a bit long, but was nothing compared to what
 This was, by far, the most unique experience of the week! 
 
 * Strava Route: [The Italian Job, Stage 6: Sunrise on Passo Fedaia](https://www.strava.com/activities/7475933768)
-<!-- {{< rwgps id="96653922" >}} -->
 
 We got up well before sunrise and were on our bikes at 4:30am. Oof. But we got some incredible photos from our photographer on the way up, and some more once we finally made it to the top. And it was worth it, despite how difficult this final day was.
 

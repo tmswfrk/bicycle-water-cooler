@@ -5,7 +5,7 @@ summary: "An unexpected change of pace and scenery."
 description: "Mt. Lemmon, a high altitude challenge for any cycling enthusiast with rewarding views."
 image: windy_point
 categories: ["Epic Rides"]
-tags: ["Mt. Lemmon", "Tucson, Arizona"]
+tags: ["Mt. Lemmon", "Tucson"]
 keywords: ["Epic cycling mountain climbs", "Tucson Arizona road cycling", "Mt Lemmon riding", "altitude training"]
 draft: false
 resources:

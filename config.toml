@@ -4,13 +4,13 @@ DefaultContentLanguage  = "en"
 title                    = "Bicycle Water Cooler"
 theme                   = "persian"
 preserveTaxonomyNames   = true
-paginate                = 7 # odd number works best here
 pluralizeListTitles     = false
 disableLanguages        = [""]
 enableRobotsTXT         = true
 canonifyURLs            = true
-# disqusShortname         = "bicyclewatercooler"
-# disqus_url              = "bicyclewatercooler.com"
+
+[pagination]
+  pagerSize = 7 # odd number works best here
 
 [taxonomies]
   tag = 'tags'
