@@ -1,6 +1,6 @@
 ---
 title: "An Amazing Riding Experience in Interlaken"
-date: 2024-08-30T17:53:24-07:00
+date: 2024-07-02T17:53:24-07:00
 description: "The Interlaken region of Switzerland has so much to offer the cycling climbing enthusiast."
 image: "river"
 categories: ["Switzerland"]
@@ -331,4 +331,4 @@ No idea how the Swiss managed to tame the mountains in terms of their transporta
 # Wrap Up
 Considering I was on the fence with visiting the Interlaken region on this particular trip, I'm 100% glad that I did. I can fully recommend each of these routes, and it was an incredibly fun way to experience Switzerland. Even our AirBnB was fantastic!
 
-If you're on the fence about this area, definitely don't pass up the opportunity. It may not have _as_ much climbing to do as the Andermatt region, and doesn't have the Italian charm that is the Lugano region, but it holds its own and has a uniquely _Swiss_ identity that you really need to experience firsthand!
+If you're on the fence about this area, definitely don't pass up the opportunity. It may not have _as_ much climbing to do as the [Andermatt]({{< ref "/travel/Switzerland/Andermatt/index.md" >}}) region, and doesn't have the Italian charm that is the [Lugano]({{< ref "/travel/Switzerland/Lugano/index.md" >}}) region, but it holds its own and has a uniquely _Swiss_ identity that you really need to experience firsthand!

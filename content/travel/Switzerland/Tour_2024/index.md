@@ -1,6 +1,6 @@
 ---
 title: "The Living Postcard that is Switzerland"
-date: 2024-07-27T19:31:48-07:00
+date: 2024-11-11T08:31:48-07:00
 description: "An introspective look into cycling in Switzerland in 2024"
 image: "furka"
 categories: ["Bike Travel"]

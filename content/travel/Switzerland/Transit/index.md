@@ -1,6 +1,6 @@
 ---
 title: "Switzerland's Efficient Transit System"
-date: 2024-08-17T15:10:58-07:00
+date: 2024-11-09T15:10:58-07:00
 description: "With the amazing public transport system of Switzerland, it's difficult to consider traveling any other way."
 image: "mgb"
 categories: ["Switzerland"]
