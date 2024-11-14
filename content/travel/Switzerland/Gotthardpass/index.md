@@ -1,6 +1,6 @@
 ---
 title: "The Cobbles of the Gotthardpass"
-date: 2024-07-06T15:54:46-08:00
+date: 2024-07-04T15:54:46-08:00
 description: "Climbing the ancient, cobblestone road of the Gotthardpass is a step back in time and inspires awe in all cyclists who ride it."
 image: "upwards"
 categories: ["Switzerland"]

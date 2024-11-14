@@ -3,19 +3,22 @@ title: "The Big Mountains of Switzerland"
 date: 2024-11-10T19:25:41-07:00
 description: "Curious about the big cycling climbs of Switzerland? A huge portion of them can be reached from the ski town of Andermatt and are truly epic in nature, rivaling the rest of the Alps."
 image: "sustenpass_descent"
-categories: [""]
+categories: ["Switzerland"]
 tags: [
   "Switzerland",
   "Andermatt",
+  "Alpine Climbing",
 ]
-keywords: [""]
+keywords: [
+  "Cycling the big climbs of Switzerland",
+]
 draft: false
 resources:
 - src: '*/sustenpass_descent.jpg'
   name: "sustenpass_descent"
-  title: ""
+  title: "So high up!"
   params:
-    alt: ""
+    alt: "View of bicycle along the road in front of a glacier near the top of the Sustenpass, Switzerland"
 - src: '*/view.jpg'
   name: "view"
   title: "That looks much further down in person!"
@@ -56,6 +59,26 @@ resources:
   title: "So. Many."
   params:
     alt: "The many cobblestone switchbacks of the Gotthardpass"
+- src: '*/tujetsch_bridge.jpg'
+  name: "tujetsch_bridge"
+  title: "Like something out of a painting!"
+  params:
+    alt: "Rounded train bridge near Tujetsch, Switzerland"
+- src: '*/oberalppass.jpg'
+  name: "oberalppass"
+  title: "A magnificent valley if you ask me"
+  params:
+    alt: "View of the valley up in the Oberalppass"
+- src: '*/sontga_maria.jpg'
+  name: "sontga_maria"
+  title: "I made this moody to reflect more accurately to how I felt that day"
+  params:
+    alt: "Rainy day looking out over Lake Sontga Maria at the Lukmanierpass"
+- src: '*/lukmanier.jpg'
+  name: "lukmanier"
+  title: "I felt like I was on borrowed time just trying to get this picture!"
+  params:
+    alt: "Sign welcoming visitors the Lukmanierpass in Switzerland"
 - src: ''
   name: ""
   title: ""
@@ -144,33 +167,33 @@ Everyone knows the infamous cobbles of the Paris-Roubaix, but have you heard of 
 - [See my dedicated post for the Gotthardpass]({{< ref "/travel/Switzerland/Gotthardpass/index.md" >}})
 
 ### Oberalppass
+The Oberalppass is home to some amazing ski resorts, and is apparently near where the [source of the mighty Rhine river is](https://en.wikipedia.org/wiki/Oberalp_Pass). When ascending the road from town, it ventures through a relatively calm road through the base of an incredibly beautiful valley.
+
+{{< img oberalppass tujetsch_bridge >}}
+
+- [See my dedicated post for the Oberalppass]({{< ref "/travel/Switzerland/Oberalppass/index.md" >}})
 
 ### Lukmanierpass
+This climb is a gradual one that follows the Vorderrhein river (one of two initial tributaries of the Rhine river) through a lesser-populated and known valley. The road takes you up and over the same set of mountains that make up the Gotthardpass. In fact, this pass was the original pass from the north to south before the Gotthardpass was deemed more desirable for travel.
 
+{{< img sontga_maria lukmanier >}}
 
-The big climbs of the region are generally these:
-- [Sustenpass](https://maps.app.goo.gl/o4ywk1yASnb5Mj4k8)
-- [Grimselpass](https://maps.app.goo.gl/98Rg3fbzycU24QN19)
-- [Gotthardpass](https://maps.app.goo.gl/96ac6XP9DQPQsb9x5)
-- [Oberalppass](https://maps.app.goo.gl/8b52Lj38B2jqj5QV7)
-- [Lukmanierpass](https://maps.app.goo.gl/thveKJCgSmUnmJXr6)
-- [Nufenenpass](https://maps.app.goo.gl/ZyPDdG7LBXhs17Hh6)
+- [See my dedicated post for the Lukmanierpass]({{< ref "/travel/Switzerland/Lukmanierpass/index.md" >}})
 
-If you head west, you can hit the Furkapass, featured in the James Bond movie Goldfinger.
+## Quick Geographical Recap
+If you head west, you can hit the [Furkapass]({{< ref "/travel/Switzerland/Furkapass/index.md" >}}), featured in the James Bond movie Goldfinger.
 
-Go North and you can enjoy an amazing descent into [Göschenen](https://maps.app.goo.gl/7fWwGkfRzaoQ9xPq9) and [Wassen](https://maps.app.goo.gl/zYq2ZB6hW4MZHnhQ6) before starting the Sustenpass climb.
+Go North and you can enjoy an amazing descent into [Göschenen](https://maps.app.goo.gl/7fWwGkfRzaoQ9xPq9) and [Wassen](https://maps.app.goo.gl/zYq2ZB6hW4MZHnhQ6) before starting the [Sustenpass]({{< ref "/travel/Switzerland/Sustenpass/index.md" >}}) climb, looping back over the [Grimselpass]({{< ref "/travel/Switzerland/Grimselpass/index.md" >}}) and the [Furkapass]({{< ref "/travel/Switzerland/Furkapass/index.md" >}}).
 
-Go East and you can climb the Oberalppass, following a tram to an alpine lake and the world's highest lighthouse.
+Go East and you can climb the [Oberalppass]({{< ref "/travel/Switzerland/Oberalppass/index.md" >}}), following a tram to an alpine lake and the world's highest lighthouse, looping back through the [Ticino region](https://maps.app.goo.gl/y1VpfnEyZnZxEzWPA) via the [Lukmanierpass]({{< ref "/travel/Switzerland/Lukmanierpass/index.md" >}}).
 
-Head south (after going west to [Hospental](https://maps.app.goo.gl/NG7Uz54SmAxGSesM8)) and you can reach the famous cobbled Roman road connection to Italy, the Gotthardpass.
+Head south (after going west to [Hospental](https://maps.app.goo.gl/NG7Uz54SmAxGSesM8)) and you can reach the famous cobbled Roman road connection to Italy, the [Gotthardpass]({{< ref "/travel/Switzerland/Gotthardpass/index.md" >}}).
 
-Further, what makes this area so interesting and unique is that despite being in the rugged alpine terrain, you're never far from public transit and you have multiple road passes that can connect all of these into huge, epic loops! 
-
-You can connect the Sustenpass to the Furkapass via the Grimselpass. Similarly, you can connect the Furkapass to the Gotthardpass via the Nufenenpass. You can also connect the Oberalppass to the Gotthardpass via the Lukmanierpass.
-
-Absolutely amazing if you ask me.
+What really makes this area so interesting and unique is that despite being in the rugged alpine terrain, you're never far from public transit and you have multiple road passes that can connect all of these into huge, epic loops! 
 
 ## When to Go
-Because these passes are often encumbered by snow, making them impassable, make sure to time these with the summer high season. Most of the time late June into early July these passes are all open before starting to close again in September or October. Keep in mind that if you plan to visit the Nufenenpass, it's one of the later passes of the entire Alps range to open (alongside the Stelvio, [which I visited in 2022]({{< ref "/travel/Italy/Velodrom_Italian_Job_2022/index.md" >}})). We actually weren't able to ride this pass when we visited in July of 2024, although we missed it only by one day.
+Because these passes are often encumbered by snow, making them impassable, make sure to time these with the summer high season. This means that late June into early July are safe times to plan a trip to visit and climb these passes, as they all should be open. They'll start to close down again in September or October.
+
+Keep in mind that if you plan to visit the [Nufenenpass](https://maps.app.goo.gl/1qEsbdCKWo39hcqt9), it's one of the later passes of the entire Alps range to open (alongside the [Stelvio](https://maps.app.goo.gl/t62tcAL44ykEvCg27), [which I visited in 2022]({{< ref "/travel/Italy/Velodrom_Italian_Job_2022/index.md" >}})). We actually weren't able to ride this pass when we visited in [July of 2024]({{< ref "/travel/Switzerland/Tour_2024/index.md" >}}), although we missed it only by one day.
 
 Because public transit is just [so good in Switzerland]({{< ref "/travel/Switzerland/Transit/index.md" >}}), you will have options if one pass isn't open the particular day that you're out there. Usually there is a train or a bus that can take you back if something goes awry. But definitely do your planning, regardless!

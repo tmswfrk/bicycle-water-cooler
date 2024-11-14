@@ -1,6 +1,6 @@
 ---
 title: "Switzerland's Public Works Project, the Grimselpass"
-date: 2024-07-07T15:55:10-08:00
+date: 2024-07-05T15:55:10-08:00
 description: "One of Switzerland's amazing natural wonders is it water supply and how they use it to generate power. Climbing the Grimselpass on your bike is a fantastic way to see this up close and personal."
 image: "me-road-below"
 categories: ["Switzerland"]
