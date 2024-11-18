@@ -184,9 +184,9 @@ Interlaken, as its name would suggest, sits between two beautiful lakes of Switz
 
 When traveling to a new place, fresh off the plane, it's a good idea to get started quickly but with a smaller, less intense ride. Something that allows you to shake out the legs, overcome your jet lag, and make sure that your bike is in proper working order [after traveling with it]({{< ref "/blog/Guides/Traveling_by_Plane/index.md" >}}).
 
-Since the roads around the lakes are scenic and have relatively low traffic, it's a perfect way to get familiar with the region. 
+Speaking of which, don't forget to stop in at [Yellow Velo](https://yellow-velo.ch/)! The guy running the shop just bought it a couple years ago and specializes in classic styling and vintage bikes. He was incredibly helpful to us when we needed to get one of our bikes spruced up, was open on Sunday, and had a lot of really interesting stuff in the shop. They have an [instagram page](https://www.instagram.com/yellow.velo/) you can follow, too!
 
-On our first day, for example, after getting something sorted at [Yellow Velo](https://yellow-velo.ch/), a nice local bike shop in town, we took a ride eastward along the south side of Lake Brienz. 
+Since the roads around the lakes are scenic and have relatively low traffic, they're a perfect way to get familiar with the region. On our first day, for example, we took a ride eastward along the south side of Lake Brienz.
 
 {{< rwgps id="196876849" >}}
 

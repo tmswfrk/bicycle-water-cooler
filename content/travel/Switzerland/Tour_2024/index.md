@@ -1,12 +1,15 @@
 ---
 title: "The Living Postcard that is Switzerland"
 date: 2024-11-11T08:31:48-07:00
-description: "An introspective look into cycling in Switzerland in 2024"
+description: "Ever wondered what it's like to ride your bike in Switzerland? Check out my introspective look into how it was for me on a cycling holiday trip for my birthday in 2024."
 image: "furka"
 categories: ["Bike Travel"]
 tags: ["Switzerland"]
 keywords: [
-  "Cycling in Switzerland"
+  "Cycling in Switzerland",
+  "Big mountain cycling climbs of Switzerland",
+  "Variety of climates and roads in Switzerland",
+  "Traveling by train through Switzerland",
 ]
 draft: false
 resources:
@@ -148,37 +151,47 @@ resources:
   title: "My buddy and I just stopped immediately upon seeing this view and sat on the bench for a while to take in the view."
   params:
     alt: "Bicycle against a park bench overlooking Lake Ägerisee near Zürich."
-- src: ''
-  name: ""
-  title: ""
+- src: '*/MGB.jpg'
+  name: "mgb"
+  title: "Göschenen ended up being one of the most interesting train rides of my life!"
   params:
-    alt: ""
-- src: ''
-  name: ""
-  title: ""
+    alt: "Train cars in Göschenen, part of the Matterhorn Gotthard Bahn train system"
+- src: '*/bus.jpg'
+  name: "bus"
+  title: "This bus took up and over the Sustenpass"
   params:
-    alt: ""
-- src: ''
-  name: ""
-  title: ""
+    alt: "Bus at the Meiringen bus stationi before leaving for Andermatt"
+- src: '*/upwards.jpg'
+  name: "upwards"
+  title: "I loved looking back at where we had come from"
   params:
-    alt: ""
-- src: ''
-  name: ""
-  title: ""
+    alt: "View up towards the Gotthardpass from the southern side with wind turbine in view"
+- src: '*/sustenpass-road.jpg'
+  name: "sustenpass-road"
+  title: "You can hear cars coming from so far away through here!"
   params:
-    alt: ""
-- src: ''
-  name: ""
-  title: ""
+    alt: "Winding road around the valley where the Sustenpass cycling climb is"
+- src: '*/moody.jpg'
+  name: "moody"
+  title: "Taken from a moving bus window, I'll add!"
   params:
-    alt: ""
-- src: ''
-  name: ""
-  title: ""
+    alt: "The Sustenpass coming up from Meiringen with clouds looking back through some tunnels"
+- src: '*/wall.jpg'
+  name: "wall"
+  title: "I love small cobble-walled streets like this, it's just so Italian to me"
   params:
-    alt: ""
-
+    alt: "Cyclist selfie in front of a cobble-lined street in the Italian portion of Switzerland"
+- src: '*/street_sign.jpg'
+  name: "street_sign"
+  title: "It's hard as a native English speaker to not see this as a B rather than an eszett."
+  params:
+    alt: "Street sign showing the eszett character in Germany"
+- src: '*/flag.jpg'
+  name: "flag"
+  title: "Auf wiedersehen, Switzerland!"
+  params:
+    alt: "Swiss flag flying over night-lit shops in Zürich, Switzerland"
+    width: 50
 ---
 # Cows, Chocolate, Watches, and Cycling
 At the early part of 2024, I got to thinking about what I should do about a big birthday coming up (let's not talk about which one!). I love travel, and better yet, I love traveling with my bike to ride it in new and unique places.
@@ -203,6 +216,16 @@ I've written about it before, but [ride planning]({{< ref "/blog/Ride_Planning/T
 So I planned an entire trip in a foreign country _that I had never been to_ with two other friends.
 
 This meant a lot of scouring the internet for resources, route details, researching train and travel schedules, locating accommodations, the whole thing. Perhaps that sounds exhausting to you, but I enjoyed doing it.
+
+# Writing About it All
+I also enjoy documenting my journeys, and this one has proved to be my greatest endeavor yet! I split out a lot of my content across 12 (yes, 12!) different posts across the site. Basically it breaks down like this:
+
+- This "overview" post, if you can call it that
+- One about a really interesting and [very "Swiss"]({{< ref "/travel/Switzerland/Interlaken/index.md" >}}) region we visited first
+- One about the [big mountain passes]({{< ref "/travel/Switzerland/Andermatt/index.md" >}}) we did, with separate posts for each of the 5 major ones we did on this trip
+- A post for the [Italian-speaking]({{< ref "/travel/Switzerland/Lugano/index.md" >}}) section of the country
+- One more for the final portion of riding I did in a [major metropolitan area]({{< ref "/travel/Switzerland/Zurich/index.md" >}})
+- A dedicated post about [transit in Switzerland]({{< ref "/travel/Switzerland/Transit/index.md" >}})
 
 # The Itinerary
 In short, I managed to explore a circular route through the majority of the country. Awesome! But instead of writing up one giant blog post to discuss it all, I'll write out more detail on each of the areas we visited.
@@ -241,15 +264,11 @@ The famous [Lauterbrunnen](https://maps.app.goo.gl/YyZ7Avd8gVAifHEVA) valley is 
 
 {{< img staubbachfall >}}
 
-Fun fact, we went to Interlaken primarily for one specific climb! The [Grosse Scheidegg](https://pjammcycling.com/climb/2317.Grosse-Scheidegg-Grindewald). But more on that below!
+Fun fact, we went to Interlaken primarily for one specific climb! The [Grosse Scheidegg](https://pjammcycling.com/climb/2317.Grosse-Scheidegg-Grindewald), which is an amazing journey that starts in fertile valleys, passes up through fern-filled canyons, and eventually takes you over an alpine pass into the picturesque [Grindelwald](https://maps.app.goo.gl/qh5mNFvPX3gab7Dp6) on the other side.
 
 {{< img 2 gs_ferns gs_climb >}}
 
-If you're in the area, stop in at [Yellow Velo](https://yellow-velo.ch/)! The guy running the shop just bought it a couple years ago and specializes in classic styling and vintage bikes. He was incredibly helpful to us when we needed to get one of our bikes spruced up, was open on Sunday, and had a lot of really interesting stuff in the shop.
-
-They have an [instagram page](https://www.instagram.com/yellow.velo/) you can follow, too!
-
-- My Write Up Here
+- [I wrote about this one in its own post here]({{< ref "/travel/Switzerland/Interlaken/index.md" >}}).
 
 ## Andermatt
 Next on the itinerary was [Andermatt](https://maps.app.goo.gl/9cwNn1n6TnyaoYFU6), the original highlight of the trip! It's a ski town at 4700 feet above sea level, known to many for its proximity to many ski slopes, but also home to the official big cycling climbs of Switzerland.
@@ -266,13 +285,13 @@ From Andermatt you can visit many of these climbs, all from the same base locati
 
 Additionally, Andermatt is also well connected to multiple train lines, so there's no need for a car. We found a great AirBnB that had the space for 3 of us and our bike boxes, and I really enjoyed our experience there.
 
-Keep in mind that its typically much colder in Andermatt than elsewhere, so even in the summer you're going to want to have some cold gear, if only for the long alpine descents. When we arrived, it definitely took us by surprise, so we absolutely raided the local shops!
+Keep in mind that its typically much colder in Andermatt than the other places I visited on this trip, so even in the summer you're going to want to have some cold gear, if only for the long alpine descents. When we arrived, it definitely took us by surprise, so we absolutely raided the local shops!
 
 - [Mammut](https://maps.app.goo.gl/GMVCrDe9qWjqJXK9A) - a chain, but they have a location in the new part of town by the Radisson, just make sure not to follow Google's direction if coming from the southern side of the train tracks!
 - [Gleis 0](https://maps.app.goo.gl/zMfAyEjKvQjBK7dK9) - inside the train station, so it's easy to find, carries some premium products, but less bike centric.
 
 Given that you could plan an entire Swiss adventure out of Andermatt, it makes sense to go into more detail in a separate post.
-- some link here
+- I have a separate post for [The Big Climbs of Switzerland]({{< ref "/travel/Switzerland/Andermatt/index.md" >}}), which includes links to several other posts for each of the major climbs we did!
 
 ## Lugano
 Sadly, after our amazing riding in Andermatt, I had to part ways with my two friends. They each had other adventures to attend to. I continued on solo to [Lugano](https://maps.app.goo.gl/Z13Csy3Dm1gie4Xa7), where suddenly it got really hot outside and everyone started speaking Italian.
@@ -295,7 +314,7 @@ The amount of variety in this region is quite fantastic, too, as you can find yo
 
 Definitely don't forget to check out [Sartoria Ciclistica](https://sartoriaciclistica.cc/) ([located here](https://maps.app.goo.gl/DUednKP3ActiDZgd8)) if you make it to Como! You can get there by train from Lugano if you're not up to riding it. They're a fun club / shop with a lot of unique colors, designs, and quality gear. They always seem to be doing something interesting over there, so go over there and Ride like a Laghée!
 
-- some link here
+- I hae a separate post for [Lugano, Where Countries Collide]({{< ref "/travel/Switzerland/Lugano/index.md" >}})
 
 ## Zürich
 After closing out my hotel tab in Lugano, I hopped on another train and went back to [Zürich](https://maps.app.goo.gl/fvCGcMJGtFy4FKEb9), hoping for some cooler temperatures for the last portion of my trip. With some rain, it did cool down, but it definitely was still quite warm!
@@ -320,12 +339,17 @@ If you ever visit Zürich, definitely check out [Cycle Store Zürich](https://ww
 
 They're located [right in town](https://maps.app.goo.gl/z1nuYN9u2KAVCeVf7), and have a fantastic ["ride like a local"](https://www.cyclestorezurich.com/club) portion of their website with a ton of specific routes for you to try!
 
-- some link here
+- I also separately wrote about how there's [More to Zürich than Meets the Eye]({{< ref "/travel/Switzerland/Zurich/index.md" >}})
 
 # My Overall Thoughts on the Trip
+Clearly, with 12 posts dedicated to this trip, I have a lot of thoughts on the trip! You're welcome to read through all of them if you're planning anything similar, as my thoughts are definitely contained throughout them all.
 
 ## Transportation
-This ended being a big portion of the trip on its own, particularly since Switzerland is known the world over for its incredible transportation system. I've written quite a bit more on the top in its own post, covering how tickets and half fare cards work, along with how to get around and what my experience there was like. Check it out!
+This ended being a big portion of the trip on its own, particularly since Switzerland is known the world over for its incredible transportation system. I've written quite a bit more on the top in its own post, covering how tickets and half fare cards work, along with how to get around and what my experience there was like. 
+
+{{< img mgb bus >}}
+
+Check it out!
 
 - [Switzerland\'s Efficient Transit System Blog Post]({{< ref "/travel/Switzerland/Transit/index.md" >}})
 
@@ -335,6 +359,8 @@ There is definitely something truly world class about the roads I experienced in
 What this really translated to was that descents were _amazing_. I regularly spun out my gearing downhill and didn't even feel like it was that fast. Switchbacks, descents, insane views, and even in wet weather (like the 40km downhill descent we did on the south side of the [Lukmanierpass](https://maps.app.goo.gl/oNqRzzta5t4abNF6A)), it all felt smooth and I was always in control.
 
 A point to mention around this point is the [Gotthardpass](https://maps.app.goo.gl/TsRyH9V6XmG8SN789). It's an incredibly important north-south connection pass that basically separates Northern Europe from Southern Europe, and at this point, there are basically four separate ways to get through it. The "original" way is the famous "Gotthardpass" that cyclists specifically seek out, because it's a historic road that is beautifully cobbled (by hand! I saw them myself), and largely avoided by most drivers because there are far-more-efficient ways to get through there.
+
+{{< img upwards >}}
 
 It's definitely a bit bumpy, especially going down, but there are trains that connect both ends that you can take if you want to ride up and down one way without doubling back.
 
@@ -354,6 +380,8 @@ In most cases, they're fine, but keep your wits about you. I've definitely seen 
 
 Luckily, most of the passes through there have really good visibility, so you can often see (and hear) groups like this coming up or down the mountain before they're right on you.
 
+{{< img sustenpass-road >}}
+
 ## Accommodations
 Hotels are expensive in Switzerland (well, everywhere these days, amirite?). However, in my case with planning for three people, AirBnB options were the way to go. It afforded us larger spaces for sleeping and for setting up bikes (bike boxes are big, remember) and often came with a clothes washer and possibly even a dryer.
 
@@ -365,6 +393,8 @@ Final point to keep in mind is that AirBnB has been a bit disruptive in places l
 
 ## Weather
 I was surprised at how varied the weather was around the country when I was there. In Interlaken, we had rain and mild temperatures, in Andermatt it was surprisingly cold for summer with a lot of threatening clouds at times, and then in Lugano I was sweating like crazy.
+
+{{< img moody wall >}}
 
 The weather application on my Apple phone generally seemed like a good starting point for gauging the weather, but keep in mind the the percentage chance for rain is not exactly how a lot of us think it is - something like 35% means that only 35% of the covered region is going to get rain, not necessarily that there's a 35% chance of rain.
 
@@ -380,6 +410,8 @@ Switzerland is primarily split up into three regions:
 
 The last one threw me for a loop when I first got to the country. I had been trying to learn a bit of German before the trip, only to realize that a lot of what I was learning was basically just wrong. And then it was _confusing_. 
 
+{{< img street_sign >}}
+
 Most language apps don't teach Swiss-German, and it seems to have taken many things from French when you wouldn't think that it would. What made this worse for me though was that some of the similar sounding phrases actually meant other words.
 
 So for example, in German, _bitte_ is "please", but in Swiss-German, it's often said as "you're welcome" following a "thank you" (which is _Danke_ as in German, in most cases).
@@ -391,5 +423,21 @@ All the numbers are very different, too.
 I don't know, it's all confusing to me, and I've heard the same from others, but I do remember several locals lighting up a bit when you would make the effort to say _grüezi_, _merci_, and then _bitte_.
 
 # What made Switzerland Special to Me
+Honestly, _all of it_.
 
+I loved getting around without a car, and that the transit options were _so good_ and so plentiful.
 
+Everyone generally was nice enough to me, but largely seemed to be capable of doing their own thing while also making sure they weren't inconveniencing me, either. The Swiss are definitely a rule-following culture, and it's something that I've weirdly grown to appreciate.
+
+I'm also really happy that everything went off without a hitch. No issues, no medical emergencies, and no travel problems getting around. Sure, packing the bike in and out of the box was a bit annoying at times, but having the opportunity to explore this country by bike was worth it.
+
+This trip was also really special to me simply because I was able to enjoy it with two close friends of mine. I love playing tour guide, and having a chance to do this in a way that even remotely resembled previous trips I've done made me very excited.
+
+# Will I Go Back?
+Oh yeah, absolutely. So far, Switzerland is probably the closest I've felt to a place that I could legitimately call home for some amount of time outside of the US. Sometimes people call it boring, depending on what your frame of reference is, often it's Paris or London, but if you're a nature lover or enjoy mobility and a high quality of life, Switzerland is _really_ high up on the list. It delivers. I actually felt after three weeks that I wasn't quite ready to go home!
+
+So yeah, please read through my content and reach out if you have questions. I'm happy to share anything and everything I can that's related to this trip! It was amazing.
+
+_Auf Wiedersehen_!
+
+{{< img flag >}}
