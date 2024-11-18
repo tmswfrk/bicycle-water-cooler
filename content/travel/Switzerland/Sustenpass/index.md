@@ -15,9 +15,9 @@ draft: false
 resources:
 - src: '*/sustenpass-road.jpg'
   name: "sustenpass-road"
-  title: ""
+  title: "You can hear cars coming from so far away through here!"
   params:
-    alt: ""
+    alt: "Winding road around the valley where the Sustenpass cycling climb is"
 - src: '*/tunnel.jpg'
   name: "tunnel"
   title: "He just really wanted to GO that day!"
