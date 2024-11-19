@@ -1,0 +1,11 @@
+{{ $vid := .Get "id" }}
+{{ $title := .Get "title" }}
+{{ $alt := .Get "alt" }}
+<div class="youtube-short-video-container">
+    <iframe 
+        src="https://www.youtube.com/embed/{{ $vid }}" 
+        title="{{ $title }}" frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+    </iframe>
+</div>

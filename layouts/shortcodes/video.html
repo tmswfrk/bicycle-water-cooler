@@ -1,0 +1,21 @@
+<style>
+@media screen and (min-width:320px) {
+    .vert-full-width-vid {
+        width: 100%;
+    }
+}
+@media screen and (min-width: 780px) {
+    .vert-full-width-vid {
+        width: 40%;
+    }
+    .center-vid {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;;
+    }
+}
+</style>
+<video controls loop="true" class="lazyload vert-full-width-vid center-vid">
+    <source src="{{.Get "src" }}" type="video/mp4">
+    Your browser does not support the video tag.  
+</video>
