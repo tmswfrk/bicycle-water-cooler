@@ -45,9 +45,10 @@ User-agent: YouBot
 Disallow: /
 
 User-agent: *
-Disallow: */tags/
+Disallow: /tags/
+Disallow: /page/
 Disallow: 404.html
-Disallow: */search/
+Disallow: /search/
 Disallow: search.json
 
 Sitemap: {{ "sitemap.xml" | absLangURL }}
