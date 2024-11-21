@@ -12,7 +12,7 @@ canonifyURLs            = true
 [pagination]
   pagerSize = 7 # odd number works best here
 
-[taxonomies]
+[Taxonomies]
   tag = 'tags'
 
 [outputFormats]
