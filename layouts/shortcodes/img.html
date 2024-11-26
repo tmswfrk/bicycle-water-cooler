@@ -55,8 +55,14 @@
       {{- if not $exclude_gps }}
       {{- if and (ne $image_lat "") (ne $image_long "") }}<a href="{{ printf "https://www.google.com/maps/search/?api=1&query=%f,%f" $image_lat $image_long }}" target="_blank">{{ end -}}
       {{ end }}
-      <img src='{{ $image.Permalink }}' class="lazyload image" 
+      {{- $sizes := (slice  "360" "480" "800" "1200" ) -}}
+      <img class="lazyload image" 
         style="display:block;max-width:{{ $width }}%;margin:auto;margin-bottom:10px" 
+        srcset='
+          {{- range $sizes }}
+            {{- ($image.Resize (printf "%sx" .)).RelPermalink }} {{ (printf "%sw" .) }},
+          {{ end -}}'
+        src='{{ $image.Permalink }}'
         alt="{{ $altText }}" 
         title="{{ $image.Title }}"
       />
