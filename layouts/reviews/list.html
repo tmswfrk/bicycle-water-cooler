@@ -7,28 +7,25 @@
     <div class="row">
       {{ $paginator := .Paginate (where site.RegularPages "Type" "in" "reviews") }}
       {{ range $index,$elements:= $paginator.Pages }}
-      {{- /* TODO: Modify existing pages to use resources instead of direct URL's here */ -}}
       {{- /* .Params.image is the front matter for each page, have to get match from what is */ -}}
       {{- /* essentially a `ls images/` within this page's bundle */ -}}
       {{- /* First, let's check for backward compatibility refs */ -}}
-      {{ $image_url := "" }}
-      {{- if and (isset .Params "image") (hasPrefix (.Params.image) "/img") -}}
-        {{ $image_url = (absURL .Params.image) }}
-      {{- /* Second, let's try to find an official resource marker Name for this image */ -}}
-      {{ else if (.Resources.ByType "image").GetMatch (.Params.image) }}
-        {{ $image_match := (.Resources.ByType "image").GetMatch (.Params.image) }}
-        {{ with $image_match }}
-          {{ $image_url = $image_match.Permalink }}
-        {{ end }}
-      {{- /* Fallback */ -}}
-      {{ else }}
-        {{ $image_url = (absURL "thumbnail.svg" )}}
+
+      {{ $image := "" }}
+      {{- $sizes := (slice  "360" "480" "800" "1200" ) -}}
+      {{ if (.Resources.ByType "image").GetMatch (.Params.image) }}
+        {{ $image = (.Resources.ByType "image").GetMatch (.Params.image)}}
       {{ end }}
+
       {{ if eq $index 0}}
       <div class="col-12 mb-4">
         <div class="post dimmable linkable-div">
           <a href="{{ .Permalink }}" target="_self" style="display: block;"><span class="linkable-span"></span></a>
-          <img src="{{ $image_url }}" class="img-fluid w-100" alt="{{ .Title }}">
+          <img srcset='
+          {{- range $sizes }}
+            {{- ($image.Resize (printf "%sx" .)).RelPermalink }} {{ (printf "%sw" .) }},
+          {{ end -}}'
+          src="{{ $image.Permalink }}" class="img-fluid w-100" alt="{{ .Title }}">
           <div class="post-content">
             <div class="post-date">
               <span>{{ .PublishDate.Format "02" }}</span>
@@ -48,7 +45,11 @@
       <div class="col-md-6 mb-4">
         <div class="post post-sm dimmable linkable-div">
           <a href="{{ .Permalink }}" target="_self" style="display: block;"><span class="linkable-span"></span></a>
-          <img src="{{ $image_url }}" class="img-fluid w-100" alt="{{ .Title }}">
+          <img srcset='
+          {{- range $sizes }}
+            {{- ($image.Resize (printf "%sx" .)).RelPermalink }} {{ (printf "%sw" .) }},
+          {{ end -}}'
+          src="{{ $image.Permalink }}" class="img-fluid w-100" alt="{{ .Title }}">
           <div class="post-content">
             <div class="post-date">
               <span>{{ .PublishDate.Format "02" }}</span>
