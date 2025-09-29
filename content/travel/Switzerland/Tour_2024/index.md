@@ -314,7 +314,7 @@ The amount of variety in this region is quite fantastic, too, as you can find yo
 
 Definitely don't forget to check out [Sartoria Ciclistica](https://sartoriaciclistica.cc/) ([located here](https://maps.app.goo.gl/DUednKP3ActiDZgd8)) if you make it to Como! You can get there by train from Lugano if you're not up to riding it. They're a fun club / shop with a lot of unique colors, designs, and quality gear. They always seem to be doing something interesting over there, so go over there and Ride like a Laghée!
 
-- I hae a separate post for [Lugano, Where Countries Collide]({{< ref "/travel/Switzerland/Lugano/index.md" >}})
+- I have a separate post for [Lugano, Where Countries Collide]({{< ref "/travel/Switzerland/Lugano/index.md" >}})
 
 ## Zürich
 After closing out my hotel tab in Lugano, I hopped on another train and went back to [Zürich](https://maps.app.goo.gl/fvCGcMJGtFy4FKEb9), hoping for some cooler temperatures for the last portion of my trip. With some rain, it did cool down, but it definitely was still quite warm!
