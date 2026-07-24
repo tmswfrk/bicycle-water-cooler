@@ -95,7 +95,9 @@ jobs:
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/" \
-            --cacheDir "${{ runner.temp }}/.cache/hugo"
+            --cacheDir "${{ runner.temp }}/.cache/hugo" \
+            --templateMetrics \
+            --templateMetricsHints
 
       - name: Cache save
         uses: actions/cache/save@v6

@@ -206,3 +206,6 @@ link = "plugins/search/search.js"
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+# Set timeout to 5 minutes for GHA image processing
+timeout = "10m"
