@@ -1,0 +1,3 @@
+[submodule "themes/persian"]
+	path = themes/persian
+	url = git@github.com:gethugothemes/persian-hugo.git
