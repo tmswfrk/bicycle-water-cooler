@@ -12,7 +12,7 @@
     "description": "{{ .Site.Params.Meta.Description }}",
     "thumbnailUrl": "{{ $image_url }}",
     "keywords" : [ {{ range $index, $keyword := .Site.Params.Meta.Keywords }}{{ if $index }}, {{ end }}"{{ $keyword }}" {{ end }}],
-    "license": "{{ .Site.Params.Copyright }}"
+    "license": "{{ .Site.Params.Copyright }}",
     "author" : {
         "@type": "Person",
         "name": "{{ .Site.Params.Meta.author }}"
