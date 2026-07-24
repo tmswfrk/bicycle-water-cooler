@@ -41,7 +41,7 @@
       {{- /* Build up Latitude and Longitude URLs for Google Maps */ -}}
         {{- $image_lat := "" -}}
         {{- $image_long := "" -}}
-        {{- with $image.Exif -}}
+        {{- with $image.Meta -}}
           {{- $image_lat = .Lat -}}
           {{- $image_long = .Long -}}
         {{- end -}}
@@ -86,7 +86,7 @@
             {{- /* Build up Latitude and Longitude URLs for Google Maps */ -}}
             {{- $image_lat := "" -}}
             {{- $image_long := "" -}}
-            {{- with $image.Exif -}}
+            {{- with $image.Meta -}}
               {{- $image_lat = .Lat -}}
               {{- $image_long = .Long -}}
             {{- end -}}

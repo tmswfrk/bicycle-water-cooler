@@ -51,7 +51,7 @@ resources:
   name: "pan_daqui"
   title: "I saved the other half of that sandwich for when I got to the top of Turini!"
   params:
-    alt: "Sandwich and snacks purchased from Pan d'Aqui in L\'Escarene, France before climbing Col de Braus"
+    alt: "Sandwich and snacks purchased from Pan d'Aqui in L'Escarene, France before climbing Col de Braus"
     width: 50
 - src: '*/braus_switchback.jpeg'
   name: "braus_switchback"
