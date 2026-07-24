@@ -201,3 +201,8 @@ link = "plugins/search/search.js"
 
 [security]
   allowContent = ["text/html", "text/markdown"]
+
+##### Github Actions #####
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
