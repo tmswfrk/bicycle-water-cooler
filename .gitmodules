@@ -1,6 +1,3 @@
 [submodule "themes/persian"]
 	path = themes/persian
 	url = git@github.com:gethugothemes/persian-hugo.git
-[submodule "themes/persian-fork"]
-	path = themes/persian-fork
-	url = git@github.com:tmswfrk/persian-hugo.git

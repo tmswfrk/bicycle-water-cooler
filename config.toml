@@ -41,7 +41,7 @@ canonifyURLs            = true
   GoogleAnalyticsGA4 = "G-C8JQPGLB4F" # see: https://gist.github.com/zjeaton/42246742cdaf2fb46400d04c2eba9a8a#file-analytics-gtag-html
   amzn_associate_id  = "bicyclewate08-20"
   mainSections       = ["blog", "travel", "reviews", "tech"]
-  copyright          = "James Clarke"
+  copyright          = "Bicycle Water Cooler"
   customCss          = ["css/custom.css"] # come back to this? implement grid for bikebox pics
 
   # Add additional section names to mainSections to include posts from
@@ -152,8 +152,8 @@ canonifyURLs            = true
 [Languages]
   # Each language has its own menu.
   [Languages.en]
-    LanguageCode        = "en"
-    LanguageName        = "English"
+    locale              = "en"
+    label               = "English"
     weight              = 1
 
 # Sets Social Media icons to appear and link to your account. Value should be your
@@ -198,3 +198,6 @@ link = "plugins/search/fuse.min.js"
 link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
+
+[security]
+  allowContent = ["text/html", "text/markdown"]

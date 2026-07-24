@@ -1,3 +1,7 @@
+{{- /* Set up default image */ -}}
+{{- $image_url := absURL "/about/images/vaujany.jpg" -}}
+
+{{- /* Separate ldjson script for the home page */ -}}
 {{ if .IsHome -}}
 <script type="application/ld+json">
 {
@@ -6,28 +10,21 @@
     "name": "{{ .Site.Title }}",
     "url": "{{ .Site.BaseURL }}",
     "description": "{{ .Site.Params.Meta.Description }}",
-    "thumbnailUrl": "{{ "/about/images/vaujany.jpg" | absURL }}",
+    "thumbnailUrl": "{{ $image_url }}",
     "keywords" : [ {{ range $index, $keyword := .Site.Params.Meta.Keywords }}{{ if $index }}, {{ end }}"{{ $keyword }}" {{ end }}],
     "license": "{{ .Site.Params.Copyright }}"
+    "author" : {
+        "@type": "Person",
+        "name": "{{ .Site.Params.Meta.author }}"
+    },
 }
 </script>
 {{- else if .IsPage -}}
-{{- $author :=  or (.Params.author) (.Site.Author.name) -}}
-{{- $organization :=  .Site.Title -}}
-
-{{- /* .Params.image is the front matter for each page, have to get match from what is */ -}}
-{{- /* essentially a `ls images/` within this page's bundle */ -}}
-{{- /* First, let's check for backward compatibility refs */ -}}
-{{- $image_url := "" }}
-{{- if and (isset .Params "image") (hasPrefix (.Params.image) "/img") -}}
-    {{- $image_url = (absURL .Params.image) -}}
-{{- else if (.Resources.ByType "image").GetMatch (printf "%s" .Params.image) -}}
-    {{- $image_match := (.Resources.ByType "image").GetMatch (.Params.image) -}}
-    {{- with $image_match -}}
-        {{- $image_url = $image_match.Permalink -}}
-    {{- end -}}
-{{- else -}}
-    {{- $image_url = (absURL "/about/images/vaujany.jpg" ) -}}
+{{- if .Params.image -}}
+  {{- /* In the case we have defined front matter image content, override the url used */ -}}
+  {{- with (.Resources.ByType "image").GetMatch .Params.image -}}
+    {{- $image_url = .Permalink -}}
+  {{- end -}}
 {{- end -}}
 
 <script type="application/ld+json">
@@ -39,7 +36,7 @@
     "headline": "{{ .Title | safeJS }}",
     "alternativeHeadline": "{{ .Params.lead }}",
     "description": "{{ if .Description }}{{ .Description | safeJS }}{{ else }}{{if .IsPage}}{{ .Summary  }}{{ end }}{{ end }}",
-    "inLanguage": {{ .Site.LanguageCode | default "en-us" }},
+    "inLanguage": {{ .Site.Language.Locale | default "en-us" }},
     "isFamilyFriendly": "true",
     "mainEntityOfPage": {
         "@type": "WebPage",
@@ -47,24 +44,24 @@
     },
     "author" : {
         "@type": "Person",
-        "name": "{{ $author }}"
+        "name": "{{ .Site.Params.Meta.author }}"
     },
     "creator" : {
         "@type": "Person",
-        "name": "{{ $author }}"
+        "name": "{{ .Site.Params.Meta.author }}"
     },
     "accountablePerson" : {
         "@type": "Person",
-        "name": "{{ $author }}"
+        "name": "{{ .Site.Params.Meta.author }}"
     },
-    "copyrightHolder" : "{{ $organization }}",
+    "copyrightHolder" : "{{ .Site.Params.Copyright }}",
     "copyrightYear" : "{{ .Date.Format "2006" }}",
     "dateCreated": "{{ .Date.Format "2006-01-02T15:04:05.00Z" | safeHTML }}",
     "datePublished": "{{ .PublishDate.Format "2006-01-02T15:04:05.00Z" | safeHTML }}",
     "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05.00Z" | safeHTML }}",
     "publisher":{
         "@type":"Organization",
-        "name": {{ $organization }},
+        "name": {{ .Site.Title }},
         "url": {{ .Site.BaseURL }},
         "logo": {
             "@type": "ImageObject",
