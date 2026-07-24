@@ -9,6 +9,9 @@ disableLanguages        = [""]
 enableRobotsTXT         = true
 canonifyURLs            = true
 
+# Set timeout to 10 minutes for GHA image processing
+timeout = "10m"
+
 [pagination]
   pagerSize = 7 # odd number works best here
 
@@ -206,6 +209,3 @@ link = "plugins/search/search.js"
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
-
-# Set timeout to 5 minutes for GHA image processing
-timeout = "10m"
