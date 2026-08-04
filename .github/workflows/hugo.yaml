@@ -94,7 +94,7 @@ jobs:
           hugo build \
             --gc \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/" \
+            --baseURL "${{ steps.pages.outputs.origin }}/" \
             --cacheDir "${{ runner.temp }}/.cache/hugo" \
             --templateMetrics \
             --templateMetricsHints
