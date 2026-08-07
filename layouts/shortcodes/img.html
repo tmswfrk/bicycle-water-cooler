@@ -39,12 +39,8 @@
         {{- $image = ($resource_page.Resources.ByType "image").GetMatch (index $image_names 0) -}}
       {{ end }}
       {{- /* Build up Latitude and Longitude URLs for Google Maps */ -}}
-        {{- $image_lat := "" -}}
-        {{- $image_long := "" -}}
-        {{- with $image.Meta -}}
-          {{- $image_lat = .Lat -}}
-          {{- $image_long = .Long -}}
-        {{- end -}}
+      {{- $coords := partial "imghelper.html" $image -}}
+
       {{- $altText := printf "%s %s %s" $page.Title $page.Type $page.Summary -}}
       {{- $width := printf "%d" 100 -}}
       {{- with $image.Params -}}
@@ -53,7 +49,7 @@
       {{- end -}}
       {{- $exclude_gps := index $image.Params "exclude_gps" }}
       {{- if not $exclude_gps }}
-      {{- if and (ne $image_lat "") (ne $image_long "") }}<a href="{{ printf "https://www.google.com/maps/search/?api=1&query=%f,%f" $image_lat $image_long }}" target="_blank">{{ end -}}
+      {{- if and (ne $coords.lat 0.0) (ne $coords.long 0.0) }}<a href="{{ printf "https://www.google.com/maps/search/?api=1&query=%f,%f" $coords.lat $coords.long }}" target="_blank">{{ end -}}
       {{ end }}
       {{- $sizes := (slice  "360" "480" "800" "1200" ) -}}
       <img class="lazyload image" 
@@ -66,7 +62,7 @@
         alt="{{ $altText }}" 
         title="{{ $image.Title }}"
       />
-      {{- if and (ne $image_lat "") (ne $image_long "") }}</a>{{ end -}}
+      {{- if and (ne $coords.lat 0.0) (ne $coords.long 0.0) }}</a>{{ end -}}
       
       {{- else -}}
     <div class="grid">
@@ -82,35 +78,28 @@
         
         <div class= "{{$class}}">
           {{ with $image -}}
-
             {{- /* Build up Latitude and Longitude URLs for Google Maps */ -}}
-            {{- $image_lat := "" -}}
-            {{- $image_long := "" -}}
-            {{- with $image.Meta -}}
-              {{- $image_lat = .Lat -}}
-              {{- $image_long = .Long -}}
-            {{- end -}}
-            
-              {{- /* Only show Google Maps URL if we have both latitude and longitude values */ -}}
-              {{- $exclude_gps := index $image.Params "exclude_gps" }}
-              {{- if not $exclude_gps }}
-              {{- if and (ne $image_lat "") (ne $image_long "") }}<a href="{{ printf "https://www.google.com/maps/search/?api=1&query=%f,%f" $image_lat $image_long }}" target="_blank">{{ end }}
-              {{ end }}
-                <img class="pogoimage" style="margin-top:0;margin-bottom:10px;" sizes="{{ printf "%svw" (string (div 60 $numberOfCols) ) }}"
-                  srcset='
-                  {{- range $sizes }}
-                    {{- ($image.Resize (printf "%sx" .)).RelPermalink }} {{ (printf "%sw" .) }},
-                  {{ end -}}'
-                  src="{{ ($image.Resize "640x").Permalink }}"
-                  class="lazyload image"
-                  {{- $altText := printf "%s %s %s" $page.Title $page.Type $page.Summary -}}
-                  {{- with $image.Params -}}
-                  {{ $altText = index $image.Params "alt" }}
-                  {{ end -}}
-                  alt="{{- $altText }}"
-                  title="{{- $image.Title }}"
-                >
-              {{ if and (ne $image_lat "") (ne $image_long "") }}</a>{{ end -}}
+            {{- $coords := partial "imghelper.html" $image -}}
+            {{- /* Only show Google Maps URL if we have both latitude and longitude values */ -}}
+            {{- $exclude_gps := index $image.Params "exclude_gps" }}
+            {{- if not $exclude_gps }}
+            {{- if and (ne $coords.lat 0.0) (ne $coords.long 0.0) }}<a href="{{ printf "https://www.google.com/maps/search/?api=1&query=%f,%f" $coords.lat $coords.long }}" target="_blank">{{ end }}
+            {{ end }}
+              <img class="pogoimage" style="margin-top:0;margin-bottom:10px;" sizes="{{ printf "%svw" (string (div 60 $numberOfCols) ) }}"
+                srcset='
+                {{- range $sizes }}
+                  {{- ($image.Resize (printf "%sx" .)).RelPermalink }} {{ (printf "%sw" .) }},
+                {{ end -}}'
+                src="{{ ($image.Resize "640x").Permalink }}"
+                class="lazyload image"
+                {{- $altText := printf "%s %s %s" $page.Title $page.Type $page.Summary -}}
+                {{- with $image.Params -}}
+                {{ $altText = index $image.Params "alt" }}
+                {{ end -}}
+                alt="{{- $altText }}"
+                title="{{- $image.Title }}"
+              >
+            {{ if and (ne $coords.lat 0.0) (ne $coords.long 0.0) }}</a>{{ end -}}
           {{ end -}}
         </div>
     {{- end -}}
