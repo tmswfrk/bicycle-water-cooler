@@ -1,0 +1,25 @@
+{{- /* layouts/partials/img-helper.html, for help with img shortcode */ -}}
+{{- /* Note that $image.Meta is what Hugo wants after v0.155.0 */ -}}
+{{- /* but $image.Exif is the only place that has non-zero Lat and Long data */ -}}
+{{- /* Will want to follow up on this separately, possibly with a ticket to Hugo */ -}}
+
+{{- /* 1. Initialize variables with default values */ -}}
+{{- $lat := 0.0 -}}
+{{- $long := 0.0 -}}
+
+{{- /* 2. Safely scope into Meta to avoid nil pointer panics */ -}}
+{{- with .Meta -}}
+  {{- $lat = .Lat -}}
+  {{- $long = .Long -}}
+{{- end -}}
+
+{{- /* 3. Fallback for the parser bug */ -}}
+{{- if eq $lat 0.0 -}}
+  {{- with .Exif -}}
+    {{- $lat = .Lat -}}
+    {{- $long = .Long -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* 4. Return the dictionary */ -}}
+{{- return dict "lat" $lat "long" $long -}}
