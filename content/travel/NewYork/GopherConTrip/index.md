@@ -113,7 +113,7 @@ NYC truly has something for everyone, whether it be the food, the endless nightl
 I happened to be there in August 2025 for a tech conference, [GopherCon](https://www.gophercon.com/) (a conference dedicated to the [Golang](https://go.dev/) programming language, which I am a huge proponent for), and opted to extend the trip a bit more to explore the city, mostly by bicycle.
 
 ## Expansion of Bicycle Infrastructure
-Over the past few years, the city has been really aggressive in expanding its bicycle infrasturcture network. And _it shows_. The NYC DOT (Department of Transportation) has _bunch_ of active cycling projects [listed on their website](https://www.nyc.gov/html/dot/html/bicyclists/bike-projects.shtml), and this, along with the network I witnessed, was far more comprehensive than I expected it to be!
+Over the past few years, the city has been really aggressive in expanding its bicycle infrasturcture network. And _it shows_. The NYC DOT (Department of Transportation) has a _bunch_ of active cycling projects [listed on their website](https://www.nyc.gov/html/dot/html/bicyclists/bike-projects.shtml), and this, along with the network I witnessed, was far more comprehensive than I expected it to be!
 
 There were just SO many people out riding their bikes - most weren't of the road bike or even mountain bike variety, it was clear that most were simply commuters or joyriders. It made for a chaotic cacophony of sound, smells, and interesting visuals, and it all just simply _worked_. Fascinating!
 
@@ -151,7 +151,7 @@ Let's also not forget to mention that my bike rental from Rapha was truly specta
 
 It was set up with SRAM, meaning that I would use my left shifter to shift down to an easier gear, while the right one shifted into a harder one. Clicking both shifts the front cog. An interesting set up that I think is quite intuitive, considering that I tend to think that way for several days after riding a bike equipped with SRAM.
 
-I opted to join a Saturday "newbie" ride (I wasn't up to riding 100 miles to [Bear Mountain(https://maps.app.goo.gl/pBeB1RF42VHnxydM6)] that day!) and was immediately met with chatter in the app welcoming me to the city amongst offers to provide recommendations on where to eat, what to see, etc. The ride leader that day, [Angelo](https://www.instagram.com/ridewithangelo/), proved to be very friendly and helpful in ways that were both bike related and not.
+I opted to join a Saturday "newbie" ride (I wasn't up to riding 100 miles to [Bear Mountain](https://maps.app.goo.gl/pBeB1RF42VHnxydM6) that day!) and was immediately met with chatter in the app welcoming me to the city amongst offers to provide recommendations on where to eat, what to see, etc. The ride leader that day, [Angelo](https://www.instagram.com/ridewithangelo/), proved to be very friendly and helpful in ways that were both bike related and not.
 
 Since the ride started just across the George Washington Bridge over in New Jersey (as most do) at [Strictly Bicycles](https://www.strictlybicycles.com/), I also had several invitations to meet up near Central Park to help shepherd me to the start so as to not get lost. I would have been fine to get there on my own, but it was really nice to have the locals take me their preferred way, which is always nice.
 
