@@ -69,6 +69,7 @@ resources:
   title: "Who's a good bike rider? You're a good bike rider!"
   params:
     alt: "GIF of a dog riding a bicycle down a street"
+    width: 50
 - src: '*/trex.png'
   name: "trex"
   title: "Rawr"
