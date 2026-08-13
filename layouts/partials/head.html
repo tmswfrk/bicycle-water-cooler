@@ -61,7 +61,7 @@ AUTHOR WEBSITE: https://themefisher.com
     {{- end }}
 
     {{ "<!--Favicon-->" | safeHTML }}
-    <link rel='apple-touch-icon' sizes='180x180' href='{{ absURL "/img/apple-touch-icon.png" }}'>
+    <link rel='apple-touch-icon' sizes='180x180' href='{{ absURL "img/apple-touch-icon.png" }}'>
     <link rel='icon' type='image/png' sizes='32x32' href='{{ absURL "favicon.ico" }}'>
     <link rel='icon' type='image/png' sizes='16x16' href='{{ absURL "favicon.ico" }}'>
     <meta name='msapplication-TileColor' content='#da532c'>
@@ -103,7 +103,7 @@ AUTHOR WEBSITE: https://themefisher.com
     {{- end }}
 
     {{ "<!-- Image Info -->" | safeHTML }}
-    {{- $imgurl := absURL "/about/images/vaujany.jpg" -}}
+    {{- $imgurl := absURL "about/images/vaujany.jpg" -}}
     {{- $alt := printf "%s" .Site.Params.defaultAlt -}}
     {{- $imgwidth := 390 -}}
     {{- $imgheight := 260 -}}
