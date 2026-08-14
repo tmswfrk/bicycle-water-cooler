@@ -1,11 +1,11 @@
 {{ "<!-- Search index -->" | safeHTML -}}
 {{- if .Site.Params.search }}
-<script>var indexURL = {{ .Site.Params.searchJSONFile | absURL}}</script>
+<script defer>var indexURL = {{ .Site.Params.searchJSONFile | absURL}}</script>
 {{ end }}
 {{- "<!-- JS Plugins -->" | safeHTML -}}
 {{ range .Site.Params.plugins.js -}}
-<script src="{{ .link | absURL }}"></script>
+<script src="{{ .link | absURL }}" defer></script>
 {{ end }}
 {{- "<!-- Main Script -->" | safeHTML }}
 {{- $script := resources.Get "js/script.js" | minify}}
-<script src="{{ $script.Permalink }}"></script>
+<script src="{{ $script.Permalink }}" defer></script>
