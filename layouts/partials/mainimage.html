@@ -26,6 +26,7 @@
               {{- ($image.Resize (printf "%vx %s" . $fallbackQuality)).RelPermalink }} {{ (printf "%vw" .) }},
             {{ end -}}'
             src='{{ ($image.Resize (printf "%vx %s" (index $validSizes 0) $fallbackQuality)).Permalink }}' 
+            decoding="async"
             class="img-fluid w-100 post_thumbnail" alt='{{ $altText }}' title='{{ $image.Title }}'>
           </picture>
           <div class="post-content">

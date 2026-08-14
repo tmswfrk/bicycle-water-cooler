@@ -62,6 +62,8 @@
           {{ end -}}'
         />
         <img class="lazyload image"
+          loading="lazy"
+          decoding="async"
           style="display:block;max-width:{{ $width }}%;margin:auto;margin-bottom:10px"
           srcset='
             {{- range $validSizes }}
@@ -112,6 +114,8 @@
                   {{ end -}}'
                   src="{{ ($image.Resize (printf "640x %s" $fallbackQuality)).Permalink }}"
                   class="lazyload image"
+                  loading="lazy"
+                  decoding="async"
                   {{- $altText := printf "%s %s %s" $page.Title $page.Type $page.Summary -}}
                   {{- with $image.Params -}}
                   {{ $altText = index $image.Params "alt" }}

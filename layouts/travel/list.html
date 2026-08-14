@@ -35,7 +35,7 @@
             {{- range $validSizes }}
               {{- ($image.Resize (printf "%vx %s" . $fallbackQuality)).RelPermalink }} {{ (printf "%vw" .) }},
             {{ end -}}'
-            src="{{ ($image.Resize (printf "%vx %s" (index $validSizes 0) $fallbackQuality)).Permalink }}" class="img-fluid w-100" alt="{{ .Title }}">
+            src="{{ ($image.Resize (printf "%vx %s" (index $validSizes 0) $fallbackQuality)).Permalink }}" class="img-fluid w-100" decoding="async" alt="{{ .Title }}">
           </picture>
           <div class="post-content">
             <div class="post-date">
@@ -66,7 +66,7 @@
             {{- range $validSizes }}
               {{- ($image.Resize (printf "%vx %s" . $fallbackQuality)).RelPermalink }} {{ (printf "%vw" .) }},
             {{ end -}}'
-            src="{{ ($image.Resize (printf "%vx %s" (index $validSizes 0) $fallbackQuality)).Permalink }}" class="img-fluid w-100" alt="{{ .Title }}">
+            src="{{ ($image.Resize (printf "%vx %s" (index $validSizes 0) $fallbackQuality)).Permalink }}" class="img-fluid w-100" loading="lazy" decoding="async" alt="{{ .Title }}">
           </picture>
           <div class="post-content">
             <div class="post-date">
