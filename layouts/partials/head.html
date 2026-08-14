@@ -72,6 +72,9 @@ AUTHOR WEBSITE: https://themefisher.com
     <meta name='theme-color' content='#ffffff'>
   
     {{ "<!-- Begin Meta Tags -->" | safeHTML }}
+    {{- if in (slice "taxonomy" "term") .Kind }}
+    <meta name="robots" content="noindex, follow">
+    {{- end }}
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     {{- $desc := .Site.Params.Description -}}
     {{- if isset .Params "description" -}}
