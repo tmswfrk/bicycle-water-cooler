@@ -12,20 +12,31 @@
       {{- /* First, let's check for backward compatibility refs */ -}}
 
       {{ $image := "" }}
-      {{- $sizes := (slice  "360" "480" "800" "1200" ) -}}
       {{ if (.Resources.ByType "image").GetMatch (.Params.image) }}
         {{ $image = (.Resources.ByType "image").GetMatch (.Params.image)}}
       {{ end }}
+
+      {{- $imgFormat := site.Params.imaging.format | default "avif" -}}
+      {{- $imgQuality := site.Params.imaging.quality | default "q65" -}}
+      {{- $fallbackQuality := site.Params.imaging.fallbackQuality | default "q85" -}}
+      {{- $validSizes := partial "image_sizes.html" $image -}}
 
       {{ if eq $index 0}}
       <div class="col-12 mb-4">
         <div class="post dimmable linkable-div">
           <a href="{{ .Permalink }}" target="_self" style="display: block;"><span class="linkable-span"></span></a>
-          <img srcset='
-          {{- range $sizes }}
-            {{- ($image.Resize (printf "%sx" .)).RelPermalink }} {{ (printf "%sw" .) }},
-          {{ end -}}'
-          src="{{ $image.Permalink }}" class="img-fluid w-100" alt="{{ .Title }}">
+          <picture>
+            <source type="image/{{ $imgFormat }}" srcset='
+            {{- range $validSizes }}
+              {{- ($image.Resize (printf "%vx %s %s" . $imgQuality $imgFormat)).RelPermalink }} {{ (printf "%vw" .) }},
+            {{ end -}}'
+            />
+            <img srcset='
+            {{- range $validSizes }}
+              {{- ($image.Resize (printf "%vx %s" . $fallbackQuality)).RelPermalink }} {{ (printf "%vw" .) }},
+            {{ end -}}'
+            src="{{ ($image.Resize (printf "%vx %s" (index $validSizes 0) $fallbackQuality)).Permalink }}" class="img-fluid w-100" alt="{{ .Title }}">
+          </picture>
           <div class="post-content">
             <div class="post-date">
               <span>{{ .PublishDate.Format "02" }}</span>
@@ -45,11 +56,18 @@
       <div class="col-md-6 mb-4">
         <div class="post post-sm dimmable linkable-div">
           <a href="{{ .Permalink }}" target="_self" style="display: block;"><span class="linkable-span"></span></a>
-          <img srcset='
-          {{- range $sizes }}
-            {{- ($image.Resize (printf "%sx" .)).RelPermalink }} {{ (printf "%sw" .) }},
-          {{ end -}}'
-          src="{{ $image.Permalink }}" class="img-fluid w-100" alt="{{ .Title }}">
+          <picture>
+            <source type="image/{{ $imgFormat }}" srcset='
+            {{- range $validSizes }}
+              {{- ($image.Resize (printf "%vx %s %s" . $imgQuality $imgFormat)).RelPermalink }} {{ (printf "%vw" .) }},
+            {{ end -}}'
+            />
+            <img srcset='
+            {{- range $validSizes }}
+              {{- ($image.Resize (printf "%vx %s" . $fallbackQuality)).RelPermalink }} {{ (printf "%vw" .) }},
+            {{ end -}}'
+            src="{{ ($image.Resize (printf "%vx %s" (index $validSizes 0) $fallbackQuality)).Permalink }}" class="img-fluid w-100" alt="{{ .Title }}">
+          </picture>
           <div class="post-content">
             <div class="post-date">
               <span>{{ .PublishDate.Format "02" }}</span>

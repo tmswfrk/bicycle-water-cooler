@@ -9,8 +9,8 @@ disableLanguages        = [""]
 enableRobotsTXT         = true
 canonifyURLs            = true
 
-# Set timeout to 10 minutes for GHA image processing
-timeout = "10m"
+# Set timeout to 30 minutes for heavy AVIF image processing on first run
+timeout = "30m"
 
 [pagination]
   pagerSize = 7 # odd number works best here
@@ -70,6 +70,12 @@ timeout = "10m"
   socialShare           = ["facebook", "reddit", "linkedin", "email"]
 
   description = "Welcome to the Bicycle Water Cooler, your online water cooler conversation about all things cycling. Come join the conversation!"
+
+[params.imaging]
+  format = "avif"
+  quality = "q65"
+  fallbackQuality = "q85"
+  sizes = [360, 480, 800, 1200]
 
   [params.meta]
     description         = "Bicycle Water Cooler Blog | Biking, Travel, Tech, Reviews"

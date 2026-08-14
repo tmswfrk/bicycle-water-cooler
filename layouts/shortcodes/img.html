@@ -51,17 +51,27 @@
       {{- if not $exclude_gps }}
       {{- if and (ne $coords.lat 0.0) (ne $coords.long 0.0) }}<a href="{{ printf "https://www.google.com/maps/search/?api=1&query=%f,%f" $coords.lat $coords.long }}" target="_blank">{{ end -}}
       {{ end }}
-      {{- $sizes := (slice  "360" "480" "800" "1200" ) -}}
-      <img class="lazyload image" 
-        style="display:block;max-width:{{ $width }}%;margin:auto;margin-bottom:10px" 
-        srcset='
-          {{- range $sizes }}
-            {{- ($image.Resize (printf "%sx" .)).RelPermalink }} {{ (printf "%sw" .) }},
+      {{- $imgFormat := site.Params.imaging.format | default "avif" -}}
+      {{- $imgQuality := site.Params.imaging.quality | default "q65" -}}
+      {{- $fallbackQuality := site.Params.imaging.fallbackQuality | default "q85" -}}
+      {{- $validSizes := partial "image_sizes.html" $image -}}
+      <picture>
+        <source type="image/{{ $imgFormat }}" srcset='
+          {{- range $validSizes }}
+            {{- ($image.Resize (printf "%vx %s %s" . $imgQuality $imgFormat)).RelPermalink }} {{ (printf "%vw" .) }},
           {{ end -}}'
-        src='{{ $image.Permalink }}'
-        alt="{{ $altText }}" 
-        title="{{ $image.Title }}"
-      />
+        />
+        <img class="lazyload image"
+          style="display:block;max-width:{{ $width }}%;margin:auto;margin-bottom:10px"
+          srcset='
+            {{- range $validSizes }}
+              {{- ($image.Resize (printf "%vx %s" . $fallbackQuality)).RelPermalink }} {{ (printf "%vw" .) }},
+            {{ end -}}'
+          src='{{ ($image.Resize (printf "%vx %s" (index $validSizes 0) $fallbackQuality)).Permalink }}'
+          alt="{{ $altText }}"
+          title="{{ $image.Title }}"
+        />
+      </picture>
       {{- if and (ne $coords.lat 0.0) (ne $coords.long 0.0) }}</a>{{ end -}}
       
       {{- else -}}
@@ -72,10 +82,14 @@
     {{- /* front matter and then use that Name defined there to pass in here */ -}}
     {{- range $image_names -}}
         {{- $image_resource_name := . -}}
-        {{- $sizes := (slice  "360" "480" "800" "1200" ) -}}
         {{- $resource_page := $page.Page -}}
         {{- $image := ($resource_page.Resources.ByType "image").GetMatch $image_resource_name -}}
         
+        {{- $imgFormat := site.Params.imaging.format | default "avif" -}}
+        {{- $imgQuality := site.Params.imaging.quality | default "q65" -}}
+        {{- $fallbackQuality := site.Params.imaging.fallbackQuality | default "q85" -}}
+        {{- $validSizes := partial "image_sizes.html" $image -}}
+
         <div class= "{{$class}}">
           {{ with $image -}}
             {{- /* Build up Latitude and Longitude URLs for Google Maps */ -}}
@@ -85,20 +99,27 @@
             {{- if not $exclude_gps }}
             {{- if and (ne $coords.lat 0.0) (ne $coords.long 0.0) }}<a href="{{ printf "https://www.google.com/maps/search/?api=1&query=%f,%f" $coords.lat $coords.long }}" target="_blank">{{ end }}
             {{ end }}
-              <img class="pogoimage" style="margin-top:0;margin-bottom:10px;" sizes="{{ printf "%svw" (string (div 60 $numberOfCols) ) }}"
-                srcset='
-                {{- range $sizes }}
-                  {{- ($image.Resize (printf "%sx" .)).RelPermalink }} {{ (printf "%sw" .) }},
-                {{ end -}}'
-                src="{{ ($image.Resize "640x").Permalink }}"
-                class="lazyload image"
-                {{- $altText := printf "%s %s %s" $page.Title $page.Type $page.Summary -}}
-                {{- with $image.Params -}}
-                {{ $altText = index $image.Params "alt" }}
-                {{ end -}}
-                alt="{{- $altText }}"
-                title="{{- $image.Title }}"
-              >
+              <picture>
+                <source type="image/{{ $imgFormat }}" sizes="{{ printf "%svw" (string (div 60 $numberOfCols) ) }}" srcset='
+                  {{- range $validSizes }}
+                    {{- ($image.Resize (printf "%vx %s %s" . $imgQuality $imgFormat)).RelPermalink }} {{ (printf "%vw" .) }},
+                  {{ end -}}'
+                />
+                <img class="pogoimage" style="margin-top:0;margin-bottom:10px;" sizes="{{ printf "%svw" (string (div 60 $numberOfCols) ) }}"
+                  srcset='
+                  {{- range $validSizes }}
+                    {{- ($image.Resize (printf "%vx %s" . $fallbackQuality)).RelPermalink }} {{ (printf "%vw" .) }},
+                  {{ end -}}'
+                  src="{{ ($image.Resize (printf "640x %s" $fallbackQuality)).Permalink }}"
+                  class="lazyload image"
+                  {{- $altText := printf "%s %s %s" $page.Title $page.Type $page.Summary -}}
+                  {{- with $image.Params -}}
+                  {{ $altText = index $image.Params "alt" }}
+                  {{ end -}}
+                  alt="{{- $altText }}"
+                  title="{{- $image.Title }}"
+                >
+              </picture>
             {{ if and (ne $coords.lat 0.0) (ne $coords.long 0.0) }}</a>{{ end -}}
           {{ end -}}
         </div>
