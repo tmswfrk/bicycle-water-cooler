@@ -56,7 +56,7 @@
       {{- $fallbackQuality := site.Params.imaging.fallbackQuality | default "q85" -}}
       {{- $validSizes := partial "image_sizes.html" $image -}}
       <picture>
-        <source type="image/{{ $imgFormat }}" srcset='
+        <source type="image/{{ $imgFormat }}" sizes="(max-width: {{ $width }}%) 100vw, {{ $width }}vw" srcset='
           {{- range $validSizes }}
             {{- ($image.Resize (printf "%vx %s %s" . $imgQuality $imgFormat)).RelPermalink }} {{ (printf "%vw" .) }},
           {{ end -}}'
@@ -64,6 +64,7 @@
         <img class="lazyload image"
           loading="lazy"
           decoding="async"
+          sizes="(max-width: {{ $width }}%) 100vw, {{ $width }}vw"
           style="display:block;max-width:{{ $width }}%;margin:auto;margin-bottom:10px"
           srcset='
             {{- range $validSizes }}

@@ -25,12 +25,12 @@
         <div class="post dimmable linkable-div">
           <a href="{{ .Permalink }}" target="_self" style="display: block;"><span class="linkable-span"></span></a>
           <picture>
-            <source type="image/{{ $imgFormat }}" srcset='
+            <source type="image/{{ $imgFormat }}" sizes="(max-width: 1200px) 100vw, 1200px" srcset='
               {{- range $validSizes }}
                 {{- ($image.Resize (printf "%vx %s %s" . $imgQuality $imgFormat)).RelPermalink }} {{ (printf "%vw" .) }},
               {{ end -}}'
             />
-            <img srcset='
+            <img sizes="(max-width: 1200px) 100vw, 1200px" srcset='
               {{- range $validSizes }}
                 {{- ($image.Resize (printf "%vx %s" . $fallbackQuality)).RelPermalink }} {{ (printf "%vw" .) }},
               {{ end -}}'
@@ -51,12 +51,12 @@
         <div class="post post-sm dimmable linkable-div">
           <a href="{{ .Permalink }}" target="_self" style="display: block;"><span class="linkable-span"></span></a>
           <picture>
-            <source type="image/{{ $imgFormat }}" srcset='
+            <source type="image/{{ $imgFormat }}" sizes="(max-width: 768px) 100vw, 50vw" srcset='
             {{- range $validSizes }}
               {{- ($image.Resize (printf "%vx %s %s" . $imgQuality $imgFormat)).RelPermalink }} {{ (printf "%vw" .) }},
             {{ end -}}'
             />
-            <img srcset='
+            <img sizes="(max-width: 768px) 100vw, 50vw" srcset='
             {{- range $validSizes }}
               {{- ($image.Resize (printf "%vx %s" . $fallbackQuality)).RelPermalink }} {{ (printf "%vw" .) }},
             {{ end -}}'
