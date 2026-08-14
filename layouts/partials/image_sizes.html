@@ -1,0 +1,13 @@
+{{- $image := . -}}
+{{- $validSizes := slice -}}
+{{- if $image -}}
+  {{- range site.Params.imaging.sizes -}}
+    {{- if le . $image.Width -}}
+      {{- $validSizes = $validSizes | append . -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if not (in $validSizes $image.Width) -}}
+    {{- $validSizes = $validSizes | append $image.Width -}}
+  {{- end -}}
+{{- end -}}
+{{- return $validSizes -}}
