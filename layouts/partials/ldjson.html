@@ -17,6 +17,11 @@
         "@type": "Person",
         "name": "{{ .Site.Params.Meta.author }}"
     },
+    "potentialAction": {
+        "@type": "SearchAction",
+        "target": "{{ .Site.BaseURL }}search/?s={search_term_string}",
+        "query-input": "required name=search_term_string"
+    }
 }
 </script>
 {{- else if .IsPage -}}
