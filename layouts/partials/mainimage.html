@@ -16,12 +16,12 @@
           {{- end -}}
 
           <picture>
-            <source type="image/{{ $imgFormat }}" srcset='
+            <source type="image/{{ $imgFormat }}" sizes="(max-width: 1200px) 100vw, 1200px" srcset='
             {{- range $validSizes }}
               {{- ($image.Resize (printf "%vx %s %s" . $imgQuality $imgFormat)).RelPermalink }} {{ (printf "%vw" .) }},
             {{ end -}}' />
 
-            <img srcset='
+            <img sizes="(max-width: 1200px) 100vw, 1200px" srcset='
             {{- range $validSizes }}
               {{- ($image.Resize (printf "%vx %s" . $fallbackQuality)).RelPermalink }} {{ (printf "%vw" .) }},
             {{ end -}}'
